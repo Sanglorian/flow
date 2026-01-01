@@ -1,0 +1,289 @@
+---
+layout: default
+---
+
+<article class="post">
+  {%- assign e = page.entry | default: page -%}
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    {%- if e.thumbnail -%}
+      {%- assign thumb = e.thumbnail -%}
+      <div style="float:right; margin: 0 0 1rem 1rem; max-width: 240px;">
+        {%- if thumb contains "/" -%}
+          <img
+            src="{{ thumb | relative_url }}"
+            alt="{{ page.title }} thumbnail"
+            loading="lazy"
+            style="width:100%; height:auto; border-radius:8px;"
+          />
+        {%- else -%}
+          <div style="border:1px solid #ddd; border-radius:8px; padding:.75rem;">
+            <strong>Thumbnail:</strong> {{ thumb }}
+          </div>
+        {%- endif -%}
+      </div>
+    {%- endif -%}
+
+    {%- if e.short_description -%}
+      <p class="post-meta" style="margin-top:.5rem;">{{ e.short_description }}</p>
+    {%- endif -%}
+
+    {%- if e.main_url -%}
+      <p style="margin:.5rem 0 0;">
+        <strong>Main URL:</strong>
+        <a href="{{ e.main_url }}" rel="nofollow">{{ e.main_url }}</a>
+      </p>
+    {%- endif -%}
+  </header>
+
+  {%- if e.main_description -%}
+    <section style="margin-top:1rem;">
+      <p>{{ e.main_description }}</p>
+    </section>
+  {%- endif -%}
+
+  <section style="margin-top:1.25rem;">
+    <h2>Details</h2>
+    <table>
+      <tbody>
+        {%- if e.subtitle -%}
+          <tr><th style="text-align:left;">Subtitle</th><td>{{ e.subtitle }}</td></tr>
+        {%- endif -%}
+
+        {%- if e.work_or_source -%}
+          <tr><th style="text-align:left;">Work or Source</th><td>{{ e.work_or_source }}</td></tr>
+        {%- endif -%}
+
+        {%- if e.year_of_publication -%}
+          <tr><th style="text-align:left;">Year of Publication</th><td>{{ e.year_of_publication }}</td></tr>
+        {%- endif -%}
+
+        {%- if e.alias -%}
+          <tr><th style="text-align:left;">Alias</th><td>{{ e.alias }}</td></tr>
+        {%- endif -%}
+      </tbody>
+    </table>
+  </section>
+
+  {%- if page.license and page.license.licence -%}
+    <section style="margin-top:1.25rem;">
+      <h3>License</h3>
+      <p>
+        {{ page.license.licence }}
+        {%- if page.license.licence_coverage -%}
+          <span> ({{ page.license.licence_coverage }})</span>
+        {%- endif -%}
+        {%- if page.license.explanation -%}
+          — <a href="{{ page.license.explanation }}" rel="nofollow">More info</a>
+        {%- endif -%}
+      </p>
+    </section>
+  {%- endif -%}
+
+  {%- if page.connections and page.connections.size > 0 -%}
+    <section style="margin-top:1.5rem; clear:both;">
+      <h2>Links</h2>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Has Link To</th>
+            <th style="text-align:left;">Relationship</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for c in page.connections -%}
+            <tr>
+              <td>{{ c.has_connection_to_entry }}</td>
+              <td>{{ c.details_of_connection | default: "—" }}</td>
+              <td>
+                {%- if c.explanation -%}
+                  {{ c.explanation }}
+                {%- else -%}
+                  —
+                {%- endif -%}
+              </td>
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
+  {%- if page.genres and page.genres.size > 0 -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Genre</h2>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Genre</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for g in page.genres -%}
+            {%- if g.genre -%}
+              <tr><td>{{ g.genre }}</td><td>{{ g.explanation | default: "—" }}</td></tr>
+            {%- else -%}
+              <tr><td>{{ g }}</td><td>—</td></tr>
+            {%- endif -%}
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
+  {%- if page.languages and page.languages.size > 0 -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Language</h2>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Language</th>
+            <th style="text-align:left;">Relationship</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for l in page.languages -%}
+            <tr>
+              <td>
+  {%- assign lang_name = l.language | default: l -%}
+  {%- assign lang_slug = lang_name | slugify -%}
+  {%- assign lang_doc = site.languages | where: "slug", lang_slug | first -%}
+
+  {%- if lang_doc -%}
+    <a href="{{ lang_doc.url | relative_url }}">{{ lang_name }}</a>
+  {%- else -%}
+    <a href="{{ '/language/' | append: lang_slug | append: '/' | relative_url }}">{{ lang_name }}</a>
+  {%- endif -%}
+</td>
+
+              <td>{{ l.relationship_of_language | default: "—" }}</td>
+              <td>{{ l.explanation | default: "—" }}</td>
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
+  {%- if page.groupings and page.groupings.size > 0 -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Grouping</h2>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Grouping</th>
+            <th style="text-align:left;">Is/About</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for g in page.groupings -%}
+            <tr>
+              <td>{{ g.grouping | default: g }}</td>
+              <td>{{ g.is_or_about_grouping | default: "—" }}</td>
+              <td>{{ g.explanation | default: "—" }}</td>
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
+  {%- if page.types and page.types.size > 0 -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Type</h2>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Type</th>
+            <th style="text-align:left;">Distribution</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for t in page.types -%}
+            <tr>
+              <td>{{ t.type | default: t }}</td>
+              <td>{{ t.distribution | default: "—" }}</td>
+              <td>{{ t.explanation | default: "—" }}</td>
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
+  {%- if page.funding -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Funding</h2>
+      <p>
+        {%- if page.funding.funding_tool -%}
+          <strong>{{ page.funding.funding_tool }}</strong>
+        {%- else -%}
+          <strong>—</strong>
+        {%- endif -%}
+        {%- if page.funding.explanation -%}
+          — <a href="{{ page.funding.explanation }}" rel="nofollow">{{ page.funding.explanation }}</a>
+        {%- endif -%}
+      </p>
+    </section>
+  {%- endif -%}
+
+  {%- if page.versions and page.versions.size > 0 -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Versions</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Version</th>
+            <th style="text-align:left;">Format</th>
+            <th style="text-align:left;">Price</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for v in page.versions -%}
+            <tr>
+              <td>
+                {%- if v.version_url -%}
+                  <a href="{{ v.version_url }}" rel="nofollow">
+                    {{ v.version_title | default: "Untitled version" }}
+                  </a>
+                {%- else -%}
+                  {{ v.version_title | default: "Untitled version" }}
+                {%- endif -%}
+              </td>
+              <td>{{ v.version_format | default: "—" }}</td>
+              <td>
+                {%- if v.version_price == 0 -%}
+                  Free
+                {%- elsif v.version_price -%}
+                  ${{ v.version_price }}
+                {%- else -%}
+                  —
+                {%- endif -%}
+              </td>
+              <td>{{ v.explanation | default: "—" }}</td>
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
+  {%- if content and content != "" -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Notes</h2>
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </section>
+  {%- endif -%}
+
+</article>

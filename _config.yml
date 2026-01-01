@@ -32,3 +32,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  languages:
+    output: true
+    permalink: /language/:name/
