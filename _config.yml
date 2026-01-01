@@ -37,3 +37,5 @@ collections:
   languages:
     output: true
     permalink: /language/:name/
+  entries:
+    output: true

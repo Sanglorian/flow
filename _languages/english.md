@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: English
 short_description: "A language."
 wikidata: Q1860
