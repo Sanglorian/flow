@@ -107,6 +107,18 @@ layout: default
             </td>
           </tr>
         {%- endif -%}
+		        {%- if page.license_aspect and page.license_aspect.size > 0 -%}
+          <tr>
+            <th style="text-align:left;">License aspect</th>
+            <td>
+              <ul>
+                {%- for aspect in page.license_aspect -%}
+                  <li>{{ aspect }}</li>
+                {%- endfor -%}
+              </ul>
+            </td>
+          </tr>
+        {%- endif -%}
       </tbody>
     </table>
   </section>
@@ -154,6 +166,9 @@ layout: default
               <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
               {%- if entry.license.licence_coverage -%}
                 — {{ entry.license.licence_coverage }}
+              {%- endif -%}
+			                {%- if entry.license.explanation -%}
+                — {{ entry.license.explanation }}
               {%- endif -%}
             </li>
           {%- endif -%}

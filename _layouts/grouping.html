@@ -19,44 +19,51 @@ layout: default
     </section>
   {%- endif -%}
 
+  {%- assign grouping_pages = site.groupings -%}
+  {%- assign subcategories = grouping_pages | where: "parent_grouping", page.title -%}
+  {%- assign descendant_titles = "|" -%}
+  {%- if subcategories and subcategories.size > 0 -%}
+    {%- for sub in subcategories -%}
+      {%- assign descendant_titles = descendant_titles | append: sub.title | append: "|" -%}
+    {%- endfor -%}
+  {%- endif -%}
+  {%- for candidate in grouping_pages -%}
+    {%- if candidate.parent_grouping and descendant_titles contains candidate.parent_grouping -%}
+      {%- assign descendant_titles = descendant_titles | append: candidate.title | append: "|" -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+
   <section style="margin-top:1.25rem;">
     <h2>Details</h2>
     <table>
       <tbody>
         {%- if page.parent_grouping -%}
+		          {%- assign parent_grouping_doc = grouping_pages | where: "title", page.parent_grouping | first -%}
           <tr>
             <th style="text-align:left;">Parent Grouping</th>
-            <td>{{ page.parent_grouping }}</td>
+                        <td>
+              {%- if parent_grouping_doc -%}
+                <a href="{{ parent_grouping_doc.url | relative_url }}">{{ page.parent_grouping }}</a>
+              {%- else -%}
+                {{ page.parent_grouping }}
+              {%- endif -%}
+            </td>
           </tr>
         {%- endif -%}
 
-        <tr>
-          <th style="text-align:left;">Subcategories</th>
-          <td>
-            <ul>
-              {%- assign grouping_pages = site.groupings -%}
-              {%- assign subcategories = grouping_pages | where: "parent_grouping", page.title -%}
-              {%- assign descendant_titles = "|" -%}
-              {%- if subcategories and subcategories.size > 0 -%}
-                {%- for sub in subcategories -%}
-                  {%- assign descendant_titles = descendant_titles | append: sub.title | append: "|" -%}
-                {%- endfor -%}
-              {%- endif -%}
-              {%- for candidate in grouping_pages -%}
-                {%- if candidate.parent_grouping and descendant_titles contains candidate.parent_grouping -%}
-                  {%- assign descendant_titles = descendant_titles | append: candidate.title | append: "|" -%}
-                {%- endif -%}
-              {%- endfor -%}
-              {%- if subcategories and subcategories.size > 0 -%}
-                {%- for sub in subcategories -%}
+{%- if subcategories and subcategories.size > 0 -%}
+          <tr>
+            <th style="text-align:left;">Subcategories</th>
+            <td>
+              <ul>
+			  {%- for sub in subcategories -%}
                   <li><a href="{{ sub.url | relative_url }}">{{ sub.title }}</a></li>
                 {%- endfor -%}
-              {%- else -%}
-                <li><em>No subcategories listed.</em></li>
-              {%- endif -%}
-            </ul>
-          </td>
-        </tr>
+				  </ul>
+            </td>
+          </tr>
+        {%- endif -%}
 
         {%- if page.wikidata -%}
           <tr>
