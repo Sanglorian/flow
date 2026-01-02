@@ -105,7 +105,7 @@ layout: default
         {%- if is_match -%}
           {%- assign featured_found = true -%}
           {%- assign printed_featured_entries = printed_featured_entries | append: entry.url | append: "|" -%}
-          {%- assign license_markup = "—" -%}
+                    {%- assign license_markup = "—" -%}
           {%- if entry.license and entry.license.licence -%}
             {%- assign license_doc = site.licenses | where: "title", entry.license.licence | first -%}
             {%- if license_doc -%}
@@ -137,26 +137,28 @@ layout: default
           {%- endif -%}
           {%- capture row -%}
             <tr>
-              <td style="overflow:auto;">
-                {%- if e.thumbnail -%}
-                  <div style="float:right; margin:0 0 .5rem 1rem; text-align:right; width:120px;">
-                    {%- if e.thumbnail contains "/" -%}
-                      <img
-                        src="{{ e.thumbnail | relative_url }}"
-                        alt="{{ entry.title }} thumbnail"
-                        loading="lazy"
-                        style="width:100%; height:auto; border-radius:6px;"
-                      />
-                    {%- else -%}
-                      {{ e.thumbnail }}
-                    {%- endif -%}
+              <td>
+                  <div>
+                    <strong><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></strong>
+                    <div style="margin-top:.25rem;">{{ e.short_description | default: "—" }}</div>
+                    <div style="margin-top:.35rem;">
+                      <strong>License:</strong> {{ license_markup }}
+                    </div>
                   </div>
-                {%- endif -%}
-                <strong><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></strong>
-                <div style="margin-top:.25rem;">{{ e.short_description | default: "—" }}</div>
-                <div style="margin-top:.35rem;">
-                  <strong>License:</strong> {{ license_markup }}
-                </div>
+                  {%- if e.thumbnail -%}
+                    <div style="flex:0 0 120px; text-align:right;">
+                      {%- if e.thumbnail contains "/" -%}
+                        <img
+                          src="{{ e.thumbnail | relative_url }}"
+                          alt="{{ entry.title }} thumbnail"
+                          loading="lazy"
+                          style="width:100%; height:auto; border-radius:6px;"
+                        />
+                      {%- else -%}
+                        {{ e.thumbnail }}
+                      {%- endif -%}
+                    </div>
+					{%- endif -%}
               </td>
             </tr>
           {%- endcapture -%}

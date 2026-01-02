@@ -9,11 +9,7 @@ layout: default
   {%- if category_value and category_value[1] and category_value[1].size > 1 -%}
     {%- assign category_display = category_value | join: ", " -%}
   {%- endif -%}
-  {%- assign license_items = page.licenses -%}
-  {%- if license_items == nil and page.license -%}
-    {%- assign license_items = "" | split: "" -%}
-    {%- assign license_items = license_items | push: page.license -%}
-  {%- endif -%}
+  {%- assign license_items = page.licensing -%}
   {%- assign funding_items = page.funding -%}
   {%- if funding_items and funding_items.funding_tool -%}
     {%- assign funding_items = "" | split: "" -%}
@@ -23,7 +19,8 @@ layout: default
   {%- assign has_flo_license = false -%}
   {%- if license_items and license_items.size > 0 -%}
     {%- for license_item in license_items -%}
-      {%- assign license_doc = site.licenses | where: "title", license_item.licence | first -%}
+      {%- assign license_title = license_item.license | default: license_item.licence -%}
+      {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
       {%- if license_doc and license_doc.license_certification and license_doc.license_certification.size > 0 -%}
         {%- for cert in license_doc.license_certification -%}
           {%- if flo_certifications contains cert -%}
@@ -137,14 +134,15 @@ layout: default
           {%- for license_item in license_items -%}
             <tr>
               <td>
-                {%- assign license_doc = site.licenses | where: "title", license_item.licence | first -%}
+                {%- assign license_title = license_item.license | default: license_item.licence -%}
+                {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
                 {%- if license_doc -%}
-                  <a href="{{ license_doc.url | relative_url }}">{{ license_item.licence }}</a>
+                  <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
                 {%- else -%}
-                  {{ license_item.licence | default: "—" }}
+                  {{ license_title | default: "—" }}
                 {%- endif -%}
               </td>
-              <td>{{ license_item.licence_coverage | default: "—" }}</td>
+              <td>{{ license_item.licence_coverage | default: license_item.license_coverage | default: "—" }}</td>
               <td>
                 {%- if license_item.explanation -%}
                   {%- assign explanation_text = license_item.explanation | strip -%}

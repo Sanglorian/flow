@@ -179,19 +179,22 @@ layout: default
     <ul>
       {%- assign found = false -%}
       {%- for entry in site.entries -%}
-        {%- if entry.license and entry.license.licence -%}
-          {%- if entry.license.licence == page.title -%}
-            {%- assign found = true -%}
-            <li>
-              <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
-              {%- if entry.license.licence_coverage -%}
-                — {{ entry.license.licence_coverage }}
-              {%- endif -%}
-			                {%- if entry.license.explanation -%}
-                — {{ entry.license.explanation }}
-              {%- endif -%}
-            </li>
-          {%- endif -%}
+        {%- if entry.licensing and entry.licensing.size > 0 -%}
+          {%- for license_item in entry.licensing -%}
+            {%- assign license_title = license_item.license | default: license_item.licence -%}
+            {%- if license_title == page.title -%}
+              {%- assign found = true -%}
+              <li>
+                <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+                {%- if license_item.licence_coverage or license_item.license_coverage -%}
+                  — {{ license_item.licence_coverage | default: license_item.license_coverage }}
+                {%- endif -%}
+			                {%- if license_item.explanation -%}
+                  — {{ license_item.explanation }}
+                {%- endif -%}
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
         {%- endif -%}
       {%- endfor -%}
 
