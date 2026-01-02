@@ -84,7 +84,8 @@ GEM
     webrick (1.9.2)
 
 PLATFORMS
-  x64-mingw-ucrt
+  x86_64-linux
+  x64-mingw-ucrt  
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)

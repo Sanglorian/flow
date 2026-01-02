@@ -4,6 +4,13 @@ layout: default
 
 <article class="post">
   {%- assign e = page.entry | default: page -%}
+  {%- assign category_value = e.category_of_entry | default: page.category_of_entry -%}
+  {%- assign license_items = page.licenses -%}
+  {%- if license_items == nil and page.license -%}
+    {%- assign license_items = "" | split: "" -%}
+    {%- assign license_items = license_items | push: page.license -%}
+  {%- endif -%}
+  {%- assign has_outgoing_connections = page.connections and page.connections.size > 0 -%}
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
@@ -28,6 +35,26 @@ layout: default
 
     {%- if e.short_description -%}
       <p class="post-meta" style="margin-top:.5rem;">{{ e.short_description }}</p>
+    {%- endif -%}
+
+    {%- if category_value == "Work" or category_value == "Collection" -%}
+      {%- if license_items and license_items.size > 0 -%}
+        <div class="FLO-work" style="margin-top:.75rem;">
+          {%- if category_value == "Collection" -%}
+            At least part of this collection is under a free and open licence.
+          {%- else -%}
+            At least part of this work is under a free and open licence.
+          {%- endif -%}
+        </div>
+      {%- else -%}
+        <div class="non-FLO-work" style="margin-top:.75rem;">
+          {%- if category_value == "Collection" -%}
+            This collection may not be under a free and open licence.
+          {%- else -%}
+            This work may not be under a free and open licence.
+          {%- endif -%}
+        </div>
+      {%- endif -%}
     {%- endif -%}
 
     {%- if e.main_url -%}
@@ -63,33 +90,61 @@ layout: default
         {%- if e.alias -%}
           <tr><th style="text-align:left;">Alias</th><td>{{ e.alias }}</td></tr>
         {%- endif -%}
+
+        {%- if e.wikidata_code or page.wikidata_code -%}
+          {%- assign wikidata_code = e.wikidata_code | default: page.wikidata_code -%}
+          <tr>
+            <th style="text-align:left;">Wikidata</th>
+            <td>
+              <a href="https://www.wikidata.org/wiki/{{ wikidata_code }}" rel="nofollow">{{ wikidata_code }}</a>
+            </td>
+          </tr>
+        {%- endif -%}
       </tbody>
     </table>
   </section>
 
-  {%- if page.license and page.license.licence -%}
+  {%- if license_items and license_items.size > 0 -%}
     <section style="margin-top:1.25rem;">
-      <h3>License</h3>
-      <p>
-        {%- assign license_doc = site.licenses | where: "title", page.license.licence | first -%}
-        {%- if license_doc -%}
-          <a href="{{ license_doc.url | relative_url }}">{{ page.license.licence }}</a>
-        {%- else -%}
-          {{ page.license.licence }}
-        {%- endif -%}
-        {%- if page.license.licence_coverage -%}
-          <span> ({{ page.license.licence_coverage }})</span>
-        {%- endif -%}
-        {%- if page.license.explanation -%}
-          — <a href="{{ page.license.explanation }}" rel="nofollow">More info</a>
-        {%- endif -%}
-      </p>
+      <h3>Licensing</h3>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Licence</th>
+            <th style="text-align:left;">Coverage</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for license_item in license_items -%}
+            <tr>
+              <td>
+                {%- assign license_doc = site.licenses | where: "title", license_item.licence | first -%}
+                {%- if license_doc -%}
+                  <a href="{{ license_doc.url | relative_url }}">{{ license_item.licence }}</a>
+                {%- else -%}
+                  {{ license_item.licence | default: "—" }}
+                {%- endif -%}
+              </td>
+              <td>{{ license_item.licence_coverage | default: "—" }}</td>
+              <td>
+                {%- if license_item.explanation -%}
+                  <a href="{{ license_item.explanation }}" rel="nofollow">{{ license_item.explanation }}</a>
+                {%- else -%}
+                  —
+                {%- endif -%}
+              </td>
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
     </section>
   {%- endif -%}
 
-  {%- if page.connections and page.connections.size > 0 -%}
+  {%- if has_outgoing_connections -%}
     <section style="margin-top:1.5rem; clear:both;">
-      <h2>Links</h2>
+      <h2>Connections</h2>
+      <h3>Outgoing</h3>
       <table>
         <thead>
           <tr>
@@ -120,6 +175,45 @@ layout: default
               </td>
             </tr>
           {%- endfor -%}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
+  {%- assign inbound_rows = "" -%}
+  {%- for entry in site.entries -%}
+    {%- if entry.connections -%}
+      {%- for connection in entry.connections -%}
+        {%- if connection.has_connection_to_entry == page.title -%}
+          {%- capture inbound_rows -%}
+            {{ inbound_rows }}
+            <tr>
+              <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
+              <td>{{ connection.details_of_connection | default: "—" }}</td>
+              <td>{{ connection.explanation | default: "—" }}</td>
+            </tr>
+          {%- endcapture -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- if inbound_rows != "" -%}
+    <section style="margin-top:1.5rem;">
+      {%- unless has_outgoing_connections -%}
+        <h2>Connections</h2>
+      {%- endunless -%}
+      <h3>Incoming</h3>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Linked From</th>
+            <th style="text-align:left;">Relationship</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ inbound_rows }}
         </tbody>
       </table>
     </section>
@@ -252,20 +346,36 @@ layout: default
   {%- if page.funding -%}
     <section style="margin-top:1.5rem;">
       <h2>Funding</h2>
-      <p>
-        {%- if page.funding.funding_tool -%}
-          {%- assign funding_name = page.funding.funding_tool -%}
-          {%- assign funding_slug = funding_name | slugify -%}
-          <strong>
-            <a href="{{ '/funding/' | append: funding_slug | append: '/' | relative_url }}">{{ funding_name }}</a>
-          </strong>
-        {%- else -%}
-          <strong>—</strong>
-        {%- endif -%}
-        {%- if page.funding.explanation -%}
-          — <a href="{{ page.funding.explanation }}" rel="nofollow">{{ page.funding.explanation }}</a>
-        {%- endif -%}
-      </p>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Funding Tool</th>
+            <th style="text-align:left;">Funding Type</th>
+            <th style="text-align:left;">Explanation</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              {%- if page.funding.funding_tool -%}
+                {%- assign funding_name = page.funding.funding_tool -%}
+                {%- assign funding_slug = funding_name | slugify -%}
+                <a href="{{ '/funding/' | append: funding_slug | append: '/' | relative_url }}">{{ funding_name }}</a>
+              {%- else -%}
+                —
+              {%- endif -%}
+            </td>
+            <td>{{ page.funding.funding_type | default: "—" }}</td>
+            <td>
+              {%- if page.funding.explanation -%}
+                <a href="{{ page.funding.explanation }}" rel="nofollow">{{ page.funding.explanation }}</a>
+              {%- else -%}
+                —
+              {%- endif -%}
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </section>
   {%- endif -%}
 
@@ -279,6 +389,7 @@ layout: default
             <th style="text-align:left;">Version</th>
             <th style="text-align:left;">Format</th>
             <th style="text-align:left;">Price</th>
+            <th style="text-align:left;">File</th>
             <th style="text-align:left;">Explanation</th>
           </tr>
         </thead>
@@ -300,6 +411,13 @@ layout: default
                   Free
                 {%- elsif v.version_price -%}
                   ${{ v.version_price }}
+                {%- else -%}
+                  —
+                {%- endif -%}
+              </td>
+              <td>
+                {%- if v.version_file -%}
+                  <a href="{{ v.version_file }}" rel="nofollow">{{ v.version_file }}</a>
                 {%- else -%}
                   —
                 {%- endif -%}
