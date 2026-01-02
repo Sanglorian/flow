@@ -3,6 +3,15 @@ layout: default
 ---
 
 <article class="post">
+  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
+  {%- assign has_flo_certification = false -%}
+  {%- if page.license_certification and page.license_certification.size > 0 -%}
+    {%- for cert in page.license_certification -%}
+      {%- if flo_certifications contains cert -%}
+        {%- assign has_flo_certification = true -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
 
@@ -30,6 +39,17 @@ layout: default
         {{ page.short_description }}
       </p>
     {%- endif -%}
+
+    {%- if has_flo_certification -%}
+      <div style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
+        This is a free, libre and open license.
+      </div>
+    {%- else -%}
+      <div style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
+        This is not a free, libre or open license.
+      </div>
+    {%- endif -%}
+
 
     {%- if page.main_url -%}
       <p style="margin:.5rem 0 0;">

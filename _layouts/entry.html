@@ -10,6 +10,20 @@ layout: default
     {%- assign license_items = "" | split: "" -%}
     {%- assign license_items = license_items | push: page.license -%}
   {%- endif -%}
+  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
+  {%- assign has_flo_license = false -%}
+  {%- if license_items and license_items.size > 0 -%}
+    {%- for license_item in license_items -%}
+      {%- assign license_doc = site.licenses | where: "title", license_item.licence | first -%}
+      {%- if license_doc and license_doc.license_certification and license_doc.license_certification.size > 0 -%}
+        {%- for cert in license_doc.license_certification -%}
+          {%- if flo_certifications contains cert -%}
+            {%- assign has_flo_license = true -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
   {%- assign has_outgoing_connections = page.connections and page.connections.size > 0 -%}
 
   <header class="post-header">
@@ -38,21 +52,13 @@ layout: default
     {%- endif -%}
 
     {%- if category_value == "Work" or category_value == "Collection" -%}
-      {%- if license_items and license_items.size > 0 -%}
-        <div class="FLO-work" style="margin-top:.75rem;">
-          {%- if category_value == "Collection" -%}
-            At least part of this collection is under a free and open licence.
-          {%- else -%}
-            At least part of this work is under a free and open licence.
-          {%- endif -%}
+      {%- if has_flo_license -%}
+        <div class="FLO-work" style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
+          At least part of this work is under a free, libre and open license.
         </div>
       {%- else -%}
-        <div class="non-FLO-work" style="margin-top:.75rem;">
-          {%- if category_value == "Collection" -%}
-            This collection may not be under a free and open licence.
-          {%- else -%}
-            This work may not be under a free and open licence.
-          {%- endif -%}
+        <div class="non-FLO-work" style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
+          This may not be under a free, libre or open license.
         </div>
       {%- endif -%}
     {%- endif -%}
