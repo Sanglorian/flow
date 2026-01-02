@@ -61,4 +61,5 @@ versions:
     version_url: "https://github.com/maxlambertini/DungeonWorld-ConTeXt"
   - version_title: "HTML SRD"
     version_format: "HTML"
-    version_url: "http://www.dungeonworldsrd.com/"---
+    version_url: "http://www.dungeonworldsrd.com/"
+---

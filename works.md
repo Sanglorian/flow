@@ -23,7 +23,7 @@ permalink: /works/
     <tbody>
       {%- for work in works -%}
         {%- assign work_entry = work.entry | default: work -%}
-        {%- assign license_items = work.licenses -%}
+        {%- assign license_items = work.licensing | default: work.licenses -%}
         {%- if license_items == nil and work.license -%}
           {%- assign license_items = "" | split: "" -%}
           {%- assign license_items = license_items | push: work.license -%}
@@ -34,11 +34,12 @@ permalink: /works/
           <td>
             {%- if license_items and license_items.size > 0 -%}
               {%- for license_item in license_items -%}
-                {%- assign license_doc = site.licenses | where: "title", license_item.licence | first -%}
+                {%- assign license_title = license_item.license | default: license_item.licence -%}
+                {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
                 {%- if license_doc -%}
-                  <a href="{{ license_doc.url | relative_url }}">{{ license_item.licence }}</a>
+                  <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
                 {%- else -%}
-                  {{ license_item.licence }}
+                  {{ license_title }}
                 {%- endif -%}
                 {%- unless forloop.last -%}<br />{%- endunless -%}
               {%- endfor -%}
