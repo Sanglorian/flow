@@ -7,7 +7,7 @@ contributors:
   - Sanglorian
 created_by: Free Software Foundation
 parent_license: GNU General Public License
-is_superceded_by: GNU General Public License 3.0
+is_superseded_by: GNU General Public License 3.0
 license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)

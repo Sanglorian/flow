@@ -11,12 +11,12 @@ main_url: http://creativecommons.org/licenses/by/3.0/us/
 badge: "/thumbnails/cc-by-badge.png"
 small_badge: "/thumbnails/cc-by-small-badge.png"
 parent_license: Creative Commons Attribution
-is_superceded_by: Creative Commons Attribution 4.0
+is_superseded_by: Creative Commons Attribution 4.0
 license_aspect:
   - Attribution required
 license_certification:
   - Open Definition other conformant licence
   - Definition of Free Cultural Works conformant licence
 notes: >-
-  This licence is not recommended by the Open Definition because it has been superceded by [[Creative Commons Attribution 4.0]].
+  This licence is not recommended by the Open Definition because it has been superseded by [[Creative Commons Attribution 4.0]].
 ---

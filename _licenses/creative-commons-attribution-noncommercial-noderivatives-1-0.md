@@ -10,7 +10,7 @@ main_url: https://creativecommons.org/licenses/by-nd-nc/1.0/
 badge: "/thumbnails/cc-by-nc-nd-badge.png"
 small_badge: "/thumbnails/cc-by-nc-nd-small-badge.png"
 parent_license: Creative Commons Attribution-NonCommercial-NoDerivatives
-is_superceded_by: Creative Commons Attribution-Noncommercial-NoDerivatives 4.0
+is_superseded_by: Creative Commons Attribution-Noncommercial-NoDerivatives 4.0
 license_aspect:
   - Attribution required
   - Noncommercial only

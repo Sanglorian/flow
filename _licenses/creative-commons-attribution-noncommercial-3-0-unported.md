@@ -9,7 +9,7 @@ created_by: Creative Commons
 badge: "/thumbnails/cc-by-nc-badge.png"
 small_badge: "/thumbnails/cc-by-nc-small-badge.png"
 parent_license: Creative Commons Attribution-NonCommercial
-is_superceded_by: Creative Commons Attribution-NonCommercial 4.0
+is_superseded_by: Creative Commons Attribution-NonCommercial 4.0
 license_aspect:
   - Attribution required
   - Noncommercial only

@@ -11,7 +11,7 @@ main_url: https://creativecommons.org/licenses/by-sa/3.0/
 badge: "/thumbnails/cc-by-sa-badge.png"
 small_badge: "/thumbnails/cc-by-sa-small-badge.png"
 parent_license: Creative Commons Attribution-ShareAlike
-is_superceded_by: Creative Commons Attribution-ShareAlike 4.0
+is_superseded_by: Creative Commons Attribution-ShareAlike 4.0
 license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)
@@ -19,5 +19,5 @@ license_certification:
   - Open Definition other conformant licence
   - Definition of Free Cultural Works conformant licence
 notes: >-
-  No longer recommended by the Open Definition because it is superceded by CC BY-SA 4.0.
+  No longer recommended by the Open Definition because it is superseded by CC BY-SA 4.0.
 ---

@@ -8,7 +8,7 @@ contributors:
 created_by: Creative Commons
 main_url: https://creativecommons.org/licenses/by-sa/2.0/
 parent_license: Creative Commons Attribution-ShareAlike
-is_superceded_by: Creative Commons Attribution-ShareAlike 4.0
+is_superseded_by: Creative Commons Attribution-ShareAlike 4.0
 license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)

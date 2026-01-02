@@ -10,7 +10,7 @@ main_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 badge: "/thumbnails/cc-by-nc-sa-badge.png"
 small_badge: "/thumbnails/cc-by-nc-sa-small-badge.png"
 parent_license: Creative Commons Attribution-NonCommercial-ShareAlike
-is_superceded_by: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+is_superseded_by: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)

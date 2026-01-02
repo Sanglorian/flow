@@ -9,7 +9,7 @@ created_by: Creative Commons
 badge: "/thumbnails/cc-by-badge.png"
 small_badge: "/thumbnails/cc-by-small-badge.png"
 parent_license: Creative Commons Attribution
-is_superceded_by: Creative Commons Attribution 4.0
+is_superseded_by: Creative Commons Attribution 4.0
 license_aspect:
   - Attribution required
 license_certification:
