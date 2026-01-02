@@ -62,6 +62,9 @@ layout: default
                 {%- if l.relationship_of_language -%}
                   — {{ l.relationship_of_language }}
                 {%- endif -%}
+				                {%- if l.explanation -%}
+                  — {{ l.explanation }}
+                {%- endif -%}
               </li>
             {%- endif -%}
           {%- endfor -%}

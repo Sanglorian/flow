@@ -76,9 +76,11 @@ groupings:
 license:
   licence: "Creative Commons Attribution 3.0 (Unported)"
   licence_coverage: "entirety"
+  explanation: "http://www.peppercarrot.com/en/static2/philosophy"
 funding:
   funding_tool: "Patreon"
   explanation: "https://www.patreon.com/davidrevoy"
+  funding_type: "ransom"
 versions:
   - version_title: "Source files for each issue"
     version_format: "JPG, PNG"
