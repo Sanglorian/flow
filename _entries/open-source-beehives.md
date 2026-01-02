@@ -12,7 +12,7 @@ entry:
   main_url: "https://github.com/opensourcebeehives"
   thumbnail: "/thumbnails/open-source-beehives.png"
 groupings:
-  - grouping: "Hardware"
+  - grouping: "Technology"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
