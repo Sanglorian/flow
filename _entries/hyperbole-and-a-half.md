@@ -3,7 +3,7 @@ layout: entry
 title: "Hyperbole and a Half"
 permalink: /hyperbole-and-a-half/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Comics"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (United States)"
 ---

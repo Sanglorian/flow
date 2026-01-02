@@ -3,7 +3,7 @@ layout: entry
 title: "Google Chrome Comic"
 permalink: /google-chrome-comic/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
@@ -18,5 +18,5 @@ groupings:
 genres:
   - "IP Minimalism"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 2.5 Generic"
 ---

@@ -35,6 +35,6 @@ versions:
   - version_title: "Original version"
     version_format: "PDF"
     version_price: 0
-    version_url: "/assets/files/Four_Color_System_(Core_Rules).pdf"
+    version_url: "/flow/assets/files/Four_Color_System_(Core_Rules).pdf"
     explanation: "Backup of the original file. Art is not under the same public domain declaration."
 ---

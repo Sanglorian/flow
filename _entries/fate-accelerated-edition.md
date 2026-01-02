@@ -3,19 +3,15 @@ layout: entry
 title: "Fate Accelerated Edition"
 permalink: /fate-accelerated-edition/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-02T22:05:00+11:00
 contributors:
   - Sanglorian
 entry:
   featured-entry: yes
   category_of_entry: Work
   short_description: "A light version of the fractal role-playing game Fate."
-  main_url: "http://www.evilhat.com/home/fae/"
+  main_url: "https://fate-srd.com/"
   thumbnail: "/thumbnails/fate-accelerated-edition.jpg"
-  main_description: |-
-    - [FAE SRD (CC BY)](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Accelerated-SRD-CC.html)
-    - [FAE SRD (OGL)](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Accelerated-SRD-OGL.html)
-    - [In HTML form](http://fate-srd.com/) (note that the HTML side is not explicitly licensed)
 connections:
   - has_connection_to_entry: "Evil Hat Productions"
   - has_connection_to_entry: "Fate"
@@ -23,8 +19,21 @@ groupings:
   - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
 licensing:
+  - license: "Creative Commons Attribution 3.0 (Unported)"
+    explanation: "Text only. Dual-licensed with OGL to give users more options."
   - license: "Open Game License"
-    explanation: "Only the text of FAE is so licensed. See http://www.faterpg.com/licensing/licensing-fate-cc-by/ and http://www.faterpg.com/licensing/licensing-fate-ogl/ for more details."
-  - license: "Creative Commons Attribution"
-    explanation: "Only the text of FAE is so licensed. See http://www.faterpg.com/licensing/licensing-fate-cc-by/ and http://www.faterpg.com/licensing/licensing-fate-ogl/ for more details."
+    explanation: "Text only."
+versions:
+  - version_title: "Offical FATE SRDs"
+    version_format: "HTML"
+    version_price: 0
+    version_url: "https://fate-srd.com/official-licensing-fate"
+  - version_title: "Digital"
+    version_format: "PDF, EPUB, Kindle"
+    version_price: 0
+    version_url: "https://legacy.drivethrurpg.com/product/114902/Fate-Accelerated-Edition-o-A-Fate-Core-Build"
+  - version_title: "Softcover"
+    version_format: "Hardcopy"
+    version_price: 5
+    version_url: "https://legacy.drivethrurpg.com/product/114902/Fate-Accelerated-Edition-o-A-Fate-Core-Build"
 ---

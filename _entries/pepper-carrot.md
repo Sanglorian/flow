@@ -3,14 +3,14 @@ layout: entry
 title: "Pepper&Carrot"
 permalink: /pepper-carrot/
 created_at: 2015-05-28
-updated_at: 2015-10-17
+updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
   category_of_entry: Work
   short_description: "A whimsical webcomic about a witch and her cat."
   main_url: "http://www.peppercarrot.com/"
-  main_description: "An open-source webcomic? blog entry: http://www.peppercarrot.com/en/article310/an-open-source-webcomic"
+  main_description: "David Revoy explains how a webcomic can be 'open source' here: https://web.archive.org/web/20151127192238/http://www.peppercarrot.com/en/article310/an-open-source-webcomic"
 connections:
   - has_connection_to_entry: "David Revoy"
     details_of_connection: "illustrator, author"
@@ -19,7 +19,7 @@ languages:
     relationship_of_language: "original"
   - language: "Arabic"
     relationship_of_language: "official translation"
-    explanation: "As at October 2015. See http://www.peppercarrot.com/article267/how-to-add-a-translation-or-a-correction#status for current languages."
+    explanation: "As at October 2015. See http://www.peppercarrot.com/ for current languages."
   - language: "Bengali"
     relationship_of_language: "official translation"
   - language: "Breton"
@@ -78,9 +78,9 @@ groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution 3.0 (Unported)"
+  - license: "Creative Commons Attribution 4.0 International"
     licence_coverage: "entirety"
-    explanation: "http://www.peppercarrot.com/en/static2/philosophy"
+    explanation: "https://www.peppercarrot.com/en/about/index.html#credits"
 funding:
   funding_tool: "Patreon"
   explanation: "https://www.patreon.com/davidrevoy"
@@ -89,5 +89,5 @@ versions:
   - version_title: "Source files for each issue"
     version_format: "JPG, PNG"
     version_price: 0
-    version_url: "http://www.peppercarrot.com/?static6/sources"
+    version_url: "https://www.peppercarrot.com/en/static6/sources"
 ---

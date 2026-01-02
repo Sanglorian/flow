@@ -3,14 +3,14 @@ layout: entry
 title: "Future of Copyright 2.0 Anthology"
 permalink: /future-of-copyright-2-0-anthology/
 created_at: 2014-10-06
-updated_at: 2015-09-21
+updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
   category_of_entry: Work
   short_description: "Fiction and non-fiction on the future of copyright."
   year_of_publication: 2013
-  main_url: "http://prawokultury.pl/en/news/results-of-the-future-of-copyright-20-contest/"
+  main_url: "https://web.archive.org/web/20220127151957/https://prawokultury.pl/en/news/results-of-the-future-of-copyright-20-contest/"
   thumbnail: "Future of Copyright 20 Thumbnail.jpeg"
 connections:
   - has_connection_to_entry: "Mike Linksvayer"
@@ -46,7 +46,7 @@ versions:
   - version_title: "Ebook"
     version_format: "PDF, EPUB, MOBI"
     version_price: 0
-    version_url: "http://prawokultury.pl/en/news/results-of-the-future-of-copyright-20-contest/"
+    version_url: "https://web.archive.org/web/20220127151957/https://prawokultury.pl/en/news/results-of-the-future-of-copyright-20-contest/"
   - version_title: "Audiobook"
     version_format: "FLAC, MP3, OGG"
     version_price: 0

@@ -3,7 +3,7 @@ layout: entry
 title: "Nerd3"
 permalink: /nerd3/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
@@ -16,4 +16,5 @@ groupings:
   - grouping: "Comics"
 licensing:
   - license: "Creative Commons Attribution-Noncommercial"
+    licence-coverage: "Earlier versions of the site, before and around 2012: https://web.archive.org/web/20120112150626/http://nerdcubed.co.uk/"
 ---

@@ -8,12 +8,12 @@ contributors:
   - Sanglorian
 entry:
   featured-entry: yes
-  category_of_entry: Work
+  category_of_entry: Work, Collection
   short_description: "A set of pieces you can use to play many games."
   main_url: "http://www.piecepack.org/"
   thumbnail: "/thumbnails/piecepack.gif"
   main_description: |-
-    ## [Games](http://www.piecepack.org/PiecepackGames.asp)
+    ## [Games](http://www.piecepack.org/PiecepackGames.html)
 
     * Tabletop Croquet (FDL)
     * Tabletop Bocce (FDL)

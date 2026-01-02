@@ -3,7 +3,7 @@ layout: entry
 title: "Dungeon World"
 permalink: /dungeon-world/
 created_at: 2014-10-11
-updated_at: 2015-09-21
+updated_at: 2026-01-02T22:05:00+11:00
 contributors:
   - Sanglorian
 entry:
@@ -18,6 +18,8 @@ connections:
     details_of_connection: "author, designer"
   - has_connection_to_entry: "Apocalypse World"
     details_of_connection: "engine"
+  - has_connection_to_entry: "5E SRD"
+    details_of_connection: "terms of art"
 genres:
   - "Dungeon"
 languages:
@@ -34,6 +36,8 @@ types:
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
     licence_coverage: "text only"
+  - license: "Open Game License"
+    explanation: "Former and only partial - due to some D&D-specific terms being used."
 funding:
   funding_tool: "Kickstarter"
   explanation: "https://www.kickstarter.com/projects/sage-kobold/dungeon-world-a-game-with-modern-rules-and-old-sch-0"
@@ -46,19 +50,8 @@ versions:
     version_format: "PDF"
     version_price: 10
     version_url: "http://rpg.drivethrustuff.com/product/108028/Dungeon-World"
-  - version_title: "Indie Press Revolution hardcopy and PDF bundle"
-    version_format: "PDF, hardcopy"
-    version_price: 25
-    version_url: "http://www.indiepressrevolution.com/xcart/product.php?productid=18774&cat=0&featured=Y"
-  - version_title: "HTML and EPUB versions"
-    version_format: "HTML, EPUB"
-    version_price: 0
-    version_url: "http://story-games.com/forums/comments.php?DiscussionID=16446&page=1#Item_2"
   - version_title: "HTML, EPUB and PDF versions"
     version_url: "http://book.dwgazetteer.com/"
-  - version_title: "TEX and PDF versions"
-    version_format: "TEX, PDF"
-    version_url: "https://github.com/maxlambertini/DungeonWorld-ConTeXt"
   - version_title: "HTML SRD"
     version_format: "HTML"
     version_url: "http://www.dungeonworldsrd.com/"

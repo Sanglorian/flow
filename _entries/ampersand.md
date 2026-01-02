@@ -3,7 +3,7 @@ layout: entry
 title: "Ampersand"
 permalink: /ampersand/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-02T21:32:00+11:00
 contributors:
 - Sanglorian
 entry:
@@ -16,5 +16,8 @@ groupings:
 genres:
   - "Politics"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
+    explanation: "From mid-2013: https://web.archive.org/web/20130825080934/http://leftycartoons.com/about-barry-deutsch/ to late 2014 or so: https://web.archive.org/web/20140905161831/http://leftycartoons.com/about-barry-deutsch/"
+  - license: "Creative Commons Attribution 3.0 (Unported)"
+    explanation: "Before about mid-2013: https://web.archive.org/web/20130309145623/http://leftycartoons.com/about-barry-deutsch/"
 ---
