@@ -104,3 +104,49 @@ ul li::before {
   font-size: 1.25em;
   padding-right: 0.4em;
 }
+
+/* =========================
+   Sidebar
+   ========================= */
+
+.layout-with-sidebar {
+  display: flex;
+  gap: 2rem;
+}
+
+.site-sidebar {
+  width: 220px;
+  font-size: 0.95rem;
+}
+
+.site-sidebar h3 {
+  font-family: "League Spartan", sans-serif;
+  font-size: 1rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.25rem;
+  color: #281819;
+}
+
+.site-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.site-sidebar li {
+  margin: 0.25rem 0;
+}
+
+/* Red links (MediaWiki-style “missing”) */
+.site-sidebar a {
+  color: #b71419;
+}
+
+.site-sidebar a:hover {
+  text-decoration: underline;
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0;
+}

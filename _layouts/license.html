@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    {%- if page.short_description -%}
+      <p class="post-meta" style="margin-top:.5rem;">
+        {{ page.short_description }}
+      </p>
+    {%- endif -%}
+
+    {%- if page.main_url -%}
+      <p style="margin:.5rem 0 0;">
+        <strong>Main URL:</strong>
+        <a href="{{ page.main_url }}" rel="nofollow">{{ page.main_url }}</a>
+      </p>
+    {%- endif -%}
+  </header>
+
+  {%- if page.main_description -%}
+    <section style="margin-top:1rem;">
+      <p>{{ page.main_description }}</p>
+    </section>
+  {%- endif -%}
+
+  <section style="margin-top:1.25rem;">
+    <h2>Details</h2>
+    <table>
+      <tbody>
+        {%- if page.created_by -%}
+          <tr>
+            <th style="text-align:left;">Created by</th>
+            <td>{{ page.created_by }}</td>
+          </tr>
+        {%- endif -%}
+
+        {%- if page.wikidata -%}
+          <tr>
+            <th style="text-align:left;">Wikidata</th>
+            <td>
+              <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
+                {{ page.wikidata }}
+              </a>
+            </td>
+          </tr>
+        {%- endif -%}
+
+        {%- if page.license_certification and page.license_certification.size > 0 -%}
+          <tr>
+            <th style="text-align:left;">License certification</th>
+            <td>
+              <ul>
+                {%- for cert in page.license_certification -%}
+                  <li>{{ cert }}</li>
+                {%- endfor -%}
+              </ul>
+            </td>
+          </tr>
+        {%- endif -%}
+      </tbody>
+    </table>
+  </section>
+
+  {%- if page.notes -%}
+    <section style="margin-top:1.25rem;">
+      <h2>Notes</h2>
+      {{ page.notes | markdownify }}
+    </section>
+  {%- endif -%}
+</article>

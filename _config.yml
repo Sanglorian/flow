@@ -39,3 +39,6 @@ collections:
     permalink: /language/:name/
   entries:
     output: true
+  licenses:
+    output: true
+    permalink: /license/:name/
