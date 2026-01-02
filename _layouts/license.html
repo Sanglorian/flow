@@ -56,6 +56,34 @@ layout: default
           </tr>
         {%- endif -%}
 
+        {%- if page.parent_license -%}
+          <tr>
+            <th style="text-align:left;">Parent license</th>
+            <td>
+              {%- assign parent_doc = site.licenses | where: "title", page.parent_license | first -%}
+              {%- if parent_doc -%}
+                <a href="{{ parent_doc.url | relative_url }}">{{ page.parent_license }}</a>
+              {%- else -%}
+                {{ page.parent_license }}
+              {%- endif -%}
+            </td>
+          </tr>
+        {%- endif -%}
+
+        {%- if page.is_superseded_by -%}
+          <tr>
+            <th style="text-align:left;">Superseded by</th>
+            <td>
+              {%- assign superseded_doc = site.licenses | where: "title", page.is_superseded_by | first -%}
+              {%- if superseded_doc -%}
+                <a href="{{ superseded_doc.url | relative_url }}">{{ page.is_superseded_by }}</a>
+              {%- else -%}
+                {{ page.is_superseded_by }}
+              {%- endif -%}
+            </td>
+          </tr>
+        {%- endif -%}
+
         {%- if page.wikidata -%}
           <tr>
             <th style="text-align:left;">Wikidata</th>
@@ -82,6 +110,30 @@ layout: default
       </tbody>
     </table>
   </section>
+
+  {%- assign supersedes = site.licenses | where: "is_superceded_by", page.title -%}
+  {%- if supersedes and supersedes.size > 0 -%}
+    <section style="margin-top:1.25rem;">
+      <h2>Supersedes</h2>
+      <ul>
+        {%- for license in supersedes -%}
+          <li><a href="{{ license.url | relative_url }}">{{ license.title }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </section>
+  {%- endif -%}
+
+  {%- assign child_licenses = site.licenses | where: "parent_license", page.title -%}
+  {%- if child_licenses and child_licenses.size > 0 -%}
+    <section style="margin-top:1.25rem;">
+      <h2>Child licenses</h2>
+      <ul>
+        {%- for license in child_licenses -%}
+          <li><a href="{{ license.url | relative_url }}">{{ license.title }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </section>
+  {%- endif -%}
 
   {%- if page.notes -%}
     <section style="margin-top:1.25rem;">
