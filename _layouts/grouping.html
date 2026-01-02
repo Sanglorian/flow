@@ -34,7 +34,7 @@ layout: default
           <th style="text-align:left;">Subcategories</th>
           <td>
             <ul>
-              {%- assign grouping_pages = site.pages | where: "layout", "grouping" -%}
+              {%- assign grouping_pages = site.groupings -%}
               {%- assign subcategories = grouping_pages | where: "parent_grouping", page.title -%}
               {%- assign descendant_titles = "|" -%}
               {%- if subcategories and subcategories.size > 0 -%}
