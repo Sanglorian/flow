@@ -71,7 +71,12 @@ layout: default
     <section style="margin-top:1.25rem;">
       <h3>License</h3>
       <p>
-        {{ page.license.licence }}
+        {%- assign license_doc = site.licenses | where: "title", page.license.licence | first -%}
+        {%- if license_doc -%}
+          <a href="{{ license_doc.url | relative_url }}">{{ page.license.licence }}</a>
+        {%- else -%}
+          {{ page.license.licence }}
+        {%- endif -%}
         {%- if page.license.licence_coverage -%}
           <span> ({{ page.license.licence_coverage }})</span>
         {%- endif -%}
@@ -96,7 +101,15 @@ layout: default
         <tbody>
           {%- for c in page.connections -%}
             <tr>
-              <td>{{ c.has_connection_to_entry }}</td>
+              <td>
+                {%- assign connection_name = c.has_connection_to_entry -%}
+                {%- assign connection_doc = site.entries | where: "title", connection_name | first -%}
+                {%- if connection_doc -%}
+                  <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
+                {%- else -%}
+                  {{ connection_name }}
+                {%- endif -%}
+              </td>
               <td>{{ c.details_of_connection | default: "—" }}</td>
               <td>
                 {%- if c.explanation -%}
@@ -125,9 +138,19 @@ layout: default
         <tbody>
           {%- for g in page.genres -%}
             {%- if g.genre -%}
-              <tr><td>{{ g.genre }}</td><td>{{ g.explanation | default: "—" }}</td></tr>
+              {%- assign genre_name = g.genre -%}
+              {%- assign genre_slug = genre_name | slugify -%}
+              <tr>
+                <td><a href="{{ '/genre/' | append: genre_slug | append: '/' | relative_url }}">{{ genre_name }}</a></td>
+                <td>{{ g.explanation | default: "—" }}</td>
+              </tr>
             {%- else -%}
-              <tr><td>{{ g }}</td><td>—</td></tr>
+              {%- assign genre_name = g -%}
+              {%- assign genre_slug = genre_name | slugify -%}
+              <tr>
+                <td><a href="{{ '/genre/' | append: genre_slug | append: '/' | relative_url }}">{{ genre_name }}</a></td>
+                <td>—</td>
+              </tr>
             {%- endif -%}
           {%- endfor -%}
         </tbody>
@@ -231,7 +254,11 @@ layout: default
       <h2>Funding</h2>
       <p>
         {%- if page.funding.funding_tool -%}
-          <strong>{{ page.funding.funding_tool }}</strong>
+          {%- assign funding_name = page.funding.funding_tool -%}
+          {%- assign funding_slug = funding_name | slugify -%}
+          <strong>
+            <a href="{{ '/funding/' | append: funding_slug | append: '/' | relative_url }}">{{ funding_name }}</a>
+          </strong>
         {%- else -%}
           <strong>—</strong>
         {%- endif -%}
