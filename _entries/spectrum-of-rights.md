@@ -15,6 +15,8 @@ connections:
 groupings:
   - grouping: "Comics"
   - grouping: "Information"
+genres:
+  - "IP Minimalism"
 license:
   licence: "Creative Commons Attribution"
 ---

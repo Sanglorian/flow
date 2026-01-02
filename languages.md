@@ -10,7 +10,7 @@ permalink: /languages/
   </header>
 
   {%- assign languages = site.languages | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry == 'Work'" -%}
+  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
   <ul>
     {%- for language in languages -%}
       {%- assign work_count = 0 -%}

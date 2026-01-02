@@ -1,36 +1,36 @@
 ---
 layout: default
-title: All Works
-permalink: /works/
+title: All Sources
+permalink: /sources/
 ---
 
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
-    <p class="post-meta">Browse {{ works.size }} works in the catalog.</p>
+    {%- assign sources = site.entries | where_exp: "item", "item.entry.category_of_entry == 'Source'" | sort: "title" -%}
+    <p class="post-meta">Browse {{ sources.size }} sources in the catalog.</p>
   </header>
 
   <table>
     <thead>
       <tr>
-        <th style="text-align:left;">Work</th>
+        <th style="text-align:left;">Source</th>
         <th style="text-align:left;">Description</th>
         <th style="text-align:left;">License</th>
         <th style="text-align:left;">Groupings</th>
       </tr>
     </thead>
     <tbody>
-      {%- for work in works -%}
-        {%- assign work_entry = work.entry | default: work -%}
-        {%- assign license_items = work.licenses -%}
-        {%- if license_items == nil and work.license -%}
+      {%- for source in sources -%}
+        {%- assign source_entry = source.entry | default: source -%}
+        {%- assign license_items = source.licenses -%}
+        {%- if license_items == nil and source.license -%}
           {%- assign license_items = "" | split: "" -%}
-          {%- assign license_items = license_items | push: work.license -%}
+          {%- assign license_items = license_items | push: source.license -%}
         {%- endif -%}
         <tr>
-          <td><a href="{{ work.url | relative_url }}">{{ work.title }}</a></td>
-          <td>{{ work_entry.short_description | default: "—" }}</td>
+          <td><a href="{{ source.url | relative_url }}">{{ source.title }}</a></td>
+          <td>{{ source_entry.short_description | default: "—" }}</td>
           <td>
             {%- if license_items and license_items.size > 0 -%}
               {%- for license_item in license_items -%}
@@ -47,8 +47,8 @@ permalink: /works/
             {%- endif -%}
           </td>
           <td>
-            {%- if work.groupings -%}
-              {%- for grouping in work.groupings -%}
+            {%- if source.groupings -%}
+              {%- for grouping in source.groupings -%}
                 {%- assign grouping_name = grouping.grouping | default: grouping -%}
                 {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
                 {%- if grouping_doc -%}

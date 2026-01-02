@@ -2,6 +2,10 @@
 layout: entry
 title: "Bound By Law"
 permalink: /bound-by-law/
+created_at: 2015-05-29
+updated_at: 2015-09-23
+contributors:
+- Sanglorian
 entry:
   category_of_entry: Work
   short_description: "A comic book about intellectual property law."
@@ -23,5 +27,4 @@ languages:
   - language: "French"
   - language: "Spanish"
 license:
-  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"
----
+  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"---

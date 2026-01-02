@@ -2,6 +2,10 @@
 layout: entry
 title: "Diesel Sweeties"
 permalink: /diesel-sweeties/
+created_at: 2015-12-01
+updated_at: 2015-12-01
+contributors:
+- Sanglorian
 entry:
   category_of_entry: Work
   short_description: "Diesel Sweeties is a pixelated webcomic by Richard Stevens 3 that has been continuously updated since April 2000. Sometimes the people kiss the robots. Be warned."
@@ -26,5 +30,4 @@ versions:
   - version_title: "Diesel Sweeties: I'm a Rocker, I Rock Out"
     version_format: "Kindle, hardcopy"
     version_price: 14.88
-    version_url: "http://www.amazon.com/gp/product/1620100908/"
----
+    version_url: "http://www.amazon.com/gp/product/1620100908/"---

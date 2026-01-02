@@ -10,7 +10,7 @@ permalink: /licenses/
   </header>
 
   {%- assign licenses = site.licenses | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry == 'Work'" -%}
+  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
   <ul>
     {%- for license in licenses -%}
       {%- assign work_count = 0 -%}

@@ -10,7 +10,7 @@ permalink: /funding-tools/
   </header>
 
   {%- assign funding_tools = site["funding-tools"] | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry == 'Work'" -%}
+  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
   <ul>
     {%- for funding_tool in funding_tools -%}
       {%- assign work_count = 0 -%}

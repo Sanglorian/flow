@@ -2,6 +2,10 @@
 layout: entry
 title: "Dungeon World"
 permalink: /dungeon-world/
+created_at: 2014-10-11
+updated_at: 2015-09-21
+contributors:
+- Sanglorian
 entry:
   featured-entry: yes
   category_of_entry: Work
@@ -57,5 +61,4 @@ versions:
     version_url: "https://github.com/maxlambertini/DungeonWorld-ConTeXt"
   - version_title: "HTML SRD"
     version_format: "HTML"
-    version_url: "http://www.dungeonworldsrd.com/"
----
+    version_url: "http://www.dungeonworldsrd.com/"---

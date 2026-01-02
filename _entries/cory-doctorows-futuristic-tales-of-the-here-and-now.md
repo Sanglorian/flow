@@ -2,6 +2,10 @@
 layout: entry
 title: "Cory Doctorow's Futuristic Tales of the Here and Now"
 permalink: /cory-doctorows-futuristic-tales-of-the-here-and-now/
+created_at: 2015-05-29
+updated_at: 2015-09-23
+contributors:
+- Sanglorian
 entry:
   category_of_entry: Work
   short_description: "Six of Cory Doctorow's short stories in comic book form."
@@ -16,5 +20,4 @@ groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
 license:
-  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"
----
+  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"---

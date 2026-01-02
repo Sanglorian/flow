@@ -2,6 +2,10 @@
 layout: entry
 title: "Ampersand"
 permalink: /ampersand/
+created_at: 2015-05-28
+updated_at: 2015-09-22
+contributors:
+- Sanglorian
 entry:
   category_of_entry: Work
   short_description: "My name is Barry Deutsch, and I write and draw Ampersand, a political comic with a generally progressive sensibility."
@@ -12,5 +16,4 @@ groupings:
 genres:
   - "Politics"
 license:
-  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"
----
+  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"---

@@ -7,7 +7,9 @@ updated_at: 2015-09-20
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Collection
+  category_of_entry: 
+  - source
+  -  collection
   short_description: "A game designer and comic creator."
   main_url: "http://lunduke.com/"
 connections:

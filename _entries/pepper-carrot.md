@@ -2,6 +2,10 @@
 layout: entry
 title: "Pepper&Carrot"
 permalink: /pepper-carrot/
+created_at: 2015-05-28
+updated_at: 2015-10-17
+contributors:
+- Sanglorian
 entry:
   category_of_entry: Work
   short_description: "A whimsical webcomic about a witch and her cat."
@@ -85,5 +89,4 @@ versions:
   - version_title: "Source files for each issue"
     version_format: "JPG, PNG"
     version_price: 0
-    version_url: "http://www.peppercarrot.com/?static6/sources"
----
+    version_url: "http://www.peppercarrot.com/?static6/sources"---
