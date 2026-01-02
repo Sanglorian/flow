@@ -89,4 +89,5 @@ versions:
   - version_title: "Source files for each issue"
     version_format: "JPG, PNG"
     version_price: 0
-    version_url: "http://www.peppercarrot.com/?static6/sources"---
+    version_url: "http://www.peppercarrot.com/?static6/sources"
+---

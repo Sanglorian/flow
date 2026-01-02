@@ -8,4 +8,5 @@ contributors:
 - Sanglorian
 entry:
   category_of_entry: Source
-  main_url: "http://www.davidrevoy.com/"---
+  main_url: "http://www.davidrevoy.com/"
+---

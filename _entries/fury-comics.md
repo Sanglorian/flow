@@ -14,4 +14,5 @@ groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Public domain"---
+  - license: "Public domain"
+---

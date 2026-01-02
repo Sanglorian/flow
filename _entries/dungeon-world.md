@@ -5,7 +5,7 @@ permalink: /dungeon-world/
 created_at: 2014-10-11
 updated_at: 2015-09-21
 contributors:
-- Sanglorian
+  - Sanglorian
 entry:
   featured-entry: yes
   category_of_entry: Work

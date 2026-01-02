@@ -16,4 +16,5 @@ groupings:
 genres:
   - "Politics"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"---
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+---

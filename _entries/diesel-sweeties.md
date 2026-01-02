@@ -30,4 +30,5 @@ versions:
   - version_title: "Diesel Sweeties: I'm a Rocker, I Rock Out"
     version_format: "Kindle, hardcopy"
     version_price: 14.88
-    version_url: "http://www.amazon.com/gp/product/1620100908/"---
+    version_url: "http://www.amazon.com/gp/product/1620100908/"
+---
