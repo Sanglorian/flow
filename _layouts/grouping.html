@@ -106,8 +106,10 @@ layout: default
           {%- assign featured_found = true -%}
           {%- assign printed_featured_entries = printed_featured_entries | append: entry.url | append: "|" -%}
                     {%- assign license_markup = "—" -%}
-          {%- if entry.license and entry.license.licence -%}
-            {%- assign license_doc = site.licenses | where: "title", entry.license.licence | first -%}
+          {%- if entry.licensing and entry.licensing.size > 0 -%}
+            {%- assign primary_license = entry.licensing[0] -%}
+            {%- assign license_title = primary_license.license | default: primary_license.licence -%}
+            {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
             {%- if license_doc -%}
               {%- if license_doc.small_badge -%}
                 {%- if license_doc.small_badge contains "/" -%}
@@ -115,7 +117,7 @@ layout: default
                     <a href="{{ license_doc.url | relative_url }}">
                       <img
                         src="{{ license_doc.small_badge | relative_url }}"
-                        alt="{{ entry.license.licence }} badge"
+                        alt="{{ license_title }} badge"
                         loading="lazy"
                         style="width:88px; height:auto;"
                       />
@@ -128,11 +130,11 @@ layout: default
                 {%- endif -%}
               {%- else -%}
                 {%- capture license_markup -%}
-                  <a href="{{ license_doc.url | relative_url }}">{{ entry.license.licence }}</a>
+                  <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
                 {%- endcapture -%}
               {%- endif -%}
             {%- else -%}
-              {%- assign license_markup = entry.license.licence -%}
+              {%- assign license_markup = license_title -%}
             {%- endif -%}
           {%- endif -%}
           {%- capture row -%}
