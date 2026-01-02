@@ -7,8 +7,8 @@ contributors:
   - Sanglorian
 short_description: A proprietary licence.
 created_by: Creative Commons
-badge: "/assets/cc-by-nc-sa-badge.png"
-small_badge: "/assets/cc-by-nc-sa-small-badge.png"
+badge: "/thumbnails/cc-by-nc-sa-badge.png"
+small_badge: "/thumbnails/cc-by-nc-sa-small-badge.png"
 license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)

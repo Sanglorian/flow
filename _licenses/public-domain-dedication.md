@@ -6,8 +6,8 @@ updated_at: 2015-10-11T00:56:06Z
 contributors:
   - Sanglorian
 created_by: Creative Commons
-badge: "/assets/pd-badge.png"
-small_badge: "/assets/public-domain-small-badge.png"
+badge: "/thumbnails/pd-badge.png"
+small_badge: "/thumbnails/public-domain-small-badge.png"
 parent_license: Public domain
 is_superceded_by: CC0 1.0 Universal
 license_certification:

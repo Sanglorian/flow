@@ -8,8 +8,8 @@ contributors:
 short_description: A copyleft licence.
 created_by: Creative Commons
 main_url: https://creativecommons.org/licenses/by-sa/4.0/
-badge: "/assets/cc-by-sa-badge.png"
-small_badge: "/assets/cc-by-sa-small-badge.png"
+badge: "/thumbnails/cc-by-sa-badge.png"
+small_badge: "/thumbnails/cc-by-sa-small-badge.png"
 parent_license: Creative Commons Attribution-ShareAlike
 license_aspect:
   - Attribution required
