@@ -53,3 +53,8 @@ collections:
   funding-tools:
     output: true
     permalink: /funding/:name/ 
+  staging_entries:
+    output: false
+  genres:
+    output: true
+    permalink: /genre/:name/

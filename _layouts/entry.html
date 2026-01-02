@@ -10,6 +10,11 @@ layout: default
     {%- assign license_items = "" | split: "" -%}
     {%- assign license_items = license_items | push: page.license -%}
   {%- endif -%}
+  {%- assign funding_items = page.funding -%}
+  {%- if funding_items and funding_items.funding_tool -%}
+    {%- assign funding_items = "" | split: "" -%}
+    {%- assign funding_items = funding_items | push: page.funding -%}
+  {%- endif -%}
   {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
   {%- assign has_flo_license = false -%}
   {%- if license_items and license_items.size > 0 -%}
@@ -54,11 +59,11 @@ layout: default
     {%- if category_value == "Work" or category_value == "Collection" -%}
       {%- if has_flo_license -%}
         <div class="FLO-work" style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
-          At least part of this work is under a free, libre and open license.
+          At least part of this work is under a <a href="/FLO-licenses/">free, libre and open license</a>.
         </div>
       {%- else -%}
         <div class="non-FLO-work" style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
-          This may not be under a free, libre or open license.
+          This may not be under a <a href="/FLO-licenses/">free, libre or open license</a>.
         </div>
       {%- endif -%}
     {%- endif -%}
