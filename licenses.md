@@ -10,15 +10,22 @@ permalink: /licenses/
   </header>
 
   {%- assign licenses = site.licenses | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
+  {%- assign entries = site.entries -%}
+  {%- assign flo_licenses = licenses | where_exp: "license", "license.license_certification and license.license_certification.size > 0" -%}
+  {%- assign non_flo_licenses = licenses | where_exp: "license", "license.license_certification == nil or license.license_certification == empty" -%}
+
+  <h2>Free, libre and open licenses</h2>
+  <p>
+    These licenses are certified as <a href="{{ "/free-libre-and-open-licences/" | relative_url }}">free, libre and open</a>.
+  </p>
   <ul>
-    {%- for license in licenses -%}
-      {%- assign work_count = 0 -%}
-      {%- for work in works -%}
-        {%- assign license_items = work.licensing | default: work.licenses -%}
-        {%- if license_items == nil and work.license -%}
+    {%- for license in flo_licenses -%}
+      {%- assign entry_count = 0 -%}
+      {%- for entry in entries -%}
+        {%- assign license_items = entry.licensing | default: entry.licenses -%}
+        {%- if license_items == nil and entry.license -%}
           {%- assign license_items = "" | split: "" -%}
-          {%- assign license_items = license_items | push: work.license -%}
+          {%- assign license_items = license_items | push: entry.license -%}
         {%- endif -%}
         {%- assign matches_license = false -%}
         {%- if license_items and license_items.size > 0 -%}
@@ -31,10 +38,39 @@ permalink: /licenses/
           {%- endfor -%}
         {%- endif -%}
         {%- if matches_license -%}
-          {%- assign work_count = work_count | plus: 1 -%}
+          {%- assign entry_count = entry_count | plus: 1 -%}
         {%- endif -%}
       {%- endfor -%}
-      <li><a href="{{ license.url | relative_url }}">{{ license.title }}</a> ({{ work_count }})</li>
+      <li><a href="{{ license.url | relative_url }}">{{ license.title }}</a> ({{ entry_count }})</li>
+    {%- endfor -%}
+  </ul>
+
+  <h2>Non-free, libre and open licenses</h2>
+<p>These licenses may not be <a href="{{ "/free-libre-and-open-licences/" | relative_url }}">free, libre and open</a>.</p>
+  <ul>
+    {%- for license in non_flo_licenses -%}
+      {%- assign entry_count = 0 -%}
+      {%- for entry in entries -%}
+        {%- assign license_items = entry.licensing | default: entry.licenses -%}
+        {%- if license_items == nil and entry.license -%}
+          {%- assign license_items = "" | split: "" -%}
+          {%- assign license_items = license_items | push: entry.license -%}
+        {%- endif -%}
+        {%- assign matches_license = false -%}
+        {%- if license_items and license_items.size > 0 -%}
+          {%- for license_item in license_items -%}
+            {%- assign license_title = license_item.license | default: license_item.licence -%}
+            {%- if license_title == license.title -%}
+              {%- assign matches_license = true -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+        {%- if matches_license -%}
+          {%- assign entry_count = entry_count | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor -%}
+      <li><a href="{{ license.url | relative_url }}">{{ license.title }}</a> ({{ entry_count }})</li>
     {%- endfor -%}
   </ul>
 </article>

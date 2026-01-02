@@ -17,6 +17,6 @@ genres:
   - "Superhero"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-  - license: "Public Domain"
+  - license: "Public domain"
   - license: "Jenny Everywhere Declaration"
 ---
