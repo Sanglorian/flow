@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "Source Sans 3";
-  src: url("../fonts/SourceSans3-VariableFont_wght.ttf") format("truetype");
+  src: url("fonts/SourceSans3-VariableFont_wght.ttf") format("truetype");
   font-weight: 200 900;
   font-style: normal;
   font-display: swap;
@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: "Source Sans 3";
-  src: url("../fonts/SourceSans3-Italic-VariableFont_wght.ttf") format("truetype");
+  src: url("fonts/SourceSans3-Italic-VariableFont_wght.ttf") format("truetype");
   font-weight: 200 900;
   font-style: italic;
   font-display: swap;
@@ -20,7 +20,7 @@
 
 @font-face {
   font-family: "League Spartan";
-  src: url("../fonts/LeagueSpartan-VariableFont_wght.ttf") format("truetype");
+  src: url("fonts/LeagueSpartan-VariableFont_wght.ttf") format("truetype");
   font-weight: 300 900;
   font-style: normal;
   font-display: swap;
@@ -94,6 +94,19 @@ a:hover {
   text-decoration: underline;
 }
 
+a.new,
+a.broken,
+a.broken-link {
+  color: #b71419;
+}
+
+a.new:visited,
+a.broken:visited,
+a.broken-link:visited {
+  color: #b71419;
+}
+
+
 ul {
   list-style: none;
   padding-left: 0;
@@ -118,6 +131,51 @@ ul li::before {
   flex: 0 0 240px; /* fixed sidebar width */
   width: 240px;
   padding-left: 1rem;
+  color: #2a2a2a;
+}
+
+.site-sidebar-nav {
+  background: #ffffff;
+  border: 1px solid #e3e3e3;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.site-sidebar-nav section + section {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid #ececec;
+}
+
+.site-sidebar-nav h3 {
+  font-size: 1rem;
+  margin: 0 0 0.5rem;
+}
+
+.site-sidebar-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-sidebar-nav li {
+  margin: 0;
+}
+
+.site-sidebar-nav li::before {
+  content: none;
+}
+
+.site-sidebar-nav a {
+  display: block;
+  padding: 0.25rem 0;
+  color: inherit;
+  font-weight: 600;
+}
+
+.site-sidebar-nav a:hover {
+  color: #147cb7;
 }
 
 /* Main column takes remaining space */
