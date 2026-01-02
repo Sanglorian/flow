@@ -19,7 +19,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Story Game"
+  - grouping: "Story Gaming"
     is_or_about_grouping: "is"
 types:
   - type: "Book"
