@@ -12,6 +12,6 @@ entry:
   main_url: "http://home.insightbb.com/~GoldenYears/Library.html"
 groupings:
   - grouping: "Comics"
-license:
-  licence: "Public domain"
+licensing:
+  - license: "Public domain"
 ---

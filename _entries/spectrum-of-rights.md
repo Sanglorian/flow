@@ -17,6 +17,6 @@ groupings:
   - grouping: "Information"
 genres:
   - "IP Minimalism"
-license:
-  licence: "Creative Commons Attribution"
+licensing:
+  - license: "Creative Commons Attribution"
 ---

@@ -17,6 +17,6 @@ groupings:
   - grouping: "Comics"
 genres:
   - "IP Minimalism"
-license:
-  licence: "Creative Commons Attribution-NonCommercial-NoDerivatives"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
 ---

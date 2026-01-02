@@ -16,6 +16,6 @@ connections:
     explanation: "<Insert Comic Here> sometimes features Jenny Everywhere"
 groupings:
   - grouping: "Comics"
-license:
-  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

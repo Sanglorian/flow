@@ -15,7 +15,7 @@ groupings:
   - grouping: "Comics"
 genres:
   - "Superhero"
-licenses:
-  - licence: "Creative Commons Attribution-ShareAlike"
-  - licence: "Jenny Everywhere Declaration"
+licensing:
+  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Jenny Everywhere Declaration"
 ---

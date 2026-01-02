@@ -15,6 +15,6 @@ connections:
   - has_connection_to_entry: "Randall Munroe, Breadpig"
 groupings:
   - grouping: "Comics"
-license:
-  licence: "Creative Commons Attribution-Noncommercial"
+licensing:
+  - license: "Creative Commons Attribution-Noncommercial"
 ---

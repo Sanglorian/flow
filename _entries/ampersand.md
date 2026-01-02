@@ -15,5 +15,5 @@ groupings:
     is_or_about_grouping: "is"
 genres:
   - "Politics"
-license:
-  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"---
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"---

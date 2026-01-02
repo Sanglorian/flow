@@ -19,9 +19,9 @@ groupings:
 types:
   - type: "Graphic"
     distribution: "electronic"
-license:
-  licence: "Creative Commons Attribution-NonCommercial 2.5"
-  licence_coverage: "entirety"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial 2.5"
+    licence_coverage: "entirety"
 funding:
   funding_tool: "Amazon.com"
   funding_type: "sales"

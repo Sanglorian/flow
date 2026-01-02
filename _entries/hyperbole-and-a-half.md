@@ -12,6 +12,6 @@ entry:
   main_url: "http://hyperboleandahalf.blogspot.com.au/"
 groupings:
   - grouping: "Comics"
-license:
-  licence: "Creative Commons Attribution-NonCommercial-NoDerivatives"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
 ---

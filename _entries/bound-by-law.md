@@ -26,5 +26,5 @@ languages:
   - language: "Portuguese"
   - language: "French"
   - language: "Spanish"
-license:
-  licence: "Creative Commons Attribution-NonCommercial-ShareAlike"---
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"---

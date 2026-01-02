@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
-license:
-  licence: "Creative Commons Attribution-NonCommercial"---
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial"---

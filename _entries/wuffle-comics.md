@@ -18,8 +18,8 @@ entry:
 
 groupings:
   - grouping: "Comics"
-license:
-  licence: "CC0 1.0 Universal"
+licensing:
+  - license: "CC0 1.0 Universal"
 funding:
   funding_tool: "IndieGoGo"
   explanation: "https://www.indiegogo.com/projects/wuffle-the-big-nice-wolf-year-2 (preorder of Year 2 in hardcopy), https://www.indiegogo.com/projects/wuffle-the-big-nice-wolf-year-3--2#/ (preorder of Year 3 in hardcopy)"

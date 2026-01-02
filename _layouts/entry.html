@@ -397,8 +397,17 @@ layout: default
               <td>{{ funding_item.funding_type | default: "—" }}</td>
               <td>
                 {%- if funding_item.explanation -%}
-                  <a href="{{ funding_item.explanation }}" rel="nofollow">{{ funding_item.explanation }}</a>
-                {%- else -%}
+                  {%- assign explanation_text = funding_item.explanation | strip -%}
+                  {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
+                    {%- assign explanation_parts = explanation_text | split: " " -%}
+                    {%- if explanation_parts.size == 1 -%}
+                      <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
+                    {%- else -%}
+                      {{ explanation_text }}
+                    {%- endif -%}
+                  {%- else -%}
+                    {{ explanation_text }}
+                  {%- endif -%}                {%- else -%}
                   —
                 {%- endif -%}
               </td>

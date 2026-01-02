@@ -21,7 +21,7 @@ groupings:
   - grouping: "Comics"
 genres:
   - "Science Fiction"
-licenses:
-  - licence: "GNU General Public License"
-  - licence: "Creative Commons Attribution-ShareAlike"
+licensing:
+  - license: "GNU General Public License"
+  - license: "Creative Commons Attribution-ShareAlike"
 ---

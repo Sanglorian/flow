@@ -18,8 +18,8 @@ languages:
   - language: "Czech"
 groupings:
   - grouping: "Comics"
-license:
-  licence: "Creative Commons Attribution-ShareAlike"
+licensing:
+  - license: "Creative Commons Attribution-ShareAlike"
 versions:
   - version_title: "2013 Mimi & Eunice Calendar"
     version_url: "http://mimiandeunice.com/2012/10/31/2013-mimi-eunice-calendar/"

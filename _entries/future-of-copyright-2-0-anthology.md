@@ -39,9 +39,9 @@ types:
     distribution: "electronic"
   - type: "Audiobook"
     distribution: "electronic"
-license:
-  licence: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-  licence_coverage: "entirety"
+licensing:
+  - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
+    licence_coverage: "entirety"
 versions:
   - version_title: "Ebook"
     version_format: "PDF, EPUB, MOBI"

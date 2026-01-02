@@ -77,10 +77,10 @@ languages:
 groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
-license:
-  licence: "Creative Commons Attribution 3.0 (Unported)"
-  licence_coverage: "entirety"
-  explanation: "http://www.peppercarrot.com/en/static2/philosophy"
+licensing:
+  - license: "Creative Commons Attribution 3.0 (Unported)"
+    licence_coverage: "entirety"
+    explanation: "http://www.peppercarrot.com/en/static2/philosophy"
 funding:
   funding_tool: "Patreon"
   explanation: "https://www.patreon.com/davidrevoy"

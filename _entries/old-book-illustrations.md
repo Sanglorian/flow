@@ -12,7 +12,7 @@ entry:
   main_url: "http://www.oldbookillustrations.com/"
 groupings:
   - grouping: "Art"
-license:
-  licence: "Public domain"
-  explanation: "The website has a terms of use which limits the ways in which visitors can use the images. However, the images themselves are in the public domain."
+licensing:
+  - license: "Public domain"
+    explanation: "The website has a terms of use which limits the ways in which visitors can use the images. However, the images themselves are in the public domain."
 ---

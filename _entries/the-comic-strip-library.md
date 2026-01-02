@@ -12,7 +12,7 @@ entry:
   main_url: "http://comicstriplibrary.org/"
 groupings:
   - grouping: "Comics"
-license:
-  licence: "Public domain"
-  explanation: "All works published before 1923"
+licensing:
+  - license: "Public domain"
+    explanation: "All works published before 1923"
 ---

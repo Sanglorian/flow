@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
-license:
-  licence: "Public domain"---
+licensing:
+  - license: "Public domain"---

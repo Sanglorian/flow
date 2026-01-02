@@ -31,9 +31,9 @@ types:
     distribution: "electronic"
   - type: "Book"
     distribution: "hardcopy"
-license:
-  licence: "Creative Commons Attribution 3.0 (Unported)"
-  licence_coverage: "text only"
+licensing:
+  - license: "Creative Commons Attribution 3.0 (Unported)"
+    licence_coverage: "text only"
 funding:
   funding_tool: "Kickstarter"
   explanation: "https://www.kickstarter.com/projects/sage-kobold/dungeon-world-a-game-with-modern-rules-and-old-sch-0"

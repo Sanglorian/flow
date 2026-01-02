@@ -16,6 +16,6 @@ groupings:
   - grouping: "Comics"
 genres:
   - "Humour"
-license:
-  licence: "Creative Commons Attribution-Noncommercial"
+licensing:
+  - license: "Creative Commons Attribution-Noncommercial"
 ---

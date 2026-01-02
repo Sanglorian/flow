@@ -14,6 +14,6 @@ connections:
   - has_connection_to_entry: "Zach Weiner"
 groupings:
   - grouping: "Comics"
-license:
-  licence: "Creative Commons Attribution-NonCommercial"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial"
 ---
