@@ -7,16 +7,20 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+<main class="page-content" aria-label="Content">
+  <div class="with-sidebar">
+    <aside class="site-sidebar">
+      {% include sidebar.html %}
+    </aside>
+
+    <div class="content-area">
       <div class="wrapper">
-        <div class="layout-with-sidebar">
-          {% include sidebar.html %}
-          <div class="main-content">
-            {{ content }}
-          </div>
-        </div>
+        {{ content }}
       </div>
-    </main>
+    </div>
+  </div>
+</main>
+
 
     {%- include footer.html -%}
 
