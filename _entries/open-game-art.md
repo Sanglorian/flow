@@ -7,6 +7,7 @@ updated_at: 2015-09-20
 contributors:
   - Sanglorian
 entry:
+  featured-entry: yes
   category_of_entry: Collection
   short_description: "A community dedicated to providing art for open source video games."
   main_url: "http://opengameart.org/"

@@ -7,6 +7,7 @@ updated_at: 2015-09-23
 contributors:
   - Sanglorian
 entry:
+  featured-entry: yes
   category_of_entry: Work
   short_description: "These African-inspired artworks were created for the tabletop RPG Spears of the Dawn."
   main_url: "http://rpg.drivethrustuff.com/product/110838/Spears-of-the-Dawn-Art-Pack"

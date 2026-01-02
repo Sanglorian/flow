@@ -7,6 +7,7 @@ updated_at: 2015-09-21
 contributors:
   - Sanglorian
 entry:
+  featured-entry: yes
   category_of_entry: Work
   short_description: "A solo RPG where you play someone crawling around the innards of a power plant."
   year_of_publication: 2009

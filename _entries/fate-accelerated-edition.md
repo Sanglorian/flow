@@ -7,6 +7,7 @@ updated_at: 2015-09-21
 contributors:
   - Sanglorian
 entry:
+  featured-entry: yes
   category_of_entry: Work
   short_description: "A light version of the fractal role-playing game Fate."
   main_url: "http://www.evilhat.com/home/fae/"

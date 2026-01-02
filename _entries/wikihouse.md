@@ -7,6 +7,7 @@ updated_at: 2015-09-22
 contributors:
   - Sanglorian
 entry:
+  featured-entry: yes
   category_of_entry: Work
   short_description: "Build your own house."
   main_url: "http://www.wikihouse.cc/"

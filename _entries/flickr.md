@@ -7,6 +7,7 @@ updated_at: 2020-01-10
 contributors:
   - Sanglorian
 entry:
+  featured-entry: yes
   category_of_entry: Collection
   short_description: "A photo hosting website."
   main_url: "http://www.flickr.com/"

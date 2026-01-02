@@ -7,6 +7,7 @@ updated_at: 2015-10-06
 contributors:
   - Sanglorian
 entry:
+  featured-entry: yes
   category_of_entry: Work
   short_description: "Brigandine is a 28mm skirmish-level fantasy wargame that aims for speed and simplicity."
   main_url: "http://www.tabletopbattles.org/games/brigandine/"
