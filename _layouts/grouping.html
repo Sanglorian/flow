@@ -72,6 +72,87 @@ layout: default
     </table>
   </section>
 
+
+  {%- assign featured_found = false -%}
+  {%- assign featured_rows = "" -%}
+  {%- assign printed_featured_entries = "" -%}
+  {%- for entry in site.entries -%}
+    {%- assign e = entry.entry | default: entry -%}
+    {%- if e["featured-entry"] and entry.groupings -%}
+      {%- for g in entry.groupings -%}
+        {%- assign grouping_name = g.grouping | default: g -%}
+        {%- assign is_match = false -%}
+        {%- if grouping_name == page.title -%}
+          {%- assign is_match = true -%}
+        {%- elsif descendant_titles contains grouping_name -%}
+          {%- assign is_match = true -%}
+        {%- endif -%}
+        {%- if is_match and printed_featured_entries contains entry.url -%}
+          {%- assign is_match = false -%}
+        {%- endif -%}
+        {%- if is_match -%}
+          {%- assign featured_found = true -%}
+          {%- assign printed_featured_entries = printed_featured_entries | append: entry.url | append: "|" -%}
+          {%- capture row -%}
+            <tr>
+              <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
+              <td>{{ e.short_description | default: "—" }}</td>
+              <td>
+                {%- if entry.license and entry.license.licence -%}
+                  {%- assign license_doc = site.licenses | where: "title", entry.license.licence | first -%}
+                  {%- if license_doc -%}
+                    <a href="{{ license_doc.url | relative_url }}">{{ entry.license.licence }}</a>
+                  {%- else -%}
+                    {{ entry.license.licence }}
+                  {%- endif -%}
+                {%- else -%}
+                  —
+                {%- endif -%}
+              </td>
+              <td>
+                {%- if e.thumbnail -%}
+                  {%- if e.thumbnail contains "/" -%}
+                    <img
+                      src="{{ e.thumbnail | relative_url }}"
+                      alt="{{ entry.title }} thumbnail"
+                      loading="lazy"
+                      style="width:80px; height:auto; border-radius:6px;"
+                    />
+                  {%- else -%}
+                    {{ e.thumbnail }}
+                  {%- endif -%}
+                {%- else -%}
+                  —
+                {%- endif -%}
+              </td>
+            </tr>
+          {%- endcapture -%}
+          {%- assign featured_rows = featured_rows | append: row -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- if featured_found -%}
+    <section style="margin-top:1.5rem;">
+      <h2>Featured Entries</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align:left;">Entry</th>
+            <th style="text-align:left;">Description</th>
+            <th style="text-align:left;">License</th>
+            <th style="text-align:left;">Thumbnail</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ featured_rows }}
+        </tbody>
+      </table>
+    </section>
+  {%- endif -%}
+
   <section style="margin-top:1.5rem;">
     <h2>Entries under this grouping</h2>
 

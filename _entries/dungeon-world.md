@@ -1,6 +1,7 @@
 ---
 layout: entry
 title: "Dungeon World"
+featured-entry: yes
 permalink: /dungeon-world/
 entry:
   category_of_entry: Work
