@@ -60,5 +60,56 @@ layout: default
     </table>
   </section>
 
+  <section style="margin-top:1.5rem;">
+    <h2>Entries under this grouping</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align:left;">Entry</th>
+          <th style="text-align:left;">Relationship</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%- assign found = false -%}
+        {%- assign printed_entries = "" -%}
+        {%- for entry in site.entries -%}
+          {%- if entry.groupings -%}
+            {%- for g in entry.groupings -%}
+              {%- assign grouping_name = g.grouping | default: g -%}
+              {%- assign is_match = false -%}
+              {%- if grouping_name == page.title -%}
+                {%- assign is_match = true -%}
+              {%- elsif subcategories and subcategories.size > 0 -%}
+                {%- for sub in subcategories -%}
+                  {%- if grouping_name == sub.title -%}
+                    {%- assign is_match = true -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- endif -%}
+              {%- if is_match and printed_entries contains entry.url -%}
+                {%- assign is_match = false -%}
+              {%- endif -%}
+              {%- if is_match -%}
+                {%- assign found = true -%}
+                {%- assign printed_entries = printed_entries | append: entry.url | append: "|" -%}
+                <tr>
+                  <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
+                  <td>{{ g.is_or_about_grouping | default: "—" }}</td>
+                </tr>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        {%- endfor -%}
+
+        {%- unless found -%}
+          <tr>
+            <td colspan="2"><em>No entries listed.</em></td>
+          </tr>
+        {%- endunless -%}
+      </tbody>
+    </table>
+  </section>
+
   {{ content }}
 </article>
