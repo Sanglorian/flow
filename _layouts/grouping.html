@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    {%- if page.short_description -%}
+      <p class="post-meta" style="margin-top:.5rem;">
+        {{ page.short_description }}
+      </p>
+    {%- endif -%}
+  </header>
+
+  {%- if page.main_description -%}
+    <section style="margin-top:1rem;">
+      {{ page.main_description | markdownify }}
+    </section>
+  {%- endif -%}
+
+  <section style="margin-top:1.25rem;">
+    <h2>Details</h2>
+    <table>
+      <tbody>
+        {%- if page.parent_grouping -%}
+          <tr>
+            <th style="text-align:left;">Parent Grouping</th>
+            <td>{{ page.parent_grouping }}</td>
+          </tr>
+        {%- endif -%}
+
+        <tr>
+          <th style="text-align:left;">Subcategories</th>
+          <td>
+            <ul>
+              {%- assign subcategories = site.pages | where: "layout", "grouping" | where: "parent_grouping", page.title -%}
+              {%- if subcategories and subcategories.size > 0 -%}
+                {%- for sub in subcategories -%}
+                  <li><a href="{{ sub.url | relative_url }}">{{ sub.title }}</a></li>
+                {%- endfor -%}
+              {%- else -%}
+                <li><em>No subcategories listed.</em></li>
+              {%- endif -%}
+            </ul>
+          </td>
+        </tr>
+
+        {%- if page.wikidata -%}
+          <tr>
+            <th style="text-align:left;">Wikidata Code</th>
+            <td>
+              <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
+                {{ page.wikidata }}
+              </a>
+            </td>
+          </tr>
+        {%- endif -%}
+      </tbody>
+    </table>
+  </section>
+
+  {{ content }}
+</article>
