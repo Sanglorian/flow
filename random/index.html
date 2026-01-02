@@ -1,3 +1,8 @@
+---
+layout: none
+permalink: /random/
+---
+
 {% assign pages = site.entries %}
-{% assign index = "now" | date: "%s" | modulo: pages.size %}
-<meta http-equiv="refresh" content="0; url={{ pages[index].url | relative_url }}">
+{% assign i = "now" | date: "%s" | modulo: pages.size %}
+<meta http-equiv="refresh" content="0; url={{ pages[i].url | relative_url }}">
