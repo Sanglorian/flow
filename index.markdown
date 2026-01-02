@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home
 ---
+
+# Free and Open Works
+
+Welcome to the Free and Open Works collection. Browse the catalog, or head over to the blog for updates.

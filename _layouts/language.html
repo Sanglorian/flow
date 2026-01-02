@@ -47,7 +47,7 @@ layout: default
   {%- endif -%}
 
   <section style="margin-top:1.5rem;">
-    <h2>Works in {{ page.title }}</h2>
+    <h2>Entries in {{ page.title }}</h2>
 
     <ul>
       {%- assign found = false -%}
@@ -69,36 +69,8 @@ layout: default
       {%- endfor -%}
 
       {%- unless found -%}
-        <li><em>No works listed.</em></li>
-      {%- endunless -%}
-    </ul>
-  </section>
+        <li><em>No entries listed.</em></li>
 
-  <section style="margin-top:1.5rem;">
-    <h2>Related Sources</h2>
-
-    <ul>
-      {%- assign found = false -%}
-      {%- for src in site.sources -%}
-        {%- if src.languages -%}
-          {%- for l in src.languages -%}
-            {%- assign lang_name = l.language | default: l -%}
-            {%- if lang_name == page.title -%}
-              {%- assign found = true -%}
-              <li>
-                <a href="{{ src.url | relative_url }}">{{ src.title }}</a>
-                {%- if l.relationship_of_language -%}
-                  — {{ l.relationship_of_language }}
-                {%- endif -%}
-              </li>
-            {%- endif -%}
-          {%- endfor -%}
-        {%- endif -%}
-      {%- endfor -%}
-
-      {%- unless found -%}
-        <li><em>No sources listed.</em></li>
-      {%- endunless -%}
     </ul>
   </section>
 

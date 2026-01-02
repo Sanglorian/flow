@@ -6,6 +6,25 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
 
+    {%- if page.badge or page.small_badge -%}
+      {%- assign thumb = page.badge | default: page.small_badge -%}
+      <div style="float:right; margin: 0 0 1rem 1rem; max-width: 240px;">
+        {%- if thumb contains "/" -%}
+          <img
+            src="{{ thumb | relative_url }}"
+            alt="{{ page.title }} badge"
+            loading="lazy"
+            style="width:100%; height:auto; border-radius:8px;"
+          />
+        {%- else -%}
+          <div style="border:1px solid #ddd; border-radius:8px; padding:.75rem;">
+            <strong>Badge:</strong> {{ thumb }}
+          </div>
+        {%- endif -%}
+      </div>
+    {%- endif -%}
+
+
     {%- if page.short_description -%}
       <p class="post-meta" style="margin-top:.5rem;">
         {{ page.short_description }}
