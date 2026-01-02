@@ -20,7 +20,18 @@ layout: default
   {%- endif -%}
 
   {%- assign grouping_pages = site.groupings -%}
-  {%- assign subcategories = grouping_pages | where: "parent_grouping", page.title -%}
+  {%- assign subcategories = "" | split: "" -%}
+  {%- for candidate in grouping_pages -%}
+    {%- if candidate.parent_grouping -%}
+      {%- assign parent_groupings = candidate.parent_grouping | split: "," -%}
+      {%- for parent_grouping in parent_groupings -%}
+        {%- assign parent_grouping_name = parent_grouping | strip -%}
+        {%- if parent_grouping_name == page.title -%}
+          {%- assign subcategories = subcategories | push: candidate -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
   {%- assign descendant_titles = "|" -%}
   {%- if subcategories and subcategories.size > 0 -%}
     {%- for sub in subcategories -%}
@@ -28,8 +39,14 @@ layout: default
     {%- endfor -%}
   {%- endif -%}
   {%- for candidate in grouping_pages -%}
-    {%- if candidate.parent_grouping and descendant_titles contains candidate.parent_grouping -%}
-      {%- assign descendant_titles = descendant_titles | append: candidate.title | append: "|" -%}
+    {%- if candidate.parent_grouping -%}
+      {%- assign parent_groupings = candidate.parent_grouping | split: "," -%}
+      {%- for parent_grouping in parent_groupings -%}
+        {%- assign parent_grouping_name = parent_grouping | strip -%}
+        {%- if descendant_titles contains parent_grouping_name -%}
+          {%- assign descendant_titles = descendant_titles | append: candidate.title | append: "|" -%}
+        {%- endif -%}
+      {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
 

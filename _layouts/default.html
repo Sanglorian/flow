@@ -8,16 +8,8 @@
     {%- include header.html -%}
 
 <main class="page-content" aria-label="Content">
-  <div class="shell">
-    <aside class="site-sidebar" aria-label="Sidebar">
-      {% include sidebar.html %}
-    </aside>
-
-    <div class="site-main" aria-label="Main content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+  <div class="wrapper">
+    {{ content }}
   </div>
 </main>
 

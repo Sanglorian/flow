@@ -6,3 +6,49 @@ title: Home
 # Free and Open Works
 
 Welcome to the Free and Open Works collection. Browse the catalog, or head over to the blog for updates.
+
+Welcome to the Free and Open Works collection. Browse the catalog, or head over to the blog for updates.
+
+<aside class="site-sidebar">
+  <section>
+    <ul>
+      <li><a href="{{ "/recent-changes/" | relative_url }}">Recent changes</a></li>
+      <li><a href="{{ "/random/" | relative_url }}">Random page</a></li>
+      <li><a href="{{ "/entries.xml" | relative_url }}">RSS feed (new entries)</a></li>
+    </ul>
+  </section>
+  
+  <section>
+    <h3>Groupings</h3>
+    <ul>
+      <li><a href="{{ '/literature/' | relative_url }}">Literature</a></li>
+      <li><a href="{{ '/tabletop-gaming/' | relative_url }}">Tabletop Gaming</a></li>
+      <li><a href="{{ '/music/' | relative_url }}">Music</a></li>
+      <li><a href="{{ '/data/' | relative_url }}">Data</a></li>
+      <li><a href="{{ '/nonfiction/' | relative_url }}">Nonfiction</a></li>
+      <li><a href="{{ '/art/' | relative_url }}">Art</a></li>
+      <li><a href="{{ '/film/' | relative_url }}">Film</a></li>
+      <li><a href="{{ '/technology/' | relative_url }}">Technology</a></li>
+      <li><a href="{{ '/software/' | relative_url }}">Software</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h3>How to contribute</h3>
+    <ul>
+      <li><a href="{{ '/contribute/' | relative_url }}">Contribution guide</a></li>
+    </ul>
+  </section>
+  
+  <section>
+    <h3>Sort by</h3>
+    <ul>
+      <li><a href="{{ "/works/" | relative_url }}">All Works</a></li>
+      <li><a href="{{ "/languages/" | relative_url }}">Languages</a></li>
+      <li><a href="{{ "/licenses/" | relative_url }}">Licenses</a></li>
+      <li><a href="{{ "/genres/" | relative_url }}">Genres</a></li>
+      <li><a href="{{ "/formats/" | relative_url }}">Formats</a></li>
+      <li><a href="{{ "/funding-tools/" | relative_url }}">Funding Tools</a></li>
+    </ul>
+  </section>
+</aside>

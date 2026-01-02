@@ -22,7 +22,7 @@ types:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 2.5"
     licence_coverage: "comics before a certain date"
-	explanation: "Formerly appeared on website: https://web.archive.org/web/20150116013633/http://www.dieselsweeties.com/archive/4000, removed some time after 2015"
+    explanation: "Formerly appeared on website: https://web.archive.org/web/20150116013633/http://www.dieselsweeties.com/archive/4000, removed some time after 2015"
 funding:
   funding_tool: "Amazon.com"
   funding_type: "sales"
@@ -30,6 +30,6 @@ funding:
 versions:
   - version_title: "Diesel Sweeties: I'm a Rocker, I Rock Out"
     version_format: "Kindle, hardcopy"
-    version_price: 14.88
+    version_price: 15
     version_url: "http://www.amazon.com/gp/product/1620100908/"
 ---
