@@ -34,7 +34,19 @@ layout: default
           <th style="text-align:left;">Subcategories</th>
           <td>
             <ul>
-              {%- assign subcategories = site.pages | where: "layout", "grouping" | where: "parent_grouping", page.title -%}
+              {%- assign grouping_pages = site.pages | where: "layout", "grouping" -%}
+              {%- assign subcategories = grouping_pages | where: "parent_grouping", page.title -%}
+              {%- assign descendant_titles = "|" -%}
+              {%- if subcategories and subcategories.size > 0 -%}
+                {%- for sub in subcategories -%}
+                  {%- assign descendant_titles = descendant_titles | append: sub.title | append: "|" -%}
+                {%- endfor -%}
+              {%- endif -%}
+              {%- for candidate in grouping_pages -%}
+                {%- if candidate.parent_grouping and descendant_titles contains candidate.parent_grouping -%}
+                  {%- assign descendant_titles = descendant_titles | append: candidate.title | append: "|" -%}
+                {%- endif -%}
+              {%- endfor -%}
               {%- if subcategories and subcategories.size > 0 -%}
                 {%- for sub in subcategories -%}
                   <li><a href="{{ sub.url | relative_url }}">{{ sub.title }}</a></li>
@@ -80,12 +92,8 @@ layout: default
               {%- assign is_match = false -%}
               {%- if grouping_name == page.title -%}
                 {%- assign is_match = true -%}
-              {%- elsif subcategories and subcategories.size > 0 -%}
-                {%- for sub in subcategories -%}
-                  {%- if grouping_name == sub.title -%}
-                    {%- assign is_match = true -%}
-                  {%- endif -%}
-                {%- endfor -%}
+              {%- elsif descendant_titles contains grouping_name -%}
+                {%- assign is_match = true -%}
               {%- endif -%}
               {%- if is_match and printed_entries contains entry.url -%}
                 {%- assign is_match = false -%}
