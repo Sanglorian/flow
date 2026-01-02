@@ -7,6 +7,8 @@ contributors:
   - Sanglorian
 short_description: Copyleft licences.
 created_by: Creative Commons
+badge: "/assets/cc-by-sa-badge.png"
+small_badge: "/assets/cc-by-sa-small-badge.png"
 license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)

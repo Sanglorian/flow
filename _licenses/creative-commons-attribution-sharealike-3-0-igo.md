@@ -7,6 +7,8 @@ contributors:
   - Sanglorian
 created_by: Creative Commons
 main_url: https://creativecommons.org/licenses/by-sa/3.0/igo/
+badge: "/assets/cc-by-sa-badge.png"
+small_badge: "/assets/cc-by-sa-small-badge.png"
 parent_license: Creative Commons Attribution-ShareAlike
 license_aspect:
   - Attribution required

@@ -7,6 +7,8 @@ contributors:
   - Sanglorian
 created_by: Creative Commons
 main_url: https://creativecommons.org/publicdomain/zero/1.0/
+badge: "/assets/cc0-badge.png"
+small_badge: "/assets/cc0-small-badge.png"
 wikidata: Q6938433
 license_certification:
   - GPL-compatible free software licence

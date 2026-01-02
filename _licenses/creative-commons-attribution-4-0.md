@@ -8,6 +8,8 @@ contributors:
 short_description: A permissive licence.
 created_by: Creative Commons
 main_url: https://creativecommons.org/licenses/by/4.0/
+badge: "/assets/cc-by-badge.png"
+small_badge: "/assets/cc-by-small-badge.png"
 parent_license: Creative Commons Attribution
 license_aspect:
   - Attribution required

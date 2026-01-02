@@ -7,6 +7,8 @@ contributors:
   - Sanglorian
 short_description: A set of permissive licences.
 created_by: Creative Commons
+badge: "/assets/cc-by-badge.png"
+small_badge: "/assets/cc-by-small-badge.png"
 license_aspect:
   - Attribution required
 license_certification:
