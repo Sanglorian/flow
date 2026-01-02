@@ -156,6 +156,13 @@ layout: default
   {%- endif -%}
 
   {%- assign child_licenses = site.licenses | where: "parent_license", page.title -%}
+  {%- assign license_titles = "" | split: "" -%}
+  {%- assign license_titles = license_titles | push: page.title -%}
+  {%- if child_licenses and child_licenses.size > 0 -%}
+    {%- for child_license in child_licenses -%}
+      {%- assign license_titles = license_titles | push: child_license.title -%}
+    {%- endfor -%}
+  {%- endif -%}
   {%- if child_licenses and child_licenses.size > 0 -%}
     <section style="margin-top:1.25rem;">
       <h2>Child licenses</h2>
@@ -174,15 +181,20 @@ layout: default
     </section>
   {%- endif -%}
   <section style="margin-top:1.5rem;">
-    <h2>Works under license</h2>
+    <h2>Content under license</h2>
 
     <ul>
       {%- assign found = false -%}
       {%- for entry in site.entries -%}
-        {%- if entry.licensing and entry.licensing.size > 0 -%}
-          {%- for license_item in entry.licensing -%}
+        {%- assign license_items = entry.licensing | default: entry.licenses -%}
+        {%- if license_items == nil and entry.license -%}
+          {%- assign license_items = "" | split: "" -%}
+          {%- assign license_items = license_items | push: entry.license -%}
+        {%- endif -%}
+        {%- if license_items and license_items.size > 0 -%}
+          {%- for license_item in license_items -%}
             {%- assign license_title = license_item.license | default: license_item.licence -%}
-            {%- if license_title == page.title -%}
+            {%- if license_titles contains license_title -%}
               {%- assign found = true -%}
               <li>
                 <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
