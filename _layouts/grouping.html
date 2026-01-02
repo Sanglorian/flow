@@ -39,15 +39,20 @@ layout: default
     <table>
       <tbody>
         {%- if page.parent_grouping -%}
-		          {%- assign parent_grouping_doc = grouping_pages | where: "title", page.parent_grouping | first -%}
           <tr>
             <th style="text-align:left;">Parent Grouping</th>
                         <td>
-              {%- if parent_grouping_doc -%}
-                <a href="{{ parent_grouping_doc.url | relative_url }}">{{ page.parent_grouping }}</a>
-              {%- else -%}
-                {{ page.parent_grouping }}
-              {%- endif -%}
+              {%- assign parent_groupings = page.parent_grouping | split: "," -%}
+              {%- for parent_grouping in parent_groupings -%}
+                {%- assign parent_grouping_name = parent_grouping | strip -%}
+                {%- assign parent_grouping_doc = grouping_pages | where: "title", parent_grouping_name | first -%}
+                {%- if parent_grouping_doc -%}
+                  <a href="{{ parent_grouping_doc.url | relative_url }}">{{ parent_grouping_name }}</a>
+                {%- else -%}
+                  {{ parent_grouping_name }}
+                {%- endif -%}
+                {%- unless forloop.last -%}, {%- endunless -%}
+              {%- endfor -%}
             </td>
           </tr>
         {%- endif -%}
@@ -168,6 +173,7 @@ layout: default
         <tr>
           <th style="text-align:left;">Entry</th>
           <th style="text-align:left;">Relationship</th>
+		            <th style="text-align:left;">Explanation</th>
         </tr>
       </thead>
       <tbody>
@@ -192,6 +198,7 @@ layout: default
                 <tr>
                   <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
                   <td>{{ g.is_or_about_grouping | default: "—" }}</td>
+				                    <td>{{ g.explanation | default: "—" }}</td>
                 </tr>
               {%- endif -%}
             {%- endfor -%}
@@ -200,7 +207,7 @@ layout: default
 
         {%- unless found -%}
           <tr>
-            <td colspan="2"><em>No entries listed.</em></td>
+            <td colspan="3"><em>No entries listed.</em></td>
           </tr>
         {%- endunless -%}
       </tbody>
