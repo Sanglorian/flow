@@ -184,7 +184,15 @@ layout: default
         <tbody>
           {%- for g in page.groupings -%}
             <tr>
-              <td>{{ g.grouping | default: g }}</td>
+              <td>
+                {%- assign grouping_name = g.grouping | default: g -%}
+                {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
+                {%- if grouping_doc -%}
+                  <a href="{{ grouping_doc.url | relative_url }}">{{ grouping_name }}</a>
+                {%- else -%}
+                  <span>{{ grouping_name }}</span>
+                {%- endif -%}
+              </td>
               <td>{{ g.is_or_about_grouping | default: "—" }}</td>
               <td>{{ g.explanation | default: "—" }}</td>
             </tr>

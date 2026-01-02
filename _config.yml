@@ -37,6 +37,8 @@ collections:
   languages:
     output: true
     permalink: /language/:name/
+  groupings:
+    output: true
   entries:
     output: true
   licenses:
