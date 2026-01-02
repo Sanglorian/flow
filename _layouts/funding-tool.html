@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    {%- if page.short_description -%}
+      <p class="post-meta" style="margin-top:.5rem;">
+        {{ page.short_description }}
+      </p>
+    {%- endif -%}
+
+    {%- if page.main_url -%}
+      <p style="margin:.5rem 0 0;">
+        <strong>Main URL:</strong>
+        <a href="{{ page.main_url }}" rel="nofollow">{{ page.main_url }}</a>
+      </p>
+    {%- endif -%}
+  </header>
+
+  {%- if page.main_description -%}
+    <section style="margin-top:1rem;">
+      <p>{{ page.main_description }}</p>
+    </section>
+  {%- endif -%}
+
+  <section style="margin-top:1.5rem;">
+    <h2>Works funded with {{ page.title }}</h2>
+
+    <ul>
+      {%- assign found = false -%}
+      {%- for entry in site.entries -%}
+        {%- if entry.funding and entry.funding.funding_tool -%}
+          {%- if entry.funding.funding_tool == page.title -%}
+            {%- assign found = true -%}
+            <li>
+              <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+              {%- if entry.funding.explanation -%}
+                — <a href="{{ entry.funding.explanation }}" rel="nofollow">Funding details</a>
+              {%- endif -%}
+            </li>
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+
+      {%- unless found -%}
+        <li><em>No works listed.</em></li>
+      {%- endunless -%}
+    </ul>
+  </section>
+</article>

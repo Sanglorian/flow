@@ -1,9 +1,9 @@
 ---
 layout: entry
 title: "Dungeon World"
-featured-entry: yes
 permalink: /dungeon-world/
 entry:
+  featured-entry: yes
   category_of_entry: Work
   short_description: "An RPG based on Apocalypse World for dungeoncrawling adventure."
   main_url: "http://www.dungeon-world.com/"

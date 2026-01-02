@@ -50,3 +50,6 @@ collections:
   licenses:
     output: true
     permalink: /license/:name/
+  funding-tools:
+    output: true
+    permalink: /funding/:name/ 
