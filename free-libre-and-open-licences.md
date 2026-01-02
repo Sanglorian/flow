@@ -6,4 +6,26 @@ Licences on this wiki that are approved by one of the four bodies are:
 
 ## For culture and content
 
+{%- assign culture_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence'" | sort: "title" -%}
+{%- if culture_licenses and culture_licenses.size > 0 -%}
+<ul>
+  {%- for license in culture_licenses -%}
+  <li><a href="{{ license.url | relative_url }}">{{ license.title }}</a></li>
+  {%- endfor -%}
+</ul>
+{%- else -%}
+<p><em>No licences listed.</em></p>
+{%- endif -%}
+
 ## For software and source code
+
+{%- assign software_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Source Definition compliant licence' or item.license_certification contains 'GPL-compatible free software licence'" | sort: "title" -%}
+{%- if software_licenses and software_licenses.size > 0 -%}
+<ul>
+  {%- for license in software_licenses -%}
+  <li><a href="{{ license.url | relative_url }}">{{ license.title }}</a></li>
+  {%- endfor -%}
+</ul>
+{%- else -%}
+<p><em>No licences listed.</em></p>
+{%- endif -%}
