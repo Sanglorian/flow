@@ -2,6 +2,7 @@
 layout: default
 title: Free, libre and open licenses
 permalink: /FLO-licenses/
+nav_exclude: true
 ---
 <article class="post">
   <header class="post-header">

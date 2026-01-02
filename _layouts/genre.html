@@ -56,25 +56,37 @@ layout: default
   <section style="margin-top:1.5rem;">
     <h2>Entries in {{ page.title }}</h2>
 
-    <ul>
-      {%- assign found = false -%}
-      {%- for entry in site.entries -%}
-        {%- if entry.genres -%}
-          {%- for g in entry.genres -%}
-            {%- assign genre_name = g.genre | default: g -%}
-            {%- if genre_name == page.title -%}
-              {%- assign found = true -%}
-              <li>
-                <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
-              </li>
-            {%- endif -%}
-          {%- endfor -%}
-        {%- endif -%}
-      {%- endfor -%}
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align:left;">Entry</th>
+          <th style="text-align:left;">Explanation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%- assign found = false -%}
+        {%- for entry in site.entries -%}
+          {%- if entry.genres -%}
+            {%- for g in entry.genres -%}
+              {%- assign genre_name = g.genre | default: g -%}
+              {%- if genre_name == page.title -%}
+                {%- assign found = true -%}
+                <tr>
+                  <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
+                  <td>{{ g.explanation | default: "—" }}</td>
+                </tr>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        {%- endfor -%}
 
-      {%- unless found -%}
-        <li><em>No entries listed.</em></li>
-      {%- endunless -%}
+        {%- unless found -%}
+          <tr>
+            <td colspan="2"><em>No entries listed.</em></td>
+          </tr>
+        {%- endunless -%}
+      </tbody>
+    </table>
     </ul>
   </section>
 
