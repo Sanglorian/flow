@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "Source Sans 3";
-  src: url("/assets/fonts/SourceSans3-VariableFont_wght.ttf") format("truetype");
+  src: url("../fonts/SourceSans3-VariableFont_wght.ttf") format("truetype");
   font-weight: 200 900;
   font-style: normal;
   font-display: swap;
@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: "Source Sans 3";
-  src: url("/assets/fonts/SourceSans3-Italic-VariableFont_wght.ttf") format("truetype");
+  src: url("../fonts/SourceSans3-Italic-VariableFont_wght.ttf") format("truetype");
   font-weight: 200 900;
   font-style: italic;
   font-display: swap;
@@ -20,11 +20,12 @@
 
 @font-face {
   font-family: "League Spartan";
-  src: url("/assets/fonts/LeagueSpartan-VariableFont_wght.ttf") format("truetype");
+  src: url("../fonts/LeagueSpartan-VariableFont_wght.ttf") format("truetype");
   font-weight: 300 900;
   font-style: normal;
   font-display: swap;
 }
+
 
 /* =========================
    4. Body typography
@@ -105,48 +106,47 @@ ul li::before {
   padding-right: 0.4em;
 }
 
-/* =========================
-   Sidebar
-   ========================= */
-
-.layout-with-sidebar {
+/* Two-column shell: sidebar + main content */
+.shell {
   display: flex;
+  align-items: flex-start;
   gap: 2rem;
 }
 
+/* Sidebar column */
 .site-sidebar {
-  width: 220px;
-  font-size: 0.95rem;
+  flex: 0 0 240px; /* fixed sidebar width */
+  width: 240px;
+  padding-left: 1rem;
 }
 
-.site-sidebar h3 {
-  font-family: "League Spartan", sans-serif;
-  font-size: 1rem;
-  margin-top: 1.25rem;
-  margin-bottom: 0.25rem;
-  color: #281819;
-}
-
-.site-sidebar ul {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-.site-sidebar li {
-  margin: 0.25rem 0;
-}
-
-/* Red links (MediaWiki-style “missing”) */
-.site-sidebar a {
-  color: #b71419;
-}
-
-.site-sidebar a:hover {
-  text-decoration: underline;
-}
-
-.main-content {
-  flex: 1;
+/* Main column takes remaining space */
+.site-main {
+  flex: 1 1 auto;
   min-width: 0;
+}
+
+/* Optional: keep sidebar visible while scrolling */
+@media (min-width: 901px) {
+  .site-sidebar {
+    position: sticky;
+    top: 1rem;
+    max-height: calc(100vh - 2rem);
+    overflow: auto;
+  }
+}
+
+/* Mobile: stack sidebar above content */
+@media (max-width: 900px) {
+  .shell {
+    flex-direction: column;
+  }
+  .site-sidebar {
+    width: auto;
+    flex: none;
+    padding: 0 1rem;
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
 }

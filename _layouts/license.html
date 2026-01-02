@@ -70,4 +70,28 @@ layout: default
       {{ page.notes | markdownify }}
     </section>
   {%- endif -%}
+  <section style="margin-top:1.5rem;">
+    <h2>Works under license</h2>
+
+    <ul>
+      {%- assign found = false -%}
+      {%- for entry in site.entries -%}
+        {%- if entry.license and entry.license.licence -%}
+          {%- if entry.license.licence == page.title -%}
+            {%- assign found = true -%}
+            <li>
+              <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+              {%- if entry.license.licence_coverage -%}
+                — {{ entry.license.licence_coverage }}
+              {%- endif -%}
+            </li>
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+
+      {%- unless found -%}
+        <li><em>No works listed.</em></li>
+      {%- endunless -%}
+    </ul>
+  </section>
 </article>
