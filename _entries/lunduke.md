@@ -8,8 +8,8 @@ contributors:
 - Sanglorian
 entry:
   category_of_entry: 
-  - source
-  -  collection
+  - Source
+  - Collection
   short_description: "A game designer and comic creator."
   main_url: "http://lunduke.com/"
 connections:

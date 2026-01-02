@@ -140,27 +140,25 @@ layout: default
           {%- capture row -%}
             <tr>
               <td>
-                  <div>
-                    <strong><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></strong>
-                    <div style="margin-top:.25rem;">{{ e.short_description | default: "—" }}</div>
-                    <div style="margin-top:.35rem;">
-                      <strong>License:</strong> {{ license_markup }}
-                    </div>
-                  </div>
-                  {%- if e.thumbnail -%}
-                    <div style="flex:0 0 120px; text-align:right;">
+                  <div>{%- if e.thumbnail -%}
+                    <div style="float:right; margin-left:12px;">
                       {%- if e.thumbnail contains "/" -%}
                         <img
                           src="{{ e.thumbnail | relative_url }}"
                           alt="{{ entry.title }} thumbnail"
                           loading="lazy"
-                          style="width:100%; height:auto; border-radius:6px;"
+                          style="width:auto; max-width:100px; height:auto; border-radius:6px; display:block"
                         />
                       {%- else -%}
                         {{ e.thumbnail }}
                       {%- endif -%}
                     </div>
 					{%- endif -%}
+                    <strong><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></strong>
+                    <div style="margin-top:.25rem;">{{ e.short_description | default: "—" }} {{ license_markup }}
+                    </div>
+                  </div>
+                  
               </td>
             </tr>
           {%- endcapture -%}
