@@ -85,7 +85,7 @@ layout: default
 
   {%- if e.main_description -%}
     <section style="margin-top:1rem;">
-      <p>{{ e.main_description }}</p>
+      {{ e.main_description | markdownify }}
     </section>
   {%- endif -%}
 

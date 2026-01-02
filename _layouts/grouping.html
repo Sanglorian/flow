@@ -105,37 +105,58 @@ layout: default
         {%- if is_match -%}
           {%- assign featured_found = true -%}
           {%- assign printed_featured_entries = printed_featured_entries | append: entry.url | append: "|" -%}
+          {%- assign license_markup = "—" -%}
+          {%- if entry.license and entry.license.licence -%}
+            {%- assign license_doc = site.licenses | where: "title", entry.license.licence | first -%}
+            {%- if license_doc -%}
+              {%- if license_doc.small_badge -%}
+                {%- if license_doc.small_badge contains "/" -%}
+                  {%- capture license_markup -%}
+                    <a href="{{ license_doc.url | relative_url }}">
+                      <img
+                        src="{{ license_doc.small_badge | relative_url }}"
+                        alt="{{ entry.license.licence }} badge"
+                        loading="lazy"
+                        style="width:88px; height:auto;"
+                      />
+                    </a>
+                  {%- endcapture -%}
+                {%- else -%}
+                  {%- capture license_markup -%}
+                    <a href="{{ license_doc.url | relative_url }}">{{ license_doc.small_badge }}</a>
+                  {%- endcapture -%}
+                {%- endif -%}
+              {%- else -%}
+                {%- capture license_markup -%}
+                  <a href="{{ license_doc.url | relative_url }}">{{ entry.license.licence }}</a>
+                {%- endcapture -%}
+              {%- endif -%}
+            {%- else -%}
+              {%- assign license_markup = entry.license.licence -%}
+            {%- endif -%}
+          {%- endif -%}
           {%- capture row -%}
             <tr>
-              <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
-              <td>{{ e.short_description | default: "—" }}</td>
-              <td>
-                {%- if entry.license and entry.license.licence -%}
-                  {%- assign license_doc = site.licenses | where: "title", entry.license.licence | first -%}
-                  {%- if license_doc -%}
-                    <a href="{{ license_doc.url | relative_url }}">{{ entry.license.licence }}</a>
-                  {%- else -%}
-                    {{ entry.license.licence }}
-                  {%- endif -%}
-                {%- else -%}
-                  —
-                {%- endif -%}
-              </td>
-              <td>
+              <td style="overflow:auto;">
                 {%- if e.thumbnail -%}
-                  {%- if e.thumbnail contains "/" -%}
-                    <img
-                      src="{{ e.thumbnail | relative_url }}"
-                      alt="{{ entry.title }} thumbnail"
-                      loading="lazy"
-                      style="width:80px; height:auto; border-radius:6px;"
-                    />
-                  {%- else -%}
-                    {{ e.thumbnail }}
-                  {%- endif -%}
-                {%- else -%}
-                  —
+                  <div style="float:right; margin:0 0 .5rem 1rem; text-align:right; width:120px;">
+                    {%- if e.thumbnail contains "/" -%}
+                      <img
+                        src="{{ e.thumbnail | relative_url }}"
+                        alt="{{ entry.title }} thumbnail"
+                        loading="lazy"
+                        style="width:100%; height:auto; border-radius:6px;"
+                      />
+                    {%- else -%}
+                      {{ e.thumbnail }}
+                    {%- endif -%}
+                  </div>
                 {%- endif -%}
+                <strong><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></strong>
+                <div style="margin-top:.25rem;">{{ e.short_description | default: "—" }}</div>
+                <div style="margin-top:.35rem;">
+                  <strong>License:</strong> {{ license_markup }}
+                </div>
               </td>
             </tr>
           {%- endcapture -%}
@@ -150,14 +171,6 @@ layout: default
       <h2>Featured Entries</h2>
 
       <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Entry</th>
-            <th style="text-align:left;">Description</th>
-            <th style="text-align:left;">License</th>
-            <th style="text-align:left;">Thumbnail</th>
-          </tr>
-        </thead>
         <tbody>
           {{ featured_rows }}
         </tbody>

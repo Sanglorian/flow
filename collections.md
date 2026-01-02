@@ -7,7 +7,7 @@ permalink: /collections/
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    {%- assign collections = site.entries | where_exp: "item", "item.entry.category_of_entry == 'Collection'" | sort: "title" -%}
+    {%- assign collections = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Collection'" | sort: "title" -%}
     <p class="post-meta">Browse {{ collections.size }} collections in the catalog.</p>
   </header>
 

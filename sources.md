@@ -7,7 +7,7 @@ permalink: /sources/
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    {%- assign sources = site.entries | where_exp: "item", "item.entry.category_of_entry == 'Source'" | sort: "title" -%}
+    {%- assign sources = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Source'" | sort: "title" -%}
     <p class="post-meta">Browse {{ sources.size }} sources in the catalog.</p>
   </header>
 
