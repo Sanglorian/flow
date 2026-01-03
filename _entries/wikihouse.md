@@ -11,7 +11,6 @@ entry:
   category_of_entry: Work
   short_description: "Build your own house."
   main_url: "http://www.wikihouse.cc/"
-  thumbnail: "/thumbnails/wikihouse.png"
 groupings:
   - grouping: "Hardware"
     is_or_about_grouping: "is"

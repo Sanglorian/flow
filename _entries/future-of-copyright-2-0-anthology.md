@@ -11,7 +11,6 @@ entry:
   short_description: "Fiction and non-fiction on the future of copyright."
   year_of_publication: 2013
   main_url: "https://web.archive.org/web/20220127151957/https://prawokultury.pl/en/news/results-of-the-future-of-copyright-20-contest/"
-  thumbnail: "Future of Copyright 20 Thumbnail.jpeg"
 connections:
   - has_connection_to_entry: "Mike Linksvayer"
     details_of_connection: "judge, voice actor"

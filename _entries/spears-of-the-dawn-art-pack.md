@@ -11,7 +11,6 @@ entry:
   category_of_entry: Work
   short_description: "These African-inspired artworks were created for the tabletop RPG Spears of the Dawn."
   main_url: "http://rpg.drivethrustuff.com/product/110838/Spears-of-the-Dawn-Art-Pack"
-  thumbnail: "/thumbnails/spears-of-the-dawn-art-pack.png"
   main_description: |-
     And the pack for an adventure: http://rpg.drivethrustuff.com/product/113884/The-House-of-Bone-and-Amber-Art-Pack
 

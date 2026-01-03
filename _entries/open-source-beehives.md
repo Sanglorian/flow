@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "Sensor enhanced hive designs for bees"
   main_url: "https://github.com/opensourcebeehives"
-  thumbnail: "/thumbnails/open-source-beehives.png"
 groupings:
   - grouping: "Technology"
     is_or_about_grouping: "is"

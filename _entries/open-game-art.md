@@ -11,7 +11,6 @@ entry:
   category_of_entry: Collection
   short_description: "A community dedicated to providing art for open source video games."
   main_url: "http://opengameart.org/"
-  thumbnail: "/thumbnails/open-game-art.png"
 groupings:
   - grouping: "3D Art"
     is_or_about_grouping: "is"

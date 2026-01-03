@@ -11,7 +11,6 @@ entry:
   category_of_entry: Collection
   short_description: "A collection of inclusive fantasy art."
   main_url: "https://opengameart.org/content/prismatic-art-collection"
-  thumbnail: "/thumbnails/prismatic-art-collection.jpg"
 genres:
   - "Fantasy"
 groupings:

@@ -11,7 +11,6 @@ entry:
   category_of_entry: Work
   short_description: "A Dixit-like multiplayer online game."
   main_url: "https://opengameart.org/content/card-stories-creativity-card-game"
-  thumbnail: "/thumbnails/card-stories.png"
   main_description: "Assets available via OpenGameArt. Code still available on GitHub: https://github.com/farsides/cardstories"
 groupings:
   - grouping: "Electronic Game"

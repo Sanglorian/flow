@@ -11,7 +11,6 @@ entry:
   category_of_entry: Collection
   short_description: "Collection of free-to-publish genre illustrations."
   main_url: "http://ucag.jw-sheldon.com/"
-  thumbnail: "/thumbnails/uncommon-adventure-gallery.png"
 groupings:
   - grouping: "Painting"
     is_or_about_grouping: "is"

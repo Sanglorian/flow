@@ -11,7 +11,6 @@ entry:
   category_of_entry: Work
   short_description: "Humanity’s Open-Source Automated Precision Farming Machine"
   main_url: "https://farm.bot/"
-  thumbnail: "/thumbnails/farmbot.png"
 groupings:
   - grouping: "Technology"
     is_or_about_grouping: "is"
