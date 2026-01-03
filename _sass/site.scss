@@ -81,45 +81,8 @@ h2 {
   font-size: 1.05rem;
 }
 
-
-/* =========================
-   7. Links & lists
-   ========================= */
-
-a {
-  color: #147cb7;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #1455b7;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-a.new,
-a.broken,
-a.broken-link {
-  color: #b71419;
-}
-
-a.new:visited,
-a.broken:visited,
-a.broken-link:visited {
-  color: #b71419;
-}
-
-
-ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-ul li::before {
-  content: "•";
-  color: #b71419;
-  font-size: 1.25em;
-  padding-right: 0.4em;
+.main-url {
+  text-align: center;
+  font-weight: 400;
+  margin-top: 0.5rem;
 }

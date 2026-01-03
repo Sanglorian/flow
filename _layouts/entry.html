@@ -73,7 +73,7 @@ layout: default
     {%- endif -%}
 
     {%- if e.main_url -%}
-      <p class="post-meta" style="margin:.5rem 0 0;">
+      <p class="main-url" style="margin:.5rem 0 0;">
         <strong>        <a href="{{ e.main_url }}" rel="nofollow">{{ e.main_url }}</a></strong>
       </p>
     {%- endif -%}
@@ -114,48 +114,38 @@ layout: default
   {%- if license_items and license_items.size > 0 -%}
     <section style="margin-top:1.25rem;">
       <h3>Licensing</h3>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Licence</th>
-            <th style="text-align:left;">Coverage</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {%- for license_item in license_items -%}
-            <tr>
-              <td>
-                {%- assign license_title = license_item.license | default: license_item.licence -%}
-                {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
-                {%- if license_doc -%}
-                  <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
+      <ul>
+        {%- for license_item in license_items -%}
+          {%- assign license_title = license_item.license | default: license_item.licence -%}
+          {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
+          {%- assign license_coverage = license_item.licence_coverage | default: license_item.license_coverage -%}
+          <li>
+            <strong>
+              {%- if license_doc -%}
+                <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
+              {%- else -%}
+                {{ license_title }}
+              {%- endif -%}
+            </strong>
+            {%- if license_coverage -%}
+              ({{ license_coverage }})
+            {%- endif -%}
+            {%- if license_item.explanation -%}
+              {%- assign explanation_text = license_item.explanation | strip -%}
+              {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
+                {%- assign explanation_parts = explanation_text | split: " " -%}
+                {%- if explanation_parts.size == 1 -%}
+                  <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
                 {%- else -%}
-                  {{ license_title | default: "—" }}
+                  {{ explanation_text }}
                 {%- endif -%}
-              </td>
-              <td>{{ license_item.licence_coverage | default: license_item.license_coverage | default: "—" }}</td>
-              <td>
-                {%- if license_item.explanation -%}
-                  {%- assign explanation_text = license_item.explanation | strip -%}
-                  {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
-                    {%- assign explanation_parts = explanation_text | split: " " -%}
-                    {%- if explanation_parts.size == 1 -%}
-                      <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
-                    {%- else -%}
-                      {{ explanation_text }}
-                    {%- endif -%}
-                  {%- else -%}
-                    {{ explanation_text }}
-                  {%- endif -%}
-                {%- else -%}
-                  —
-                {%- endif -%}
-              </td>
-            </tr>
-          {%- endfor -%}
-        </tbody>
-      </table>
+              {%- else -%}
+                {{ explanation_text }}
+              {%- endif -%}
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
     </section>
   {%- endif -%}
 
@@ -163,38 +153,27 @@ layout: default
     <section style="margin-top:1.5rem; clear:both;">
       <h2>Connections</h2>
       <h3>Outgoing</h3>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Has Link To</th>
-            <th style="text-align:left;">Relationship</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {%- for c in page.connections -%}
-            <tr>
-              <td>
-                {%- assign connection_name = c.has_connection_to_entry -%}
-                {%- assign connection_doc = site.entries | where: "title", connection_name | first -%}
-                {%- if connection_doc -%}
-                  <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
-                {%- else -%}
-                  {{ connection_name }}
-                {%- endif -%}
-              </td>
-              <td>{{ c.details_of_connection | default: "—" }}</td>
-              <td>
-                {%- if c.explanation -%}
-                  {{ c.explanation }}
-                {%- else -%}
-                  —
-                {%- endif -%}
-              </td>
-            </tr>
-          {%- endfor -%}
-        </tbody>
-      </table>
+      <ul>
+        {%- for c in page.connections -%}
+          {%- assign connection_name = c.has_connection_to_entry -%}
+          {%- assign connection_doc = site.entries | where: "title", connection_name | first -%}
+          <li>
+            <strong>
+              {%- if connection_doc -%}
+                <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
+              {%- else -%}
+                {{ connection_name }}
+              {%- endif -%}
+            </strong>
+            {%- if c.details_of_connection -%}
+              ({{ c.details_of_connection }})
+            {%- endif -%}
+            {%- if c.explanation -%}
+              {{ c.explanation }}
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
     </section>
   {%- endif -%}
 
@@ -273,91 +252,74 @@ layout: default
   {%- if page.languages and page.languages.size > 0 -%}
     <section style="margin-top:1.5rem;">
       <h2>Language</h2>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Language</th>
-            <th style="text-align:left;">Relationship</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {%- for l in page.languages -%}
-            <tr>
-              <td>
-  {%- assign lang_name = l.language | default: l -%}
-  {%- assign lang_slug = lang_name | slugify -%}
-  {%- assign lang_doc = site.languages | where: "slug", lang_slug | first -%}
-
-  {%- if lang_doc -%}
-    <a href="{{ lang_doc.url | relative_url }}">{{ lang_name }}</a>
-  {%- else -%}
-    <a href="{{ '/language/' | append: lang_slug | append: '/' | relative_url }}">{{ lang_name }}</a>
-  {%- endif -%}
-</td>
-
-              <td>{{ l.relationship_of_language | default: "—" }}</td>
-              <td>{{ l.explanation | default: "—" }}</td>
-            </tr>
-          {%- endfor -%}
-        </tbody>
-      </table>
+      <ul>
+        {%- for l in page.languages -%}
+          {%- assign lang_name = l.language | default: l -%}
+          {%- assign lang_slug = lang_name | slugify -%}
+          {%- assign lang_doc = site.languages | where: "slug", lang_slug | first -%}
+          <li>
+            <strong>
+              {%- if lang_doc -%}
+                <a href="{{ lang_doc.url | relative_url }}">{{ lang_name }}</a>
+              {%- else -%}
+                <a href="{{ '/language/' | append: lang_slug | append: '/' | relative_url }}">{{ lang_name }}</a>
+              {%- endif -%}
+            </strong>
+            {%- if l.relationship_of_language -%}
+              ({{ l.relationship_of_language }})
+            {%- endif -%}
+            {%- if l.explanation -%}
+              {{ l.explanation }}
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
     </section>
   {%- endif -%}
 
   {%- if page.groupings and page.groupings.size > 0 -%}
     <section style="margin-top:1.5rem;">
       <h2>Grouping</h2>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Grouping</th>
-            <th style="text-align:left;">Is/About</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {%- for g in page.groupings -%}
-            <tr>
-              <td>
-                {%- assign grouping_name = g.grouping | default: g -%}
-                {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
-                {%- if grouping_doc -%}
-                  <a href="{{ grouping_doc.url | relative_url }}">{{ grouping_name }}</a>
-                {%- else -%}
-                  <span>{{ grouping_name }}</span>
-                {%- endif -%}
-              </td>
-              <td>{{ g.is_or_about_grouping | default: "—" }}</td>
-              <td>{{ g.explanation | default: "—" }}</td>
-            </tr>
-          {%- endfor -%}
-        </tbody>
-      </table>
+      <ul>
+        {%- for g in page.groupings -%}
+          {%- assign grouping_name = g.grouping | default: g -%}
+          {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
+          <li>
+            <strong>
+              {%- if grouping_doc -%}
+                <a href="{{ grouping_doc.url | relative_url }}">{{ grouping_name }}</a>
+              {%- else -%}
+                <span>{{ grouping_name }}</span>
+              {%- endif -%}
+            </strong>
+            {%- if g.is_or_about_grouping -%}
+              ({{ g.is_or_about_grouping }})
+            {%- endif -%}
+            {%- if g.explanation -%}
+              {{ g.explanation }}
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
     </section>
   {%- endif -%}
 
   {%- if page.types and page.types.size > 0 -%}
     <section style="margin-top:1.5rem;">
       <h2>Type</h2>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Type</th>
-            <th style="text-align:left;">Distribution</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {%- for t in page.types -%}
-            <tr>
-              <td>{{ t.type | default: t }}</td>
-              <td>{{ t.distribution | default: "—" }}</td>
-              <td>{{ t.explanation | default: "—" }}</td>
-            </tr>
-          {%- endfor -%}
-        </tbody>
-      </table>
+      <ul>
+        {%- for t in page.types -%}
+          <li>
+            <strong>{{ t.type | default: t }}</strong>
+            {%- if t.distribution -%}
+              ({{ t.distribution }})
+            {%- endif -%}
+            {%- if t.explanation -%}
+              {{ t.explanation }}
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
     </section>
   {%- endif -%}
 
