@@ -112,66 +112,72 @@ layout: default
   </section>
 
   {%- if license_items and license_items.size > 0 -%}
-    <section style="margin-top:1.25rem;">
-      <h3>Licensing</h3>
-      <ul>
-        {%- for license_item in license_items -%}
-          {%- assign license_title = license_item.license | default: license_item.licence -%}
-          {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
-          {%- assign license_coverage = license_item.licence_coverage | default: license_item.license_coverage -%}
-          <li>
-            {%- if license_doc -%}
-              <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
+    {%- assign licensing_text = "" -%}
+    {%- for license_item in license_items -%}
+      {%- assign license_title = license_item.license | default: license_item.licence -%}
+      {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
+      {%- assign license_coverage = license_item.licence_coverage | default: license_item.license_coverage -%}
+      {%- capture license_entry -%}
+        {%- if license_doc -%}
+          <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
+        {%- else -%}
+          {{ license_title }}
+        {%- endif -%}
+        {%- if license_coverage -%}
+          <span> ({{ license_coverage }})</span>
+        {%- endif -%}
+        {%- if license_item.explanation -%}
+          {%- capture license_explanation -%}
+            {%- assign explanation_text = license_item.explanation | strip -%}
+            {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
+              {%- assign explanation_parts = explanation_text | split: " " -%}
+              {%- if explanation_parts.size == 1 -%}
+                <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
+              {%- else -%}
+                {{ explanation_text }}
+              {%- endif -%}
             {%- else -%}
-              {{ license_title }}
+              {{ explanation_text }}
             {%- endif -%}
-            {%- if license_coverage -%}
-              <span> ({{ license_coverage }})</span>
-            {%- endif -%}
-            {%- if license_item.explanation -%}
-              <span> 
-                {%- assign explanation_text = license_item.explanation | strip -%}
-                {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
-                  {%- assign explanation_parts = explanation_text | split: " " -%}
-                  {%- if explanation_parts.size == 1 -%}
-                    <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
-                  {%- else -%}
-                    {{ explanation_text }}
-                  {%- endif -%}
-                {%- else -%}
-                  {{ explanation_text }}
-                {%- endif -%}
-              </span>
-            {%- endif -%}
-          </li>
-        {%- endfor -%}
-      </ul>
+          {%- endcapture -%}
+          <span> {{ license_explanation | strip }}</span>
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if licensing_text != "" -%}
+        {%- assign licensing_text = licensing_text | append: ", " -%}
+      {%- endif -%}
+      {%- assign licensing_text = licensing_text | append: license_entry | strip -%}
+    {%- endfor -%}
+    <section style="margin-top:1.25rem;">
+      <p><strong>Licensing</strong> {{ licensing_text }}</p>
     </section>
   {%- endif -%}
 
   {%- if has_outgoing_connections -%}
+    {%- assign connection_text = "" -%}
+    {%- for c in page.connections -%}
+      {%- assign connection_name = c.has_connection_to_entry -%}
+      {%- assign connection_doc = site.entries | where: "title", connection_name | first -%}
+      {%- capture connection_entry -%}
+        {%- if connection_doc -%}
+          <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
+        {%- else -%}
+          {{ connection_name }}
+        {%- endif -%}
+        {%- if c.details_of_connection -%}
+          <span> ({{ c.details_of_connection }})</span>
+        {%- endif -%}
+        {%- if c.explanation -%}
+          <span> {{ c.explanation }}</span>
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if connection_text != "" -%}
+        {%- assign connection_text = connection_text | append: ", " -%}
+      {%- endif -%}
+      {%- assign connection_text = connection_text | append: connection_entry | strip -%}
+    {%- endfor -%}
     <section style="margin-top:1.5rem; clear:both;">
-      <h2>Connections</h2>
-      <h3>Outgoing</h3>
-      <ul>
-        {%- for c in page.connections -%}
-          {%- assign connection_name = c.has_connection_to_entry -%}
-          {%- assign connection_doc = site.entries | where: "title", connection_name | first -%}
-          <li>
-            {%- if connection_doc -%}
-              <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
-            {%- else -%}
-              {{ connection_name }}
-            {%- endif -%}
-            {%- if c.details_of_connection -%}
-              <span> ({{ c.details_of_connection }})</span>
-            {%- endif -%}
-            {%- if c.explanation -%}
-              <span> {{ c.explanation }}</span>
-            {%- endif -%}
-          </li>
-        {%- endfor -%}
-      </ul>
+      <p><strong>Connections</strong> {{ connection_text }}</p>
     </section>
   {%- endif -%}
 
@@ -215,107 +221,108 @@ layout: default
   {%- endif -%}
 
   {%- if page.genres and page.genres.size > 0 -%}
+    {%- assign genre_text = "" -%}
+    {%- for g in page.genres -%}
+      {%- if g.genre -%}
+        {%- assign genre_name = g.genre -%}
+        {%- assign genre_explanation = g.explanation -%}
+      {%- else -%}
+        {%- assign genre_name = g -%}
+        {%- assign genre_explanation = nil -%}
+      {%- endif -%}
+      {%- assign genre_slug = genre_name | slugify -%}
+      {%- capture genre_entry -%}
+        <a href="{{ '/genre/' | append: genre_slug | append: '/' | relative_url }}">{{ genre_name }}</a>
+        {%- if genre_explanation -%}
+          <span> {{ genre_explanation }}</span>
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if genre_text != "" -%}
+        {%- assign genre_text = genre_text | append: ", " -%}
+      {%- endif -%}
+      {%- assign genre_text = genre_text | append: genre_entry | strip -%}
+    {%- endfor -%}
     <section style="margin-top:1.5rem;">
-      <h2>Genre</h2>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Genre</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {%- for g in page.genres -%}
-            {%- if g.genre -%}
-              {%- assign genre_name = g.genre -%}
-              {%- assign genre_slug = genre_name | slugify -%}
-              <tr>
-                <td><a href="{{ '/genre/' | append: genre_slug | append: '/' | relative_url }}">{{ genre_name }}</a></td>
-                <td>{{ g.explanation | default: "—" }}</td>
-              </tr>
-            {%- else -%}
-              {%- assign genre_name = g -%}
-              {%- assign genre_slug = genre_name | slugify -%}
-              <tr>
-                <td><a href="{{ '/genre/' | append: genre_slug | append: '/' | relative_url }}">{{ genre_name }}</a></td>
-                <td>—</td>
-              </tr>
-            {%- endif -%}
-          {%- endfor -%}
-        </tbody>
-      </table>
+      <p>Genre {{ genre_text }}</p>
     </section>
   {%- endif -%}
 
   {%- if page.languages and page.languages.size > 0 -%}
+    {%- assign language_text = "" -%}
+    {%- for l in page.languages -%}
+      {%- assign lang_name = l.language | default: l -%}
+      {%- assign lang_slug = lang_name | slugify -%}
+      {%- assign lang_doc = site.languages | where: "slug", lang_slug | first -%}
+      {%- capture language_entry -%}
+        {%- if lang_doc -%}
+          <a href="{{ lang_doc.url | relative_url }}">{{ lang_name }}</a>
+        {%- else -%}
+          <a href="{{ '/language/' | append: lang_slug | append: '/' | relative_url }}">{{ lang_name }}</a>
+        {%- endif -%}
+        {%- if l.relationship_of_language -%}
+          <span> ({{ l.relationship_of_language }})</span>
+        {%- endif -%}
+        {%- if l.explanation -%}
+          <span> {{ l.explanation }}</span>
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if language_text != "" -%}
+        {%- assign language_text = language_text | append: ", " -%}
+      {%- endif -%}
+      {%- assign language_text = language_text | append: language_entry | strip -%}
+    {%- endfor -%}
     <section style="margin-top:1.5rem;">
-      <h2>Language</h2>
-      <ul>
-        {%- for l in page.languages -%}
-          {%- assign lang_name = l.language | default: l -%}
-          {%- assign lang_slug = lang_name | slugify -%}
-          {%- assign lang_doc = site.languages | where: "slug", lang_slug | first -%}
-          <li>
-            {%- if lang_doc -%}
-              <a href="{{ lang_doc.url | relative_url }}">{{ lang_name }}</a>
-            {%- else -%}
-              <a href="{{ '/language/' | append: lang_slug | append: '/' | relative_url }}">{{ lang_name }}</a>
-            {%- endif -%}
-            {%- if l.relationship_of_language -%}
-              <span> ({{ l.relationship_of_language }})</span>
-            {%- endif -%}
-            {%- if l.explanation -%}
-              <span> {{ l.explanation }}</span>
-            {%- endif -%}
-          </li>
-        {%- endfor -%}
-      </ul>
+      <p><strong>Language</strong> {{ language_text }}</p>
     </section>
   {%- endif -%}
 
   {%- if page.groupings and page.groupings.size > 0 -%}
+    {%- assign grouping_text = "" -%}
+    {%- for g in page.groupings -%}
+      {%- assign grouping_name = g.grouping | default: g -%}
+      {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
+      {%- capture grouping_entry -%}
+        {%- if g.is_or_about_grouping == "About" -%}
+          About<span> </span>
+        {%- endif -%}
+        {%- if grouping_doc -%}
+          <a href="{{ grouping_doc.url | relative_url }}">{{ grouping_name }}</a>
+        {%- else -%}
+          <span>{{ grouping_name }}</span>
+        {%- endif -%}
+        {%- if g.explanation -%}
+          <span> {{ g.explanation }}</span>
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if grouping_text != "" -%}
+        {%- assign grouping_text = grouping_text | append: ", " -%}
+      {%- endif -%}
+      {%- assign grouping_text = grouping_text | append: grouping_entry | strip -%}
+    {%- endfor -%}
     <section style="margin-top:1.5rem;">
-      <h2>Grouping</h2>
-      <ul>
-        {%- for g in page.groupings -%}
-          {%- assign grouping_name = g.grouping | default: g -%}
-          {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
-          <li>
-            
-              {%- if g.is_or_about_grouping == "About" -%}
-                About 
-              {%- endif -%}
-              {%- if grouping_doc -%}
-                <a href="{{ grouping_doc.url | relative_url }}">{{ grouping_name }}</a>
-              {%- else -%}
-                <span>{{ grouping_name }}</span>
-              {%- endif -%}
-            
-            {%- if g.explanation -%}
-              <span> {{ g.explanation }}</span>
-            {%- endif -%}
-          </li>
-        {%- endfor -%}
-      </ul>
+      <p><strong>Grouping</strong> {{ grouping_text }}</p>
     </section>
   {%- endif -%}
 
   {%- if page.types and page.types.size > 0 -%}
+    {%- assign type_text = "" -%}
+    {%- for t in page.types -%}
+      {%- capture type_entry -%}
+        {{ t.type | default: t }}
+        {%- if t.distribution -%}
+          <span> ({{ t.distribution }})</span>
+        {%- endif -%}
+        {%- if t.explanation -%}
+          <span> {{ t.explanation }}</span>
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if type_text != "" -%}
+        {%- assign type_text = type_text | append: ", " -%}
+      {%- endif -%}
+      {%- assign type_text = type_text | append: type_entry | strip -%}
+    {%- endfor -%}
     <section style="margin-top:1.5rem;">
-      <h2>Type</h2>
-      <ul>
-        {%- for t in page.types -%}
-          <li>
-            {{ t.type | default: t }}
-            {%- if t.distribution -%}
-              <span> ({{ t.distribution }})</span>
-            {%- endif -%}
-            {%- if t.explanation -%}
-              <span> {{ t.explanation }}</span>
-            {%- endif -%}
-          </li>
-        {%- endfor -%}
-      </ul>
+      <p><strong>Type</strong> {{ type_text }}</p>
     </section>
   {%- endif -%}
 

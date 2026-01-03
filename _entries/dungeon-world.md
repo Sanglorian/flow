@@ -55,4 +55,7 @@ versions:
   - version_title: "HTML SRD"
     version_format: "HTML"
     version_url: "http://www.dungeonworldsrd.com/"
+  - version_title: "Hardcopy and PDF"
+    version_format: "Hardcopy, PDF"
+    version_url: "https://www.burningwheel.com/dungeon-world-1/?ref=dungeon-world.com"
 ---
