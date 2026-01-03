@@ -32,8 +32,6 @@ languages:
     relationship_of_language: "official translation"
   - language: "Greek"
     relationship_of_language: "official translation"
-  - language: "English"
-    relationship_of_language: "official translation"
   - language: "Esperanto"
     relationship_of_language: "official translation"
   - language: "Spanish"
