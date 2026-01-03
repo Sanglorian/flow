@@ -146,6 +146,9 @@ layout: default
           {%- endif -%}
           {%- capture row -%}
             <article class="featured-card">
+              <h3 class="featured-title">
+                <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+              </h3>
               {%- if e.thumbnail -%}
                 {%- if e.thumbnail contains "/" -%}
                   <img
@@ -158,9 +161,6 @@ layout: default
                   {{ e.thumbnail }}
                 {%- endif -%}
               {%- endif -%}
-              <h3 class="featured-title">
-                <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
-              </h3>
               <div class="featured-description">
                 {{ e.short_description | default: "—" }} {{ license_markup }}
               </div>

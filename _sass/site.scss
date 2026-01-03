@@ -115,12 +115,22 @@ h2 {
   height: auto;
   border-radius: 6px;
  float:right; 
+  width: auto;
 }
 
 .entry-thumbnail {
  float:right; 
  margin: 0 0 1rem 1rem; 
- max-width: 240px;}
+ max-width: 100px;
+}
+
+.entry-thumbnail-image {
+  max-width: 100px;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
 
 .featured-title {
   margin: 0;
