@@ -95,7 +95,7 @@ h2 {
 
 .featured-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 1rem;
   margin-top: 1rem;
 }
@@ -111,11 +111,16 @@ h2 {
 }
 
 .featured-thumbnail {
-  width: 100%;
+  max-width: 100px;
   height: auto;
   border-radius: 6px;
-  display: block;
+ float:right; 
 }
+
+.entry-thumbnail {
+ float:right; 
+ margin: 0 0 1rem 1rem; 
+ max-width: 240px;}
 
 .featured-title {
   margin: 0;

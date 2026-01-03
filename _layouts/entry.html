@@ -52,7 +52,7 @@ layout: default
 
     {%- if e.thumbnail -%}
       {%- assign thumb = e.thumbnail -%}
-      <div style="float:right; margin: 0 0 1rem 1rem; max-width: 240px;">
+      <div class="entry-thumbnail">
         {%- if thumb contains "/" -%}
           <img
             src="{{ thumb | relative_url }}"
@@ -153,32 +153,28 @@ layout: default
     </section>
   {%- endif -%}
 
+  {%- assign connections_list = "" -%}
   {%- if has_outgoing_connections -%}
-    {%- assign connection_text = "" -%}
     {%- for c in page.connections -%}
       {%- assign connection_name = c.has_connection_to_entry -%}
       {%- assign connection_doc = site.entries | where: "title", connection_name | first -%}
       {%- capture connection_entry -%}
-        {%- if connection_doc -%}
-          <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
-        {%- else -%}
-          {{ connection_name }}
-        {%- endif -%}
-        {%- if c.details_of_connection -%}
-          <span> ({{ c.details_of_connection }})</span>
-        {%- endif -%}
-        {%- if c.explanation -%}
-          <span class="explanation"> {{ c.explanation }}</span>
-        {%- endif -%}
+        <li>
+          {%- if connection_doc -%}
+            <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
+          {%- else -%}
+            {{ connection_name }}
+          {%- endif -%}
+          {%- if c.details_of_connection -%}
+            <span> ({{ c.details_of_connection }})</span>
+          {%- endif -%}
+          {%- if c.explanation -%}
+            <span class="explanation"> {{ c.explanation }}</span>
+          {%- endif -%}
+        </li>
       {%- endcapture -%}
-      {%- if connection_text != "" -%}
-        {%- assign connection_text = connection_text | append: ", " -%}
-      {%- endif -%}
-      {%- assign connection_text = connection_text | append: connection_entry | strip -%}
+      {%- assign connections_list = connections_list | append: connection_entry | strip -%}
     {%- endfor -%}
-    <section style="margin-top:1.5rem; clear:both;">
-      <p><strong>Connections</strong> {{ connection_text }}</p>
-    </section>
   {%- endif -%}
 
   {%- assign inbound_text = "" -%}
@@ -187,26 +183,30 @@ layout: default
       {%- for connection in entry.connections -%}
         {%- if connection.has_connection_to_entry == page.title -%}
           {%- capture inbound_entry -%}
-            {%- if connection.details_of_connection -%}
-              {{ connection.details_of_connection }} 
-            {%- endif -%}
-            <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
-            {%- if connection.explanation -%}
-              <span class="explanation"> {{ connection.explanation }}</span>
-            {%- endif -%}
+            <li>
+              {%- if connection.details_of_connection -%}
+                <span>{{ connection.details_of_connection }}</span>&nbsp;
+              {%- endif -%}
+              <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+              {%- if connection.explanation -%}
+                <span class="explanation"> {{ connection.explanation }}</span>
+              {%- endif -%}
+            </li>
           {%- endcapture -%}
-          {%- if inbound_text != "" -%}
-            {%- assign inbound_text = inbound_text | append: ", " -%}
-          {%- endif -%}
           {%- assign inbound_text = inbound_text | append: inbound_entry | strip -%}
         {%- endif -%}
       {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
 
-  {%- if inbound_text != "" -%}
-    <section style="margin-top:1.5rem;">
-      <p><strong>Incoming Connections</strong> {{ inbound_text }}</p>
+  {%- assign connections_list = connections_list | append: inbound_text | strip -%}
+
+  {%- if connections_list != "" -%}
+    <section style="margin-top:1.5rem; clear:both;">
+      <h3>Connections</h3>
+      <ul>
+        {{ connections_list }}
+      </ul>
     </section>
   {%- endif -%}
 
