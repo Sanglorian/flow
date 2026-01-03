@@ -181,42 +181,32 @@ layout: default
     </section>
   {%- endif -%}
 
-  {%- assign inbound_rows = "" -%}
+  {%- assign inbound_text = "" -%}
   {%- for entry in site.entries -%}
     {%- if entry.connections -%}
       {%- for connection in entry.connections -%}
         {%- if connection.has_connection_to_entry == page.title -%}
-          {%- capture inbound_rows -%}
-            {{ inbound_rows }}
-            <tr>
-              <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
-              <td>{{ connection.details_of_connection | default: "—" }}</td>
-              <td><span class="explanation">{{ connection.explanation | default: "—" }}</span></td>
-            </tr>
+          {%- capture inbound_entry -%}
+            {%- if connection.details_of_connection -%}
+              {{ connection.details_of_connection }} 
+            {%- endif -%}
+            <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+            {%- if connection.explanation -%}
+              <span class="explanation"> {{ connection.explanation }}</span>
+            {%- endif -%}
           {%- endcapture -%}
+          {%- if inbound_text != "" -%}
+            {%- assign inbound_text = inbound_text | append: ", " -%}
+          {%- endif -%}
+          {%- assign inbound_text = inbound_text | append: inbound_entry | strip -%}
         {%- endif -%}
       {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
 
-  {%- if inbound_rows != "" -%}
+  {%- if inbound_text != "" -%}
     <section style="margin-top:1.5rem;">
-      {%- unless has_outgoing_connections -%}
-        <h2>Connections</h2>
-      {%- endunless -%}
-      <h3>Incoming</h3>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Linked From</th>
-            <th style="text-align:left;">Relationship</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {{ inbound_rows }}
-        </tbody>
-      </table>
+      <p><strong>Incoming Connections</strong> {{ inbound_text }}</p>
     </section>
   {%- endif -%}
 
@@ -326,53 +316,43 @@ layout: default
     </section>
   {%- endif -%}
 
-    {%- if funding_items and funding_items.size > 0 -%}
+  {%- if funding_items and funding_items.size > 0 -%}
+    {%- assign funding_text = "" -%}
+    {%- for funding_item in funding_items -%}
+      {%- capture funding_entry -%}
+        {%- if funding_item.funding_tool -%}
+          {%- assign funding_name = funding_item.funding_tool -%}
+          {%- assign funding_slug = funding_name | slugify -%}
+          <a href="{{ '/funding/' | append: funding_slug | append: '/' | relative_url }}">{{ funding_name }}</a>
+        {%- else -%}
+          —
+        {%- endif -%}
+        {%- if funding_item.funding_type -%}
+          <span> ({{ funding_item.funding_type }})</span>
+        {%- endif -%}
+        {%- if funding_item.explanation -%}
+          {%- assign explanation_text = funding_item.explanation | strip -%}
+          <span class="explanation">
+            {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
+              {%- assign explanation_parts = explanation_text | split: " " -%}
+              {%- if explanation_parts.size == 1 -%}
+                <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
+              {%- else -%}
+                {{ explanation_text }}
+              {%- endif -%}
+            {%- else -%}
+              {{ explanation_text }}
+            {%- endif -%}
+          </span>
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- if funding_text != "" -%}
+        {%- assign funding_text = funding_text | append: ", " -%}
+      {%- endif -%}
+      {%- assign funding_text = funding_text | append: funding_entry | strip -%}
+    {%- endfor -%}
     <section style="margin-top:1.5rem;">
-      <h2>Funding</h2>
- <table>
-        <thead>
-          <tr>
-            <th style="text-align:left;">Funding Tool</th>
-            <th style="text-align:left;">Funding Type</th>
-            <th style="text-align:left;">Explanation</th>
-          </tr>
-        </thead>
-        <tbody>
-          {%- for funding_item in funding_items -%}
-            <tr>
-              <td>
-                {%- if funding_item.funding_tool -%}
-                  {%- assign funding_name = funding_item.funding_tool -%}
-                  {%- assign funding_slug = funding_name | slugify -%}
-                  <a href="{{ '/funding/' | append: funding_slug | append: '/' | relative_url }}">{{ funding_name }}</a>
-                {%- else -%}
-                  —
-                {%- endif -%}
-              </td>
-              <td>{{ funding_item.funding_type | default: "—" }}</td>
-              <td>
-                {%- if funding_item.explanation -%}
-                  {%- assign explanation_text = funding_item.explanation | strip -%}
-                  <span class="explanation">
-                    {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
-                      {%- assign explanation_parts = explanation_text | split: " " -%}
-                      {%- if explanation_parts.size == 1 -%}
-                        <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
-                      {%- else -%}
-                        {{ explanation_text }}
-                      {%- endif -%}
-                    {%- else -%}
-                      {{ explanation_text }}
-                    {%- endif -%}
-                  </span>
-                {%- else -%}
-                  —
-                {%- endif -%}
-              </td>
-            </tr>
-          {%- endfor -%}
-        </tbody>
-      </table>
+      <p><strong>Funding</strong> {{ funding_text }}</p>
     </section>
   {%- endif -%}
 
