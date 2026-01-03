@@ -17,9 +17,14 @@ layout: default
   {%- endif -%}
   {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
   {%- assign has_flo_license = false -%}
+  {%- assign has_public_domain_license = false -%}
   {%- if license_items and license_items.size > 0 -%}
     {%- for license_item in license_items -%}
       {%- assign license_title = license_item.license | default: license_item.licence -%}
+      {%- assign license_title_downcase = license_title | downcase -%}
+      {%- if license_title_downcase contains "public domain" -%}
+        {%- assign has_public_domain_license = true -%}
+      {%- endif -%}
       {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
       {%- if license_doc and license_doc.license_certification and license_doc.license_certification.size > 0 -%}
         {%- for cert in license_doc.license_certification -%}
@@ -40,6 +45,10 @@ layout: default
       {%- if has_flo_license -%}
         <div class="FLO-work" style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
           At least part of this work or collection is under a <a href="/FLO-licenses/">free, libre and open license</a>.
+        </div>
+      {%- elsif has_public_domain_license -%}
+        <div class="public-domain-work" style="margin-top:.75rem; border:2px solid #f59f00; padding:.75rem; border-radius:8px;">
+          The public domain varies from country-to-country, and there are concerns about "declaring" something to be public domain.
         </div>
       {%- else -%}
         <div class="non-FLO-work" style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
@@ -407,11 +416,12 @@ layout: default
     </section>
   {%- endif -%}
 
-  {%- if content and content != "" -%}
+  {%- assign notes_content = content | strip -%}
+  {%- if notes_content != "" -%}
     <section style="margin-top:1.5rem;">
       <h2>Notes</h2>
       <div class="post-content">
-        {{ content }}
+        {{ notes_content }}
       </div>
     </section>
   {%- endif -%}

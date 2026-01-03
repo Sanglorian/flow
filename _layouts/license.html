@@ -174,10 +174,11 @@ layout: default
     </section>
   {%- endif -%}
 
-  {%- if page.notes -%}
+  {%- assign notes_text = page.notes | default: "" | strip -%}
+  {%- if notes_text != "" -%}
     <section style="margin-top:1.25rem;">
       <h2>Notes</h2>
-      {{ page.notes | markdownify }}
+      {{ notes_text | markdownify }}
     </section>
   {%- endif -%}
   <section style="margin-top:1.5rem;">
