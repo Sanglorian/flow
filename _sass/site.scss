@@ -92,3 +92,36 @@ h2 {
   font-weight: 400;
   margin-top: 0.5rem;
 }
+
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.featured-card {
+  border: 1px solid #d7d7d7;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.featured-thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.featured-title {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.featured-description {
+  margin-top: 0.25rem;
+}

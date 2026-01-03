@@ -145,29 +145,26 @@ layout: default
             {%- endif -%}
           {%- endif -%}
           {%- capture row -%}
-            <tr>
-              <td>
-                  <div>{%- if e.thumbnail -%}
-                    <div style="float:right; margin-left:12px;">
-                      {%- if e.thumbnail contains "/" -%}
-                        <img
-                          src="{{ e.thumbnail | relative_url }}"
-                          alt="{{ entry.title }} thumbnail"
-                          loading="lazy"
-                          style="width:auto; max-width:100px; height:auto; border-radius:6px; display:block"
-                        />
-                      {%- else -%}
-                        {{ e.thumbnail }}
-                      {%- endif -%}
-                    </div>
-					{%- endif -%}
-                    <strong><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></strong>
-                    <div style="margin-top:.25rem;">{{ e.short_description | default: "—" }} {{ license_markup }}
-                    </div>
-                  </div>
-                  
-              </td>
-            </tr>
+            <article class="featured-card">
+              {%- if e.thumbnail -%}
+                {%- if e.thumbnail contains "/" -%}
+                  <img
+                    class="featured-thumbnail"
+                    src="{{ e.thumbnail | relative_url }}"
+                    alt="{{ entry.title }} thumbnail"
+                    loading="lazy"
+                  />
+                {%- else -%}
+                  {{ e.thumbnail }}
+                {%- endif -%}
+              {%- endif -%}
+              <h3 class="featured-title">
+                <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+              </h3>
+              <div class="featured-description">
+                {{ e.short_description | default: "—" }} {{ license_markup }}
+              </div>
+            </article>
           {%- endcapture -%}
           {%- assign featured_rows = featured_rows | append: row -%}
         {%- endif -%}
@@ -179,11 +176,9 @@ layout: default
     <section style="margin-top:1.5rem;">
       <h2>Featured Entries</h2>
 
-      <table>
-        <tbody>
-          {{ featured_rows }}
-        </tbody>
-      </table>
+      <div class="featured-grid">
+        {{ featured_rows }}
+      </div>
     </section>
   {%- endif -%}
 
