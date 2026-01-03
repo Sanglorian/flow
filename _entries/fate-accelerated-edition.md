@@ -3,7 +3,7 @@ layout: entry
 title: "Fate Accelerated Edition"
 permalink: /fate-accelerated-edition/
 created_at: 2015-05-28
-updated_at: 2026-01-02T22:05:00+11:00
+updated_at: 2026-01-03T22:05:00+11:00
 contributors:
   - Sanglorian
 entry:
@@ -20,9 +20,10 @@ groupings:
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    explanation: "Text only. Dual-licensed with OGL to give users more options."
+    licence_coverage: "Text only"
+    explanation: "Dual-licensed with OGL to give users more options."
   - license: "Open Game License"
-    explanation: "Text only."
+    licence-coverage: "Text only."
 versions:
   - version_title: "Offical FATE SRDs"
     version_format: "HTML"

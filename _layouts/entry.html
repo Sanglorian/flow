@@ -281,7 +281,7 @@ layout: default
           {%- assign grouping_name = g.grouping | default: g -%}
           {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
           <li>
-            <strong>
+            
               {%- if g.is_or_about_grouping == "About" -%}
                 About 
               {%- endif -%}
@@ -290,7 +290,7 @@ layout: default
               {%- else -%}
                 <span>{{ grouping_name }}</span>
               {%- endif -%}
-            </strong>
+            
             {%- if g.explanation -%}
               <span> {{ g.explanation }}</span>
             {%- endif -%}
