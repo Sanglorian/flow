@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    {%- if page.short_description -%}
+      <p class="post-meta" style="margin-top:.5rem;">
+        {{ page.short_description }}
+      </p>
+    {%- endif -%}
+  </header>
+
+  {%- if page.main_description -%}
+    <section style="margin-top:1rem;">
+      <p>{{ page.main_description }}</p>
+    </section>
+  {%- endif -%}
+
+  <section style="margin-top:1.5rem;">
+    <h2>Entries of type {{ page.title }}</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align:left;">Entry</th>
+          <th style="text-align:left;">Distribution</th>
+          <th style="text-align:left;">Explanation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%- assign found = false -%}
+        {%- for entry in site.entries -%}
+          {%- if entry.types -%}
+            {%- for t in entry.types -%}
+              {%- assign type_name = t.type | default: t -%}
+              {%- if type_name == page.title -%}
+                {%- assign found = true -%}
+                <tr>
+                  <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
+                  <td>{{ t.distribution | default: "—" }}</td>
+                  <td>{{ t.explanation | default: "—" }}</td>
+                </tr>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        {%- endfor -%}
+
+        {%- unless found -%}
+          <tr>
+            <td colspan="3"><em>No entries listed.</em></td>
+          </tr>
+        {%- endunless -%}
+      </tbody>
+    </table>
+  </section>
+</article>

@@ -58,3 +58,6 @@ collections:
   genres:
     output: true
     permalink: /genre/:name/
+  types:
+   output: true
+   permalink: /type/:name/
