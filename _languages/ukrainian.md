@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Ukrainian
 wikidata: Q8798
 created_at: 2015-10-10T23:48:34Z

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: French
 short_description: "A language."
 wikidata: Q150

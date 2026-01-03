@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Argentine Spanish
 short_description: "See also [Spanish](/language/spanish/)"
 wikidata: Q899213

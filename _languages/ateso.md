@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Ateso
 wikidata: Q29474
 created_at: 2015-10-10T23:13:49Z

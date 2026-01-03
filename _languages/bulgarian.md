@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Bulgarian
 short_description: "A language."
 wikidata: Q7918

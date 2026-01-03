@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Alur
 short_description: "A dialect of [Southern Luo](/language/southern-luo/)"
 wikidata: Q56507

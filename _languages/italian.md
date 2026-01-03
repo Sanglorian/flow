@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Italian
 short_description: "A language."
 wikidata: Q7237580

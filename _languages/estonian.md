@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Estonian
 short_description: "A language."
 wikidata: Q8424612

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Odia
 short_description: "A language."
 wikidata: Q33810

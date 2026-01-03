@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Malagasy
 wikidata: Q7930
 created_at: 2015-10-10T23:36:16Z

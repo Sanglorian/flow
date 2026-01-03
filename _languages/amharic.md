@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Amharic
 wikidata: Q28244
 created_at: 2015-10-10T23:12:52Z

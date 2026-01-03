@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Lakota
 wikidata: Q33537
 created_at: 2015-09-23T03:50:41Z

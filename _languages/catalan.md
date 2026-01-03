@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Catalan
 wikidata: Q7026
 created_at: 2015-09-23T03:43:38Z

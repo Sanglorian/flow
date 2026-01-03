@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Spanish
 short_description: "A language."
 wikidata: Q7237581

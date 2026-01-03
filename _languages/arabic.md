@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Arabic
 short_description: "A language."
 wikidata: Q7142653

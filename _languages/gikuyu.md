@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Gikuyu
 wikidata: Q33587
 created_at: 2015-10-10T23:17:28Z

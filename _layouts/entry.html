@@ -36,6 +36,18 @@ layout: default
   {%- endif -%}
 
   <header class="post-header">
+    {%- if category_value contains "Work" or category_value contains "Collection" -%}
+      {%- if has_flo_license -%}
+        <div class="FLO-work" style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
+          At least part of this work or collection is under a <a href="/FLO-licenses/">free, libre and open license</a>.
+        </div>
+      {%- else -%}
+        <div class="non-FLO-work" style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
+          This may not be under a <a href="/FLO-licenses/">free, libre or open license</a>.
+        </div>
+      {%- endif -%}
+    {%- endif -%}
+
     <h1 class="post-title">{{ page.title }}</h1>
 
     {%- if e.thumbnail -%}
@@ -58,18 +70,6 @@ layout: default
 
     {%- if e.short_description -%}
       <p class="post-meta" style="margin-top:.5rem;">{{ e.short_description }}</p>
-    {%- endif -%}
-
-    {%- if category_value contains "Work" or category_value contains "Collection" -%}
-      {%- if has_flo_license -%}
-        <div class="FLO-work" style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
-          At least part of this work is under a <a href="/FLO-licenses/">free, libre and open license</a>.
-        </div>
-      {%- else -%}
-        <div class="non-FLO-work" style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
-          This may not be under a <a href="/FLO-licenses/">free, libre or open license</a>.
-        </div>
-      {%- endif -%}
     {%- endif -%}
 
     {%- if e.main_url -%}

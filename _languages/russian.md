@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: Russian
 wikidata: Q7737
 created_at: 2015-10-10T23:30:12Z

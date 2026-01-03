@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: language
 title: German
 wikidata: Q188
 created_at: 2015-07-23T02:49:41Z
