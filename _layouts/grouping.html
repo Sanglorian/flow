@@ -220,7 +220,7 @@ layout: default
                 <tr>
                   <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
                   <td>{{ g.is_or_about_grouping | default: "—" }}</td>
-				                    <td>{{ g.explanation | default: "—" }}</td>
+				                    <td><span class="explanation">{{ g.explanation | default: "—" }}</span></td>
                 </tr>
               {%- endif -%}
             {%- endfor -%}

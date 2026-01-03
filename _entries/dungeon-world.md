@@ -52,10 +52,13 @@ versions:
     version_url: "http://rpg.drivethrustuff.com/product/108028/Dungeon-World"
   - version_title: "HTML, EPUB and PDF versions"
     version_url: "http://book.dwgazetteer.com/"
+    version_price: 0
   - version_title: "HTML SRD"
     version_format: "HTML"
     version_url: "http://www.dungeonworldsrd.com/"
+    version_price: 0
   - version_title: "Hardcopy and PDF"
     version_format: "Hardcopy, PDF"
     version_url: "https://www.burningwheel.com/dungeon-world-1/?ref=dungeon-world.com"
+    version_price: 25
 ---

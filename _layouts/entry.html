@@ -140,7 +140,7 @@ layout: default
               {{ explanation_text }}
             {%- endif -%}
           {%- endcapture -%}
-          <span> {{ license_explanation | strip }}</span>
+          <span class="explanation"> {{ license_explanation | strip }}</span>
         {%- endif -%}
       {%- endcapture -%}
       {%- if licensing_text != "" -%}
@@ -168,7 +168,7 @@ layout: default
           <span> ({{ c.details_of_connection }})</span>
         {%- endif -%}
         {%- if c.explanation -%}
-          <span> {{ c.explanation }}</span>
+          <span class="explanation"> {{ c.explanation }}</span>
         {%- endif -%}
       {%- endcapture -%}
       {%- if connection_text != "" -%}
@@ -191,7 +191,7 @@ layout: default
             <tr>
               <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
               <td>{{ connection.details_of_connection | default: "—" }}</td>
-              <td>{{ connection.explanation | default: "—" }}</td>
+              <td><span class="explanation">{{ connection.explanation | default: "—" }}</span></td>
             </tr>
           {%- endcapture -%}
         {%- endif -%}
@@ -234,7 +234,7 @@ layout: default
       {%- capture genre_entry -%}
         <a href="{{ '/genre/' | append: genre_slug | append: '/' | relative_url }}">{{ genre_name }}</a>
         {%- if genre_explanation -%}
-          <span> {{ genre_explanation }}</span>
+          <span class="explanation"> {{ genre_explanation }}</span>
         {%- endif -%}
       {%- endcapture -%}
       {%- if genre_text != "" -%}
@@ -263,7 +263,7 @@ layout: default
           <span> ({{ l.relationship_of_language }})</span>
         {%- endif -%}
         {%- if l.explanation -%}
-          <span> {{ l.explanation }}</span>
+          <span class="explanation"> {{ l.explanation }}</span>
         {%- endif -%}
       {%- endcapture -%}
       {%- if language_text != "" -%}
@@ -291,7 +291,7 @@ layout: default
           <span>{{ grouping_name }}</span>
         {%- endif -%}
         {%- if g.explanation -%}
-          <span> {{ g.explanation }}</span>
+          <span class="explanation"> {{ g.explanation }}</span>
         {%- endif -%}
       {%- endcapture -%}
       {%- if grouping_text != "" -%}
@@ -313,7 +313,7 @@ layout: default
           <span> ({{ t.distribution }})</span>
         {%- endif -%}
         {%- if t.explanation -%}
-          <span> {{ t.explanation }}</span>
+          <span class="explanation"> {{ t.explanation }}</span>
         {%- endif -%}
       {%- endcapture -%}
       {%- if type_text != "" -%}
@@ -353,16 +353,19 @@ layout: default
               <td>
                 {%- if funding_item.explanation -%}
                   {%- assign explanation_text = funding_item.explanation | strip -%}
-                  {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
-                    {%- assign explanation_parts = explanation_text | split: " " -%}
-                    {%- if explanation_parts.size == 1 -%}
-                      <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
+                  <span class="explanation">
+                    {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
+                      {%- assign explanation_parts = explanation_text | split: " " -%}
+                      {%- if explanation_parts.size == 1 -%}
+                        <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
+                      {%- else -%}
+                        {{ explanation_text }}
+                      {%- endif -%}
                     {%- else -%}
                       {{ explanation_text }}
                     {%- endif -%}
-                  {%- else -%}
-                    {{ explanation_text }}
-                  {%- endif -%}                {%- else -%}
+                  </span>
+                {%- else -%}
                   —
                 {%- endif -%}
               </td>
@@ -416,7 +419,7 @@ layout: default
                   —
                 {%- endif -%}
               </td>
-              <td>{{ v.explanation | default: "—" }}</td>
+              <td><span class="explanation">{{ v.explanation | default: "—" }}</span></td>
             </tr>
           {%- endfor -%}
         </tbody>

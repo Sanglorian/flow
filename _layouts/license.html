@@ -202,7 +202,7 @@ layout: default
                   — {{ license_item.licence_coverage | default: license_item.license_coverage }}
                 {%- endif -%}
 			                {%- if license_item.explanation -%}
-                  — {{ license_item.explanation }}
+                  <span class="explanation">— {{ license_item.explanation }}</span>
                 {%- endif -%}
               </li>
             {%- endif -%}

@@ -73,7 +73,7 @@ layout: default
                 {%- assign found = true -%}
                 <tr>
                   <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
-                  <td>{{ g.explanation | default: "—" }}</td>
+                  <td><span class="explanation">{{ g.explanation | default: "—" }}</span></td>
                 </tr>
               {%- endif -%}
             {%- endfor -%}

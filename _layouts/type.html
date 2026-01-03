@@ -41,7 +41,7 @@ layout: default
                 <tr>
                   <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
                   <td>{{ t.distribution | default: "—" }}</td>
-                  <td>{{ t.explanation | default: "—" }}</td>
+                  <td><span class="explanation">{{ t.explanation | default: "—" }}</span></td>
                 </tr>
               {%- endif -%}
             {%- endfor -%}
