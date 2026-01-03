@@ -73,9 +73,8 @@ layout: default
     {%- endif -%}
 
     {%- if e.main_url -%}
-      <p style="margin:.5rem 0 0;">
-        <strong>Main URL:</strong>
-        <a href="{{ e.main_url }}" rel="nofollow">{{ e.main_url }}</a>
+      <p class="post-meta" style="margin:.5rem 0 0;">
+        <strong>        <a href="{{ e.main_url }}" rel="nofollow">{{ e.main_url }}</a></strong>
       </p>
     {%- endif -%}
   </header>
