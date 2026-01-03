@@ -87,33 +87,26 @@ layout: default
   {%- endif -%}
 
   <section style="margin-top:1.25rem;">
-    <h2>Details</h2>
-    <table>
-      <tbody>
+    <h2>{{ category_display }}</h2>
+ 
         {%- if e.subtitle -%}
-          <tr><th style="text-align:left;">Subtitle</th><td>{{ e.subtitle }}</td></tr>
-        {%- endif -%}
-
-        {%- if category_value -%}
-          <tr><th style="text-align:left;">Category</th><td>{{ category_display }}</td></tr>
+          <p><strong>Subtitle </strong>{{ e.subtitle }}</p>
         {%- endif -%}
 
         {%- if e.year_of_publication -%}
-          <tr><th style="text-align:left;">Year of Publication</th><td>{{ e.year_of_publication }}</td></tr>
+          <p><strong>Year of Publication </strong>{{ e.year_of_publication }}</p>
         {%- endif -%}
 
         {%- if e.alias -%}
-          <tr><th style="text-align:left;">Alias</th><td>{{ e.alias }}</td></tr>
+          <p><strong>Aliases</strong>{{ e.alias }}</p>
         {%- endif -%}
 
         {%- if e.wikidata_code or page.wikidata_code -%}
           {%- assign wikidata_code = e.wikidata_code | default: page.wikidata_code -%}
-          <tr>
-            <th style="text-align:left;">Wikidata</th>
-            <td>
+          <p><strong>Wikidata </strong>
+            
               <a href="https://www.wikidata.org/wiki/{{ wikidata_code }}" rel="nofollow">{{ wikidata_code }}</a>
-            </td>
-          </tr>
+            </p>
         {%- endif -%}
       </tbody>
     </table>
