@@ -120,28 +120,28 @@ layout: default
           {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
           {%- assign license_coverage = license_item.licence_coverage | default: license_item.license_coverage -%}
           <li>
-            <strong>
-              {%- if license_doc -%}
-                <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
-              {%- else -%}
-                {{ license_title }}
-              {%- endif -%}
-            </strong>
+            {%- if license_doc -%}
+              <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
+            {%- else -%}
+              {{ license_title }}
+            {%- endif -%}
             {%- if license_coverage -%}
-              ({{ license_coverage }})
+              <span> ({{ license_coverage }})</span>
             {%- endif -%}
             {%- if license_item.explanation -%}
-              {%- assign explanation_text = license_item.explanation | strip -%}
-              {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
-                {%- assign explanation_parts = explanation_text | split: " " -%}
-                {%- if explanation_parts.size == 1 -%}
-                  <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
+              <span> 
+                {%- assign explanation_text = license_item.explanation | strip -%}
+                {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
+                  {%- assign explanation_parts = explanation_text | split: " " -%}
+                  {%- if explanation_parts.size == 1 -%}
+                    <a href="{{ explanation_text }}" rel="nofollow">{{ explanation_text }}</a>
+                  {%- else -%}
+                    {{ explanation_text }}
+                  {%- endif -%}
                 {%- else -%}
                   {{ explanation_text }}
                 {%- endif -%}
-              {%- else -%}
-                {{ explanation_text }}
-              {%- endif -%}
+              </span>
             {%- endif -%}
           </li>
         {%- endfor -%}
@@ -158,18 +158,16 @@ layout: default
           {%- assign connection_name = c.has_connection_to_entry -%}
           {%- assign connection_doc = site.entries | where: "title", connection_name | first -%}
           <li>
-            <strong>
-              {%- if connection_doc -%}
-                <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
-              {%- else -%}
-                {{ connection_name }}
-              {%- endif -%}
-            </strong>
+            {%- if connection_doc -%}
+              <a href="{{ connection_doc.url | relative_url }}">{{ connection_name }}</a>
+            {%- else -%}
+              {{ connection_name }}
+            {%- endif -%}
             {%- if c.details_of_connection -%}
-              ({{ c.details_of_connection }})
+              <span> ({{ c.details_of_connection }})</span>
             {%- endif -%}
             {%- if c.explanation -%}
-              {{ c.explanation }}
+              <span> {{ c.explanation }}</span>
             {%- endif -%}
           </li>
         {%- endfor -%}
@@ -258,18 +256,16 @@ layout: default
           {%- assign lang_slug = lang_name | slugify -%}
           {%- assign lang_doc = site.languages | where: "slug", lang_slug | first -%}
           <li>
-            <strong>
-              {%- if lang_doc -%}
-                <a href="{{ lang_doc.url | relative_url }}">{{ lang_name }}</a>
-              {%- else -%}
-                <a href="{{ '/language/' | append: lang_slug | append: '/' | relative_url }}">{{ lang_name }}</a>
-              {%- endif -%}
-            </strong>
+            {%- if lang_doc -%}
+              <a href="{{ lang_doc.url | relative_url }}">{{ lang_name }}</a>
+            {%- else -%}
+              <a href="{{ '/language/' | append: lang_slug | append: '/' | relative_url }}">{{ lang_name }}</a>
+            {%- endif -%}
             {%- if l.relationship_of_language -%}
-              ({{ l.relationship_of_language }})
+              <span> ({{ l.relationship_of_language }})</span>
             {%- endif -%}
             {%- if l.explanation -%}
-              {{ l.explanation }}
+              <span> {{ l.explanation }}</span>
             {%- endif -%}
           </li>
         {%- endfor -%}
@@ -286,17 +282,17 @@ layout: default
           {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
           <li>
             <strong>
+              {%- if g.is_or_about_grouping == "About" -%}
+                About 
+              {%- endif -%}
               {%- if grouping_doc -%}
                 <a href="{{ grouping_doc.url | relative_url }}">{{ grouping_name }}</a>
               {%- else -%}
                 <span>{{ grouping_name }}</span>
               {%- endif -%}
             </strong>
-            {%- if g.is_or_about_grouping -%}
-              ({{ g.is_or_about_grouping }})
-            {%- endif -%}
             {%- if g.explanation -%}
-              {{ g.explanation }}
+              <span> {{ g.explanation }}</span>
             {%- endif -%}
           </li>
         {%- endfor -%}
@@ -310,12 +306,12 @@ layout: default
       <ul>
         {%- for t in page.types -%}
           <li>
-            <strong>{{ t.type | default: t }}</strong>
+            {{ t.type | default: t }}
             {%- if t.distribution -%}
-              ({{ t.distribution }})
+              <span> ({{ t.distribution }})</span>
             {%- endif -%}
             {%- if t.explanation -%}
-              {{ t.explanation }}
+              <span> {{ t.explanation }}</span>
             {%- endif -%}
           </li>
         {%- endfor -%}
