@@ -3,7 +3,7 @@ layout: entry
 title: "David Revoy"
 permalink: /david-revoy/
 created_at: 2015-07-23
-updated_at: 2026-01-02T22:05:00+11:00
+updated_at: 2026-02-04T17:38:00+11:00
 contributors:
 - Sanglorian
 entry:
