@@ -17,8 +17,11 @@ permalink: /licenses/
 
   <h2>Free, libre and open licenses</h2>
   <p>
-    These licenses are certified as <a href="{{ "/free-libre-and-open-licences/" | relative_url }}">free, libre and open</a>.
-  </p>
+
+<p><strong>Free, libre and open licences</strong>, <strong>free and open licences</strong> or <strong>FLO licences</strong> are copyright licences that have only free and open terms.</p>
+<p>Four different bodies maintain lists of approved FLO licences: the Open Source Initiative, the Free Software Foundation, the Open Knowledge Foundation and the Free Culture Foundation. There are subtle differences in how these bodies determine whether a work is free/libre/open, but essentially agreement on whether a licence is free/libre/open.</p>
+<p>Licences on this wiki that are approved by one of the four bodies are:</p>
+
   <ul>
     {%- for license in flo_licenses -%}
       {%- assign entry_count = 0 -%}
@@ -53,7 +56,7 @@ permalink: /licenses/
   </ul>
 
   <h2>Non-free, libre and open licenses</h2>
-<p>These licenses may not be <a href="{{ "/free-libre-and-open-licences/" | relative_url }}">free, libre and open</a>.</p>
+<p>These licenses may not be free, libre and open.</p>
   <ul>
     {%- for license in non_flo_licenses -%}
       {%- assign entry_count = 0 -%}
