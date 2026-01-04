@@ -14,6 +14,8 @@ entry:
   main_url: "http://www.bradsucks.net/"
   main_description: "Brad Sucks makes the full source of his songs available for remixing, sampling and the like."
   wikidata_code: Q896869
+groupings:
+  - grouping: "Music"
 connections:
   - has_connection_to_entry: "Jamendo"
 ---

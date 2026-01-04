@@ -12,7 +12,7 @@ entry:
   short_description: "Build your own house."
   main_url: "http://www.wikihouse.cc/"
 groupings:
-  - grouping: "Hardware"
+  - grouping: "Technology"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

@@ -8,8 +8,10 @@ contributors:
 - Sanglorian
 entry:
   featured-entry: yes
-  category_of_entry: Person
+  category_of_entry: Source
   short_description: "‘Their sound is not unlike a band of swaggering Lotharios caught between yesteryear and today.’"
   main_url: "http://www.lorenzosmusic.com/"
   main_description: "[Download their collection gratis](http://www.jamendo.com/en/artist/340710/lorenzo-s-music)."
+groupings:
+  - grouping: "Music"
 ---
