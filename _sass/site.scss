@@ -120,7 +120,6 @@ h2 {
   background: #fff;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
 }
 
 .featured-thumbnail {
@@ -152,15 +151,50 @@ h2 {
 
 .featured-description {
   margin-top: 0.25rem;
+  font-size: 0.8rem;
 }
 
-.text-button {
+.text-button-license {
   display: inline-block;
-  font-size: 0.8em;
+  font-size: 0.7em;
+  border: 1px solid #666;
+  background-color: #f2f2f2;
+  color: #111;
+  padding: 0.05rem 0.35rem;
+  border-radius: 0;
+  margin: 0 0.2rem 0.2rem 0;
+}
+
+.text-button-license-nolink {
+  display: inline-block;
+  font-size: 0.7em;
+  border: 1px solid #666;
+  background-color: #f2f2f2;     /* light grey */
+  color: #8b0000;                /* dark red text */
+  padding: 0.05rem 0.35rem;
+  border-radius: 0;
+  margin: 0 0.2rem 0.2rem 0;
+}
+
+
+.text-button-grouping {
+  display: inline-block;
+  font-size: 0.6em;
   border: 1px solid #c76b00;
   background-color: #ffe2b5;
   color: #5a3200;
   padding: 0.05rem 0.35rem;
-  border-radius: 999px;
+  border-radius: 0;
+  margin: 0 0.2rem 0.2rem 0;
+}
+
+.text-button-grouping-nolink {
+  display: inline-block;
+  font-size: 0.6em;
+  border: 1px solid #c76b00;
+  background-color: #ffe2b5;
+  color: #5a3200;
+  padding: 0.05rem 0.35rem;
+  border-radius: 0;
   margin: 0 0.2rem 0.2rem 0;
 }
