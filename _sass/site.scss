@@ -186,9 +186,9 @@ h2 {
 .text-button-grouping {
   display: inline-block;
   font-size: 0.6em;
-  border: 1px solid #c76b00;
-  background-color: #ffe2b5;
-  color: #5a3200;
+  border: 1px solid #4a6b82;      /* grey-blue border */
+  background-color: #e6eef4;     /* pale grey-blue background */
+  color: #2f4f66;                /* dark grey-blue text */
   padding: 0.05rem 0.35rem;
   border-radius: 0;
   margin: 0 0.2rem 0.2rem 0;
@@ -197,13 +197,14 @@ h2 {
 .text-button-grouping-nolink {
   display: inline-block;
   font-size: 0.6em;
-  border: 1px solid #c76b00;
-  background-color: #ffe2b5;
-  color: #8b0000;                /* dark red text */
+  border: 1px solid #4a6b82;      /* same grey-blue border */
+  background-color: #e6eef4;     /* same grey-blue background */
+  color: #8b0000;                /* dark red text (unchanged) */
   padding: 0.05rem 0.35rem;
   border-radius: 0;
   margin: 0 0.2rem 0.2rem 0;
 }
+
 
 .featured-card p {
   margin-bottom: 0;
