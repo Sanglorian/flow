@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution-ShareAlike 3.0 (France)
+abbreviation: CC BY-SA
 created_at: 2015-10-11T01:20:16Z
 updated_at: 2015-10-11T01:20:16Z
 contributors:

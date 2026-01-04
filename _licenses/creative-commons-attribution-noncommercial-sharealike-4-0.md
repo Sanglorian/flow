@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+abbreviation: CC BY-NC-SA
 created_at: 2015-08-05T07:47:05Z
 updated_at: 2015-08-05T07:47:05Z
 contributors:

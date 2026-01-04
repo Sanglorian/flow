@@ -1,6 +1,7 @@
 ---
 layout: license
 title: CC0 1.0 Universal
+abbreviation: CC0
 created_at: 2015-07-22T09:10:15Z
 updated_at: 2015-09-02T04:51:52Z
 contributors:

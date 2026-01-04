@@ -1,6 +1,7 @@
 ---
 layout: license
 title: GNU Free Documentation License 1.3
+abbreviation: GNU FDL
 created_at: 2015-10-11T01:55:20Z
 updated_at: 2015-10-11T01:55:20Z
 contributors:

@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution 3.0 (Australia)
+abbreviation: CC BY
 created_at: 2015-09-21T13:12:32Z
 updated_at: 2015-09-21T13:12:32Z
 contributors:

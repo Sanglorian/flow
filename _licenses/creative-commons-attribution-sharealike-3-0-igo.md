@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution-ShareAlike 3.0 (IGO)
+abbreviation: CC BY-SA
 created_at: 2015-09-21T13:55:41Z
 updated_at: 2015-09-21T13:55:41Z
 contributors:

@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution-NoDerivatives 3.0 (Unported)
+abbreviation: CC BY-ND
 created_at: 2015-10-11T00:39:55Z
 updated_at: 2015-10-11T00:40:47Z
 contributors:

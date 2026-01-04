@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution-ShareAlike 3.0 (Unported)
+abbreviation: CC BY-SA
 created_at: 2014-09-29T03:05:40Z
 updated_at: 2014-09-29T03:05:40Z
 contributors:

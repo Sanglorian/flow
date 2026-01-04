@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution 3.0 (New Zealand)
+abbreviation: CC BY
 created_at: 2015-10-11T01:24:24Z
 updated_at: 2015-10-11T01:24:24Z
 contributors:

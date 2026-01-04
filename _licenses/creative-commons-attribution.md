@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Creative Commons Attribution
+abbreviation: CC BY
 created_at: 2014-09-29T01:46:57Z
 updated_at: 2015-07-23T00:07:29Z
 contributors:

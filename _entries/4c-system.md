@@ -19,10 +19,9 @@ connections:
     explanation: "of the Libre Edition"
 genres:
   - "Superhero"
+  - "Clone"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
-  - grouping: "Clone"
     is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
