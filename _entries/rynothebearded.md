@@ -3,7 +3,7 @@ layout: entry
 title: "Rynothebearded"
 permalink: /rynothebearded/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

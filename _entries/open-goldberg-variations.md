@@ -3,7 +3,7 @@ layout: entry
 title: "Open Goldberg Variations"
 permalink: /open-goldberg-variations/
 created_at: 2015-05-29
-updated_at: 2019-05-11
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

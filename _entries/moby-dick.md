@@ -3,7 +3,7 @@ layout: entry
 title: "Moby-Dick"
 permalink: /moby-dick/
 created_at: 2015-08-01
-updated_at: 2015-10-07
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

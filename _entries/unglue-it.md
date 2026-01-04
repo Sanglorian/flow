@@ -3,7 +3,7 @@ layout: entry
 title: "unglue.it"
 permalink: /unglue-it/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -20,9 +20,9 @@ entry:
 
     Has the option to sort by licence:
 
-    * [CC BY-SA](https://unglue.it/creativecommons/by-sa)
-    * [CC BY](https://unglue.it/creativecommons/by)
-    * [CC0](https://unglue.it/creativecommons/cc0)
+    * [CC BY-SA](https://unglue.it/free/all/by-sa/?order_by=newest)
+    * [CC BY](https://unglue.it/free/all/by/?order_by=newest)
+    * [CC0](https://unglue.it/free/all/cc0/?order_by=newest)
 
     "What if you could give a book to everyone on earth? Get an ebook and read it on any device, in any format, forever? Give an ebook to your library, for them to share? Own DRM-free ebooks, legally? Read free ebooks, and know their creators had been fairly paid?
 

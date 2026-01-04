@@ -3,7 +3,7 @@ layout: entry
 title: "Spears of the Dawn Art Pack"
 permalink: /spears-of-the-dawn-art-pack/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-05
 contributors:
   - Sanglorian
 entry:

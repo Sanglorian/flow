@@ -3,19 +3,13 @@ layout: entry
 title: "Wuffle Comics"
 permalink: /wuffle-comics/
 created_at: 2015-05-28
-updated_at: 2017-07-15
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
   category_of_entry: Work
   short_description: "Adventures of a kind-hearted wolf."
-  main_url: "http://www.wufflecomics.com/"
-  main_description: |-
-    * [PDF of Year 1 (gratis)](https://gumroad.com/l/wufflebook1)
-    * [PDF of Year 2 (gratis)](https://www.dropbox.com/s/ci5fad8iy05n5dv/WuffleYear2.zip)
-    * [Tumblr of the comic](http://wufflecomic.tumblr.com/)
-    * [Hardcopy of Year 1 (not gratis)](http://wufflecomics.storenvy.com/)
-
+  main_url: "https://wufflecomics.tumblr.com/comic"
 groupings:
   - grouping: "Comics"
 licensing:

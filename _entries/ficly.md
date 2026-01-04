@@ -3,7 +3,7 @@ layout: entry
 title: "Ficly"
 permalink: /ficly/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "Taming Fire"
 permalink: /taming-fire/
 created_at: 2015-06-03
-updated_at: 2015-10-08
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -11,7 +11,7 @@ entry:
   category_of_entry: Work
   subtitle: "The Dragonprince's Legacy, #1"
   short_description: "The first book in an epic fantasy series."
-  main_url: "http://www.consortiumokc.com/books/taming-fire/"
+  main_url: "https://www.aaronpogue.com/"
   main_description: |-
     "Daven Carrickson grew up as a beggar in the filthy alleys beneath the shadows of the palace. He’s the son of a known thief, disgraced and despised. His only real talent is his ability with a sword, and his only real chance at finding honor or a home is a desperate dream of joining the King’s Guard.
 
@@ -35,6 +35,9 @@ types:
     distribution: "electronic"
   - type: "Book"
     distribution: "hardcopy"
+funding:
+  - funding-model: "Amazon"
+  - explanation: https://www.amazon.com/Taming-Fire-Dragonprinces-Legacy-Book-ebook/dp/B07PV2VSRV
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"

@@ -3,7 +3,7 @@ layout: entry
 title: "Stick's Masterpiece"
 permalink: /sticks-masterpiece/
 created_at: 2015-08-01
-updated_at: 2019-03-08
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 - 69.171.154.34
@@ -12,7 +12,7 @@ entry:
   category_of_entry: Work
   short_description: "A whimsical children's picturebook."
   year_of_publication: 2013
-  main_url: "http://brotherswhim.com/sticks-masterpiece-creative-commons-childrens-book"
+  main_url: "https://web.archive.org/web/20190324135557/http://brotherswhim.com/sticks-masterpiece-creative-commons-childrens-book"
   main_description: |-
     "Cute, little Stick learns that while she may not know how to paint a masterpiece, she can do small and simple things. These small and simple things, composed over a lifetime, are what become her masterpiece. And the result is more beautiful than she could have imagined.
 
@@ -25,14 +25,14 @@ genres:
 languages:
   - language: "English"
     relationship_of_language: "original"
-  - language: "Arabic, Dutch, Mandarin"
+  - language: "Dutch"
     relationship_of_language: "official translation"
 groupings:
   - grouping: "Picturebooks"
     is_or_about_grouping: "is"
-  - grouping: "Pictures"
+  - grouping: "Raster Art"
     is_or_about_grouping: "is"
-    explanation: "The pictures without text are also available."
+    explanation: "The pictures without text are also available. https://www.flickr.com/photos/98925832@N05/albums/72157634658067470/"
   - grouping: "Literature"
 types:
   - type: "Book"
@@ -47,17 +47,14 @@ funding:
   funding_tool: "Website"
   funding_type: "sales"
 versions:
-  - version_title: "In Arabic"
+  - version_title: "Internet Archive"
     version_price: 0
-    version_url: "http://brotherswhim.com/sticks-masterpiece-translated-arabic"
+    version_url: "https://archive.org/details/SticksMasterpiecePdf"
   - version_title: "In a variety of formats"
     version_format: "EPUB, PDF, MOBI, KINDLE, MP4, JPG"
     version_price: 0
-    version_url: "http://brotherswhim.com/sticks-masterpiece-creative-commons-childrens-book"
-  - version_title: "In Dutch"
+    version_url: "https://web.archive.org/web/20200219235219/http://brotherswhim.com/sticks-masterpiece-creative-commons-childrens-book"
+  - version_title: "In Dutch, video"
     version_price: 0
-    version_url: "http://brotherswhim.com/sticks-masterpiece-translated-into-dutch"
-  - version_title: "In Mandarin"
-    version_price: 0
-    version_url: "https://growmommy.com/download/"
+    version_url: "https://www.youtube.com/watch?v=EOv3swWMLqA"
 ---

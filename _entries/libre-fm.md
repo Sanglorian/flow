@@ -3,15 +3,18 @@ layout: entry
 title: "Libre.fm"
 permalink: /libre-fm/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-05-01
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
-  category_of_entry: Collection
+  category_of_entry: Work
   main_url: "http://alpha.libre.fm/"
+  main-description: "Formerly hosted music. Now software that tracks what music you listen to."
 groupings:
   - grouping: "Music"
+    is-about: "About"
+  - grouping: Software
 licensing:
-  - explanation: "A range of licences."
+  - licence: GNU Affero General Public License 3.0
+  - explanation: "https://github.com/libre-fm/gnu-fm-changes"
 ---

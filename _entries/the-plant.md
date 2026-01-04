@@ -3,7 +3,7 @@ layout: entry
 title: "The Plant"
 permalink: /the-plant/
 created_at: 2014-10-07
-updated_at: 2015-09-21
+updated_at: 2026-01-05
 contributors:
   - Sanglorian
 entry:
@@ -11,7 +11,7 @@ entry:
   category_of_entry: Work
   short_description: "A solo RPG where you play someone crawling around the innards of a power plant."
   year_of_publication: 2009
-  main_url: "http://www.bullypulpitgames.com/fairplay/2009/10/23/the-plant/"
+  main_url: "https://archive.org/details/ThePlant/ThePlant/page/n1/mode/2up
   thumbnail: "/thumbnails/the-plant.jpg"
 connections:
   - has_connection_to_entry: "Bully Pulpit Games"
@@ -36,5 +36,10 @@ versions:
   - version_title: "Jason Morningstar’s The Plant version 1.0"
     version_format: "PDF"
     version_price: 0
-    version_url: "http://www.bullypulpitgames.com/fairplay/2009/10/23/the-plant/"
+    version_url: "https://archive.org/details/ThePlant/ThePlant/page/n1/mode/2up"
+versions:
+  - version_title: "Web version"
+    version_format: "HTML"
+    version_price: 0
+    version_url: "https://github.com/aeakett/the_plant"
 ---
