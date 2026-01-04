@@ -53,89 +53,205 @@ layout: default
     </section>
   {%- endif -%}
 
+  {%- assign genre_entries = "" | split: "" -%}
+  {%- assign printed_entries = "" -%}
+  {%- for entry in site.entries -%}
+    {%- if entry.genres -%}
+      {%- assign is_match = false -%}
+      {%- for g in entry.genres -%}
+        {%- assign genre_name = g.genre | default: g -%}
+        {%- if genre_name == page.title -%}
+          {%- assign is_match = true -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- if is_match and printed_entries contains entry.url -%}
+        {%- assign is_match = false -%}
+      {%- endif -%}
+      {%- if is_match -%}
+        {%- assign printed_entries = printed_entries | append: entry.url | append: "|" -%}
+        {%- assign genre_entries = genre_entries | push: entry -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign genre_entries = genre_entries | sort: "title" -%}
+
+  <p class="post-meta">Browse {{ genre_entries.size }} entries in the catalog.</p>
+
 
   {%- assign flo_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence' or item.license_certification contains 'Open Source Definition compliant licence' or item.license_certification contains 'GPL-compatible free software licence'" -%}
   {%- assign flo_license_titles = flo_licenses | map: "title" -%}
   
-  <section style="margin-top:1.5rem;">
-    <h2>Entries in {{ page.title }}</h2>
+<section style="margin-top:1.5rem;">
+  <h2>Entries in {{ page.title }}</h2>
 
-    {%- assign flo_found = false -%}
-    {%- assign non_flo_found = false -%}
-    {%- assign flo_rows = "" -%}
-    {%- assign non_flo_rows = "" -%}
-    {%- for entry in site.entries -%}
-      {%- if entry.genres -%}
-        {%- for g in entry.genres -%}
-          {%- assign genre_name = g.genre | default: g -%}
-          {%- if genre_name == page.title -%}
-            {%- assign is_flo_entry = false -%}
-            {%- if entry.licensing and entry.licensing.size > 0 -%}
-              {%- for license in entry.licensing -%}
-                {%- assign license_title = license.license | default: license.licence -%}
-                {%- if license_title == "Public domain" or flo_license_titles contains license_title -%}
-                  {%- assign is_flo_entry = true -%}
-                {%- endif -%}
-              {%- endfor -%}
-            {%- endif -%}
-            {%- capture row -%}
-              <tr>
-                <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
-                <td><span class="explanation">{{ g.explanation | default: "—" }}</span></td>
-              </tr>
-            {%- endcapture -%}
-            {%- if is_flo_entry -%}
-              {%- assign flo_found = true -%}
-              {%- assign flo_rows = flo_rows | append: row -%}
-            {%- else -%}
-              {%- assign non_flo_found = true -%}
-              {%- assign non_flo_rows = non_flo_rows | append: row -%}
-            {%- endif -%}
+  {%- assign flo_found = false -%}
+  {%- assign flo_featured_found = false -%}
+  {%- assign flo_non_featured_found = false -%}
+  {%- assign non_flo_found = false -%}
+
+  {%- assign flo_featured_rows = "" -%}
+  {%- assign flo_rows = "" -%}
+  {%- assign non_flo_rows = "" -%}
+
+  {%- for entry in genre_entries -%}
+    {%- assign entry_detail = entry.entry | default: entry -%}
+
+    {%- assign is_featured_entry = false -%}
+    {%- if entry_detail["featured-entry"] -%}
+      {%- assign is_featured_entry = true -%}
+    {%- endif -%}
+
+    {%- assign license_items = entry.licensing | default: entry.licenses -%}
+    {%- if license_items == nil and entry.license -%}
+      {%- assign license_items = "" | split: "" -%}
+      {%- assign license_items = license_items | push: entry.license -%}
+    {%- endif -%}
+
+    {%- assign is_flo_entry = false -%}
+    {%- if license_items and license_items.size > 0 -%}
+      {%- for license_item in license_items -%}
+        {%- assign license_title = license_item.license | default: license_item.licence | default: license_item -%}
+        {%- if license_title == "Public domain" or flo_license_titles contains license_title -%}
+          {%- assign is_flo_entry = true -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+
+    {%- capture row -%}
+      <article class="featured-card">
+        {%- if entry_detail.thumbnail -%}
+          {%- if entry_detail.thumbnail contains "/" -%}
+            <img
+              class="featured-thumbnail"
+              src="{{ entry_detail.thumbnail | relative_url }}"
+              alt="{{ entry.title }} thumbnail"
+              loading="lazy"
+            />
+          {%- else -%}
+            {{ entry_detail.thumbnail }}
           {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%}
+
+        <h4 class="featured-title">
+          <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+        </h4>
+
+        <div class="featured-groupings">
+          {%- if entry.groupings -%}
+            {%- for grouping in entry.groupings -%}
+              {%- assign grouping_name = grouping.grouping | default: grouping -%}
+              {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
+              {%- if grouping_doc -%}
+                <a href="{{ grouping_doc.url | relative_url }}">
+                  <span class="text-button-grouping">{{ grouping_name }}</span>
+                </a>
+              {%- else -%}
+                <span class="text-button-grouping-nolink">{{ grouping_name }}</span>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- else -%}
+            —
+          {%- endif -%}
+        </div>
+
+        <div class="featured-description">
+          <p>
+            {{ entry_detail.short_description | default: "—" }}
+
+            {%- if license_items and license_items.size > 0 -%}
+              <span class="featured-licenses">
+                {%- assign seen_license_parents = "" | split: "" -%}
+                {%- for license_item in license_items -%}
+                  {%- assign license_title = license_item.license | default: license_item.licence | default: license_item -%}
+                  {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
+                  {%- assign license_parent = license_title -%}
+                  {%- if license_doc and license_doc.parent_license -%}
+                    {%- assign license_parent = license_doc.parent_license -%}
+                  {%- endif -%}
+
+                  {%- unless seen_license_parents contains license_parent -%}
+                    {%- assign seen_license_parents = seen_license_parents | push: license_parent -%}
+
+                    {%- if license_doc -%}
+                      {%- if license_doc.small_badge -%}
+                        {%- if license_doc.small_badge contains "/" -%}
+                          <a href="{{ license_doc.url | relative_url }}">
+                            <img
+                              src="{{ license_doc.small_badge | relative_url }}"
+                              alt="{{ license_title }} badge"
+                              loading="lazy"
+                              style="width:88px; height:auto;"
+                            />
+                          </a>
+                        {%- else -%}
+                          <a href="{{ license_doc.url | relative_url }}">
+                            <span class="text-button-license">{{ license_doc.small_badge }}</span>
+                          </a>
+                        {%- endif -%}
+                      {%- elsif license_doc.abbreviation -%}
+                        <a href="{{ license_doc.url | relative_url }}">
+                          <span class="text-button-license">{{ license_doc.abbreviation }}</span>
+                        </a>
+                      {%- else -%}
+                        <a href="{{ license_doc.url | relative_url }}">
+                          <span class="text-button-license">{{ license_title }}</span>
+                        </a>
+                      {%- endif -%}
+                    {%- else -%}
+                      <span class="text-button-license-nolink">{{ license_title }}</span>
+                    {%- endif -%}
+                  {%- endunless -%}
+                {%- endfor -%}
+              </span>
+            {%- endif -%}
+          </p>
+        </div>
+      </article>
+    {%- endcapture -%}
+
+    {%- if is_flo_entry -%}
+      {%- assign flo_found = true -%}
+      {%- if is_featured_entry -%}
+        {%- assign flo_featured_found = true -%}
+        {%- assign flo_featured_rows = flo_featured_rows | append: row -%}
+      {%- else -%}
+        {%- assign flo_non_featured_found = true -%}
+        {%- assign flo_rows = flo_rows | append: row -%}
       {%- endif -%}
-    {%- endfor -%}
+    {%- else -%}
+      {%- assign non_flo_found = true -%}
+      {%- assign non_flo_rows = non_flo_rows | append: row -%}
+    {%- endif -%}
+  {%- endfor -%}
 
-    <h3>FLO licensed or public domain</h3>
-	
-    <table>
-      <thead>
-        <tr>
-          <th style="text-align:left;">Entry</th>
-          <th style="text-align:left;">Explanation</th>
-        </tr>
-      </thead>
-      <tbody>
-        {%- if flo_found -%}
-          {{ flo_rows }}
-        {%- else -%}
-          <tr>
-            <td colspan="2"><em>No entries listed.</em></td>
-          </tr>
-        {%- endif -%}
-      </tbody>
-    </table>
+  <h2>Free, libre and open licensed or public domain</h2>
+  {%- if flo_found -%}
+    {%- if flo_featured_found -%}
+      <div class="featured-grid">
+        {{ flo_featured_rows }}
+      </div>
+    {%- endif -%}
 
+    {%- if flo_featured_found and flo_non_featured_found -%}
+      <hr style="margin:0.75rem 0;">
+    {%- endif -%}
 
-    <h3>Non-FLO licensed</h3>
-    <table>
-      <thead>
-        <tr>
-          <th style="text-align:left;">Entry</th>
-          <th style="text-align:left;">Explanation</th>
-        </tr>
-      </thead>
-      <tbody>
-        {%- if non_flo_found -%}
-          {{ non_flo_rows }}
-        {%- else -%}
-          <tr>
-            <td colspan="2"><em>No entries listed.</em></td>
-          </tr>
-        {%- endif -%}
-      </tbody>
-    </table>
-    </ul>
-  </section>
+    {%- if flo_non_featured_found -%}
+      <div class="featured-grid">
+        {{ flo_rows }}
+      </div>
+    {%- endif -%}
+  {%- else -%}
+    <p><em>No entries listed.</em></p>
+  {%- endif -%}
 
-</article>
+  <h2>Non-free, libre and open licensed</h2>
+  <p>These entries may not be free, libre and open.</p>
+  {%- if non_flo_found -%}
+    <div class="featured-grid">
+      {{ non_flo_rows }}
+    </div>
+  {%- else -%}
+    <p><em>No entries listed.</em></p>
+  {%- endif -%}
+</section>
