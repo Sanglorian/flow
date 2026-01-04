@@ -40,6 +40,9 @@ feed:
 #   - vendor/ruby/
 
 collections:
+  facets:
+    output: true
+    permalink: /:name/
   languages:
     output: true
     permalink: /language/:name/
