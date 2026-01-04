@@ -3,7 +3,7 @@ layout: entry
 title: "The Comic Strip Library"
 permalink: /the-comic-strip-library/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-04-01
 contributors:
 - Sanglorian
 entry:

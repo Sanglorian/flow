@@ -72,7 +72,6 @@ layout: default
         <div class="featured-description">
           <p>{{ entry_detail.short_description | default: "—" }}</p>
           <p>
-            <strong>License:</strong>
             {%- if license_items and license_items.size > 0 -%}
               {%- for license_item in license_items -%}
                 {%- assign license_title = license_item.license | default: license_item.licence -%}
@@ -89,34 +88,39 @@ layout: default
                         />
                       </a>
                     {%- else -%}
-                      <a href="{{ license_doc.url | relative_url }}">{{ license_doc.small_badge }}</a>
+                      <a href="{{ license_doc.url | relative_url }}">
+                        <span class="text-button">{{ license_doc.small_badge }}</span>
+                      </a>
                     {%- endif -%}
                   {%- elsif license_doc.abbreviation -%}
-                    <a href="{{ license_doc.url | relative_url }}">{{ license_doc.abbreviation }}</a>
+                    <a href="{{ license_doc.url | relative_url }}">
+                      <span class="text-button">{{ license_doc.abbreviation }}</span>
+                    </a>
                   {%- else -%}
-                    <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>
+                    <a href="{{ license_doc.url | relative_url }}">
+                      <span class="text-button">{{ license_title }}</span>
+                    </a>
                   {%- endif -%}
                 {%- else -%}
-                  {{ license_title }}
+                  <span class="text-button">{{ license_title }}</span>
                 {%- endif -%}
-                {%- unless forloop.last -%}, {%- endunless -%}
               {%- endfor -%}
             {%- else -%}
               —
             {%- endif -%}
           </p>
           <p>
-            <strong>Grouping:</strong>
             {%- if entry.groupings -%}
               {%- for grouping in entry.groupings -%}
                 {%- assign grouping_name = grouping.grouping | default: grouping -%}
                 {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
                 {%- if grouping_doc -%}
-                  <a href="{{ grouping_doc.url | relative_url }}">{{ grouping_name }}</a>
+                  <a href="{{ grouping_doc.url | relative_url }}">
+                    <span class="text-button">{{ grouping_name }}</span>
+                  </a>
                 {%- else -%}
-                  {{ grouping_name }}
+                  <span class="text-button">{{ grouping_name }}</span>
                 {%- endif -%}
-                {%- unless forloop.last -%}, {%- endunless -%}
               {%- endfor -%}
             {%- else -%}
               —
