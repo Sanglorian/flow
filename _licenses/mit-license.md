@@ -1,6 +1,7 @@
 ---
 layout: license
 title: MIT License
+abbreviation: MIT
 created_at: 2015-10-11T00:49:28Z
 updated_at: 2015-10-11T00:49:28Z
 contributors:

@@ -14,5 +14,5 @@ entry:
 groupings:
   - grouping: "Music"
 licensing:
-  - license: "AGPL"
+  - license: "GNU Affero General Public License"
 ---

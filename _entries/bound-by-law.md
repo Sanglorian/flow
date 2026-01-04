@@ -34,7 +34,7 @@ languages:
   - language: "German"
   - language: "Polish"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 2.5"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 versions:
   - version_title: "HTML, PDF"
     version_format: "HTML, PDF"

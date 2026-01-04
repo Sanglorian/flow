@@ -1,6 +1,7 @@
 ---
 layout: license
 title: GNU Affero General Public License
+abbreviation: AGPL
 created_at: 2015-07-23T01:43:22Z
 updated_at: 2015-10-10T23:51:34Z
 contributors:

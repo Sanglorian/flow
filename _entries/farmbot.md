@@ -21,6 +21,6 @@ licensing:
     licence_coverage: "Hardware, documentation"
   - license: "MIT License"
     licence_coverage: "Software"
-  - license: "	Creative Commons Attribution-NonCommercial 4.0 International"
+  - license: "Creative Commons Attribution-NonCommercial 4.0"
     licence_coverage: "Non-functional (marketing materials, brand assets, etc.)"
 ---

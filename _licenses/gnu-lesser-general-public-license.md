@@ -1,6 +1,7 @@
 ---
 layout: license
 title: GNU Lesser General Public License
+abbreviation: LGPL
 created_at: 2015-09-22T08:45:29Z
 updated_at: 2015-09-22T08:45:29Z
 contributors:

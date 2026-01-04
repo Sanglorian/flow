@@ -1,6 +1,7 @@
 ---
 layout: license
 title: General Asset License
+abbreviation: GAL
 created_at: 2019-02-13T05:42:25Z
 updated_at: 2019-02-13T05:42:25Z
 contributors:

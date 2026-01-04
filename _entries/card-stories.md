@@ -18,9 +18,9 @@ groupings:
   - grouping: "Art"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike 3.0"
+  - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     explanation: "Card art."
-  - license: "GNU General Public License v3.0"
+  - license: "GNU General Public License 3.0"
     explanation: "Code."
 ---
 Formerly found at: http://cardstories.org/

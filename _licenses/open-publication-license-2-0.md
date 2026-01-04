@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Open Publication License 2.0
+abbreviation: OPL
 created_at: 2015-09-21T13:39:22Z
 updated_at: 2015-09-21T13:39:22Z
 contributors:

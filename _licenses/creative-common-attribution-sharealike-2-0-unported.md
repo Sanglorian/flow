@@ -1,6 +1,6 @@
 ---
 layout: license
-title: Creative Common Attribution-ShareAlike 2.0 (Unported)
+title: Creative Commons Attribution-ShareAlike 2.0 (Unported)
 abbreviation: CC BY-SA
 created_at: 2015-10-11T01:13:32Z
 updated_at: 2015-10-11T01:13:32Z

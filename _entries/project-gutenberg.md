@@ -17,6 +17,6 @@ groupings:
   - grouping: "Literature"
   - grouping: "Information"
 licensing:
-  - license: "Public Domain"
+  - license: "Public domain"
     explanation: "Most works on Project Gutenberg have lapsed into the public domain rather than having been released into the public domain by their creators."
 ---

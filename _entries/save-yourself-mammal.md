@@ -17,7 +17,7 @@ groupings:
 genres:
   - "Humour"
 licensing:
-  - license: "Creative Commons Attribution-Noncommercial 3.0 (Unported)"
+  - license: "Creative Commons Attribution-NonCommercial 3.0 (Unported)"
 versions:
   - version_title: "Kindle"
     version_format: "Kindle"
@@ -28,4 +28,3 @@ versions:
     version_price: 24
     version_url: "https://www.amazon.com/Save-Yourself-Mammal-Breakfast-Collection-ebook/dp/B00LOZEHG8"
 ---
-

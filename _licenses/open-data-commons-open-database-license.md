@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Open Data Commons Open Database License
+abbreviation: ODbL
 created_at: 2015-09-21T13:33:25Z
 updated_at: 2015-09-21T13:33:25Z
 contributors:

@@ -1,6 +1,7 @@
 ---
 layout: license
 title: GNU General Public License 3.0
+abbreviation: GPL
 created_at: 2015-07-22T09:35:53Z
 updated_at: 2015-07-22T09:35:53Z
 contributors:

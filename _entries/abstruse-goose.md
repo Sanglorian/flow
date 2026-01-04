@@ -14,6 +14,6 @@ groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial 3.0 (United States)"
+  - license: "Creative Commons Attribution-NonCommercial 3.0 (US)"
 ---
 Formerly found at: http://abstrusegoose.com/

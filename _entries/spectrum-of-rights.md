@@ -18,5 +18,5 @@ groupings:
 genres:
   - "IP Minimalism"
 licensing:
-  - license: "Creative Commons Attribution 2.5"
+  - license: "Creative Commons Attribution"
 ---

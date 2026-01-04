@@ -92,37 +92,45 @@ layout: default
             {{ entry_detail.short_description | default: "—" }}
             <span class="featured-licenses">
               {%- if license_items and license_items.size > 0 -%}
+                {%- assign seen_license_parents = "" | split: "" -%}
                 {%- for license_item in license_items -%}
                   {%- assign license_title = license_item.license | default: license_item.licence -%}
                   {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
-                  {%- if license_doc -%}
-                    {%- if license_doc.small_badge -%}
-                      {%- if license_doc.small_badge contains "/" -%}
+                  {%- assign license_parent = license_title -%}
+                  {%- if license_doc and license_doc.parent_license -%}
+                    {%- assign license_parent = license_doc.parent_license -%}
+                  {%- endif -%}
+                  {%- unless seen_license_parents contains license_parent -%}
+                    {%- assign seen_license_parents = seen_license_parents | push: license_parent -%}
+                    {%- if license_doc -%}
+                      {%- if license_doc.small_badge -%}
+                        {%- if license_doc.small_badge contains "/" -%}
+                          <a href="{{ license_doc.url | relative_url }}">
+                            <img
+                              src="{{ license_doc.small_badge | relative_url }}"
+                              alt="{{ license_title }} badge"
+                              loading="lazy"
+                              style="width:88px; height:auto;"
+                            />
+                          </a>
+                        {%- else -%}
+                          <a href="{{ license_doc.url | relative_url }}">
+                            <span class="text-button-license">{{ license_doc.small_badge }}</span>
+                          </a>
+                        {%- endif -%}
+                      {%- elsif license_doc.abbreviation -%}
                         <a href="{{ license_doc.url | relative_url }}">
-                          <img
-                            src="{{ license_doc.small_badge | relative_url }}"
-                            alt="{{ license_title }} badge"
-                            loading="lazy"
-                            style="width:88px; height:auto;"
-                          />
+                          <span class="text-button-license">{{ license_doc.abbreviation }}</span>
                         </a>
                       {%- else -%}
                         <a href="{{ license_doc.url | relative_url }}">
-                          <span class="text-button-license">{{ license_doc.small_badge }}</span>
+                          <span class="text-button-license">{{ license_title }}</span>
                         </a>
                       {%- endif -%}
-                    {%- elsif license_doc.abbreviation -%}
-                      <a href="{{ license_doc.url | relative_url }}">
-                        <span class="text-button-license">{{ license_doc.abbreviation }}</span>
-                      </a>
                     {%- else -%}
-                      <a href="{{ license_doc.url | relative_url }}">
-                        <span class="text-button-license">{{ license_title }}</span>
-                      </a>
+                      <span class="text-button-license-nolink">{{ license_title }}</span>
                     {%- endif -%}
-                  {%- else -%}
-                    <span class="text-button-license-nolink">{{ license_title }}</span>
-                  {%- endif -%}
+                  {%- endunless -%}
                 {%- endfor -%}
               {%- else -%}
                 —

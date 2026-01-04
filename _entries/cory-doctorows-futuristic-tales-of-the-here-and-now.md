@@ -19,7 +19,7 @@ groupings:
   - grouping: "Comics"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (United States)"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
 versions:
   - version_title: "Hardcover"
     version_format: "Hardcopy"

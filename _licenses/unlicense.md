@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Unlicense
+abbreviation: Unlicense
 created_at: 2017-05-21T01:30:52Z
 updated_at: 2017-05-21T01:30:52Z
 contributors:

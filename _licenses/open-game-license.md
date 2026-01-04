@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Open Game License
+abbreviation: OGL
 created_at: 2015-05-28T12:20:33Z
 updated_at: 2015-05-28T12:20:33Z
 contributors:

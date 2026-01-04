@@ -1,6 +1,7 @@
 ---
 layout: license
 title: CERN Open Hardware Licence
+abbreviation: CERN OHL
 created_at: 2015-10-11T00:52:34Z
 updated_at: 2015-10-11T00:52:34Z
 contributors:

@@ -1,6 +1,7 @@
 ---
 layout: license
 title: GNU General Public License 2.0
+abbreviation: GPL
 created_at: 2015-06-04T01:33:42Z
 updated_at: 2015-07-22T09:33:09Z
 contributors:

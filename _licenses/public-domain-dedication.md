@@ -1,6 +1,7 @@
 ---
 layout: license
 title: Public Domain Dedication
+abbreviation: Public Domain Dedication
 created_at: 2015-10-11T00:56:06Z
 updated_at: 2015-10-11T00:56:06Z
 contributors:
