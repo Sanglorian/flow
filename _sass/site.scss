@@ -39,6 +39,18 @@ body {
   background-color: #f9f9f9;
 }
 
+a.broken-link,
+a.broken-link:visited,
+a.broken,
+a.broken:visited,
+a.link-broken,
+a.link-broken:visited,
+a.is-broken,
+a.is-broken:visited {
+  color: #cc2b2b;
+}
+
+
 /* =========================
    2. Headings
    ========================= */
@@ -69,6 +81,7 @@ h2 {
   font-size: 0.95em;
   font-style: italic;
 }
+
 
 
 /* =========================
