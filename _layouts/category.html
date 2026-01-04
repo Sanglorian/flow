@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  {%- assign category_entries = site.entries | where_exp: "item", "item.entry.category_of_entry contains page.title" | sort: "title" -%}
+
+  <p class="post-meta">Browse {{ category_entries.size }} entries in this category.</p>
+
+  <ul>
+    {%- for entry in category_entries -%}
+      {%- assign entry_detail = entry.entry | default: entry -%}
+      <li>
+        <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+        {%- if entry_detail.short_description -%}
+          — {{ entry_detail.short_description }}
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+</article>

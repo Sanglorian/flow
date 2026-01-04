@@ -63,5 +63,8 @@ collections:
     output: true
     permalink: /genre/:name/
   types:
-   output: true
-   permalink: /type/:name/
+    output: true
+    permalink: /type/:name/
+  entry_categories:
+    output: true
+    permalink: /category/:name/
