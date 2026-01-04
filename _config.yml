@@ -45,6 +45,7 @@ collections:
     permalink: /language/:name/
   groupings:
     output: true
+    permalink: /grouping/:name/
   entries:
     output: true
   licenses:
