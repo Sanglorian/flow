@@ -1,0 +1,1691 @@
+# Pages Still to Migrate from MediaWiki
+
+Total pages missing from Jekyll collections: **1648**
+
+Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
+
+Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
+
+## #ask: [[Licence Certification::Open Source Definition compliant licence]] OR [[Licence Certification::GPL-compatible free software licence]] OR [[Licence Certification::GPL-incompatible free software licence]] OR [[Licence Certification::FSF free documentation licence]] OR [[Licence Certification::Open Definition recommended conformant licence]] OR [[Licence Certification::Open Definition other conformant licence]] OR [[Licence Certification::Definition of Free Cultural Works conformant licence]] (1)
+> Review required to map this template to the correct Jekyll collection and front matter fields.
+
+- Free, libre and open licences
+
+## Collection (22)
+> Potentially a grouping-style page or an entry categorized as `Collection`. Check for lists of contained works and ensure relationships are represented in `connections` or grouping fields.
+
+- Awesome Gamedev
+- d20 System
+- Insects Unlocked
+- International Music Score Library Project
+- Kenney
+- Leebre
+- Mark Causey's Patreon games
+- Morevna Project
+- Museums Victoria Collections
+- Open Data Initiative
+- Open Music Archive
+- Openclipart
+- PhET Interactive Simulations
+- Printable Miniatures (Brent Newhall)
+- R/GameAssets
+- Ramon Lucha
+- Shady's Shorts
+- StoryWeaver
+- Surian Soosay
+- TED Talks
+- The Noun Project
+- Tracy Barnett's Patreon games
+
+## Entry (198)
+> Likely becomes an `_entries` record where the specific entry category is determined by template parameters. Verify the intended `entry.category_of_entry` and ensure any connection or license subtemplates are preserved.
+
+- 1923: A Monthly Zine of Public Domain Treasures
+- 200 Word RPG Challenge
+- 43+ Unique Places to Find Remarkable Free Photos
+- 5E SRD
+- A Dark Room
+- A Lonely Place for Dying
+- ABC's of Anarchy
+- Adventures With Anxiety!
+- African Storybook
+- All the Music LLC
+- Antti Luode
+- Arcmage
+- Avada Classic
+- Bad Habit
+- Bahama Taxi
+- Barn Images
+- Basic Dungeons & Dragons
+- Big Buck Bunny Board Book
+- Biodiversity Heritage Library
+- Blackstar album elements
+- Blades in the Dark RPG
+- Bloc by Bloc
+- Blown to Bits
+- Book Dash
+- Bulbapedia
+- Bungee
+- Card Armies: Battle For Wesnoth
+- Cat Avatar Generator
+- Cataclysm: Dark Days Ahead
+- CatchChallenger
+- cc0.photo
+- Cheapass Games
+- CIA: Collect It All
+- City of Brass
+- Clean Energy Wire
+- Cleveland Museum of Art
+- College Physics
+- Complete Free Amanda Palmer Discography
+- Cost of Freedom
+- Cost of Freedomn
+- Creative Commons Certificate
+- Creative Commons for Educators and Librarians
+- Creative Commons Style Guide
+- Creative Vix
+- Crow the Stone
+- Cupcake
+- d100 System
+- Designing with LibreOffice
+- Dungeons & Dragons 4E
+- EBC
+- Epicantus
+- Ethic Cinema
+- extyrannomon
+- Fair Use for Nonfiction Authors
+- FancyCrave
+- Fantasy Craft
+- Fate
+- Fellowship
+- Final Bid
+- Floraverse
+- Font Awesome
+- Free Culcha Piecepack
+- Free for All
+- Free Nature Stock
+- Free Stock Image Point
+- Free Wars
+- Freedom of the Press Foundation
+- Friends with Monsters
+- GeoNet
+- Glass Half
+- Glider Ink
+- Gratisography
+- Hearts Blazing
+- Hexoshi
+- Holacracy Constitution
+- inkrobot.ca
+- Ivan Golunov
+- Jacob Randolph
+- jay mantri
+- Junk Land
+- Kimiko Ishizaka
+- Knave
+- Letters for Black Lives
+- LibreIdea
+- List of Premium and Libre Video
+- Little Visuals
+- logodust.com
+- Loomio Co-op Handbook
+- Made with Creative Commons
+- Magdeleine
+- Masters of the Heist
+- Michele Bucelli
+- Mike Riverso
+- MIT
+- MKG Collection Online
+- MMT
+- Monikers
+- MonsterID
+- Moveast
+- Musical Artifacts
+- My Own Kind of Freedom
+- Negative Space
+- New Me!
+- New Midnight Cassette System
+- New Old Stock
+- New Palmyra
+- New York Public Library Digital Collections
+- No Country for Old Kobolds
+- One Community
+- Open Building Institute
+- Open Licensing of Primary Grade Reading Materials: Considerations and Recommendations
+- Open Pixel Project
+- Open Source Food Safety
+- Open Source Initiative
+- Open Trivia DB
+- Orang-U
+- Panic at the Dojo
+- Pepper & Carrot Motion Comic
+- Pepper&Carrot Mini
+- Pexels
+- Photo Collections
+- Photocrops
+- Picography
+- Pierre Geier's art
+- Pitch Deck
+- Pixar One Twenty Eight
+- PIXLS.US
+- Plays Well With Others
+- Public Domain Archive
+- Purplest Prose
+- Pwning Tomorrow
+- Quartz Common Products Database
+- Questquest
+- R. Donald James Gauvreau
+- Rafu's Awkward
+- rawpixel
+- re:splashed
+- Realistic Shots
+- ReTux
+- Rijksmuseum
+- Rin
+- RobGreenfield.TV
+- saga (WTactics game)
+- Secret Hitler
+- Seder-Masochism
+- Seeking Refuge
+- Shaking the Habitual
+- ShoeTool
+- Silent Legions Art Pack
+- Slash
+- Slate Star Codex
+- Smithsonian Open Access
+- Snapwire Snaps
+- SpaceX Photos
+- Spring
+- Stack Exchange
+- Stardrifter
+- Startup Stock Photos
+- Stellar Forces
+- Superpowers
+- Superpowers Asset Packs
+- Tate
+- Terra X-Clips
+- The Art of Asking
+- The Devil's Brood
+- The Dryden Experiment
+- The Endless Knot
+- The Future of the Internet
+- The Libre Art of the Fugue
+- The Long Way Home
+- The Open Revolution
+- The Pic Pac
+- The Resistance Toolbox
+- The SELinux Coloring Book
+- Theft: A History of Music
+- Tiled
+- Tiny Tactics
+- Toddler Timothy's Delicious Candy Apples
+- tookapic
+- travel coffee book
+- Trophy System Reference Document
+- Tuxemon
+- Ulysses
+- Understanding and Negotiating Book Publication Contracts
+- Understanding Open Access
+- Unicorn Riot
+- Vegan on a Desert Island
+- vegepedia
+- vlogbrothers
+- VlogBrothers Distribution Project
+- voec
+- Waiting...
+- WATT
+- Wizard-Spawned Insanities
+- WOCinTech Chat
+- Wreckdivers
+- Wretched & Alone SRD
+- Year Zero Engine
+
+## Is Licensed (3)
+> Looks like a relationship template rather than a standalone page. Validate whether these are actual pages that should exist in Jekyll or are artifacts of the export.
+
+- Bogleheads Wiki
+- Monkaa
+- No Country For Old Kobolds
+
+## Item (2)
+> Likely a miscellaneous entry type; manual review needed to decide whether it is a Work, Source, or another entry category.
+
+- John Harper
+- Lady Blackbird
+
+## Link to Source (1)
+> Potentially a maintenance/list page; check if it should become a Jekyll page or be replaced by an include or collection query.
+
+- Test Link
+
+## Source (93)
+> May map to an `_entries` item categorized as `Source` (or to a `_types` record if it is describing a type). Confirm source URLs and citation fields; these pages often have sparse metadata.
+
+- 8in8
+- Alderon's Tower
+- Amagi Games
+- Amanda Palmer
+- Artikid
+- Australian Government
+- Austrian Government
+- Ben Lehman
+- Ben Wright
+- Berengad Games
+- Berin Kinsman
+- Bill Brown
+- Blender Foundation
+- Brazilian Government
+- Breadpig
+- Brent P Newhall
+- British Government
+- Bully Pulpit Games
+- CERN
+- Chris Sakkas
+- Clinton R Nixon
+- Copysouth Research Group
+- Cory Doctorow
+- Creative Commons
+- CRN Games
+- D101 Games
+- Dan Bull
+- David Bollier
+- David K Levine
+- David Malki!
+- Evil Hat Productions
+- Fred Hicks
+- Free Software Foundation
+- Freezing Moon
+- Girl Talk
+- Goblinoid Games
+- Google
+- Green Ronin Publishing
+- Greg Christopher
+- Greg London
+- Greg Stolze
+- Gurbintroll Games
+- Heifervescent
+- HG Wells
+- Hungry Lucy
+- Ionc
+- Italian Government
+- Jason Morningstar
+- Jason Rohrer
+- Jeff Moore
+- Jonathan Walton
+- Josh Roby
+- Juanitos
+- K3rnel
+- Liam Brennan
+- Luke Crane
+- Machine Age Productions
+- Millionaire Blonde
+- MIT University
+- Mongoose Publishing
+- Mozilla
+- Nina Paley
+- Nine Inch Nails
+- Nooskewl Games
+- O'Reilly
+- one seven design studio
+- Open Knowledge Foundation
+- Orphan Songs
+- QUT
+- Radio Nowhere
+- REM
+- Richard Stallman
+- Rob Myers
+- Ronin Arts
+- Ryan St
+- Sage LaTorra
+- Sand & Steam
+- Simone Aliprandi
+- SPARC
+- Stargazer Games
+- Stuart Chaplin
+- TakeOnRules
+- Teapot Dome Games
+- Tenpenny Joke
+- Terry Hancock
+- The Beatles
+- US Government
+- Valent Games
+- Vincent Baker
+- Wikimedia Foundation
+- Wizards of the Coast
+- Yanone
+- Yochai Benkler
+
+## Unknown (47)
+> Template not detected. These require manual inspection to determine the correct entry type and fields.
+
+- A Free, Libre and Open Reader
+- About free culture and open knowledge
+- Bug reports and feature requests
+- CC-PRO
+- Choosing A Bridge Camera Vs A Proper DSLR
+- Contributing to the wiki
+- cost private investigations information for 2016
+- Creator-Endorsed Mark
+- Day against DRM
+- Defining Freedom coursework
+- Definition of Free Cultural Works
+- Design Boutique Hotel Paris Montparnasse Apostrophe Hotel Con Jacuzzi Privatif Ile De France E Hotel
+- Document Freedom Day
+- Dungeon World Index
+- Fakemon
+- Freedom of Access to Information and Resources
+- How To Monitor Live Football On Pc
+- How To Watch After Sky Sports Live Football Streaming On Pc
+- If You Value Your Camera You Should Know The Right Way To Maintain It
+- Jenny Everywhere Day
+- Liberated Pixel Cup
+- LibrePlanet Gaming Collective
+- Main Page
+- Making your work free and open
+- Minecraft
+- Olympus VR-350 Camera Review With Price In India
+- Open Access Week
+- Open Education Week
+- Press Release (2015-10-17)
+- Promised Libre Works
+- Public copyright licence
+- Public Domain Day
+- Public Domain Manifesto
+- Rookvale HTML
+- Similar Projects
+- Sports Betting: What You Need To To Know
+- Testing Mailing List
+- The Benefits And Drawbacks Of C-Mount Security Cameras
+- The Ketogenic Diet - Ultimate A Diet
+- The Six Levels Of Paper Shredder Security
+- The Wireless Charging Market Deals With The Development Manufacture And Distribution Of Various Types Of Wireless Charging Technology Like The Powermat Wireless Charging And Electronic Charging Pad
+- Top 10 Exercise Frauds Rapid Weight Reduction
+- Top 10 Sports Blogs Of 2010
+- Vetements Aw15
+- Welcome to Free and Open Works!
+- Who Needs Access
+- Works not on the wiki
+
+## Work (1281)
+> Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
+
+- "and Bake for 15 Minutes" Fudge
+- (un)Playable G4mes
+- 100 / 3 RPG
+- 100 CC BY Hits
+- 13th Age
+- 1KM1KT
+- 2012 Holiday Giving Guide
+- 2012 Libre Gift Guide
+- 2013 Open Source Calendar
+- 3 Unnatural Encounters
+- 365 Sketches
+- 3D Printed Piecepack
+- 4CC
+- 4SRD
+- 4uPress
+- 500px
+- 6d6 RPG
+- A Byte Of Python
+- A Free, Libre and Open Glossary
+- A Guide To Open Content Licenses
+- A Mathematical Way To Think about Biology
+- A Shadow among Shadows
+- A Short Introduction to Graphic Design History
+- A Spark in Fate Core
+- A Story of Healing
+- A survey about copyright in the digital age
+- A Vessel For Offering
+- A Wanderer's Romance
+- A Wind at the Window
+- A World of Fire and Sand
+- A+ Fantasy
+- Abtruse Goose
+- Abulafia
+- Accessibility Sustainability Excellence
+- Achieving Impossible Things
+- Action System
+- Acts of the Apostles
+- Ad Astra
+- Adapt
+- Advanced Dungeon Squad
+- Adventure Squad Abilities
+- Adventure Squad Core
+- AdventureLand
+- Adventurer Conqueror King System
+- Adventures in the 41st Millennium
+- Adventures of the Space Patrol
+- Adventures On Dungeon Planet
+- Aelius Blythe
+- Aerogel.org
+- Aetherverse
+- African Storybook Project
+- AfterImage
+- Against Intellectual Property
+- Against Monopoly
+- Age of Fable
+- Al Jazeera
+- Alchemy
+- Alchemy System
+- Alien Survivor
+- All Day
+- All Right to Copy?
+- All The King’s Men
+- Alpha Word Game System
+- Alphonse Maria Mucha - The complete works
+- Altars & Archetypes
+- Alternate Dungeon Squad
+- Always/Never/Now
+- Ambush on All Sides
+- An Anarchist FAQ
+- An End Like This
+- An Open Education Reader
+- An Open World
+- Anchorhold
+- Ancient Beast
+- Andrea si Sposa
+- Anima Prime
+- Animalball Melee
+- Animalball Partners
+- Apocalypse World
+- Appropedia
+- Arcemu
+- Archaeology, Anthropology and Interstellar Communication
+- Arduino
+- Ardwin
+- Argh! The Supernatural RPG
+- Argofox
+- Arkfall
+- Army Brats
+- Art Passions
+- As The Tea Leaves Grow
+- Astral Dreams
+- Atlas of Living Australia
+- Audiobooks By Verkaro
+- Audionautix
+- Aural Tradition
+- Australian Budget 2012
+- Australian Census 2011
+- Australian Digital Alliance
+- Australian Dress Register
+- Australian Electoral Commission
+- Australian Government Intellectual Property Manual
+- Autodesk
+- Awen
+- Baba Yaga's Dancing Hut
+- Backswords & Bucklers
+- Bad Attitudes
+- Bad Habits
+- Bad Panda Records
+- Badass
+- Badgerbrough Inquisitive
+- Badilisha Poetry X Change
+- Bajjutsu Master
+- Balloon Diaspora
+- Balloon Mapping Kit
+- Balloon Suite
+- Bandcamp
+- Bank Robbery LARP
+- Barcelona Creative Commons Film Festival
+- Basic Fantasy RPG
+- Battle for Wesnoth
+- Beast Hunters
+- Bedroom Wall Press
+- Beginning Titan The Distributed Graph Database
+- Behance
+- Beowulf: A Translation
+- Beyond Belief Games
+- Bhaloidam
+- BibServer
+- Big Buck Bunny
+- Big Buck Bunny Loves Creative Commons
+- Big Island
+- Bill Browne
+- Biodigital
+- Blackbird Pie
+- Blambot
+- Blazing World
+- Blend Swap
+- Blender
+- Blogs Against Humanity
+- Blood, Guts & Glory
+- Bloody Forks
+- Bloody Forks of the Ohio
+- Bloomsbury Academic
+- Blue Rose
+- Boarsdraft
+- Boundless
+- Bounty Hunters: Metaphors for Fair Intellectual Property Laws
+- Brian Foo Wiki
+- BrickQuest
+- Brikwars
+- British Library
+- Brytenwalda
+- Bugs Of Venus
+- Bulletproof Blues
+- Burningwell
+- Caminandes
+- Cap & Trade
+- Captive
+- Cardenio's Daughter
+- Cards Against Humanity
+- Cascade Failure
+- Castle Blackbird
+- Catalogue of Illuminated Manuscripts
+- Catalyst Games
+- Catastroika
+- Catching the Waves
+- CC Content Directories
+- CC Government Guide
+- ccMixter
+- Cctrax
+- Cecil Street (Internet Archive)
+- Center for the Study of Innovative Freedom
+- Centre For Policy Development
+- Choosealicence.com
+- Chronicles
+- CIA World Factbook
+- Circe
+- Circus Divas
+- City of Rain, City of Darkness
+- City of You
+- CK-12
+- Class Warfare
+- Classroom Activity Guide for Happy Birthday, Robot!
+- Coase's Penguin
+- Code Book
+- Code School
+- Codename: Spandex
+- Collections Online
+- Comic Neue
+- Comment/How
+- Commonly
+- Commonwealth of Learning
+- Communia
+- Companies & Carpools
+- Composition Generators
+- Comunes
+- Confrontation Chess
+- Connexions
+- Conquering Corsairs
+- Consequences, risks and side-effects of the license module “non-commercial use only”
+- Console
+- Constructs Of Innocence In Selected Works Of Cyberpunk
+- Contagion
+- Contraptor
+- Copy/South Dossier
+- Copying Is Not Theft
+- Copyleft Notice
+- copyleft.org
+- Copyright And Creation
+- Copyright for Librarians
+- Copyright in databases in Australia
+- Copyright Week
+- Copywrong
+- Cordial Minuet
+- Core Elements
+- Cosmo Noticias
+- Cosmos Laundromat
+- Crash / Lanterns Of The Dead
+- Crawling For Cash
+- Creationistas
+- Creationmix
+- Creative Commons Licensed Cats
+- Creative Commons: A User Guide
+- Creativeapplications Net
+- Credit Is Due
+- Crisiscommons Wiki
+- Critical Hits
+- Critical Point of View
+- Critical! Go Westerly
+- Crossword Maze
+- Cryptoparty Handbook
+- Crystal Obelisk
+- Cyberpunk Remix
+- D&D4.5
+- d0x3d!
+- D100Ii Srd
+- D20 Anime
+- d20 Modern
+- D20 Open Mass Combat System
+- D6Pool
+- Dados.gov.br
+- Dan D20
+- Dan-O
+- Danger Mountain
+- Danger Patrol
+- Dangers & Dweomers
+- Daniel Bautista
+- Daniel Kwon
+- Daniel Solis' Blog
+- Daniel Solis' game icons
+- Daring Adventures
+- Dark Dungeons
+- Dark Passages
+- Darkening Skies
+- Darker Dungeons
+- Darkest Dungeons
+- Data Dealer
+- Data Journalism Handbook
+- Data.gov.au
+- Data.gv.at
+- Data.vic.gov.au
+- Dati.camera.it
+- David Lippman
+- David Revoy's art
+- Death Of The Japanese Emperor
+- Death School
+- Death Takes a Holiday
+- Deathtrap Dungeon
+- Debtocracy
+- Decktet
+- Deconcrete
+- Deconstructing Masculinity
+- Deep Freeze
+- Delubrum
+- Department Nine
+- Design Livre
+- Destiny Dice
+- Destiny Of The Metal Gods
+- Destiny System
+- Desura
+- Developing Open Access Electronic Journals: A Practical Guide
+- Deviantart
+- Diagonal
+- Diaspora
+- Dice Icons
+- Dictionary Of Sydney
+- Diffuser Net
+- Diggy Diggy Dice
+- Digital IPA Recipe
+- Digital Public Library of America
+- Dilly Daily Draws
+- Directory of Open Access Journals
+- Disasteradio
+- Dispatches from Wondermark Manor
+- DIYLILCNC
+- Djinnbusters
+- Dominion Rules
+- Domino Writing
+- Donjon
+- Doodles & Dragons
+- Doug Whitfield
+- Draft
+- Drafting the Gift Domain
+- Dragon 2000
+- DragonNet RPG
+- DramaSystem SRD
+- Dread
+- Dread House
+- Dresden Files RPG
+- Drowning & Falling
+- Drupal: The Card Game
+- Dscript
+- Dublabs CC10 Mix
+- Dulse
+- Dungeon Crawl Risus
+- Dungeon Squad
+- Dungeon Squad (Jim Adams version)
+- Dungeon Squad 2
+- Dungeon Squad Companion
+- Dungeons & Dragons 3E
+- Dungeons Daring
+- Dungeonslayers 3X
+- Dungeonslayers 4
+- Dynamo
+- E6
+- Early Copyright History
+- Eastern Standard Tribe
+- Eclipse Phase
+- Ed Startup 101
+- Edition Thirteen
+- El Rey Muerto
+- Electronic Frontier Foundation
+- Elephants Dream
+- Elevation Of Privilege
+- eLife
+- Emergency 2.0 Wiki
+- Emily C O'Leary
+- Emily Speaks
+- Enchanted Realms
+- Engage 2012
+- Engine Heart
+- EngineerGuy.com
+- Enter The Avenger
+- Entropy Killed The Cat
+- Entropy Of Imagination
+- Entypo
+- Envisioning Technology
+- Epees & Sorcellerie
+- Epidiah Ravachol
+- Epitome
+- Errant RPG
+- Escape From Thanatos
+- Esperando el Tsunami
+- Etcc
+- Evalimine
+- EveryCook
+- Evil Mad Scientist Shop
+- Evil Wizards In A Cave
+- Executive Decision
+- Exploding Kingdoms
+- Explosions & Escapes
+- Eyewriter
+- F Sharp
+- Faded Page
+- Fairphone
+- Fantastic Classes Codex
+- Fantastic Heroes & Witchery
+- Fantastique Unfettered
+- Fantasy Generators
+- Farm Taken Over
+- Farmsubsidy
+- FASERIP
+- Fast
+- Fate 2E
+- Fate Core System
+- Fate Game
+- Fate System Toolkit
+- Fatony
+- Featurin.gs
+- Feedback Loops in Game Design
+- Feeding The City
+- Fhsildsj
+- Ficlatte
+- Fight!
+- Final Decrees
+- Fire & Sword
+- First of May
+- First Year of Our REIGN
+- FISC
+- Five by Five
+- Floor Games
+- Flower Rainbow
+- Folger Shakespeare Library
+- Foodista
+- For Gold & Glory
+- Forall X
+- Ford Foundation
+- Forge
+- Fortune Cookies And Nuclear War
+- Fortune System Reference Document
+- Forty Thieves
+- Four Colors Al Fresco
+- Framed
+- Free As In Freedom
+- Free Beer
+- Free Beer Book
+- Free Culture Guide
+- Free Curricula Center
+- Free Fall
+- Free Fate
+- Free Gamer
+- Free Knowledge Based On Creative Commons Licenses
+- Free Motion Quilting
+- Free Music Archive
+- Free Music Sampler
+- Free Software Directory
+- Free Software Free Society
+- Free Software Recommendations
+- Free Speculative Fiction Online
+- Free To Mix
+- Freebase
+- Freebassel Cookbook
+- FreeLab
+- FreePD.com
+- Freesouls
+- Freetems
+- French Government
+- Fringe
+- Frontier Encounters
+- Frost Devils
+- FUBAR
+- Fudge
+- Full Circle Magazine
+- Full Command
+- Fury Comics
+- Future of Copyright Anthology
+- Game-Icons.net
+- Ganakagok Cards
+- Geasa
+- Generic Fantasy Quest Game
+- Genesis Of Legend
+- Genesys System
+- Genetica Texture Packs
+- Ghost Lines
+- Ghost Runner
+- Ghostlight
+- Ghosts
+- Ghosts I-IV
+- GIMP
+- Gimp Magazine
+- Give Life Back To Music
+- Glain
+- Glitch The Game
+- Global Game Jam
+- Global Voices
+- Glyphicons
+- Glyphish
+- Go Fast Turn Left
+- Gods & Monsters
+- Gold
+- Goodsemester
+- Google Web Fonts
+- Gore
+- Gracas Dream
+- Grand OGL Wiki
+- Green Comet
+- Gremlin Legions
+- Grey Lotus
+- Grim Portents
+- Group Works
+- Growstuff
+- Guess Who's a Mess
+- Gumshoe SRD
+- Gundam Blackbird
+- Gunwave
+- Habitica
+- Hack The Bells
+- Hackathon How To Guide
+- Hacker Public Radio
+- Hacking Politics
+- Halfway Pleased
+- Hampshire College Recommendations
+- Hananmisery
+- Hand Covers Bruise
+- Harvard Library Open Metadata
+- Headshot
+- Hedgewars
+- Hello world
+- Hereticwerks
+- Heroes Against Darkness
+- Heroes Vs. Villains
+- Hexpack
+- Hierarchy of Interface
+- HiLo Heroes
+- His Due
+- Hoard
+- Hoborg
+- Homotopy Type Theory
+- Honda 3D Design Archives
+- Horn Solos
+- Hot Lamp
+- House of Masks
+- House Of Refuge
+- How I Learned To Stop Worrying And Love The Bomb Shelter
+- How Open Is It?
+- Hunters & Haunts
+- Hyper
+- I Can Do Anything Badly 2
+- I'm Fresh! You're Pretty!
+- I-am-cc.org
+- Icar
+- Icke
+- Icommons
+- Icosahedral
+- Iliamna Unknown
+- Immersion Into Noise
+- In the Blindness of the Glare
+- In The Shade Of The Commons
+- Income Models for Open Access
+- Incompetech
+- Independent Australia
+- Inkscape
+- Innerviews
+- Inside A Star Filled Sky
+- Instructables
+- Integrity At Scale
+- Intellectual Property: Law and the Information Society
+- Interactivities Ink
+- International Free and Open Source Software Law Book
+- International Free and Open Source Software Law Review
+- International Journal of the Commons
+- Internet Archive Book Images
+- Interstate Medicine
+- Into the Odd
+- Introduction To Basic Legal Citation
+- Introduction To Economic Analysis
+- Inuma
+- Inventory of FLOSS in the Cultural Heritage Domain
+- Invulnerable Tabletop Super Hero Roleplaying Game
+- Iridium System
+- Iron Edda
+- Is Behavioral Economics Doomed?
+- Is it Open Data?
+- Island Of Eo
+- Issuelab
+- Issues In Open Research Data
+- It Came from the Wide Blue Yonder
+- It Happened Today
+- It's a Jetsons World: Private Miracles and Public Crimes
+- Italian Constitutional Court
+- Jagannath Mohanty
+- Jagannatha Font
+- JAGS
+- Jazz (game)
+- Jeff Preston
+- Jenny Everywhere
+- Jenny Everywhere on ficly
+- JISC
+- Joe Banner
+- Johnstone Metzger
+- Jonathan Coulton's website
+- Jonathan Mann
+- Jono Bacon
+- Journal of Librarianship and Scholarly Communication
+- Journal of Sustainable Development
+- Journey to the Center of Hawkthorne
+- Jumpers
+- Justen Brown
+- K 12 Tech Tools
+- KA Lite
+- Kapow! The Super RPG
+- Karen's Whimsy
+- Kassy Key & the Raindogs
+- Keeping on the Borderlands
+- Kellee Maize
+- Khan Academy
+- Khas Fara
+- Kiss Roleplaying System
+- Kodrek
+- Konkani Vishkawosh
+- Kormakur
+- La Cura An Open Source Cure
+- La Educacion Prohibida
+- La Quadrature du Net
+- La Scuola in Chiaro
+- Labyrinth Lord
+- LACMA
+- Lady Blackbird Companion
+- Lairshare
+- Lamentations of the Flame Princess
+- Land Information New Zealand
+- Las Calles Hablan
+- Lasers & Feelings
+- Learning Music Monthly
+- Lectureleaks
+- Legacy: Life among the Ruins
+- Legendary Lives
+- Let's CC
+- Leviathans
+- Liberated Pixel Cup Content
+- Libertarian Papers
+- Libre Card Game
+- Libre Culture
+- Libre Graphics Magazine
+- Libre Graphics Research Unit
+- Libre Projects
+- LibreBus
+- Libregamewiki
+- Libremon
+- Light And Matter
+- Linked Open Vocabularies
+- Linux
+- Linvix
+- List of Open Source Video Games
+- Little Brother
+- Little Wars
+- Littlebits
+- Littlesecretfilm
+- Living Room
+- Lobster
+- Locus
+- Longshot
+- Lord Scurlock
+- Lore
+- Lost Souls
+- Loudlit.org
+- Love Is Eternal Sacred Light
+- Love Vector Free
+- Lowering The Bar
+- Lumen Learning
+- Lunatics! Animated series
+- Lunduke
+- LWN.net
+- Lycadian
+- Machine of Death
+- Machine of Death (game)
+- Magic Sword
+- Magister Lor
+- Magnatune
+- Magpie Codex
+- Maki
+- Making The Bigs
+- Malmsturm
+- Man & Ubermensch
+- Management Exchange
+- Manybooks
+- Mars Express
+- Maschine Zeit
+- Mashup Breakdown
+- Masks
+- Material Icons
+- Mathispower4U
+- Mayhem Academy
+- Mazes & Perils
+- Meatbot Massacre
+- Media Studies 101
+- MediaGoblin
+- Meet CC
+- Men Of Stones
+- Merchants' Reach
+- Metafiction
+- Metropole Luxury Coffin
+- Microcosm
+- Microlite20
+- Microlite20 4E
+- Midgard
+- Midian
+- MIER
+- Mike Shaw
+- Milky Way Express
+- Mini Six
+- Mini Wood Purse
+- Minions Inc
+- Mirima Tyalie
+- MIT OpenCourseWare
+- Mixotic
+- Miyoung Yi
+- MMO
+- Mobile Frame Zero
+- Monk Story
+- Monster RPG 2
+- Monsters Menace Monopoly
+- Moonshades
+- Move Commons
+- Moving Image Contest
+- Mrbeastdesign
+- Muktware
+- MULRAH
+- Munchkund and His Sweet Tooth
+- Murderhobos
+- Muse
+- Musescore
+- Musopen
+- Musopen Collection
+- Mutant Future
+- Mutant Hunter
+- Mutants & Masterminds
+- My Darn Ex-Wife
+- My Supernatural Romance
+- Mypaint
+- Mypolice Data
+- Myriad
+- Myth & Magic
+- Mythender
+- Mythic Mortals
+- Myths Retold
+- Nain
+- Nameless Horror
+- NASA Images
+- NASA's Sound Files
+- Nasty Old People
+- National Elevation Data Framework Portal
+- National Repository of Open Educational Resources
+- Necronautica
+- Neverwell Moor
+- New Education Highway
+- New Media Rights
+- New Orleans Homes
+- New Realms
+- News Hole
+- Nicky Case
+- Night of the Living Dead
+- Night Of The Sevens
+- Nighty Night
+- No Rock Solo
+- No Straight Lines
+- Nordic Creative Commons Film Festival
+- Not-Too-Silly Stories
+- Noteworthy
+- Nothing To Hide
+- Number Appearing
+- Numeros Rojos
+- NZ Commons
+- Obrary
+- Octobriana
+- OER Commons
+- OER Knowledge Cloud
+- OER@AVU
+- OERu
+- Oil Contracts
+- Old Book Art
+- Old Messila
+- Old School Hack
+- OMCT
+- Omnibus.io
+- On the Commons
+- Once I Was A Warrior
+- One Page Dungeon Contest
+- One Roll Monsters
+- One Roll Spells
+- One Shot
+- One-Page Dungeon Contest 2011
+- One-Page Dungeon Contest 2012
+- Onlinecomputerbooks
+- Ookaboo
+- Open Access Ebooks
+- Open Access Explained
+- Open Adventure
+- Open Bibliographic Data Guide
+- Open Business Model Canvas
+- Open Compute Project
+- Open Course Library
+- Open Data Commons
+- Open Data Handbook
+- Open Data, Open Society
+- Open Design Now
+- Open Dyslexic
+- Open Educational Resources in the People’s Republic of China: Achievements, Challenges and Prospects for Development
+- Open English Bible
+- Open Font Library
+- Open Food Facts
+- Open Hardware Journal
+- Open Library
+- Open Library Of The Humanities
+- Open Minded CEOs
+- Open Music Theory
+- Open Policy Network
+- Open Resource Bank for Interactive Teaching
+- Open Society Foundations
+- Open Source Alternative
+- Open Source Cookbook
+- Open Source Ecology
+- Open Source Food
+- Open Source Game Clones
+- Open Source Licensing
+- Open Source Seed Initiative
+- Open States
+- Open The Future
+- Open Translation Tools
+- Open4E
+- Openaddresses
+- Openchem
+- Opencola
+- Opencorporates
+- OpenD6
+- Opendemocracy
+- Opendesk
+- Openlibra
+- Openphoto
+- OpenQuest
+- OpenRelativity
+- Opensource.com
+- OpenStax CNX
+- Openstax College
+- Opentechco
+- OpenTest
+- Opentextbookstore
+- OpenTTD
+- Oppia
+- Opsound
+- Oral Literature in Africa
+- ORC
+- Orcus
+- OrganiXperiment
+- Orphan Songs (album)
+- Osprey
+- OSRIC
+- Ostermark
+- OSVehicle
+- Our Digital Future
+- Out for Blood
+- Out Of The Violent Planet
+- Overclocked
+- P2PU
+- Paleobiology Database
+- Pantheon
+- Panton Discussions
+- Passage
+- Pathfinder
+- PCGen
+- Pdfreaders Org
+- Pelgrane Press
+- Perfect20
+- Perspectives On Open And Distance Learning
+- PFSRD
+- Phantom 52
+- Philopic
+- PHONAR
+- Phylo
+- Picdrome
+- PICOL
+- Pirate Cinema
+- Pirate Game
+- Pirate Squad
+- Pixabay
+- Pixel Quest
+- Planet Crashers
+- Plastic Attack
+- PLOS
+- Poetics For Cosmonauts
+- Pollies
+- Pondlife Fiasco
+- Population Of Loss
+- Post Apoc Bird
+- Powers For Good
+- Practical Survivor
+- Prelinger Archive
+- President of Russia website
+- Princes of Arabia
+- PRISM ⚡ BREAK
+- Pristine Classical
+- Producing Open Source Software
+- Project 74
+- Project Ballad
+- Project N
+- Project Utopia
+- Prometheus SRD
+- Proprietary Games With Open Source Engines
+- Protei
+- Providence Junction
+- Psychic Warrior
+- Public Domain Review
+- Public Domain Textures
+- Public Domain Torrents
+- Public Knowledge
+- Pulse of the Earth
+- Push
+- Putting the Band Back Together
+- Qi Hardware
+- Qomun
+- Quad System
+- Quasar
+- Queensland Government Data
+- Quest-ions
+- Question Copyright
+- Quick Play
+- Quote Unquote Records
+- Rad Geek People's Daily
+- Rafu
+- Rage, Precognition, Grace
+- Rainbow Deck
+- Rathole Radio
+- Raven Crowking's Fantasy Game
+- Realms Of Wonder
+- Recordagrave
+- Records On Ribs
+- Recovering the Classics
+- Redbox Hack
+- Reddit
+- Regret, with Math
+- REIGN Supplement 16
+- Renaissance
+- Repository 66
+- Republic Lost
+- Resolute Adventurer Genius
+- Retrocalypse
+- Return To Maniac Mansion
+- Revolucion
+- Right To Music
+- Right2Remix
+- Ring Of Changes
+- Rivers & Lakes
+- Roadkill
+- Robot Hamlet vs Richard III
+- Rookvale
+- Rosalind Wells Ambassador To Space
+- Runebearer
+- Runequest
+- Ruritania 1844
+- Ryzom Asset Repository
+- Ryzom Core
+- Sacred Steel
+- Safecast
+- Saga
+- Saga Machine
+- Sage
+- Sanglorian's Dungeon World Stuff
+- Sarrenor
+- Saylor
+- Scarlet Heroes Art Pack
+- Schematic
+- School Daze
+- School of Open
+- Science Comics
+- Science Fiction Mystery
+- Scienceimage
+- SCIRES-IT
+- SCP Foundation
+- Scrabblenauts
+- Season Of Gratitude
+- Second String Superheroes
+- Second Year of Our REIGN
+- Secret Santicore 2011
+- Sefaria
+- Seventh
+- Severed Fifth
+- Shackled Self
+- Shadow Hack
+- Shadows
+- Shakespeare 2985
+- Shared Creations
+- Sharing Is Liberty
+- Sharing The Book
+- Shrimp
+- SIL International
+- Simple 20
+- Sintel
+- Sintel The Game
+- Sita Sings the Blues
+- Skeksis cards for Ganakagok
+- SketchChair
+- Sketchfab
+- Skitterphoto
+- Slacking through the Sandbox
+- Sleep Is Death
+- Slime Attack
+- SMAF 17
+- Small Beer Press' Creative Commons page
+- Smartcopying
+- Smarthistory
+- Sneaky Cards
+- So Now You're a Time Traveler
+- So You Want To Be A Librarian
+- Software Freedom Conservancy
+- Solitudes & Silence
+- Somnambulance
+- Sorcerer's Symposium
+- Sorcerers Garden
+- Sound Image
+- Soundcloud
+- Source Code Pro
+- Source Sans Pro
+- Sovereign
+- Spacepirates
+- SpaceX
+- Spellchrome
+- Spellcraft & Swordplay
+- Spirit of the Century
+- Spite
+- Spoppy
+- SpringerOpen
+- Square 1
+- SRD5
+- Stamtar
+- Stanford Engineering Everywhere
+- Star Blades
+- Star Empire
+- Star Quest
+- Star Wreck RPG
+- Stargazers World
+- Starguide
+- Start Programming With Python
+- State Library Of Queensland
+- Steampunkfitters
+- Stephen Kinsella
+- Stick's Adventure
+- Stories System
+- Storn R Cook's Art for Swipin'
+- Story Games Names Project
+- Storyleaves
+- Streetfilms
+- Strolen's Citadel
+- Stuck in Customs
+- Subaqueous
+- Sufficiently Advanced Technologies
+- Sunspot
+- Super Hero Fun
+- Super Repo
+- Superliga
+- Superpower Wiki
+- Supertux
+- Surlalune
+- Sweet20
+- Swords & Wizardry
+- Synergy
+- Syria Deeply
+- Tagesschrift
+- Take Back Toe
+- Take on Establishments
+- Take on Magic Items
+- Tale Of Navri
+- Tales of the Grotesque and Dungeonesque
+- Talislanta
+- Tannenberg 4
+- Tceope
+- Tea Party
+- Teaching Copyright
+- Tears of Steel
+- Tech Noir
+- Techdirt
+- Tejid@s Junt@s
+- TeknoAXE
+- Telecanter
+- Teleleli
+- Telgrathia
+- Ten Thousand Worlds
+- Terms of Service; Didn't Read
+- Terror of the Serpent Men
+- Test 1
+- Test without a License
+- Tex For The Impatient
+- The 52 Pages
+- The Accessible Icon Project
+- The Adventures of Boris Munchausen
+- The Age of Shadow
+- The Art Of Community
+- The Beggar's Opera
+- The Beggar's Opera RPG
+- The Best Copyright-Free Photo Libraries
+- The Big Brown Book
+- The Camera Collection
+- The Carnival Of Dreams
+- The Case For Copyright Reform
+- The Castle Doctrine
+- The Cathedral and the Bazaar
+- The Classic Short Story, 1870-1925: Theory Of A Genre
+- The Collected Writings Of Jeremy Kellerman Volume One
+- The Commons Collages
+- The Conversation
+- The Cookbook
+- The Democracy Of Objects
+- The Devil, John Moulton
+- The Digital Public Domain
+- The Dragonswarm
+- The Dreaming Crucible
+- The Enemy And How I Helped To Fight It
+- The Face of Angels
+- The Far Towers
+- The Fate Codex
+- The Fifth World
+- The First 100 Days Of Government
+- The FLOK Society Project
+- The Foundations For An Open Source City
+- The Free Culture Game
+- The Freesound Project
+- The Game System
+- The Getty
+- The GNU C Programming Tutorial
+- The Great Tournament
+- The Green
+- The Hill Productions
+- The Infinite Voyager
+- The Internet's Own Boy
+- The Lands Of The Dead
+- The Last Challenge
+- The Last Door Season One
+- The Later Blue Tome of Amaxathroth the Cursed
+- The League Of Moveable Type
+- The Liberate Pixil Cup Quest
+- The Libertarian Standard
+- The Libre Labyrinth
+- The Logic of Tales and Dreams
+- The Manual
+- The Modern Path
+- The Most Amazing Online Organizing Guide Ever!
+- The Mustang
+- The New Birthday Song Contest
+- The New Death and Others
+- The Open Book
+- The Open Game Art Bundle
+- The Open Source Way
+- The Open Standard
+- The Open Utopia
+- The Open Well-Tempered Clavier
+- The Osswin Project
+- The Ouroboros Cycle
+- The Peeragogy Handbook
+- The Penthouse
+- The Power Of Open
+- The Princess Game
+- The Psychology Of Emotions Feelings And Thoughts
+- The Public Domain
+- The Public Domain Game Jam
+- The Python Game Book
+- The Saturn Return
+- The Shadow of Yesterday
+- The Shrouded Lands
+- The Simple Game System
+- The Slip
+- The Social Media Reader
+- The Toxies
+- The Trial Of Poland
+- The Trouble With Rose
+- The Tube Open Movie Project
+- The Undying Lands
+- The Ware Tetralogy
+- The Wealth Of Networks
+- The Wealth Of The Commons
+- The Whispering Road
+- The WikiPremed MCAT Course
+- The Wired CD
+- The Wizard's Amulet
+- Theatre Is Evil
+- Theonosis
+- These People Mean Nothing to Each Other
+- Thesixtyone
+- Thetis
+- They Say The Sirens Left The Seas
+- They Vote For You
+- Thingiverse
+- Third Year of Our REIGN
+- Those Funny Funguloids!
+- Thou Shalt Not Commit Logical Fallacies
+- Threshold Tragic Superheroes
+- Thrilling Noir Stories
+- Time & Temp
+- Tings
+- Tint
+- Tiny Triangles
+- To the Barricades
+- Toast
+- Top 10 Open Source Gifts For The Holidays
+- Tor
+- Torch & Sword
+- Torus One
+- Toybox Wars
+- TPB AFK
+- Traficantes de Sueños
+- Training.gov.au
+- Transontology
+- Traveller
+- Treasure
+- Tri-Fold Fate
+- Triangle Wiki
+- TRIC SRD
+- Trolling Effects
+- True20
+- TV Tropes
+- Twemoji
+- Twenty One Turn Hero
+- Twine Games
+- Twisted Space
+- Two Things She Does With Her Body
+- Two-Fisted Tweets
+- Two-Page Space
+- Ubunchu
+- Ubuntu Free Culture Showcase
+- Ubuntu List Of Open Source Programs
+- Ultramodern4
+- Uncensored Interview
+- Uncharted Worlds
+- Understanding Changes In Poverty
+- Unlikely Treasures 1
+- Unseen Studio
+- Unsplash
+- Unsung Tales
+- Unz.org
+- Valence
+- Valentin Champer's COPYME Editions
+- Vampires, a postmodern roleplaying game
+- Vector 3
+- Venn's Revenge
+- Very Simple Generic Miniatures Rules
+- Vessel.cc
+- Vicious Crucible of the Eburnean Tower
+- Vicious Crucible of Verdigris Valley
+- Vicious Crucible of Villa Argentate
+- Video Game Law
+- videolectures.net
+- Viento Libre
+- Vimeo
+- Violence
+- Voidspanners
+- Volley Zombie
+- Vs Elves
+- Vs. Monsters
+- War Galley
+- Warlord's Wager
+- WaRP
+- Warrior & Wizard
+- Warrior, Rogue & Mage
+- Wayfarers
+- Ways To Practice Responsible Development Data
+- We Magazine
+- Wealth Inequality In America
+- Weapons & Gear
+- Weasels
+- Weird World
+- Wellcome Images
+- What Is a Roleplaying Game
+- What's the Deal with Copyright and 3D Printing
+- Where Are The Joneses
+- Where Are Your Keys
+- White House
+- White House Honey Ale
+- Why Hippos Have No Hair
+- Why Open Education Matters
+- Why the Heck Should I Care about the TPP?
+- Wide Stance
+- Wikidata
+- Wikinews
+- Wikipedia
+- Wikipedia Chanukah
+- Wikipedia List of Game Engines
+- Wikipedia Sound List
+- Wikiseat
+- Wiley Open Access
+- Wings Keeton and The Airship of Doom
+- Winning The Web
+- WIRED
+- Witless Minion
+- Wordplay Basics
+- Wordplay Core Rules
+- World Bank Open Knowledge Repository
+- World Of Nevermore
+- Worlds in Peril
+- WPClipart
+- Wrack & Wruin
+- Writer's Dice Guide
+- WTactics
+- Wu Ming Foundation
+- Wushu Black Belt Edition
+- Wushu Open
+- Xceptional
+- Xodd
+- Yags
+- Yanone Kaffeesatz
+- Ye Olde Adventure Shoppe
+- Yo Frankie
+- Yorokobu
+- You All Meet In A Tavern
+- YouTube
+- Zamani
+- Zap! The Science Fiction RPG
+- ZEFRS
+- Zenhabits
+- Zero Project
+- Zero Sum Game
+- Zombie Squad
+- Zounds! The Fantasy RPG
+- …in Spaaace!
