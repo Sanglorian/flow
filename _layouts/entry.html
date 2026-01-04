@@ -44,7 +44,7 @@ layout: default
     {%- if category_value contains "Work" or category_value contains "Collection" -%}
       {%- if has_flo_license -%}
         <div class="FLO-work" style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
-          At least part of this work or collection is under a <a href="/FLO-licenses/">free, libre and open license</a>.
+          At least part of this work or collection is under a <a href="/licenses/">free, libre and open license</a>.
         </div>
       {%- elsif has_public_domain_license -%}
         <div class="public-domain-work" style="margin-top:.75rem; border:2px solid #f59f00; padding:.75rem; border-radius:8px;">
@@ -52,7 +52,7 @@ layout: default
         </div>
       {%- else -%}
         <div class="non-FLO-work" style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
-          This may not be under a <a href="/FLO-licenses/">free, libre or open license</a>.
+          This may not be under a <a href="/licenses/">free, libre or open license</a>.
         </div>
       {%- endif -%}
     {%- endif -%}
