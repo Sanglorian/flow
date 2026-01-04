@@ -3,9 +3,7 @@ layout: home
 title: Home
 ---
 
-# Free and Open Works
-
-Welcome to the Free and Open Works collection. Browse the catalog, or head over to the blog for updates.
+Welcome to the Free, Libre and Open Works collection. Browse the catalog, or head over to the blog for updates.
 
 <aside class="site-sidebar">
   <section>
