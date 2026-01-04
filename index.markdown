@@ -45,7 +45,6 @@ Welcome to the Free and Open Works collection. Browse the catalog, or head over 
       <li><a href="{{ "/languages/" | relative_url }}">Languages</a></li>
       <li><a href="{{ "/licenses/" | relative_url }}">Licenses</a></li>
       <li><a href="{{ "/genres/" | relative_url }}">Genres</a></li>
-      <li><a href="{{ "/formats/" | relative_url }}">Formats</a></li>
       <li><a href="{{ "/types/" | relative_url }}">Types</a></li>
       <li><a href="{{ "/funding-tools/" | relative_url }}">Funding Tools</a></li>
     </ul>
