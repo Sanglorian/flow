@@ -6,7 +6,7 @@ permalink: /entries.xml
 {%- assign window_seconds = window_days | times: 86400 -%}
 {%- assign now_seconds = site.time | date: "%s" | plus: 0 -%}
 {%- assign cutoff_seconds = now_seconds | minus: window_seconds -%}
-{%- assign entries = site.entries | where_exp: "entry", "entry.updated_at" | sort: "updated_at" | reverse -%}
+{% assign entries = site.entries | where_exp: "entry", "entry.created_at" | sort: "created_at" | reverse %}
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ site.title | xml_escape }}</title>
@@ -15,13 +15,13 @@ permalink: /entries.xml
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ site.url }}{{ site.baseurl }}/</id>
   {% for entry in entries %}
-    {% assign updated_seconds = entry.updated_at | date: "%s" | plus: 0 %}
-    {% if updated_seconds >= cutoff_seconds %}
+    {% assign created_seconds = entry.created_at | date: "%s" | plus: 0 %}
+    {% if created_seconds >= cutoff_seconds %}
   <entry>
     <title>{{ entry.title | xml_escape }}</title>
     <link href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}"/>
     <id>{{ site.url }}{{ site.baseurl }}{{ entry.url }}</id>
-    <updated>{{ entry.updated_at | date_to_xmlschema }}</updated>
+    <updated>{{ entry.created_at | date_to_xmlschema }}</updated>
     {% if entry.entry.short_description %}
     <summary>{{ entry.entry.short_description | xml_escape }}</summary>
     {% endif %}
