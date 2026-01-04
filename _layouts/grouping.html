@@ -182,7 +182,7 @@ layout: default
     </section>
   {%- endif -%}
 
-  {%- assign flo_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence' or item.license_certification contains 'Open Source Definition compliant licence' or item.license_certification contains 'GPL-compatible free software licence'" -%}
+  {%- assign flo_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence' or item.license_certification contains 'FSF free documentation licence' or item.license_certification contains 'Open Source Definition compliant licence' or item.license_certification contains 'GPL-compatible free software licence'" -%}
   {%- assign flo_license_titles = flo_licenses | map: "title" -%}
 
   <section style="margin-top:1.5rem;">

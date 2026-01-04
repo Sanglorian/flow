@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
+  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|FSF free documentation licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
   {%- assign has_flo_certification = false -%}
   {%- if page.license_certification and page.license_certification.size > 0 -%}
     {%- for cert in page.license_certification -%}

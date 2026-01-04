@@ -15,7 +15,7 @@ nav_exclude: true
 
 <h2>For culture and content</h2>
 
-{%- assign culture_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence'" | sort: "title" -%}
+{%- assign culture_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence' or item.license_certification contains 'FSF free documentation licence'" | sort: "title" -%}
 {%- if culture_licenses and culture_licenses.size > 0 -%}
 <ul>
   {%- for license in culture_licenses -%}

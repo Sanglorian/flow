@@ -15,7 +15,7 @@ layout: default
     {%- assign funding_items = "" | split: "" -%}
     {%- assign funding_items = funding_items | push: page.funding -%}
   {%- endif -%}
-  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
+  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|FSF free documentation licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
   {%- assign has_flo_license = false -%}
   {%- assign has_public_domain_license = false -%}
   {%- if license_items and license_items.size > 0 -%}

@@ -26,28 +26,64 @@ layout: default
     </section>
   {%- endif -%}
 
+  {%- assign flo_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence' or item.license_certification contains 'Open Source Definition compliant licence' or item.license_certification contains 'GPL-compatible free software licence'" -%}
+  {%- assign flo_license_titles = flo_licenses | map: "title" -%}
+
+
   <section style="margin-top:1.5rem;">
     <h2>Works funded with {{ page.title }}</h2>
 
-    <ul>
-      {%- assign found = false -%}
-      {%- for entry in site.entries -%}
-        {%- if entry.funding and entry.funding.funding_tool -%}
-          {%- if entry.funding.funding_tool == page.title -%}
-            {%- assign found = true -%}
+    {%- assign flo_found = false -%}
+    {%- assign non_flo_found = false -%}
+    {%- assign flo_rows = "" -%}
+    {%- assign non_flo_rows = "" -%}
+    {%- for entry in site.entries -%}
+      {%- if entry.funding and entry.funding.funding_tool -%}
+        {%- if entry.funding.funding_tool == page.title -%}
+          {%- assign is_flo_entry = false -%}
+          {%- if entry.licensing and entry.licensing.size > 0 -%}
+            {%- for license in entry.licensing -%}
+              {%- assign license_title = license.license | default: license.licence -%}
+              {%- if license_title == "Public domain" or flo_license_titles contains license_title -%}
+                {%- assign is_flo_entry = true -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+          {%- capture row -%}
             <li>
               <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
               {%- if entry.funding.explanation -%}
                  <span class="explanation">— <a href="{{ entry.funding.explanation }}" rel="nofollow">Funding details</a></span>
               {%- endif -%}
             </li>
+          {%- endcapture -%}
+          {%- if is_flo_entry -%}
+            {%- assign flo_found = true -%}
+            {%- assign flo_rows = flo_rows | append: row -%}
+          {%- else -%}
+            {%- assign non_flo_found = true -%}
+            {%- assign non_flo_rows = non_flo_rows | append: row -%}
           {%- endif -%}
         {%- endif -%}
-      {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
 
-      {%- unless found -%}
+    <h3>FLO licensed or public domain</h3>
+    <ul>
+      {%- if flo_found -%}
+        {{ flo_rows }}
+      {%- else -%}
         <li><em>No works listed.</em></li>
-      {%- endunless -%}
+      {%- endif -%}
+    </ul>
+
+    <h3>Non-FLO licensed</h3>
+    <ul>
+      {%- if non_flo_found -%}
+        {{ non_flo_rows }}
+      {%- else -%}
+        <li><em>No works listed.</em></li>
+      {%- endif -%}
     </ul>
   </section>
 </article>

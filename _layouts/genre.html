@@ -53,9 +53,51 @@ layout: default
     </section>
   {%- endif -%}
 
+
+  {%- assign flo_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence' or item.license_certification contains 'Open Source Definition compliant licence' or item.license_certification contains 'GPL-compatible free software licence'" -%}
+  {%- assign flo_license_titles = flo_licenses | map: "title" -%}
+  
   <section style="margin-top:1.5rem;">
     <h2>Entries in {{ page.title }}</h2>
 
+    {%- assign flo_found = false -%}
+    {%- assign non_flo_found = false -%}
+    {%- assign flo_rows = "" -%}
+    {%- assign non_flo_rows = "" -%}
+    {%- for entry in site.entries -%}
+      {%- if entry.genres -%}
+        {%- for g in entry.genres -%}
+          {%- assign genre_name = g.genre | default: g -%}
+          {%- if genre_name == page.title -%}
+            {%- assign is_flo_entry = false -%}
+            {%- if entry.licensing and entry.licensing.size > 0 -%}
+              {%- for license in entry.licensing -%}
+                {%- assign license_title = license.license | default: license.licence -%}
+                {%- if license_title == "Public domain" or flo_license_titles contains license_title -%}
+                  {%- assign is_flo_entry = true -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endif -%}
+            {%- capture row -%}
+              <tr>
+                <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
+                <td><span class="explanation">{{ g.explanation | default: "—" }}</span></td>
+              </tr>
+            {%- endcapture -%}
+            {%- if is_flo_entry -%}
+              {%- assign flo_found = true -%}
+              {%- assign flo_rows = flo_rows | append: row -%}
+            {%- else -%}
+              {%- assign non_flo_found = true -%}
+              {%- assign non_flo_rows = non_flo_rows | append: row -%}
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    <h3>FLO licensed or public domain</h3>
+	
     <table>
       <thead>
         <tr>
@@ -64,27 +106,33 @@ layout: default
         </tr>
       </thead>
       <tbody>
-        {%- assign found = false -%}
-        {%- for entry in site.entries -%}
-          {%- if entry.genres -%}
-            {%- for g in entry.genres -%}
-              {%- assign genre_name = g.genre | default: g -%}
-              {%- if genre_name == page.title -%}
-                {%- assign found = true -%}
-                <tr>
-                  <td><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></td>
-                  <td><span class="explanation">{{ g.explanation | default: "—" }}</span></td>
-                </tr>
-              {%- endif -%}
-            {%- endfor -%}
-          {%- endif -%}
-        {%- endfor -%}
-
-        {%- unless found -%}
+        {%- if flo_found -%}
+          {{ flo_rows }}
+        {%- else -%}
           <tr>
             <td colspan="2"><em>No entries listed.</em></td>
           </tr>
-        {%- endunless -%}
+        {%- endif -%}
+      </tbody>
+    </table>
+
+
+    <h3>Non-FLO licensed</h3>
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align:left;">Entry</th>
+          <th style="text-align:left;">Explanation</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%- if non_flo_found -%}
+          {{ non_flo_rows }}
+        {%- else -%}
+          <tr>
+            <td colspan="2"><em>No entries listed.</em></td>
+          </tr>
+        {%- endif -%}
       </tbody>
     </table>
     </ul>
