@@ -118,16 +118,22 @@ h2 {
   border-radius: 8px;
   padding: 1rem;
   background: #fff;
-  display: flex;
-  flex-direction: column;
+  display: block;
 }
 
+.featured-card::after {
+  content: "";
+  display: block;
+  clear: both;
+  }
+
 .featured-thumbnail {
-  max-width: 100px;
+  max-width: 88px;
   height: auto;
   border-radius: 6px;
   width: auto;
-  align-self: flex-start;
+  float: right;
+  margin: 0 0 0.5rem 0.25rem;
 }
 
 .entry-thumbnail {
@@ -193,8 +199,12 @@ h2 {
   font-size: 0.6em;
   border: 1px solid #c76b00;
   background-color: #ffe2b5;
-  color: #5a3200;
+  color: #8b0000;                /* dark red text */
   padding: 0.05rem 0.35rem;
   border-radius: 0;
   margin: 0 0.2rem 0.2rem 0;
+}
+
+.featured-card p {
+  margin-bottom: 0;
 }
