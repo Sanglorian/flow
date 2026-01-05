@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1648**
+Total pages missing from Jekyll collections: **1626**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -11,31 +11,9 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 
 - Free, libre and open licences
 
-## Collection (22)
+## Collection (0)
 > Potentially a grouping-style page or an entry categorized as `Collection`. Check for lists of contained works and ensure relationships are represented in `connections` or grouping fields.
 
-- Awesome Gamedev
-- d20 System
-- Insects Unlocked
-- International Music Score Library Project
-- Kenney
-- Leebre
-- Mark Causey's Patreon games
-- Morevna Project
-- Museums Victoria Collections
-- Open Data Initiative
-- Open Music Archive
-- Openclipart
-- PhET Interactive Simulations
-- Printable Miniatures (Brent Newhall)
-- R/GameAssets
-- Ramon Lucha
-- Shady's Shorts
-- StoryWeaver
-- Surian Soosay
-- TED Talks
-- The Noun Project
-- Tracy Barnett's Patreon games
 
 ## Entry (198)
 > Likely becomes an `_entries` record where the specific entry category is determined by template parameters. Verify the intended `entry.category_of_entry` and ensure any connection or license subtemplates are preserved.
