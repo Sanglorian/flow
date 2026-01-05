@@ -71,80 +71,54 @@ layout: default
 
   <section style="margin-top:1.25rem;">
     <h2>Details</h2>
-    <table>
-      <tbody>
-        {%- if page.created_by -%}
-          <tr>
-            <th style="text-align:left;">Created by</th>
-            <td>{{ page.created_by }}</td>
-          </tr>
-        {%- endif -%}
+    {%- if page.created_by -%}
+      <p><strong>Created by </strong>{{ page.created_by }}</p>
+    {%- endif -%}
 
-        {%- if page.parent_license -%}
-          <tr>
-            <th style="text-align:left;">Parent license</th>
-            <td>
-              {%- assign parent_doc = site.licenses | where: "title", page.parent_license | first -%}
-              {%- if parent_doc -%}
-                <a href="{{ parent_doc.url | relative_url }}">{{ page.parent_license }}</a>
-              {%- else -%}
-                {{ page.parent_license }}
-              {%- endif -%}
-            </td>
-          </tr>
+    {%- if page.parent_license -%}
+      <p><strong>Parent license </strong>
+        {%- assign parent_doc = site.licenses | where: "title", page.parent_license | first -%}
+        {%- if parent_doc -%}
+          <a href="{{ parent_doc.url | relative_url }}">{{ page.parent_license }}</a>
+        {%- else -%}
+          {{ page.parent_license }}
         {%- endif -%}
+      </p>
+    {%- endif -%}
 
-        {%- if page.is_superseded_by -%}
-          <tr>
-            <th style="text-align:left;">Superseded by</th>
-            <td>
-              {%- assign superseded_doc = site.licenses | where: "title", page.is_superseded_by | first -%}
-              {%- if superseded_doc -%}
-                <a href="{{ superseded_doc.url | relative_url }}">{{ page.is_superseded_by }}</a>
-              {%- else -%}
-                {{ page.is_superseded_by }}
-              {%- endif -%}
-            </td>
-          </tr>
+    {%- if page.is_superseded_by -%}
+      <p><strong>Superseded by </strong>
+        {%- assign superseded_doc = site.licenses | where: "title", page.is_superseded_by | first -%}
+        {%- if superseded_doc -%}
+          <a href="{{ superseded_doc.url | relative_url }}">{{ page.is_superseded_by }}</a>
+        {%- else -%}
+          {{ page.is_superseded_by }}
         {%- endif -%}
+      </p>
+    {%- endif -%}
 
-        {%- if page.wikidata -%}
-          <tr>
-            <th style="text-align:left;">Wikidata</th>
-            <td>
-              <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
-                {{ page.wikidata }}
-              </a>
-            </td>
-          </tr>
-        {%- endif -%}
+    {%- if page.wikidata -%}
+      <p><strong>Wikidata </strong>
+        <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
+          {{ page.wikidata }}
+        </a>
+      </p>
+    {%- endif -%}
 
-        {%- if page.license_certification and page.license_certification.size > 0 -%}
-          <tr>
-            <th style="text-align:left;">License certification</th>
-            <td>
-              <ul>
-                {%- for cert in page.license_certification -%}
-                  <li>{{ cert }}</li>
-                {%- endfor -%}
-              </ul>
-            </td>
-          </tr>
-        {%- endif -%}
-		        {%- if page.license_aspect and page.license_aspect.size > 0 -%}
-          <tr>
-            <th style="text-align:left;">License aspect</th>
-            <td>
-              <ul>
-                {%- for aspect in page.license_aspect -%}
-                  <li>{{ aspect }}</li>
-                {%- endfor -%}
-              </ul>
-            </td>
-          </tr>
-        {%- endif -%}
-      </tbody>
-    </table>
+    {%- if page.license_certification and page.license_certification.size > 0 -%}
+      <p><strong>License certification </strong>
+        {%- for cert in page.license_certification -%}
+          {{ cert }}{%- unless forloop.last -%}, {%- endunless -%}
+        {%- endfor -%}
+      </p>
+    {%- endif -%}
+    {%- if page.license_aspect and page.license_aspect.size > 0 -%}
+      <p><strong>License aspect </strong>
+        {%- for aspect in page.license_aspect -%}
+          {{ aspect }}{%- unless forloop.last -%}, {%- endunless -%}
+        {%- endfor -%}
+      </p>
+    {%- endif -%}
   </section>
 
   {%- assign supersedes = site.licenses | where: "is_superseded_by", page.title -%}
@@ -204,10 +178,10 @@ layout: default
               <li>
                 <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
                 {%- if license_item.licence_coverage or license_item.license_coverage -%}
-                  — {{ license_item.licence_coverage | default: license_item.license_coverage }}
+                  <span> — {{ license_item.licence_coverage | default: license_item.license_coverage }}</span>
                 {%- endif -%}
 			                {%- if license_item.explanation -%}
-                  <span class="explanation">— {{ license_item.explanation }}</span>
+                  <span class="explanation"> — {{ license_item.explanation }}</span>
                 {%- endif -%}
               </li>
             {%- endif -%}

@@ -22,27 +22,17 @@ layout: default
   {%- if page.alias or page.wikidata -%}
     <section style="margin-top:1.25rem;">
       <h2>Details</h2>
-      <table>
-        <tbody>
-          {%- if page.alias -%}
-            <tr>
-              <th style="text-align:left;">Alias</th>
-              <td>{{ page.alias }}</td>
-            </tr>
-          {%- endif -%}
+      {%- if page.alias -%}
+        <p><strong>Alias </strong>{{ page.alias }}</p>
+      {%- endif -%}
 
-          {%- if page.wikidata -%}
-            <tr>
-              <th style="text-align:left;">Wikidata</th>
-              <td>
-                <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
-                  {{ page.wikidata }}
-                </a>
-              </td>
-            </tr>
-          {%- endif -%}
-        </tbody>
-      </table>
+      {%- if page.wikidata -%}
+        <p><strong>Wikidata </strong>
+          <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
+            {{ page.wikidata }}
+          </a>
+        </p>
+      {%- endif -%}
     </section>
   {%- endif -%}
 
@@ -74,10 +64,10 @@ layout: default
               <li>
                 <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
                 {%- if l.relationship_of_language -%}
-                  — {{ l.relationship_of_language }}
+                  <span> — {{ l.relationship_of_language }}</span>
                 {%- endif -%}
                 {%- if l.explanation -%}
-                  <span class="explanation">— {{ l.explanation }}</span>
+                  <span class="explanation"> — {{ l.explanation }}</span>
                 {%- endif -%}
               </li>
             {%- endcapture -%}

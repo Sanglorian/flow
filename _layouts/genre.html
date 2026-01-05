@@ -22,34 +22,24 @@ layout: default
   {%- if page.related_genres or page.wikidata -%}
     <section style="margin-top:1.25rem;">
       <h2>Details</h2>
-      <table>
-        <tbody>
-          {%- if page.related_genres -%}
-            <tr>
-              <th style="text-align:left;">Related Genres</th>
-              <td>
-                {%- for related in page.related_genres -%}
-                  {%- assign related_slug = related | slugify -%}
-                  <a href="{{ '/genre/' | append: related_slug | append: '/' | relative_url }}">
-                    {{ related }}
-                  </a>{% unless forloop.last %}, {% endunless %}
-                {%- endfor -%}
-              </td>
-            </tr>
-          {%- endif -%}
+      {%- if page.related_genres -%}
+        <p><strong>Related Genres </strong>
+          {%- for related in page.related_genres -%}
+            {%- assign related_slug = related | slugify -%}
+            <a href="{{ '/genre/' | append: related_slug | append: '/' | relative_url }}">
+              {{ related }}
+            </a>{% unless forloop.last %}, {% endunless %}
+          {%- endfor -%}
+        </p>
+      {%- endif -%}
 
-          {%- if page.wikidata -%}
-            <tr>
-              <th style="text-align:left;">Wikidata</th>
-              <td>
-                <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
-                  {{ page.wikidata }}
-                </a>
-              </td>
-            </tr>
-          {%- endif -%}
-        </tbody>
-      </table>
+      {%- if page.wikidata -%}
+        <p><strong>Wikidata </strong>
+          <a href="https://www.wikidata.org/wiki/{{ page.wikidata }}" rel="nofollow">
+            {{ page.wikidata }}
+          </a>
+        </p>
+      {%- endif -%}
     </section>
   {%- endif -%}
 
