@@ -52,7 +52,8 @@ layout: default
             <li>
               <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
               {%- if entry.funding.explanation -%}
-                <span class="explanation"> — <a href="{{ entry.funding.explanation }}" rel="nofollow">Funding details</a></span>
+                 {%- assign explanation_text = entry.funding.explanation | strip -%}
+                 <span class="explanation">— {{ explanation_text }}</span>
               {%- endif -%}
             </li>
           {%- endcapture -%}

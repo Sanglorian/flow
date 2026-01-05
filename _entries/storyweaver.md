@@ -3,7 +3,7 @@ layout: entry
 title: "StoryWeaver"
 permalink: /storyweaver/
 created_at: 2015-09-12
-updated_at: 2015-09-21
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -20,5 +20,19 @@ groupings:
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    licence_coverage: "Books"
+	explanation: "https://storyweaver.org.in/en/open-content"
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0"
+    licence_coverage: "Readalongs and videos."
+languages:
+  - language: "English"
+  - language: "Hindi"
+  - language: "Tamil"
+  - language: "Marathi"
+  - language: "Urdu"
+  - language: "Kannada"
+  - language: "Bahasa Indonesia"
+  - language: "French"
+  - language: "Bodo"
+  - language: "Acholi"
 ---

@@ -3,7 +3,7 @@ layout: entry
 title: "Open Music Archive"
 permalink: /open-music-archive/
 created_at: 2015-09-19
-updated_at: 2015-09-21
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -18,5 +18,7 @@ groupings:
     is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
+    licence-coverage: "Public domain or CC BY-SA unless otherwise mentioned."
   - license: "Creative Commons Attribution-ShareAlike 4.0"
+    licence-coverage: "CC BY-SA or public domain unless otherwise mentioned."
 ---

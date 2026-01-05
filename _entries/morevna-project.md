@@ -3,7 +3,7 @@ layout: entry
 title: "Morevna Project"
 permalink: /morevna-project/
 created_at: 2015-07-30
-updated_at: 2015-09-21
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

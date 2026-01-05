@@ -4,7 +4,7 @@ email: sanglorian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This wiki celebrates culture and knowledge that you can copy and share without breaking the law, with a particular focus on free, libre and open works that can be shared and adapted by any person for any purpose, commercial or otherwise.
 baseurl: "/flow" 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sanglorian.github.io"
 github_username:  sanglorian
 repo_url: "https://github.com/sanglorian/flow"
 

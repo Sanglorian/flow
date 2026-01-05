@@ -3,7 +3,7 @@ layout: entry
 title: "PhET Interactive Simulations"
 permalink: /phet-interactive-simulations/
 created_at: 2015-09-06
-updated_at: 2015-09-20
+updated_at: 2026-01-05
 contributors:
 - "58.107.69.177"
 - Sanglorian

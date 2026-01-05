@@ -3,7 +3,7 @@ layout: entry
 title: "TED Talks"
 permalink: /ted-talks/
 created_at: 2015-08-01
-updated_at: 2015-09-21
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -20,5 +20,5 @@ types:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (Unported)"
     licence_coverage: "entirety"
-    explanation: "Except for TED-Ed. https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy"
+    explanation: "Except for TED-Ed. https://help.ted.com/hc/en-us/articles/360004233294-How-do-I-license-TED-or-TEDx-content"
 ---

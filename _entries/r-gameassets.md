@@ -1,9 +1,9 @@
 ---
 layout: entry
-title: "R/GameAssets"
+title: "r/GameAssets"
 permalink: /r-gameassets/
 created_at: 2015-08-02
-updated_at: 2015-09-20
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
