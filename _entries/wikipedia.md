@@ -3,7 +3,7 @@ layout: entry
 title: "Wikipedia"
 permalink: /wikipedia/
 created_at: 2015-05-29
-updated_at: 2015-10-10
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -21,7 +21,7 @@ languages:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"
     explanation: "With the exception of some content that is used under fair use."
   - license: "GNU Free Documentation License"

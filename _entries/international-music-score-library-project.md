@@ -3,7 +3,7 @@ layout: entry
 title: "International Music Score Library Project"
 permalink: /international-music-score-library-project/
 created_at: 2015-08-08
-updated_at: 2015-09-20
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

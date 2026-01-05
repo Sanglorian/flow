@@ -3,7 +3,7 @@ layout: entry
 title: "Opensource.com"
 permalink: /opensource-com/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -19,5 +19,5 @@ genres:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
 ---

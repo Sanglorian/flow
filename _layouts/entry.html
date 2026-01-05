@@ -48,8 +48,8 @@ layout: default
         </div>
       {%- elsif has_public_domain_license -%}
         <div class="public-domain-work" style="margin-top:.75rem; border:2px solid #f59f00; padding:.75rem; border-radius:8px;">
-          The public domain varies from country-to-country, and there are concerns about "declaring" something to be public domain.
-        </div>
+          In the <a href="/license/public-domain/">public domain</a>, at least in parts of the world.
+		  </div>
       {%- else -%}
         <div class="non-FLO-work" style="margin-top:.75rem; border:2px solid #cc2b2b; padding:.75rem; border-radius:8px;">
           This may not be under a <a href="/licenses/">free, libre or open license</a>.
@@ -341,7 +341,7 @@ layout: default
         {%- endif -%}
         {%- if funding_item.explanation -%}
           {%- assign explanation_text = funding_item.explanation | strip -%}
-          <span class="explanation">
+          <span class="explanation"> 
             {%- if explanation_text contains "http://" or explanation_text contains "https://" -%}
               {%- assign explanation_parts = explanation_text | split: " " -%}
               {%- if explanation_parts.size == 1 -%}

@@ -13,9 +13,8 @@ layout: default
     {%- endif -%}
 
     {%- if page.main_url -%}
-      <p style="margin:.5rem 0 0;">
-        <strong>Main URL:</strong>
-        <a href="{{ page.main_url }}" rel="nofollow">{{ page.main_url }}</a>
+      <p class="main-url" style="margin:.5rem 0 0;">
+        <strong>        <a href="{{ page.main_url }}" rel="nofollow">{{ page.main_url }}</a></strong>
       </p>
     {%- endif -%}
   </header>
@@ -53,7 +52,7 @@ layout: default
             <li>
               <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
               {%- if entry.funding.explanation -%}
-                 <span class="explanation">— <a href="{{ entry.funding.explanation }}" rel="nofollow">Funding details</a></span>
+                <span class="explanation"> — <a href="{{ entry.funding.explanation }}" rel="nofollow">Funding details</a></span>
               {%- endif -%}
             </li>
           {%- endcapture -%}

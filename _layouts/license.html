@@ -43,7 +43,7 @@ layout: default
     {%- assign license_title_downcase = page.title | downcase -%}
     {%- if license_title_downcase contains "public domain" and has_flo_certification == false -%}
       <div class="public-domain-work" style="margin-top:.75rem; border:2px solid #f59f00; padding:.75rem; border-radius:8px;">
-        The public domain varies from country-to-country, and there are concerns about "declaring" something to be public domain.
+        In the <a href="/license/public-domain/">public domain</a>, at least in parts of the world.
       </div>
     {%- elsif has_flo_certification -%}
       <div style="margin-top:.75rem; border:2px solid #1e6bd6; padding:.75rem; border-radius:8px;">
@@ -57,9 +57,8 @@ layout: default
 
 
     {%- if page.main_url -%}
-      <p style="margin:.5rem 0 0;">
-        <strong>Main URL:</strong>
-        <a href="{{ page.main_url }}" rel="nofollow">{{ page.main_url }}</a>
+      <p class="main-url" style="margin:.5rem 0 0;">
+        <strong>        <a href="{{ page.main_url }}" rel="nofollow">{{ page.main_url }}</a></strong>
       </p>
     {%- endif -%}
   </header>

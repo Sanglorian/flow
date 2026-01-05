@@ -3,7 +3,7 @@ layout: entry
 title: "Night of the Living Dead"
 permalink: /night-of-the-living-dead/
 created_at: 2015-08-01
-updated_at: 2015-10-08
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "Insects Unlocked"
 permalink: /insects-unlocked/
 created_at: 2015-08-05
-updated_at: 2015-09-21
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
@@ -22,8 +22,4 @@ types:
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"
-funding:
-  - funding_tool: "Hornraiser"
-    funding_type: "ransom"
-    explanation: "https://hornraiser.utexas.edu/project/460"
 ---

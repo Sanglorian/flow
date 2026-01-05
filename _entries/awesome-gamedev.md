@@ -3,7 +3,7 @@ layout: entry
 title: "Awesome Gamedev"
 permalink: /awesome-gamedev/
 created_at: 2015-08-20
-updated_at: 2015-09-20
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "d20 System"
 permalink: /d20-system/
 created_at: 2015-07-28
-updated_at: 2015-09-22
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
