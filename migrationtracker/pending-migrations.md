@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1626**
+Total pages missing from Jekyll collections: **1576**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -18,56 +18,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Entry (198)
 > Likely becomes an `_entries` record where the specific entry category is determined by template parameters. Verify the intended `entry.category_of_entry` and ensure any connection or license subtemplates are preserved.
 
-- 1923: A Monthly Zine of Public Domain Treasures
-- 200 Word RPG Challenge
-- 43+ Unique Places to Find Remarkable Free Photos
-- 5E SRD
-- A Dark Room
-- A Lonely Place for Dying
-- ABC's of Anarchy
-- Adventures With Anxiety!
-- African Storybook
-- All the Music LLC
-- Antti Luode
-- Arcmage
-- Avada Classic
-- Bad Habit
-- Bahama Taxi
-- Barn Images
-- Basic Dungeons & Dragons
-- Big Buck Bunny Board Book
-- Biodiversity Heritage Library
-- Blackstar album elements
-- Blades in the Dark RPG
-- Bloc by Bloc
-- Blown to Bits
-- Book Dash
-- Bulbapedia
-- Bungee
-- Card Armies: Battle For Wesnoth
-- Cat Avatar Generator
-- Cataclysm: Dark Days Ahead
-- CatchChallenger
-- cc0.photo
-- Cheapass Games
-- CIA: Collect It All
-- City of Brass
-- Clean Energy Wire
-- Cleveland Museum of Art
-- College Physics
-- Complete Free Amanda Palmer Discography
-- Cost of Freedom
-- Cost of Freedomn
-- Creative Commons Certificate
-- Creative Commons for Educators and Librarians
-- Creative Commons Style Guide
-- Creative Vix
-- Crow the Stone
-- Cupcake
-- d100 System
-- Designing with LibreOffice
-- Dungeons & Dragons 4E
-- EBC
 - Epicantus
 - Ethic Cinema
 - extyrannomon
