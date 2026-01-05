@@ -3,7 +3,7 @@ layout: entry
 title: "EBC"
 permalink: /ebc/
 created_at: 2016-03-30
-updated_at: 2016-03-30
+updated_at: 2026-01-05
 contributors:
 - "124.171.66.181"
 entry:
@@ -12,5 +12,5 @@ entry:
   main_url: "http://www.ebc.com.br/"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Brazil)"
-    licence_coverage: "entirety"
+    licence_coverage: "formerly the entirety of the site, now seemingly not listed"
 ---

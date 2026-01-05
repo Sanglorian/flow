@@ -3,7 +3,7 @@ layout: entry
 title: "Cleveland Museum of Art"
 permalink: /cleveland-museum-of-art/
 created_at: 2019-02-02
-updated_at: 2019-02-02
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

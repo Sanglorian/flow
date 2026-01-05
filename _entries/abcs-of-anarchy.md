@@ -3,7 +3,7 @@ layout: entry
 title: "ABC's of Anarchy"
 permalink: /abcs-of-anarchy/
 created_at: 2019-01-22
-updated_at: 2019-01-22
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
@@ -26,5 +26,5 @@ licensing:
 versions:
   - version_format: "PDF"
     version_price: 0
-    version_url: "http://www.infoshop.org/wp-content/uploads/2018/01/ABCsOfAnarchy.pdf"
+    version_url: "https://azinelibrary.org/approved/abcs-anarchy-1.pdf"
 ---

@@ -3,7 +3,7 @@ layout: entry
 title: "Bulbapedia"
 permalink: /bulbapedia/
 created_at: 2015-12-05
-updated_at: 2015-12-05
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
@@ -23,5 +23,5 @@ types:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 2.5"
     licence_coverage: "part"
-    explanation: "All text in Bulbapedia, and some images and other content, is covered by the Creative Commons Attribution-NonCommercial-ShareAlike License. http://bulbapedia.bulbagarden.net/wiki/Bulbapedia:About"
+    explanation: "https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Copyrights"
 ---

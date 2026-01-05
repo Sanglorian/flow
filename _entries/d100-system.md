@@ -3,7 +3,7 @@ layout: entry
 title: "d100 System"
 permalink: /d100-system/
 created_at: 2016-05-11
-updated_at: 2016-05-11
+updated_at: 2026-01-05
 contributors:
 - "124.168.215.177"
 entry:

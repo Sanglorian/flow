@@ -3,7 +3,7 @@ layout: entry
 title: "Creative Commons for Educators and Librarians"
 permalink: /creative-commons-for-educators-and-librarians/
 created_at: 2020-01-10
-updated_at: 2020-01-10
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

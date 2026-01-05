@@ -3,7 +3,7 @@ layout: entry
 title: "Avada Classic"
 permalink: /avada-classic/
 created_at: 2017-02-24
-updated_at: 2017-02-24
+updated_at: 2026-01-05
 contributors:
 - "220.245.24.134"
 entry:

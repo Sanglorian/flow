@@ -3,7 +3,7 @@ layout: entry
 title: "Adventures With Anxiety!"
 permalink: /adventures-with-anxiety/
 created_at: 2019-09-19
-updated_at: 2019-09-19
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

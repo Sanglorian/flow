@@ -3,13 +3,13 @@ layout: entry
 title: "CatchChallenger"
 permalink: /catchchallenger/
 created_at: 2016-07-25
-updated_at: 2016-07-25
+updated_at: 2026-01-05
 contributors:
 - "124.171.138.68"
 entry:
   category_of_entry: Work
   short_description: "An MMORPG where you can capture monsters."
-  main_url: "http://catchchallenger.first-world.info/"
+  main_url: "https://catchchallenger.herman-brule.com/"
 connections:
   - has_connection_to_entry: "Github"
     details_of_connection: "a host of"

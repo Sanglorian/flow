@@ -3,7 +3,7 @@ layout: entry
 title: "5E SRD"
 permalink: /5e-srd/
 created_at: 2016-01-16
-updated_at: 2016-01-16
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
@@ -11,7 +11,7 @@ entry:
   alias: "5E System Reference Document"
   short_description: "The abridged but functional rules for the fifth edition of Dungeons & Dragons."
   year_of_publication: 2016
-  main_url: "http://dnd.wizards.com/articles/features/systems-reference-document-srd"
+  main_url: "https://www.dndbeyond.com/srd"
 connections:
   - has_connection_to_entry: "Dungeons & Dragons 5E"
 genres:
@@ -27,6 +27,9 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Open Game License"
+    licence_coverage: "text only"
+licensing:
+  - license: "Creative Commons Attribution 4.0"
     licence_coverage: "text only"
 versions:
   - version_title: "5srd"

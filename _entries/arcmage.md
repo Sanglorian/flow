@@ -3,7 +3,7 @@ layout: entry
 title: "Arcmage"
 permalink: /arcmage/
 created_at: 2017-02-24
-updated_at: 2017-02-24
+updated_at: 2026-01-05
 contributors:
 - "220.245.24.134"
 entry:

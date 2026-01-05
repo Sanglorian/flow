@@ -3,7 +3,7 @@ layout: entry
 title: "Bahama Taxi"
 permalink: /bahama-taxi/
 created_at: 2019-01-02
-updated_at: 2019-01-02
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

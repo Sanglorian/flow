@@ -3,7 +3,7 @@ layout: entry
 title: "Card Armies: Battle For Wesnoth"
 permalink: /card-armies-battle-for-wesnoth/
 created_at: 2015-10-08
-updated_at: 2015-10-08
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

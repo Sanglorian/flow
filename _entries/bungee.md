@@ -3,7 +3,7 @@ layout: entry
 title: "Bungee"
 permalink: /bungee/
 created_at: 2016-09-30
-updated_at: 2016-09-30
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "200 Word RPG Challenge"
 permalink: /200-word-rpg-challenge/
 created_at: 2017-04-02
-updated_at: 2017-04-02
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

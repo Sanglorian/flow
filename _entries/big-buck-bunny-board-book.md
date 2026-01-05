@@ -3,7 +3,7 @@ layout: entry
 title: "Big Buck Bunny Board Book"
 permalink: /big-buck-bunny-board-book/
 created_at: 2015-10-13
-updated_at: 2015-10-13
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "Basic Dungeons & Dragons"
 permalink: /basic-dungeons-and-dragons/
 created_at: 2015-10-11
-updated_at: 2015-10-11
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

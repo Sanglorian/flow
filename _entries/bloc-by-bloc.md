@@ -3,7 +3,7 @@ layout: entry
 title: "Bloc by Bloc"
 permalink: /bloc-by-bloc/
 created_at: 2016-05-18
-updated_at: 2016-05-18
+updated_at: 2026-01-05
 contributors:
 - "124.171.139.119"
 entry:
@@ -22,6 +22,7 @@ types:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     licence_coverage: "entirety"
+	explanation: "https://github.com/outofordergames/blocbybloc"
 funding:
   funding_tool: "Kickstarter"
   funding_type: "sales"

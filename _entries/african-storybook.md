@@ -3,7 +3,7 @@ layout: entry
 title: "African Storybook"
 permalink: /african-storybook/
 created_at: 2018-03-09
-updated_at: 2018-03-09
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
@@ -15,7 +15,7 @@ genres:
 languages:
   - language: "English"
     relationship_of_language: "original"
-    explanation: "Says it has stories from 128 languages, but doesn't seem to have a full list."
+    explanation: "Says it has stories from 270 languages, but doesn't seem to have a full list."
   - language: "Arabic"
     relationship_of_language: "original"
 groupings:
@@ -25,6 +25,6 @@ types:
   - type: "Book"
     distribution: "electronic"
 licensing:
-  - license: "Creative Commons Attribution 3.0 (Unported)"
+  - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"
 ---

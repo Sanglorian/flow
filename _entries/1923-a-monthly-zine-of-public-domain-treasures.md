@@ -3,7 +3,7 @@ layout: entry
 title: "1923: A Monthly Zine of Public Domain Treasures"
 permalink: /1923-a-monthly-zine-of-public-domain-treasures/
 created_at: 2019-03-22
-updated_at: 2019-03-22
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

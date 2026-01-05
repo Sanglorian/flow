@@ -3,7 +3,7 @@ layout: entry
 title: "Designing with LibreOffice"
 permalink: /designing-with-libreoffice/
 created_at: 2016-04-12
-updated_at: 2016-04-12
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

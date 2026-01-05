@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "An independent drama-thriller film."
   year_of_publication: 2009
-  main_url: "http://www.alonelyplacefordying.com"
+  main_url: "https://archive.org/details/ALonelyPlaceForDying"
 genres:
   - "Drama"
   - "Thriller"

@@ -3,7 +3,7 @@ layout: entry
 title: "Blown to Bits"
 permalink: /blown-to-bits/
 created_at: 2015-12-01
-updated_at: 2015-12-01
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

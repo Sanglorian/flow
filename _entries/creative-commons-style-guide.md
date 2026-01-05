@@ -3,7 +3,7 @@ layout: entry
 title: "Creative Commons Style Guide"
 permalink: /creative-commons-style-guide/
 created_at: 2019-11-27
-updated_at: 2019-11-27
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

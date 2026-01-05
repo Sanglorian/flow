@@ -3,7 +3,7 @@ layout: entry
 title: "Cat Avatar Generator"
 permalink: /cat-avatar-generator/
 created_at: 2016-12-16
-updated_at: 2016-12-16
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

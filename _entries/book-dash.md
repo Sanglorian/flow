@@ -3,7 +3,7 @@ layout: entry
 title: "Book Dash"
 permalink: /book-dash/
 created_at: 2016-04-07
-updated_at: 2016-04-07
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

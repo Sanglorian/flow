@@ -3,7 +3,7 @@ layout: entry
 title: "All the Music LLC"
 permalink: /all-the-music-llc/
 created_at: 2020-03-05
-updated_at: 2020-03-05
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

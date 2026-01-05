@@ -3,7 +3,7 @@ layout: entry
 title: "Blackstar album elements"
 permalink: /blackstar-album-elements/
 created_at: 2016-02-01
-updated_at: 2016-02-01
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
@@ -17,5 +17,5 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     licence_coverage: "entirety"
-    explanation: "Although it's not clear to me whether simple symbols like this would be subject to copyright anyway."
+    explanation: "License is included in each zip download."
 ---

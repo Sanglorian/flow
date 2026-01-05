@@ -3,7 +3,7 @@ layout: entry
 title: "Blades in the Dark RPG"
 permalink: /blades-in-the-dark-rpg/
 created_at: 2017-12-11
-updated_at: 2017-12-11
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

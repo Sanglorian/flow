@@ -3,7 +3,7 @@ layout: entry
 title: "Clean Energy Wire"
 permalink: /clean-energy-wire/
 created_at: 2020-02-28
-updated_at: 2020-02-28
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:

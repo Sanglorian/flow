@@ -3,13 +3,13 @@ layout: entry
 title: "Cataclysm: Dark Days Ahead"
 permalink: /cataclysm-dark-days-ahead/
 created_at: 2016-11-15
-updated_at: 2016-11-15
+updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "Zombie survival rogue-like"
-  main_url: "http://en.cataclysmdda.com/"
+  main_url: "https://cataclysmdda.org/"
 genres:
   - "Horror"
   - "Survival"
