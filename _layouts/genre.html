@@ -28,7 +28,7 @@ layout: default
             {%- assign related_slug = related | slugify -%}
             <a href="{{ '/genre/' | append: related_slug | append: '/' | relative_url }}">
               {{ related }}
-            </a>{% unless forloop.last %}, {% endunless %}
+            </a>{%- unless forloop.last %}, {% endunless %}
           {%- endfor -%}
         </p>
       {%- endif -%}
