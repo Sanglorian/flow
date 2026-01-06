@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Collection, Person"
   short_description: "An artist and maker of game assets (2D and 3D)"
   main_url: "http://www.kenney.nl/assets"
-  main-description: "Also hosted on Open Game Art. https://opengameart.org/users/kenney"
+  main_description: "Also hosted on Open Game Art. https://opengameart.org/users/kenney"
 groupings:
   - grouping: "3D Assets"
     is_or_about_grouping: "is"
@@ -24,8 +24,8 @@ licensing:
     explanation: "Each asset has a licence listed; for the ones I checked, it was this one."
 funding:
   - funding_tool: "itch.io"
-    funding-type: "sales"
-	explanation: "https://kenney.itch.io/kenney-game-assets"
+    funding_type: "sales"
+    explanation: "https://kenney.itch.io/kenney-game-assets"
   - funding_tool: "Patreon"
     funding_type: "ransom"
     explanation: "https://www.patreon.com/kenney"

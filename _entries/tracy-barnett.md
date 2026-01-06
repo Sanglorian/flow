@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "Inclusive and original tabletop gaming content."
   main-url: "https://theothertracy.itch.io/"
-  main-description: "Creative Commons-licensed versions of some games still available, such as [Iron Edda](https://www.scribd.com/document/349547764/Iron-Edda-pdf), [You Are the Dungeon](https://theothertracy.itch.io/you-are-the-dungeon) and [You are the Wilds](https://www.patreon.com/posts/you-are-wilds-138278686)"
+  main_description: "Creative Commons-licensed versions of some games still available, such as [Iron Edda](https://www.scribd.com/document/349547764/Iron-Edda-pdf), [You Are the Dungeon](https://theothertracy.itch.io/you-are-the-dungeon) and [You are the Wilds](https://www.patreon.com/posts/you-are-wilds-138278686)"
 groupings:
   - grouping: "Tabletop Gaming"
     is_or_about_grouping: "is"

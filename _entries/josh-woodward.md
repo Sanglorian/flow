@@ -11,12 +11,12 @@ entry:
   category_of_entry: Collection, Source
   short_description: "Josh Woodward writes and sings quirky acoustic rock."
   main_url: "http://www.joshwoodward.com/"
-  main-description: "Also hosted on YouTube. https://www.youtube.com/joshwoodward"
+  main_description: "Also hosted on YouTube. https://www.youtube.com/joshwoodward"
 groupings:
   - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution"
-    licence-coverage: "As of 2025, all of Josh Woodward's music was CC BY licensed."
+    licence_coverage: "As of 2025, all of Josh Woodward's music was CC BY licensed."
     explanation: https://web.archive.org/web/20250620134556mp_/https://www.joshwoodward.com/faq
 funding:
   - funding_tool: "Kickstarter"

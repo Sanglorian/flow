@@ -21,7 +21,7 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "Books"
-	explanation: "https://storyweaver.org.in/en/open-content"
+    explanation: "https://storyweaver.org.in/en/open-content"
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0"
     licence_coverage: "Readalongs and videos."
 languages:

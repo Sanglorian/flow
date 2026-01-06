@@ -15,12 +15,9 @@ genres:
 languages:
   - language: "English"
     relationship_of_language: "original"
-languages:
   - language: "Chinese (Simplified)"
     relationship_of_language: "translation"
   - language: "Chinese (Traditional)"
-    relationship_of_language: "translation"
-  - language: "English"
     relationship_of_language: "translation"
   - language: "French"
     relationship_of_language: "translation"
@@ -71,5 +68,5 @@ types:
 licensing:
   - license: "Mozilla Public License 2.0"
     licence_coverage: "entirety"
-	explanation: "https://github.com/doublespeakgames/adarkroom"
+    explanation: "https://github.com/doublespeakgames/adarkroom"
 ---

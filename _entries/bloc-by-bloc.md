@@ -22,7 +22,7 @@ types:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     licence_coverage: "entirety"
-	explanation: "https://github.com/outofordergames/blocbybloc"
+    explanation: "https://github.com/outofordergames/blocbybloc"
 funding:
   funding_tool: "Kickstarter"
   funding_type: "sales"

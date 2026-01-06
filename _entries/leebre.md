@@ -18,13 +18,13 @@ groupings:
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
-    licence-coverage: "The website itself and some works."
+    licence_coverage: "The website itself and some works."
   - license: "Creative Commons Attribution 3.0"
-    licence-coverage: "Some works."
+    licence_coverage: "Some works."
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0"
-    licence-coverage: "Some works."
+    licence_coverage: "Some works."
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0"
-    licence-coverage: "Some works."
+    licence_coverage: "Some works."
 types:
   - type: "Book"
     distribution: "electronic"

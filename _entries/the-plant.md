@@ -11,7 +11,7 @@ entry:
   category_of_entry: Work
   short_description: "A solo RPG where you play someone crawling around the innards of a power plant."
   year_of_publication: 2009
-  main_url: "https://archive.org/details/ThePlant/ThePlant/page/n1/mode/2up
+  main_url: "https://archive.org/details/ThePlant/ThePlant/page/n1/mode/2up"
   thumbnail: "/thumbnails/the-plant.jpg"
 connections:
   - has_connection_to_entry: "Bully Pulpit Games"
@@ -37,7 +37,6 @@ versions:
     version_format: "PDF"
     version_price: 0
     version_url: "https://archive.org/details/ThePlant/ThePlant/page/n1/mode/2up"
-versions:
   - version_title: "Web version"
     version_format: "HTML"
     version_price: 0

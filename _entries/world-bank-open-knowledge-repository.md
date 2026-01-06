@@ -15,11 +15,11 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence-coverage: "The majority of works are licensed under one of four licenses."
+    licence_coverage: "The majority of works are licensed under one of four licenses."
   - license: "Creative Commons Attribution 3.0 (IGO)"
-    licence-coverage: "The majority of works are licensed under one of four licenses."
+    licence_coverage: "The majority of works are licensed under one of four licenses."
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0"
-    licence-coverage: "The majority of works are licensed under one of four licenses."
+    licence_coverage: "The majority of works are licensed under one of four licenses."
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (IGO)"
-    licence-coverage: "The majority of works are licensed under one of four licenses."
+    licence_coverage: "The majority of works are licensed under one of four licenses."
 ---

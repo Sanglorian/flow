@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   main_url: "http://alpha.libre.fm/"
-  main-description: "Formerly hosted music. Now software that tracks what music you listen to."
+  main_description: "Formerly hosted music. Now software that tracks what music you listen to."
 groupings:
   - grouping: "Music"
     is-about: "About"

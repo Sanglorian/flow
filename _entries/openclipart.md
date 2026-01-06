@@ -15,5 +15,5 @@ groupings:
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"
-	explanation: "https://openclipart.org/share"
+    explanation: "https://openclipart.org/share"
 ---
