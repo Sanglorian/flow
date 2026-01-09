@@ -1,0 +1,162 @@
+name: "New entry submission"
+description: "Submit a new entry for inclusion in the catalog."
+title: "New entry: <title>"
+labels:
+  - "new-entry"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a new entry! Please fill out the fields below. All fields marked **Required** must be completed.
+
+  - type: input
+    id: title
+    attributes:
+      label: Title (Required)
+      description: "Human-readable title for the entry."
+      placeholder: "Example: A Dark Room"
+    validations:
+      required: true
+
+  - type: input
+    id: main_url
+    attributes:
+      label: Main URL (Required)
+      description: "Primary link for the entry."
+      placeholder: "https://example.com/"
+    validations:
+      required: true
+
+  - type: input
+    id: short_description
+    attributes:
+      label: Short description (Required)
+      description: "One-sentence summary."
+      placeholder: "A minimalist text adventure game for your browser."
+    validations:
+      required: true
+
+  - type: textarea
+    id: main_description
+    attributes:
+      label: Main description (Optional)
+      description: "Longer description, citations, or notes. Markdown is OK."
+      placeholder: "Optional details, context, and supporting links."
+
+  - type: dropdown
+    id: category_of_entry
+    attributes:
+      label: Category of entry (Required)
+      description: "Select the best fit (you may choose multiple)."
+      multiple: true
+      options:
+        - Work
+        - Collection
+        - Source
+        - Person
+        - Organisation
+    validations:
+      required: true
+
+  - type: input
+    id: year_of_publication
+    attributes:
+      label: Year of publication (Optional)
+      description: "Year of first publication, if applicable."
+      placeholder: "2019"
+
+  - type: input
+    id: thumbnail
+    attributes:
+      label: Thumbnail path (Optional)
+      description: "If you have a thumbnail already in the repo, provide its path."
+      placeholder: "/thumbnails/example.jpg"
+
+  - type: input
+    id: wikidata_code
+    attributes:
+      label: Wikidata code (Optional)
+      description: "Wikidata Q-ID if available."
+      placeholder: "Q123456"
+
+  - type: textarea
+    id: languages
+    attributes:
+      label: Languages (Optional)
+      description: |
+        List each language on its own line using the format:
+        Language name | original/translation/official translation | optional explanation
+      placeholder: |
+        English | original
+        French | translation | translated by ...
+
+  - type: textarea
+    id: groupings
+    attributes:
+      label: Groupings (Optional)
+      description: |
+        List each grouping on its own line using the format:
+        Grouping name | is/about | optional explanation
+      placeholder: |
+        Film | is
+        Concept Art | is
+
+  - type: textarea
+    id: genres
+    attributes:
+      label: Genres (Optional)
+      description: "List genres, one per line."
+      placeholder: |
+        Fantasy
+        IP Minimalism
+
+  - type: textarea
+    id: types
+    attributes:
+      label: Types (Optional)
+      description: |
+        List each type on its own line using the format:
+        Type | electronic/hardcopy | optional explanation
+      placeholder: |
+        Book | electronic
+        Audio | electronic
+
+  - type: textarea
+    id: licensing
+    attributes:
+      label: Licensing (Optional)
+      description: |
+        List each license on its own line using the format:
+        License name | coverage | optional explanation/citation
+      placeholder: |
+        Creative Commons Attribution 4.0 | entirety | https://example.com/license
+
+  - type: textarea
+    id: versions
+    attributes:
+      label: Versions (Optional)
+      description: |
+        List each version on its own line using the format:
+        Version title | format | price | URL | optional explanation
+      placeholder: |
+        Original release | PDF | 0 | https://example.com/file.pdf | optional note
+
+  - type: textarea
+    id: funding
+    attributes:
+      label: Funding (Optional)
+      description: |
+        List each funding item on its own line using the format:
+        Platform | model | optional explanation/citation
+      placeholder: |
+        Patreon | sponsored | https://patreon.com/example
+
+  - type: textarea
+    id: connections
+    attributes:
+      label: Connections (Optional)
+      description: |
+        List each connection on its own line using the format:
+        Entry name | optional relationship details | optional explanation
+      placeholder: |
+        Blender Foundation | producer | https://example.com/about
