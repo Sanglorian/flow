@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1576**
+Total pages missing from Jekyll collections: **1536**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -18,46 +18,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Entry (198)
 > Likely becomes an `_entries` record where the specific entry category is determined by template parameters. Verify the intended `entry.category_of_entry` and ensure any connection or license subtemplates are preserved.
 
-- Epicantus
-- Ethic Cinema
-- extyrannomon
-- Fair Use for Nonfiction Authors
-- FancyCrave
-- Fantasy Craft
-- Fate
-- Fellowship
-- Final Bid
-- Floraverse
-- Font Awesome
-- Free Culcha Piecepack
-- Free for All
-- Free Nature Stock
-- Free Stock Image Point
-- Free Wars
-- Freedom of the Press Foundation
-- Friends with Monsters
-- GeoNet
-- Glass Half
-- Glider Ink
-- Gratisography
-- Hearts Blazing
-- Hexoshi
-- Holacracy Constitution
-- inkrobot.ca
-- Ivan Golunov
-- Jacob Randolph
-- jay mantri
-- Junk Land
-- Kimiko Ishizaka
-- Knave
-- Letters for Black Lives
-- LibreIdea
-- List of Premium and Libre Video
-- Little Visuals
-- logodust.com
-- Loomio Co-op Handbook
-- Made with Creative Commons
-- Magdeleine
 - Masters of the Heist
 - Michele Bucelli
 - Mike Riverso
