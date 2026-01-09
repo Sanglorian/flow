@@ -1,15 +1,15 @@
 ---
 layout: entry
-title: "Gratisography"
-permalink: /gratisography/
-created_at: 2015-11-25
-updated_at: 2015-11-25
+title: "Public Domain Archive"
+permalink: /public-domain-archive/
+created_at: 2015-11-30
+updated_at: 2015-11-30
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
-  short_description: "Free high-resolution pictures you can use on your personal and commercial projects."
-  main_url: "http://www.gratisography.com/"
+  category_of_entry: Collection
+  short_description: "\"New 100% Free Stock Photos. Every. Single. Week.\""
+  main_url: "http://publicdomainarchive.com/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"
@@ -25,5 +25,4 @@ types:
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"
-    explanation: "http://www.gratisography.com/terms.html"
 ---

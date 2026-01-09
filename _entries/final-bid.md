@@ -3,7 +3,7 @@ layout: entry
 title: "Final Bid"
 permalink: /final-bid/
 created_at: 2019-04-06
-updated_at: 2019-04-06
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -35,4 +35,9 @@ funding:
   - funding_tool: "Itch.io"
     funding_type: "sales"
     explanation: "https://liberigothica.itch.io/final-bid"
+versions:
+  - version_title: "Hardcopy, PDF"
+    version_format: "Hardcopy, PDF"
+    version_price: 8
+    version_url: "https://www.drivethrurpg.com/en/product/264853/final-bid"
 ---

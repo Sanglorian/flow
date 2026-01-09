@@ -3,7 +3,7 @@ layout: entry
 title: "Made with Creative Commons"
 permalink: /made-with-creative-commons/
 created_at: 2017-08-11
-updated_at: 2017-08-11
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

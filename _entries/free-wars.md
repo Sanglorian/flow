@@ -3,7 +3,7 @@ layout: entry
 title: "Free Wars"
 permalink: /free-wars/
 created_at: 2018-08-03
-updated_at: 2018-08-03
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

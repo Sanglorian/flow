@@ -3,13 +3,13 @@ layout: entry
 title: "Font Awesome"
 permalink: /font-awesome/
 created_at: 2016-12-18
-updated_at: 2016-12-18
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work, Collection"
   short_description: "Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS."
-  main_url: "http://fontawesome.io/"
+  main_url: "https://web.archive.org/web/20180111012319/http://fontawesome.io/"
 licensing:
   - license: "SIL Open Font License"
     licence_coverage: "part"

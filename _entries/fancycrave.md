@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Collection"
   short_description: "Free high resolution photos from professional photographers. Two new images every day."
-  main_url: "http://fancycrave.com/"
+  main_url: "https://web.archive.org/web/20160103120712/http://fancycrave.com/TermsandServices"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"
@@ -24,6 +24,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
-    explanation: "\"Photographs are provided free of charge and under the Creative Commons Public Domain CC0 licence.\" http://fancycrave.com/TermsandServices"
+    licence_coverage: "For a time, all photos on the site."
+    explanation: "\"Photographs are provided free of charge and under the Creative Commons Public Domain CC0 licence.\" https://web.archive.org/web/20160103120712/http://fancycrave.com/TermsandServices"
 ---

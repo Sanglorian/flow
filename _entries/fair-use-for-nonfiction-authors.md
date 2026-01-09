@@ -3,7 +3,7 @@ layout: entry
 title: "Fair Use for Nonfiction Authors"
 permalink: /fair-use-for-nonfiction-authors/
 created_at: 2018-03-09
-updated_at: 2018-03-09
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

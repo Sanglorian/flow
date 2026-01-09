@@ -3,7 +3,7 @@ layout: entry
 title: "Glass Half"
 permalink: /glass-half/
 created_at: 2015-11-02
-updated_at: 2015-11-02
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

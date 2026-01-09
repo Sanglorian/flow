@@ -3,7 +3,7 @@ layout: entry
 title: "Holacracy Constitution"
 permalink: /holacracy-constitution/
 created_at: 2019-02-11
-updated_at: 2019-02-11
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

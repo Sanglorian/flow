@@ -3,7 +3,7 @@ layout: entry
 title: "Ivan Golunov"
 permalink: /ivan-golunov/
 created_at: 2019-11-27
-updated_at: 2019-11-27
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

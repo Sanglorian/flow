@@ -3,7 +3,7 @@ layout: entry
 title: "GeoNet"
 permalink: /geonet/
 created_at: 2018-03-09
-updated_at: 2018-03-09
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

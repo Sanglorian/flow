@@ -3,7 +3,7 @@ layout: entry
 title: "Loomio Co-op Handbook"
 permalink: /loomio-co-op-handbook/
 created_at: 2016-09-07
-updated_at: 2016-09-07
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

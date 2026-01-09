@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "This book is a collection of games that you can play with the piecepack."
   year_of_publication: 2013
+  main-url: "https://www.ludism.org/ppwiki/FreeCulcha"
 connections:
   - has_connection_to_entry: "Chris Sakkas"
     details_of_connection: "a contributor to"

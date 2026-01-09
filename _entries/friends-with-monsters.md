@@ -3,7 +3,7 @@ layout: entry
 title: "Friends with Monsters"
 permalink: /friends-with-monsters/
 created_at: 2016-05-24
-updated_at: 2016-05-24
+updated_at: 2026-01-09
 contributors:
 - "124.171.139.119"
 entry:

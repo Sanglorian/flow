@@ -3,7 +3,7 @@ layout: entry
 title: "Glider Ink"
 permalink: /glider-ink/
 created_at: 2017-01-11
-updated_at: 2017-01-11
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

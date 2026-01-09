@@ -3,7 +3,7 @@ layout: entry
 title: "Jacob Randolph"
 permalink: /jacob-randolph/
 created_at: 2019-04-06
-updated_at: 2019-04-06
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

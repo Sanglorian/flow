@@ -18,5 +18,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    licence_coverage: "Earlier version was unambiguous: https://web.archive.org/web/20160630115608/http://www.logodust.com/"
 ---

@@ -3,12 +3,12 @@ layout: entry
 title: "Little Visuals"
 permalink: /little-visuals/
 created_at: 2015-11-30
-updated_at: 2015-11-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
-  short_description: "Sign up to get 7 hi-res images zipped up in your inbox."
+  short_description: "Free, high resolution images."
   main_url: "http://littlevisuals.co/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
