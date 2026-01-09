@@ -3,7 +3,7 @@ layout: entry
 title: "Tuxemon"
 permalink: /tuxemon/
 created_at: 2015-10-23
-updated_at: 2015-10-23
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

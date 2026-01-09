@@ -3,7 +3,7 @@ layout: entry
 title: "The Future of the Internet"
 permalink: /the-future-of-the-internet/
 created_at: 2015-12-01
-updated_at: 2015-12-01
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

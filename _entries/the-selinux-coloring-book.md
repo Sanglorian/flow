@@ -3,7 +3,7 @@ layout: entry
 title: "The SELinux Coloring Book"
 permalink: /the-selinux-coloring-book/
 created_at: 2016-03-08
-updated_at: 2016-03-08
+updated_at: 2026-01-09
 contributors:
 - "202.55.151.86"
 entry:

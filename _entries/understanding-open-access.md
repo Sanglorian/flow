@@ -3,7 +3,7 @@ layout: entry
 title: "Understanding Open Access"
 permalink: /understanding-open-access/
 created_at: 2015-12-15
-updated_at: 2015-12-15
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

@@ -3,14 +3,14 @@ layout: entry
 title: "Spring"
 permalink: /spring/
 created_at: 2019-04-07
-updated_at: 2019-04-07
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Spring is the latest short film produced by Blender Animation Studio."
   year_of_publication: 2019
-  main_url: "https://cloud.blender.org/p/spring"
+  main_url: "https://studio.blender.org/projects/spring/"
 connections:
   - has_connection_to_entry: "Blender Foundation"
     details_of_connection: "a contributor to"

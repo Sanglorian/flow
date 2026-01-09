@@ -3,7 +3,7 @@ layout: entry
 title: "Ulysses"
 permalink: /ulysses/
 created_at: 2015-10-17
-updated_at: 2015-10-17
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

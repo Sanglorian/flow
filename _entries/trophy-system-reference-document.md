@@ -3,7 +3,7 @@ layout: entry
 title: "Trophy System Reference Document"
 permalink: /trophy-system-reference-document/
 created_at: 2019-10-29
-updated_at: 2019-10-29
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

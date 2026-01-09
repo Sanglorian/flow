@@ -3,7 +3,7 @@ layout: entry
 title: "Superpowers"
 permalink: /superpowers/
 created_at: 2016-03-24
-updated_at: 2016-03-24
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

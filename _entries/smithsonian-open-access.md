@@ -3,7 +3,7 @@ layout: entry
 title: "Smithsonian Open Access"
 permalink: /smithsonian-open-access/
 created_at: 2020-02-28
-updated_at: 2020-02-28
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

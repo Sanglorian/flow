@@ -3,7 +3,7 @@ layout: entry
 title: "Superpowers Asset Packs"
 permalink: /superpowers-asset-packs/
 created_at: 2016-03-24
-updated_at: 2016-03-24
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -27,8 +27,4 @@ types:
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"
-funding:
-  funding_tool: "Patreon"
-  funding_type: "sponsored"
-  explanation: "https://www.patreon.com/SparklinLabs"
 ---

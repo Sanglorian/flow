@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1489**
+Total pages missing from Jekyll collections: **1448**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -37,50 +37,9 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 
 - Test Link
 
-## Source (93)
+## Source (52)
 > May map to an `_entries` item categorized as `Source` (or to a `_types` record if it is describing a type). Confirm source URLs and citation fields; these pages often have sparse metadata.
 
-- 8in8
-- Alderon's Tower
-- Amagi Games
-- Amanda Palmer
-- Artikid
-- Australian Government
-- Austrian Government
-- Ben Lehman
-- Ben Wright
-- Berengad Games
-- Berin Kinsman
-- Bill Brown
-- Blender Foundation
-- Brazilian Government
-- Breadpig
-- Brent P Newhall
-- British Government
-- Bully Pulpit Games
-- CERN
-- Chris Sakkas
-- Clinton R Nixon
-- Copysouth Research Group
-- Cory Doctorow
-- Creative Commons
-- CRN Games
-- D101 Games
-- Dan Bull
-- David Bollier
-- David K Levine
-- David Malki!
-- Evil Hat Productions
-- Fred Hicks
-- Free Software Foundation
-- Freezing Moon
-- Girl Talk
-- Goblinoid Games
-- Google
-- Green Ronin Publishing
-- Greg Christopher
-- Greg London
-- Greg Stolze
 - Gurbintroll Games
 - Heifervescent
 - HG Wells

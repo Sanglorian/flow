@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Collection, Person"
   short_description: "voec is a programmer and game designer"
-  main_url: "https://voec.itch.io/"
+  main_url: "http://384400kilometers.tumblr.com/"
   main_description: "[https://twitter.com/notbanachtarski Twitter], [http://384400kilometers.tumblr.com/ Tumblr]"
 connections:
   - has_connection_to_entry: "Twine"

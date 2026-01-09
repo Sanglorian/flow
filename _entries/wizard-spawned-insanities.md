@@ -3,7 +3,7 @@ layout: entry
 title: "Wizard-Spawned Insanities"
 permalink: /wizard-spawned-insanities/
 created_at: 2015-09-24
-updated_at: 2015-09-24
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

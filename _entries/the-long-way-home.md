@@ -3,7 +3,7 @@ layout: entry
 title: "The Long Way Home"
 permalink: /the-long-way-home/
 created_at: 2019-04-22
-updated_at: 2019-04-22
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

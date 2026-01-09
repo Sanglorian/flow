@@ -3,7 +3,7 @@ layout: entry
 title: "Wretched & Alone SRD"
 permalink: /wretched-and-alone-srd/
 created_at: 2020-05-25
-updated_at: 2020-05-25
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

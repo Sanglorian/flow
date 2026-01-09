@@ -3,13 +3,12 @@ layout: entry
 title: "The Art of Asking"
 permalink: /the-art-of-asking/
 created_at: 2015-12-01
-updated_at: 2015-12-01
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Part manifesto, part revelation, this is the story of an artist struggling with the new rules of exchange in the twenty-first century, both on and off the Internet."
-  main_url: "http://shop.amandapalmer.net/collections/misc/products/art-of-asking-book"
   main_description: |-
     From the inside cover of The Art of Asking:
     

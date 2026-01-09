@@ -3,7 +3,7 @@ layout: entry
 title: "WOCinTech Chat"
 permalink: /wocintech-chat/
 created_at: 2016-09-01
-updated_at: 2016-09-01
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

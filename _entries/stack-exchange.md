@@ -3,7 +3,7 @@ layout: entry
 title: "Stack Exchange"
 permalink: /stack-exchange/
 created_at: 2016-04-20
-updated_at: 2016-04-20
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

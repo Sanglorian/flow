@@ -3,13 +3,14 @@ layout: entry
 title: "The Libre Art of the Fugue"
 permalink: /the-libre-art-of-the-fugue/
 created_at: 2018-03-09
-updated_at: 2018-03-09
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "A new free recording of Bach's final masterpiece, played by pianist Kimiko Ishizaka. Concerts in the Elbphilharmonie and Carnegie Hall."
-  main_url: "http://music.kimiko-piano.com/album/j-s-bach-the-art-of-the-fugue-kunst-der-fuge-bwv-1080"
+  main_url: "https://kimikoishizaka.bandcamp.com/album/j-s-bach-the-art-of-the-fugue-kunst-der-fuge-bwv-1080"
+  main-description: "Also hosted by Open Goldberg on YouTube: https://www.youtube.com/watch?v=pSbQpOtggGk"
 connections:
   - has_connection_to_entry: "Kimiko Ishizaka"
     details_of_connection: "a contributor to"

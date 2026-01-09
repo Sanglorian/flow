@@ -3,7 +3,7 @@ layout: entry
 title: "The Resistance Toolbox"
 permalink: /the-resistance-toolbox/
 created_at: 2019-11-28
-updated_at: 2019-11-28
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -19,4 +19,5 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"
+	explanation: "Although the sales blurb refers to the Rowan, Rook and Decard Community Licence, the PDF still references CC BY."
 ---

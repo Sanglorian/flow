@@ -3,7 +3,7 @@ layout: entry
 title: "Tiled"
 permalink: /tiled/
 created_at: 2015-11-30
-updated_at: 2015-11-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -31,8 +31,4 @@ licensing:
   - license: "GNU General Public License 2.0"
     licence_coverage: "entirety"
     explanation: "https://github.com/bjorn/tiled"
-funding:
-  funding_tool: "Bountysource"
-  funding_type: "sponsored"
-  explanation: "https://www.bountysource.com/trackers/52019-tiled"
 ---

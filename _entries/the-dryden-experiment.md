@@ -3,7 +3,7 @@ layout: entry
 title: "The Dryden Experiment"
 permalink: /the-dryden-experiment/
 created_at: 2017-07-16
-updated_at: 2017-07-16
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

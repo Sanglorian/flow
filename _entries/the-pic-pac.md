@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "New pacs on Monday. Free pics Tuesday-Sunday"
   alias: "43+ Unique Places to Find Remarkable Free Photos"
+  main-url: "https://thepicpac.com/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"

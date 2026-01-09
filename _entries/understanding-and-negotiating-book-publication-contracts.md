@@ -3,7 +3,7 @@ layout: entry
 title: "Understanding and Negotiating Book Publication Contracts"
 permalink: /understanding-and-negotiating-book-publication-contracts/
 created_at: 2018-12-08
-updated_at: 2018-12-08
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

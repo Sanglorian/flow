@@ -3,7 +3,7 @@ layout: entry
 title: "The Endless Knot"
 permalink: /the-endless-knot/
 created_at: 2018-03-09
-updated_at: 2018-03-09
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
