@@ -3,7 +3,7 @@ layout: entry
 title: "Cory Doctorow"
 permalink: /cory-doctorow/
 created_at: 2015-06-03
-updated_at: 2015-10-10
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

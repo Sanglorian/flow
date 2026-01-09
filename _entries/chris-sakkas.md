@@ -3,7 +3,7 @@ layout: entry
 title: "Chris Sakkas"
 permalink: /chris-sakkas/
 created_at: 2014-10-07
-updated_at: 2019-04-10
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

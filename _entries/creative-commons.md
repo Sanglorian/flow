@@ -3,7 +3,7 @@ layout: entry
 title: "Creative Commons"
 permalink: /creative-commons/
 created_at: 2015-05-27
-updated_at: 2015-10-10
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

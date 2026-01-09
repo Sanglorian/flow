@@ -9,5 +9,5 @@ contributors:
 entry:
   category_of_entry: "Organisation"
   short_description: "A small press RPG company."
-  main_url: "http://d101games.co.uk/"
+  main_url: "https://d101games.com/"
 ---
