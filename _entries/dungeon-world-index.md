@@ -6,6 +6,8 @@ created_at: 2015-07-22T08:09:07Z
 updated_at: 2015-07-22T08:09:07Z
 contributors:
   - Sanglorian
+entry
+  grouping: "Tabletop RPG"
 ---
 
 ## Other indexes
