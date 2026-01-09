@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1448**
+Total pages missing from Jekyll collections: **1434**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -9,20 +9,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Unknown (47)
 > Template not detected. These require manual inspection to determine the correct entry type and fields.
 
-- A Free, Libre and Open Reader
-- About free culture and open knowledge
-- Bug reports and feature requests
-- CC-PRO
-- Choosing A Bridge Camera Vs A Proper DSLR
-- Contributing to the wiki
-- cost private investigations information for 2016
-- Creator-Endorsed Mark
-- Day against DRM
-- Defining Freedom coursework
-- Definition of Free Cultural Works
-- Design Boutique Hotel Paris Montparnasse Apostrophe Hotel Con Jacuzzi Privatif Ile De France E Hotel
-- Document Freedom Day
-- Dungeon World Index
 - Fakemon
 - Freedom of Access to Information and Resources
 - How To Monitor Live Football On Pc

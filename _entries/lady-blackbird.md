@@ -3,7 +3,7 @@ layout: entry
 title: "Lady Blackbird"
 permalink: /lady-blackbird/
 created_at: 2014-09-27
-updated_at: 2015-09-21
+updated_at: 2026-01-09
 contributors:
 - "115.187.248.102"
 - "Sanglorian"
@@ -13,7 +13,7 @@ entry:
   short_description: "A game, a setting and a starting adventure all in one; a collage of recent innovations in gaming."
   year_of_publication: 2009
   alias: "LB"
-  main_url: "http://www.onesevendesign.com/ladyblackbird/"
+  main_url: "https://johnharper.itch.io/lady-blackbird"
   main_description: |-
     Lady Blackbird is on the run from an arranged marriage to Count Carlowe. She hired a smuggler skyship, The Owl, to take her from her palace on the Imperial world of Ilysium to the far reaches of the Remnants, so she could be with her once secret lover: the pirate king Uriah Flint.
 
@@ -60,22 +60,18 @@ licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
     licence_coverage: "entirety"
 versions:
-  - version_title: "version 03.14.10"
+  - version_title: "Revised and original versions"
     version_format: "PDF"
     version_price: 0
-    version_url: "http://www.onesevendesign.com/ladyblackbird/"
+    version_url: "https://johnharper.itch.io/lady-blackbird"
     version_file: "Lady blackbird.pdf"
-  - version_title: "The Owl desktop wallpaper (landscape)"
+  - version_title: "The Owl desktop wallpaper"
     version_format: "JPG"
     version_price: 0
-    version_url: "http://www.onesevendesign.com/ladyblackbird/"
-  - version_title: "The Owl desktop wallpaper (standard)"
-    version_format: "JPG"
-    version_price: 0
-    version_url: "http://www.onesevendesign.com/ladyblackbird/"
+    version_url: "https://web.archive.org/web/20160321015418/http://www.onesevendesign.com/ladyblackbird/"
   - version_title: "French translation"
     version_format: "PDF"
     version_price: 0
-    version_url: "http://ladyblackbird.ecuries-augias.com/"
+    version_url: "https://web.archive.org/web/20161106050801/http://ladyblackbird.ecuries-augias.com/"
     version_file: "EDAOSD02 LadyBlackbird.pdf"
 ---

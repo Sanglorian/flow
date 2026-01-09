@@ -3,7 +3,7 @@ layout: entry
 title: "John Harper"
 permalink: /john-harper/
 created_at: 2014-09-28
-updated_at: 2015-10-10
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

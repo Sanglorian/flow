@@ -3,7 +3,7 @@ layout: entry
 title: "Bogleheads Wiki"
 permalink: /bogleheads-wiki/
 created_at: 2015-05-28
-updated_at: 2015-10-11
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -16,5 +16,7 @@ groupings:
     is_or_about_grouping: "is"
 licensing:
   - license: "GNU Free Documentation License 1.3"
-    licence_coverage: "entirety"
+    licence_coverage: "previous"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
+    licence_coverage: "current"
 ---
