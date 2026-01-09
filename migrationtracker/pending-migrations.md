@@ -6,21 +6,6 @@ Redirect pages are excluded from this list; see `aliases.md` for redirect mappin
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Source (52)
-> May map to an `_entries` item categorized as `Source` (or to a `_types` record if it is describing a type). Confirm source URLs and citation fields; these pages often have sparse metadata.
-
-- Teapot Dome Games
-- Tenpenny Joke
-- Terry Hancock
-- The Beatles
-- US Government
-- Valent Games
-- Vincent Baker
-- Wikimedia Foundation
-- Wizards of the Coast
-- Yanone
-- Yochai Benkler
-
 ## Unknown (47)
 > Template not detected. These require manual inspection to determine the correct entry type and fields.
 
