@@ -3,7 +3,7 @@ layout: entry
 title: "Panic at the Dojo"
 permalink: /panic-at-the-dojo/
 created_at: 2018-10-08
-updated_at: 2019-04-06
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

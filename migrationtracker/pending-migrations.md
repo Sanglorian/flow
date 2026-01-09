@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1536**
+Total pages missing from Jekyll collections: **1489**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -15,56 +15,9 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 > Potentially a grouping-style page or an entry categorized as `Collection`. Check for lists of contained works and ensure relationships are represented in `connections` or grouping fields.
 
 
-## Entry (198)
+## Entry (151)
 > Likely becomes an `_entries` record where the specific entry category is determined by template parameters. Verify the intended `entry.category_of_entry` and ensure any connection or license subtemplates are preserved.
 
-- Smithsonian Open Access
-- Snapwire Snaps
-- SpaceX Photos
-- Spring
-- Stack Exchange
-- Stardrifter
-- Startup Stock Photos
-- Stellar Forces
-- Superpowers
-- Superpowers Asset Packs
-- Tate
-- Terra X-Clips
-- The Art of Asking
-- The Devil's Brood
-- The Dryden Experiment
-- The Endless Knot
-- The Future of the Internet
-- The Libre Art of the Fugue
-- The Long Way Home
-- The Open Revolution
-- The Pic Pac
-- The Resistance Toolbox
-- The SELinux Coloring Book
-- Theft: A History of Music
-- Tiled
-- Tiny Tactics
-- Toddler Timothy's Delicious Candy Apples
-- tookapic
-- travel coffee book
-- Trophy System Reference Document
-- Tuxemon
-- Ulysses
-- Understanding and Negotiating Book Publication Contracts
-- Understanding Open Access
-- Unicorn Riot
-- Vegan on a Desert Island
-- vegepedia
-- vlogbrothers
-- VlogBrothers Distribution Project
-- voec
-- Waiting...
-- WATT
-- Wizard-Spawned Insanities
-- WOCinTech Chat
-- Wreckdivers
-- Wretched & Alone SRD
-- Year Zero Engine
 
 ## Is Licensed (3)
 > Looks like a relationship template rather than a standalone page. Validate whether these are actual pages that should exist in Jekyll or are artifacts of the export.

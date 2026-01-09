@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "An abstract strategy game"
-  main_url: "http://blog.zmxv.com/2010/12/rin-abstract-strategy-game.html"
+  main_url: "https://web.archive.org/web/20210725063051/http://blog.zmxv.com/2010/12/rin-abstract-strategy-game.html"
 languages:
   - language: "English"
     relationship_of_language: "original"

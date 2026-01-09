@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A database of common building products and their risks."
-  main_url: "http://quartzproject.org/q"
+  main_url: "https://web.archive.org/web/20190419053426/http://quartzproject.org/q"
 languages:
   - language: "English"
     relationship_of_language: "original"

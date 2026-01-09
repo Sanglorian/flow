@@ -3,7 +3,7 @@ layout: entry
 title: "Pwning Tomorrow"
 permalink: /pwning-tomorrow/
 created_at: 2016-01-06
-updated_at: 2019-05-11
+updated_at: 2026-01-09
 contributors:
 - "202.55.151.86"
 - "Sanglorian"

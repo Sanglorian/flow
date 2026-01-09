@@ -3,7 +3,7 @@ layout: entry
 title: "ShoeTool"
 permalink: /shoetool/
 created_at: 2020-01-04
-updated_at: 2020-01-04
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

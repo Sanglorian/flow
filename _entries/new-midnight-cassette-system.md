@@ -3,7 +3,7 @@ layout: entry
 title: "New Midnight Cassette System"
 permalink: /new-midnight-cassette-system/
 created_at: 2016-07-30
-updated_at: 2016-07-30
+updated_at: 2026-01-09
 contributors:
 - "69.171.154.34"
 entry:

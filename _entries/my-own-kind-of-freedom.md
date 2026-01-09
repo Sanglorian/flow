@@ -3,7 +3,7 @@ layout: entry
 title: "My Own Kind of Freedom"
 permalink: /my-own-kind-of-freedom/
 created_at: 2016-04-03
-updated_at: 2016-04-03
+updated_at: 2026-01-09
 contributors:
 - "124.171.66.181"
 entry:

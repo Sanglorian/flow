@@ -3,7 +3,7 @@ layout: entry
 title: "Slate Star Codex"
 permalink: /slate-star-codex/
 created_at: 2020-02-07
-updated_at: 2020-02-07
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

@@ -3,13 +3,13 @@ layout: entry
 title: "Open Licensing of Primary Grade Reading Materials: Considerations and Recommendations"
 permalink: /open-licensing-of-primary-grade-reading-materials-considerations-and-recommendations/
 created_at: 2020-02-28
-updated_at: 2020-02-28
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   year_of_publication: 2020
-  main_url: "https://www.globalreadingnetwork.net/resources/open-licensing-primary-grade-reading-materials-considerations-and-recommendations"
+  main_url: "https://web.archive.org/web/20191119012022/https://www.globalreadingnetwork.net/resources/open-licensing-primary-grade-reading-materials-considerations-and-recommendations"
   main_description: |-
     This new GRN resource provides:
     
@@ -41,4 +41,8 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"
+versions:
+  - version_title: "PDF"
+    version_format: "PDF"
+    version_url: "https://inee.org/sites/default/files/resources/GRN%20Open%20Licensing%20of%20Primary%20Grade%20Reading%20Materials_0.pdf"
 ---

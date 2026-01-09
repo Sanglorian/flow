@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "\"Best free stock photos in one place.\""
-  main_url: "https://www.pexels.com/"
+  main_url: "https://web.archive.org/web/20160914062127/https://www.pexels.com/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"
@@ -24,6 +24,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
-    explanation: "\"It's hard to understand complex licenses that is why all photos on Pexels are licensed under the Creative Commons Zero (CC0) license.\" https://www.pexels.com/photo-license/"
+    licence_coverage: "As of about 2016"
+    explanation: "\"It's hard to understand complex licenses that is why all photos on Pexels are licensed under the Creative Commons Zero (CC0) license.\" https://web.archive.org/web/20160912205607/https://www.pexels.com/photo-license/"
 ---

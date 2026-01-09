@@ -3,13 +3,13 @@ layout: entry
 title: "ReTux"
 permalink: /retux/
 created_at: 2015-11-12
-updated_at: 2015-11-12
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "\"ReTux is an action platformer loosely inspired by the Mario games\""
-  main_url: "http://retux.nongnu.org/"
+  main_url: "https://retux-game.github.io/"
 connections:
   - has_connection_to_entry: "Supertux"
     details_of_connection: "a source of material for"

@@ -3,7 +3,7 @@ layout: entry
 title: "Negative Space"
 permalink: /negative-space/
 created_at: 2015-11-30
-updated_at: 2015-11-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

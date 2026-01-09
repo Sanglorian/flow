@@ -3,7 +3,7 @@ layout: entry
 title: "Pepper & Carrot Motion Comic"
 permalink: /pepper-and-carrot-motion-comic/
 created_at: 2017-06-24
-updated_at: 2017-06-24
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -31,6 +31,7 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"
+	explanation: "Shown in credits."
 funding:
   -
     funding_tool: "IndieGoGo"

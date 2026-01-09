@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "\"A nerdy, tactical fast paced hero combat game in a fantasy setting: Items, builds, abilities, fast to play, 1vs1, action points, scales for more players, with an ever evolving hero pool.\""
-  main_url: "http://saga.li/"
+  main_url: "https://web.archive.org/web/20250315064637/http://saga.li/"
 connections:
   - has_connection_to_entry: "WTactics"
     details_of_connection: "a contributor to, a host of, a source of material for"

@@ -3,14 +3,15 @@ layout: entry
 title: "Plays Well With Others"
 permalink: /plays-well-with-others/
 created_at: 2019-02-22
-updated_at: 2019-02-22
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "\"From Creative Commons, Plays Well with Others is a podcast about the art and science of collaboration.\""
   year_of_publication: 2019
-  main_url: "https://playswellwithothers.org/"
+  main_url: "https://creativecommons.org/2019/02/21/plays-well-with-others/"
+  main-description: "Archived site: https://web.archive.org/web/20221205001753/https://playswellwithothers.org/"
 connections:
   - has_connection_to_entry: "Creative Commons"
     details_of_connection: "a contributor to, a host of"

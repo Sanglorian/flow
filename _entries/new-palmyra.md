@@ -3,7 +3,7 @@ layout: entry
 title: "New Palmyra"
 permalink: /new-palmyra/
 created_at: 2015-10-27
-updated_at: 2015-10-27
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

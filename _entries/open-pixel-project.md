@@ -3,7 +3,7 @@ layout: entry
 title: "Open Pixel Project"
 permalink: /open-pixel-project/
 created_at: 2017-04-03
-updated_at: 2017-04-03
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

@@ -3,12 +3,12 @@ layout: entry
 title: "Masters of the Heist"
 permalink: /masters-of-the-heist/
 created_at: 2015-12-09
-updated_at: 2015-12-09
+updated_at: 2026-01-09
 contributors:
 - "202.55.151.86"
 entry:
   category_of_entry: Work
-  main_url: "http://www.playconfidencegames.com/masters-of-the-heist/"
+  main_url: "https://github.com/confidencegames/masters-of-the-heist-pnp"
 connections:
   - has_connection_to_entry: "Confidence Games"
     details_of_connection: "a contributor to"

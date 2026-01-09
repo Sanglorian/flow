@@ -3,7 +3,7 @@ layout: entry
 title: "Shaking the Habitual"
 permalink: /shaking-the-habitual/
 created_at: 2015-12-01
-updated_at: 2015-12-01
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "Rijksmuseum"
 permalink: /rijksmuseum/
 created_at: 2020-01-10
-updated_at: 2020-01-10
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

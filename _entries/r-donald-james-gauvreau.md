@@ -3,7 +3,7 @@ layout: entry
 title: "R. Donald James Gauvreau"
 permalink: /r-donald-james-gauvreau/
 created_at: 2018-12-30
-updated_at: 2018-12-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

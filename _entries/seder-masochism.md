@@ -3,7 +3,7 @@ layout: entry
 title: "Seder-Masochism"
 permalink: /seder-masochism/
 created_at: 2019-01-30
-updated_at: 2019-01-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -27,7 +27,8 @@ groupings:
     is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    licence_coverage: "animation and images"
+	explanation: "All of Paley’s animation and images will be free for anyone to use however they wish; however the music will continue to be controlled by its copyright holders. https://sedermasochism.com/2019/01/02/press-release-seder-masochism-to-go-public-domain-january-31-2019/"
 versions:
   -
     version_title: "Internet Archive version"

@@ -3,7 +3,7 @@ layout: entry
 title: "Open Trivia DB"
 permalink: /open-trivia-db/
 created_at: 2020-05-02
-updated_at: 2020-05-02
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

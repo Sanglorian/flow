@@ -3,13 +3,13 @@ layout: entry
 title: "Photo Collections"
 permalink: /photo-collections/
 created_at: 2015-11-25
-updated_at: 2015-11-25
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Collection
   short_description: "Free stock photography."
-  main_url: "http://photocollections.io/"
+  main_url: "https://web.archive.org/web/20180927221947/https://photocollections.io/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"

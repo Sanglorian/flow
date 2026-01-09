@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "\"New 100% Free Stock Photos. Every. Single. Week.\""
-  main_url: "http://publicdomainarchive.com/"
+  main_url: "https://web.archive.org/web/20190318135125/https://www.publicdomainarchive.com/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"
@@ -24,5 +24,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    licence_coverage: "Used earlier"
 ---

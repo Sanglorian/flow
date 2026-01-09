@@ -3,7 +3,7 @@ layout: entry
 title: "Open Building Institute"
 permalink: /open-building-institute/
 created_at: 2016-07-20
-updated_at: 2016-07-20
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

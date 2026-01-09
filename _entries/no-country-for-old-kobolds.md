@@ -3,7 +3,7 @@ layout: entry
 title: "No Country for Old Kobolds"
 permalink: /no-country-for-old-kobolds/
 created_at: 2016-04-09
-updated_at: 2016-04-09
+updated_at: 2026-01-09
 contributors:
 - "124.171.197.72"
 entry:

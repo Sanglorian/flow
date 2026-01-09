@@ -3,7 +3,7 @@ layout: entry
 title: "Orang-U"
 permalink: /orang-u/
 created_at: 2016-12-07
-updated_at: 2017-08-11
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -20,12 +20,10 @@ groupings:
     is_or_about_grouping: "is"
 types:
   - type: "Video"
-    distribution: "yet to be released"
-  - type: "Website"
-    distribution: "yet to be released"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"
+	explanation: "In credits."
 funding:
   -
     funding_tool: "IndieGoGo"

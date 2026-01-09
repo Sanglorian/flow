@@ -3,7 +3,7 @@ layout: entry
 title: "Purplest Prose"
 permalink: /purplest-prose/
 created_at: 2020-06-08
-updated_at: 2020-06-08
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

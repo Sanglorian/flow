@@ -3,7 +3,7 @@ layout: entry
 title: "New Old Stock"
 permalink: /new-old-stock/
 created_at: 2015-11-30
-updated_at: 2015-11-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -23,7 +23,7 @@ types:
   - type: "Graphic"
     distribution: "electronic"
 licensing:
-  - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
-    explanation: "http://nos.twnsnd.co/rights-and-usage"
+  - license: "Public domain"
+    licence_coverage: "entirety"
+    explanation: "These are to the best of my knowledge available in the public domain based on the institutions participation in the Flickr Commons and the rules of Flickr Commons. http://nos.twnsnd.co/rights-and-usage"
 ---

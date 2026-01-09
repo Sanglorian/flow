@@ -3,7 +3,7 @@ layout: entry
 title: "Michele Bucelli"
 permalink: /michele-bucelli/
 created_at: 2015-11-30
-updated_at: 2015-11-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
@@ -24,9 +24,4 @@ licensing:
     licence_coverage: "part"
   - license: "Creative Commons Attribution 3.0 (Unported)"
     licence_coverage: "part"
-funding:
-  -
-    funding_tool: "Patreon"
-    funding_type: "sponsored"
-    explanation: "https://www.patreon.com/buch"
 ---

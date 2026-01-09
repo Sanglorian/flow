@@ -3,7 +3,7 @@ layout: entry
 title: "New York Public Library Digital Collections"
 permalink: /new-york-public-library-digital-collections/
 created_at: 2016-02-03
-updated_at: 2016-02-03
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:

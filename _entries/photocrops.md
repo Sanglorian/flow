@@ -3,13 +3,13 @@ layout: entry
 title: "Photocrops"
 permalink: /photocrops/
 created_at: 2015-11-30
-updated_at: 2015-11-30
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Collection
   short_description: "\"Photos to use any way you choose. Five free high resolution photos every week, sometimes more.\""
-  main_url: "http://www.photocrops.com/"
+  main_url: "https://web.archive.org/web/20160827141844/http://www.photocrops.com/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"

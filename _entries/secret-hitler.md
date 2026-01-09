@@ -3,7 +3,7 @@ layout: entry
 title: "Secret Hitler"
 permalink: /secret-hitler/
 created_at: 2017-04-25
-updated_at: 2017-04-25
+updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
