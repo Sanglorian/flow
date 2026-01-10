@@ -6,12 +6,21 @@ layout: null
 {% for collection in site.collections %}
   {% if collection.output %}
     {% for doc in collection.docs %}
+      {% assign short_description = doc.entry.short_description | default: doc.short_description %}
+      {% assign main_description = doc.entry.main_description | default: doc.main_description %}
+      {% assign connection_titles = "" %}
+      {% if doc.connections %}
+        {% assign connection_titles = doc.connections | map: "has_connection_to_entry" | compact | join: ", " %}
+      {% endif %}
       {% unless first %},{% endunless %}
       {
         "title": {{ doc.title | default: doc.name | jsonify }},
         "url": {{ doc.url | relative_url | jsonify }},
         "collection": {{ collection.label | jsonify }},
-        "description": {{ doc.short_description | default: doc.description | jsonify }},
+        "description": {{ short_description | default: main_description | default: doc.description | jsonify }},
+        "short_description": {{ short_description | jsonify }},
+        "main_description": {{ main_description | jsonify }},
+        "connections": {{ connection_titles | jsonify }},
         "content": {{ doc.content | strip_html | strip_newlines | jsonify }}
       }
       {% assign first = false %}

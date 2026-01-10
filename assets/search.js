@@ -18,6 +18,9 @@
     const haystack = [
       item.title,
       item.description,
+      item.short_description,
+      item.main_description,
+      item.connections,
       item.content,
       item.collection
     ]
