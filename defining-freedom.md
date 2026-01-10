@@ -12,6 +12,26 @@ permalink: /defining-freedom/
 * [Day Against DRM]({{ "/day-against-drm/" | relative_url }})
 * [Definition of free cultural works]({{ "/definition-of-free-cultural-works/" | relative_url }})
 * [Document Freedom Day]({{ "/document-freedom-day/" | relative_url }})
+* [Jenny Everywhere Day]({{ "/jenny-everywhere-day/" | relative_url }})
+* [Making your work free and open]({{ "/making-your-work-free-and-open/" | relative_url }})
+* [Open Access Week]({{ "/open-access-week/" | relative_url }})
+* [Open Education Week]({{ "/open-education-week/" | relative_url }})
+* [Press release 2015-10-17]({{ "/press-release-2015-10-17/" | relative_url }})
+* [Promised libre works]({{ "/promised-libre-works/" | relative_url }})
+* [Public Copyright Licence]({{ "/public-copyright-licence/" | relative_url }})
+* [Public Domain Day]({{ "/public-domain-day/" | relative_url }})
+* [Public Domain Manifesto]({{ "/public-domain-manifesto/" | relative_url }})
+* [Who needs access?]({{ "/who-needs-access/" | relative_url }})
+
+## Special days
+| Name of the day | Date | Notes |
+| --- | --- | --- |
+| Day Against DRM | 4 May | Campaign against Digital Rights Management. |
+| Document Freedom Day | 30 March | Celebrates open document formats and their importance. |
+| Jenny Everywhere Day | 13 August | Celebrates the first superhero released under a libre licence. |
+| Open Access Week | Not specified | See the Open Access Week site for the current schedule. |
+| Open Education Week | Not specified | Raises awareness of the open education movement and its impact on teaching and learning worldwide. |
+| Public Domain Day | 1 January | Marks when new works enter the public domain. |
 
 ## What is freedom?
 What are "free, libre and open" works? Why are some films, books and artworks on this site marked as "free, libre and open", but others are not?
