@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1224**
+Total pages missing from Jekyll collections: **1184**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -9,47 +9,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Work (1209)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Crawling For Cash
-- Creationistas
-- Creationmix
-- Creative Commons Licensed Cats
-- Creative Commons: A User Guide
-- Creativeapplications Net
-- Credit Is Due
-- Crisiscommons Wiki
-- Critical Hits
-- Critical Point of View
-- Critical! Go Westerly
-- Crossword Maze
-- Cryptoparty Handbook
-- Crystal Obelisk
-- Cyberpunk Remix
-- D&D4.5
-- d0x3d!
-- D100Ii Srd
-- D20 Anime
-- d20 Modern
-- D20 Open Mass Combat System
-- D6Pool
-- Dados.gov.br
-- Dan D20
-- Dan-O
-- Danger Mountain
-- Danger Patrol
-- Dangers & Dweomers
-- Daniel Bautista
-- Daniel Kwon
-- Daniel Solis' Blog
-- Daniel Solis' game icons
-- Daring Adventures
-- Dark Dungeons
-- Dark Passages
-- Darkening Skies
-- Darker Dungeons
-- Darkest Dungeons
-- Data Dealer
-- Data Journalism Handbook
-- Data.gov.au
 - Data.gv.at
 - Data.vic.gov.au
 - Dati.camera.it
