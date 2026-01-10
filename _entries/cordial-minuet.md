@@ -3,7 +3,7 @@ layout: entry
 title: "Cordial Minuet"
 permalink: /cordial-minuet/
 created_at: 2015-07-22
-updated_at: 2015-10-08
+updated_at: 2026-01-10
 contributors:
 - "202.55.151.86"
 - "Sanglorian"

@@ -3,7 +3,7 @@ layout: entry
 title: "Copyright for Librarians"
 permalink: /copyright-for-librarians/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

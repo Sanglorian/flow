@@ -3,13 +3,13 @@ layout: entry
 title: "copyleft.org"
 permalink: /copyleft-org/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "copyleft.org is a collaborative project to create and disseminate useful information, tutorial material, and new policy ideas regarding all forms of copyleft licensing."
-  main_url: "http://copyleft.org/"
+  main_url: "https://web.archive.org/web/20160305002916/http://copyleft.org/"
 genres:
   - "IP Minimalism"
 languages:

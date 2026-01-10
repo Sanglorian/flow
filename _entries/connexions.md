@@ -3,7 +3,7 @@ layout: entry
 title: "Connexions"
 permalink: /connexions/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

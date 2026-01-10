@@ -3,7 +3,7 @@ layout: entry
 title: "Copyright Week"
 permalink: /copyright-week/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -17,5 +17,5 @@ groupings:
 genres:
   - "IP Minimalism"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 4.0"
 ---

@@ -3,7 +3,7 @@ layout: entry
 title: "Consequences, risks and side-effects of the license module “non-commercial use only”"
 permalink: /consequences-risks-and-side-effects-of-the-license-module-non-commercial-use-only/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
