@@ -6,10 +6,6 @@ Redirect pages are excluded from this list; see `aliases.md` for redirect mappin
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Unknown (0)
-> Template not detected. These require manual inspection to determine the correct entry type and fields.
-
-
 ## Work (1281)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
