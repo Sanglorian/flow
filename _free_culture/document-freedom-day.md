@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Document Freedom Day"
-permalink: /document-freedom-day/
+permalink: /free-culture/document-freedom-day/
 created_at: 2015-07-22T07:46:21Z
 updated_at: 2015-07-22T07:46:21Z
 contributors:

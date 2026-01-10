@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Making your work free and open"
-permalink: /making-your-work-free-and-open/
+permalink: /free-culture/making-your-work-free-and-open/
 created_at: 2015-08-11T07:37:03Z
 updated_at: 2015-10-10T07:47:08Z
 contributors:

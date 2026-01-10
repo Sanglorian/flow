@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Press Release (2015-10-17)"
-permalink: /press-release-2015-10-17/
+permalink: /free-culture/press-release-2015-10-17/
 created_at: 2015-10-17T01:52:45Z
 updated_at: 2015-10-17T01:59:02Z
 contributors:
@@ -12,7 +12,7 @@ contributors:
 
 The Free and Open Works wiki was announced to the public on the morning of Saturday, the 17th of October 2015. The wiki is a catalogue of works, collections, people and organisations associated with free culture, open knowledge, Creative Commons and open access. As a wiki, it will never be "complete", but it is now in a state where the public can read it - and contribute to it.
 
-The term "[free and open](/about-free-culture-and-open-knowledge/)" denotes that a thing is able to be shared and adapted by any person for any purpose, free from technical or legal restrictions. While most famously used to describe free and open source software, it is increasingly common to find free and open government data, art, academic journals, music and literature. The wiki covers free and open knowledge and culture in all its forms, from the children's picturebook [Stick's Masterpiece](/sticks-masterpiece/) to the Australian Census 2011. 
+The term "[free and open](/free-culture/about-free-culture-and-open-knowledge/)" denotes that a thing is able to be shared and adapted by any person for any purpose, free from technical or legal restrictions. While most famously used to describe free and open source software, it is increasingly common to find free and open government data, art, academic journals, music and literature. The wiki covers free and open knowledge and culture in all its forms, from the children's picturebook [Stick's Masterpiece](/sticks-masterpiece/) to the Australian Census 2011. 
 
 Users are encouraged to create and edit entries to add to the catalogue, and can do so using forms that guide the user through the process. The wiki also has a mentoring program, where unsure or beginner users can be put in touch with a more experienced editor. 
 

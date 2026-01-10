@@ -57,6 +57,9 @@ collections:
   funding-tools:
     output: true
     permalink: /funding/:name/ 
+  free_culture:
+    output: true
+    permalink: /free-culture/:name/
   staging_entries:
     output: false
   genres:

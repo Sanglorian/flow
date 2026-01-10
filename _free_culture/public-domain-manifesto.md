@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Public Domain Manifesto"
-permalink: /public-domain-manifesto/
+permalink: /free-culture/public-domain-manifesto/
 created_at: 2015-07-22T07:52:15Z
 updated_at: 2015-07-22T07:52:15Z
 contributors:

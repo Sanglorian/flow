@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Promised Libre Works"
-permalink: /promised-libre-works/
+permalink: /free-culture/promised-libre-works/
 created_at: 2015-07-22T08:13:06Z
 updated_at: 2015-10-27T05:04:18Z
 contributors:

@@ -5,23 +5,23 @@ permalink: /defining-freedom/
 ---
 
 ## Free Culture resources
-* [About free culture and open knowledge]({{ "/about-free-culture-and-open-knowledge/" | relative_url }})
-* [A free, libre and open reader]({{ "/a-free-libre-and-open-reader/" | relative_url }})
-* [Creator-endorsed mark]({{ "/creator-endorsed-mark/" | relative_url }})
-* [CC Pro]({{ "/cc-pro/" | relative_url }})
-* [Day Against DRM]({{ "/day-against-drm/" | relative_url }})
-* [Definition of free cultural works]({{ "/definition-of-free-cultural-works/" | relative_url }})
-* [Document Freedom Day]({{ "/document-freedom-day/" | relative_url }})
-* [Jenny Everywhere Day]({{ "/jenny-everywhere-day/" | relative_url }})
-* [Making your work free and open]({{ "/making-your-work-free-and-open/" | relative_url }})
-* [Open Access Week]({{ "/open-access-week/" | relative_url }})
-* [Open Education Week]({{ "/open-education-week/" | relative_url }})
-* [Press release 2015-10-17]({{ "/press-release-2015-10-17/" | relative_url }})
-* [Promised libre works]({{ "/promised-libre-works/" | relative_url }})
-* [Public Copyright Licence]({{ "/public-copyright-licence/" | relative_url }})
-* [Public Domain Day]({{ "/public-domain-day/" | relative_url }})
-* [Public Domain Manifesto]({{ "/public-domain-manifesto/" | relative_url }})
-* [Who needs access?]({{ "/who-needs-access/" | relative_url }})
+* [About free culture and open knowledge]({{ "/free-culture/about-free-culture-and-open-knowledge/" | relative_url }})
+* [A free, libre and open reader]({{ "/free-culture/a-free-libre-and-open-reader/" | relative_url }})
+* [Creator-endorsed mark]({{ "/free-culture/creator-endorsed-mark/" | relative_url }})
+* [CC Pro]({{ "/free-culture/cc-pro/" | relative_url }})
+* [Day Against DRM]({{ "/free-culture/day-against-drm/" | relative_url }})
+* [Definition of free cultural works]({{ "/free-culture/definition-of-free-cultural-works/" | relative_url }})
+* [Document Freedom Day]({{ "/free-culture/document-freedom-day/" | relative_url }})
+* [Jenny Everywhere Day]({{ "/free-culture/jenny-everywhere-day/" | relative_url }})
+* [Making your work free and open]({{ "/free-culture/making-your-work-free-and-open/" | relative_url }})
+* [Open Access Week]({{ "/free-culture/open-access-week/" | relative_url }})
+* [Open Education Week]({{ "/free-culture/open-education-week/" | relative_url }})
+* [Press release 2015-10-17]({{ "/free-culture/press-release-2015-10-17/" | relative_url }})
+* [Promised libre works]({{ "/free-culture/promised-libre-works/" | relative_url }})
+* [Public Copyright Licence]({{ "/free-culture/public-copyright-licence/" | relative_url }})
+* [Public Domain Day]({{ "/free-culture/public-domain-day/" | relative_url }})
+* [Public Domain Manifesto]({{ "/free-culture/public-domain-manifesto/" | relative_url }})
+* [Who needs access?]({{ "/free-culture/who-needs-access/" | relative_url }})
 
 ## Special days
 | Name of the day | Date | Notes |
@@ -85,7 +85,7 @@ Shareable resources licences like Creative Commons are a way of avoiding these p
 But what conditions are imposed? That depends on the particular shareable resource licence chosen.
 
 ### What are acceptable conditions?
-According to the [Definition of Free Cultural Works](/definition-of-free-cultural-works/), there are three restrictions that can be placed on a libre licence without it becoming proprietary.
+According to the [Definition of Free Cultural Works](/free-culture/definition-of-free-cultural-works/), there are three restrictions that can be placed on a libre licence without it becoming proprietary.
 
 #### Attribution of authors and no endorsement
 A libre licence can require that the original work and its creator are recognised in some way, and also that it be made clear that the author does not endorse the adaptation. Use of trademarks may also be limited by the licence.

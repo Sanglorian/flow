@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Day against DRM"
-permalink: /day-against-drm/
+permalink: /free-culture/day-against-drm/
 created_at: 2015-07-22T07:44:34Z
 updated_at: 2015-07-22T07:44:34Z
 contributors:

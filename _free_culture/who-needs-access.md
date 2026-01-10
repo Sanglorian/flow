@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Who Needs Access"
-permalink: /who-needs-access/
+permalink: /free-culture/who-needs-access/
 created_at: 2015-07-22T07:53:50Z
 updated_at: 2015-07-22T07:53:50Z
 contributors:

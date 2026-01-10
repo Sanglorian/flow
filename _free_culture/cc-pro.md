@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CC-PRO"
-permalink: /cc-pro/
+permalink: /free-culture/cc-pro/
 created_at: 2015-07-22T07:42:01Z
 updated_at: 2015-07-22T07:43:36Z
 contributors:

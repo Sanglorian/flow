@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jenny Everywhere Day"
-permalink: /jenny-everywhere-day/
+permalink: /free-culture/jenny-everywhere-day/
 created_at: 2015-07-22T07:47:02Z
 updated_at: 2015-07-22T07:47:02Z
 contributors:

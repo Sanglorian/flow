@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About free culture and open knowledge"
-permalink: /about-free-culture-and-open-knowledge/
+permalink: /free-culture/about-free-culture-and-open-knowledge/
 created_at: 2015-07-31T11:36:28Z
 updated_at: 2015-08-12T07:01:54Z
 contributors:

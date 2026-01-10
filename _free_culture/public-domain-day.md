@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Public Domain Day"
-permalink: /public-domain-day/
+permalink: /free-culture/public-domain-day/
 created_at: 2015-07-22T07:51:44Z
 updated_at: 2015-07-22T07:51:44Z
 contributors:

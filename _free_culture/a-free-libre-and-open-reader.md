@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "A Free, Libre and Open Reader"
-permalink: /a-free-libre-and-open-reader/
+permalink: /free-culture/a-free-libre-and-open-reader/
 created_at: 2015-07-22T07:38:30Z
 updated_at: 2016-01-03T09:48:41Z
 contributors:

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Creator-Endorsed Mark"
-permalink: /creator-endorsed-mark/
+permalink: /free-culture/creator-endorsed-mark/
 created_at: 2015-07-22T07:43:14Z
 updated_at: 2015-07-22T07:43:14Z
 contributors:

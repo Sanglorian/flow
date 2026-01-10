@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Public copyright licence"
-permalink: /public-copyright-licence/
+permalink: /free-culture/public-copyright-licence/
 created_at: 2015-06-04T01:18:07Z
 updated_at: 2015-06-04T01:18:07Z
 contributors:

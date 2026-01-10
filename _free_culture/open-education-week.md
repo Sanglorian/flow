@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Open Education Week"
-permalink: /open-education-week/
+permalink: /free-culture/open-education-week/
 created_at: 2015-07-22T07:54:47Z
 updated_at: 2015-07-22T07:54:47Z
 contributors:
