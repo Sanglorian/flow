@@ -23,10 +23,9 @@ types:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"
-	explanation: "In credits."
+    explanation: "In credits."
 funding:
-  -
-    funding_tool: "IndieGoGo"
+  - funding_tool: "IndieGoGo"
     funding_type: "sponsored"
     explanation: "https://www.indiegogo.com/projects/orang-u-an-ape-goes-to-college"
 ---

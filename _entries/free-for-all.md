@@ -41,7 +41,6 @@ funding:
     explanation: "https://www.indiegogo.com/projects/free-the-monsters"
   - funding_tool: "Patreon"
     funding_type: "ransom"
-	explanation: "https://www.patreon.com/c/justinnichol/posts"
+    explanation: "https://www.patreon.com/c/justinnichol/posts"
 ---
-
 

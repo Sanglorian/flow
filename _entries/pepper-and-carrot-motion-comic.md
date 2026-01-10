@@ -31,10 +31,9 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"
-	explanation: "Shown in credits."
+    explanation: "Shown in credits."
 funding:
-  -
-    funding_tool: "IndieGoGo"
+  - funding_tool: "IndieGoGo"
     funding_type: "ransom"
     explanation: "https://www.indiegogo.com/projects/pepper-and-carrot-motion-comic#/"
 ---

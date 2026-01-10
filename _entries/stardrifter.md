@@ -15,8 +15,10 @@ entry:
     Better take a deep breath!
   main_url: "https://davidcollinsrivera.com/"
   groupings:
-    grouping: "Tabletop RPG"
-	grouping: "Audiobook"
+    - grouping: "Tabletop RPG"
+      is_or_about_grouping: "is"
+    - grouping: "Audiobook"
+      is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution Share-Alike Unported 3.0"
     licence_coverage: "RPG, at least some audiobooks"

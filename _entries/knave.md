@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "KNAVE is a rules toolkit by the creator of Maze Rats and The Alchemist's Repose for running old school fantasy RPGs without classes."
   main_url: "https://questingblog.com/knave/"
-  main-description: "First edition. The second edition uses an [ad hoc license.](https://questingblog.com/knave-2e/)
+  main_description: "First edition. The second edition uses an [ad hoc license.](https://questingblog.com/knave-2e/)"
 connections:
   - has_connection_to_entry: "Questing Beast Games"
     details_of_connection: "a contributor to"

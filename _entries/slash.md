@@ -24,5 +24,5 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     licence_coverage: "Print and play version"
-	explanation: "https://www.scribd.com/document/467058850/slash-pnp-1311282-pdf"
+    explanation: "https://www.scribd.com/document/467058850/slash-pnp-1311282-pdf"
 ---

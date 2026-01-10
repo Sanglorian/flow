@@ -14,5 +14,5 @@ entry:
   main-description: "Original video is set to private, but it is hosted by others, for example: https://www.youtube.com/watch?v=9SFWE0pcSIA"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-  explanation: "In credits"
+    explanation: "In credits"
 ---
