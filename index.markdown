@@ -5,6 +5,27 @@ title: Home
 
 Welcome to the Free, Libre and Open Works collection. Browse the catalog, or head over to the blog for updates.
 
+<section class="search-page">
+  <h2>Search the catalog</h2>
+  <p>Search across all entries, categories, and pages in the Free, Libre and Open Works catalog.</p>
+
+  <label class="search-label" for="search-input">Search terms</label>
+  <input id="search-input" class="search-input" type="search" placeholder="Search by title, description, or content" autocomplete="off" />
+
+  <p id="search-status" class="search-status" aria-live="polite"></p>
+
+  <ul id="search-results" class="search-results"></ul>
+</section>
+
+<script src="{{ "/assets/search.js" | relative_url }}" defer></script>
+<script>
+  window.flowSearchConfig = {
+    indexUrl: "{{ "/search.json" | relative_url }}",
+    baseUrl: "{{ "/" | relative_url }}"
+  };
+</script>
+
+
 <aside class="site-sidebar">
   <section>
     <ul>
