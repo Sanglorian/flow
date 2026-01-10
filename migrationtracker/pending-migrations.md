@@ -1,47 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1434**
+Total pages missing from Jekyll collections: **1401**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Unknown (47)
+## Unknown (0)
 > Template not detected. These require manual inspection to determine the correct entry type and fields.
 
-- Fakemon
-- Freedom of Access to Information and Resources
-- How To Monitor Live Football On Pc
-- How To Watch After Sky Sports Live Football Streaming On Pc
-- If You Value Your Camera You Should Know The Right Way To Maintain It
-- Jenny Everywhere Day
-- Liberated Pixel Cup
-- LibrePlanet Gaming Collective
-- Main Page
-- Making your work free and open
-- Minecraft
-- Olympus VR-350 Camera Review With Price In India
-- Open Access Week
-- Open Education Week
-- Press Release (2015-10-17)
-- Promised Libre Works
-- Public copyright licence
-- Public Domain Day
-- Public Domain Manifesto
-- Rookvale HTML
-- Similar Projects
-- Sports Betting: What You Need To To Know
-- Testing Mailing List
-- The Benefits And Drawbacks Of C-Mount Security Cameras
-- The Ketogenic Diet - Ultimate A Diet
-- The Six Levels Of Paper Shredder Security
-- The Wireless Charging Market Deals With The Development Manufacture And Distribution Of Various Types Of Wireless Charging Technology Like The Powermat Wireless Charging And Electronic Charging Pad
-- Top 10 Exercise Frauds Rapid Weight Reduction
-- Top 10 Sports Blogs Of 2010
-- Vetements Aw15
-- Welcome to Free and Open Works!
-- Who Needs Access
-- Works not on the wiki
 
 ## Work (1281)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
