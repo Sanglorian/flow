@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1370**
+Total pages missing from Jekyll collections: **1329**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (1250)
+## Work (1209)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Anchorhold
-- Ancient Beast
-- Andrea si Sposa
-- Anima Prime
-- Animalball Melee
-- Animalball Partners
-- Apocalypse World
-- Appropedia
-- Arcemu
-- Archaeology, Anthropology and Interstellar Communication
-- Arduino
-- Ardwin
-- Argh! The Supernatural RPG
-- Argofox
-- Arkfall
-- Army Brats
-- Art Passions
-- As The Tea Leaves Grow
-- Astral Dreams
-- Atlas of Living Australia
-- Audiobooks By Verkaro
-- Audionautix
-- Aural Tradition
-- Australian Budget 2012
-- Australian Census 2011
-- Australian Digital Alliance
-- Australian Dress Register
-- Australian Electoral Commission
-- Australian Government Intellectual Property Manual
-- Autodesk
-- Awen
-- Baba Yaga's Dancing Hut
-- Backswords & Bucklers
-- Bad Attitudes
-- Bad Habits
-- Bad Panda Records
-- Badass
-- Badgerbrough Inquisitive
-- Badilisha Poetry X Change
-- Bajjutsu Master
-- Balloon Diaspora
 - Balloon Mapping Kit
 - Balloon Suite
 - Bandcamp

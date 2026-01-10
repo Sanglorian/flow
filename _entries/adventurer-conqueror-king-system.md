@@ -3,7 +3,7 @@ layout: entry
 title: "Adventurer Conqueror King System"
 permalink: /adventurer-conqueror-king-system/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -16,7 +16,7 @@ genres:
   - "Dungeon"
 groupings:
   - grouping: "Tabletop Game (RPG)"
-  - grouping: "Clone"
+genre: "Retroclone"
 licensing:
   - license: "Open Game License"
 ---

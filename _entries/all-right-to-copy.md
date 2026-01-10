@@ -1,15 +1,15 @@
 ---
 layout: entry
-title: "All Right to Copy?"
-permalink: /all-right-to-copy/
+title: "Smartcopying"
+permalink: /smartcopying/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  short_description: "\"All Right to Copy?\" is a resource designed to teach students about copyright, and how it impacts them as both users and creators."
-  main_url: "http://www.smartcopying.edu.au/educational-resources/copyright-teaching-resources/-all-right-to-copy-an-interactive-teaching-and-learning-resource-for-primary-secondary-students"
+  short_description: "'The Official Guide to Copyright Issues for Australian Schools and TAFE'"
+  main_url: "https://smartcopying.edu.au/"
 connections:
   - has_connection_to_entry: "Smartcopying"
 genres:
@@ -17,5 +17,5 @@ genres:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution 4.0"
 ---

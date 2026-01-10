@@ -3,7 +3,7 @@ layout: entry
 title: "Adventures of the Space Patrol"
 permalink: /adventures-of-the-space-patrol/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

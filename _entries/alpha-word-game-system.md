@@ -3,7 +3,7 @@ layout: entry
 title: "Alpha Word Game System"
 permalink: /alpha-word-game-system/
 created_at: 2015-08-05
-updated_at: 2015-10-08
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
