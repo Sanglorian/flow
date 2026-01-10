@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Breadpig"
 groupings:
-  - grouping: "Hardware"
+  - grouping: "Technology"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike, CERN OHL"
+  - license: "Creative Commons Attribution-ShareAlike, CERN Open Hardware Licence"
 ---

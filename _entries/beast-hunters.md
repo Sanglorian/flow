@@ -15,7 +15,7 @@ connections:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Tabletop Game (Story Game)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     explanation: "Some parts of this work remain closed. The libre parts can be found in the [System Reference Document](http://www.berengad.com/bh15srd/)."

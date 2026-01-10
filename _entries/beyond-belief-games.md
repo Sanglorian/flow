@@ -16,7 +16,7 @@ entry:
     - Ancient Mysteries and Lost Treasure, a modern action port of S&W
     - Sabres & Witchery, an 18th Century Europe port of S&W
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
     licence_coverage: "entirety"

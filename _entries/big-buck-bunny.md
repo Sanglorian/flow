@@ -18,7 +18,7 @@ entry:
 connections:
   - has_connection_to_entry: "Blender Foundation"
 genres:
-  - "Humour"
+  - "Comedy"
 groupings:
   - grouping: "Film"
   - grouping: "Concept Art"

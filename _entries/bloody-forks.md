@@ -23,7 +23,7 @@ genres:
   - genre: "Historical"
     explanation: "USA, pre-War of Independence."
 groupings:
-  - grouping: "Tabletop Game (LARP)"
+  - grouping: "LARP"
     is_or_about_grouping: "is"
 types:
   - type: "Book"

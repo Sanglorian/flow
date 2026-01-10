@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Open Knowledge Foundation"
 groupings:
-  - grouping: "Information (Data)"
+  - grouping: "Data"
 licensing:
   - license: "Creative Commons Attribution"
 ---

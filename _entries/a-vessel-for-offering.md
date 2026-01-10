@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "unglue.it"
 genres:
-  - "Sci fi"
+  - "Science Fiction"
 groupings:
   - grouping: "Literature"
     is_or_about_grouping: "is"

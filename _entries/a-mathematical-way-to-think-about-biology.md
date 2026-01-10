@@ -12,7 +12,7 @@ entry:
   main_description: |-
     [Backup](http://qbio.lookatphysics.com/)
 groupings:
-  - grouping: "Information (OER)"
+  - grouping: "Education"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

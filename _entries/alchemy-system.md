@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "d20 System"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
   - license: "Creative Commons Attribution-ShareAlike"

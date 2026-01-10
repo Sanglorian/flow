@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Fudge"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"

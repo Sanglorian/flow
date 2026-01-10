@@ -11,7 +11,7 @@ entry:
   short_description: "Audiobooks."
   main_url: "https://web.archive.org/web/20131222201134/http://literalsystems.org/abooks/index.php/Main/Listen"
 groupings:
-  - grouping: "Literature (Audiobooks)"
+  - grouping: "Audiobook"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
 ---

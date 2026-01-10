@@ -12,7 +12,7 @@ entry:
 connections:
   - has_connection_to_entry: "Australian Government"
 groupings:
-  - grouping: "Information (Data)"
+  - grouping: "Data"
 licensing:
   - license: "Creative Commons Attribution"
 ---

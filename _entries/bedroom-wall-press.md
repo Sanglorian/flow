@@ -11,7 +11,7 @@ entry:
   short_description: "Designer of Hulks and Horrors, Heaven's Shadow, and Drums of War."
   main_url: "http://www.bedroomwallpress.com/2014/07/bedroom-wall-press-is-going-free.html"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License, GNU General Public License"
 ---

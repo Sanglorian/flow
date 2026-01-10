@@ -15,7 +15,7 @@ connections:
 groupings:
   - grouping: "Comics"
 genres:
-  - "Humour"
+  - "Comedy"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 3.0 (Unported)"
 versions:

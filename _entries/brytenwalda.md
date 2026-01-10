@@ -13,7 +13,7 @@ entry:
 genres:
   - "Historical"
 groupings:
-  - grouping: "Tabletop Game (Miniatures Game)"
+  - grouping: "Miniatures Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

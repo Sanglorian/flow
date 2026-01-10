@@ -11,7 +11,7 @@ entry:
   short_description: "A list of libre things that one might enjoy receiving from one's acquaintances at upcoming gift-giving occasions."
   main_url: "https://vtluug.org/wiki/Libre_gift_guide"
 groupings:
-  - grouping: "Information (Gift Guide)"
+  - grouping: "Gift Guide"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

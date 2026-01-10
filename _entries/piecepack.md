@@ -85,7 +85,7 @@ entry:
     * Black Pawn Trucking (FDL)
     * The Assassination Game Le (FDL)
 groupings:
-  - grouping: "Tabletop Game System"
+  - grouping: "Tabletop Gaming System"
     is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"

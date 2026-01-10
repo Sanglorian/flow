@@ -11,7 +11,7 @@ entry:
   short_description: "A universal RPG."
   main_url: "https://6d6rpg.com/"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

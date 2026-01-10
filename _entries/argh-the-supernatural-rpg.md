@@ -17,7 +17,7 @@ connections:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Tabletop Game"
+  - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

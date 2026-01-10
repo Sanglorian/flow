@@ -17,7 +17,7 @@ connections:
 genres:
   - "Science Fiction"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
     explanation: "While there is a declaration of Product Identity, there is not a declaration of Open Game Content."

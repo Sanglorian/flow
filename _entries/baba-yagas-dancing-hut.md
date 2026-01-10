@@ -12,7 +12,7 @@ entry:
 connections:
   - has_connection_to_entry: "Teapot Dome Games"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "License listed for the website: https://web.archive.org/web/20140818093151/http://nickwedig.libraryofhighmoon.com/2012/12/baba-yagas-dancing-hut/"

@@ -15,7 +15,7 @@ connections:
 genres:
   - "Anime"
 groupings:
-  - grouping: "Tabletop Game (Story Game)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

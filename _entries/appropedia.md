@@ -11,7 +11,7 @@ entry:
   short_description: "A wiki to share designs of all sorts."
   main_url: "http://www.appropedia.org/Welcome_to_Appropedia"
 groupings:
-  - grouping: "Hardware"
+  - grouping: "Technology"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
 ---

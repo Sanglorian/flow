@@ -20,7 +20,7 @@ entry:
 
     The Alpha Word Game System and its components are licensed under a Creative Commons Attribution-Share Alike 3.0 United States License; so anyone can make their own components for the Alpha Word Game System. There are free PDF files that you can use to make your own set. If you are feeling really creative, you can design your own graphics too. You can make as many copies as you like, and if you are in a entrepreneurial mood, you can sell them. If you have question about the Creative Commons License or would like more information please refer go to creativecommons.org. If you still have questions on how it relates to Alpha write to one of the designers."
 groupings:
-  - grouping: "Tabletop Game System"
+  - grouping: "Tabletop Gaming System"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"

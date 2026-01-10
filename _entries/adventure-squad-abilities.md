@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "Domino Writing"
   - has_connection_to_entry: "Dungeon Squad"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"

@@ -13,7 +13,7 @@ connections:
   - has_connection_to_entry: "Vincent Baker"
     details_of_connection: "a contributor to"
 genres:
-  - "Post-Apocalypse"
+  - "Post-Apocalyptic"
 languages:
   - language: "English"
     relationship_of_language: "original"

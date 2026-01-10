@@ -11,7 +11,7 @@ entry:
   short_description: "Tell Stories & Play Games with your Tribe"
   main_url: "https://web.archive.org/web/20150407050215/http://www.bhaloidam.com/game-design/bhaloidam/handbook/"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 3.0 (Unported)"
 funding:

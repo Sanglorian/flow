@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "Jason Morningstar"
   - has_connection_to_entry: "Lady Blackbird"
 groupings:
-  - grouping: "Tabletop Game (Story Game)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

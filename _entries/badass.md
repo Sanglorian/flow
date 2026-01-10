@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Stargazer Games"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

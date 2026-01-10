@@ -16,7 +16,7 @@ entry:
     - Ceremonial Feats (vaporware)
     - Koboldnomicon (contributor; OGL)
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Public domain, Open Game License, Creative Commons Attribution, Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

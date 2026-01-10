@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Cards Against Humanity, Apocalypse World"
 groupings:
-  - grouping: "Tabletop Game"
+  - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

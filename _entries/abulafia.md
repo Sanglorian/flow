@@ -12,7 +12,7 @@ entry:
   main_url: "http://www.random-generator.com/"
   main-description: "Appears to have been wiped."
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
   - grouping: "Literature"
     is_or_about_grouping: "is"

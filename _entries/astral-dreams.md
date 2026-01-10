@@ -13,7 +13,7 @@ entry:
 genres:
   - "Science Fiction"
 groupings:
-  - grouping: "Tabletop Game (Miniatures Game)"
+  - grouping: "Miniatures Game"
 licensing:
   - license: "Open Game License"
 ---

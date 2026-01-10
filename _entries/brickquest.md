@@ -12,7 +12,7 @@ entry:
 genres:
   - "Dungeon"
 groupings:
-  - grouping: "Tabletop Game (Boardgame)"
+  - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

@@ -23,6 +23,6 @@ connections:
 groupings:
   - grouping: "Electronic Game, Painting, 3D Art, Music"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike 4.0, Affero General Public License 3.0"
+  - license: "Creative Commons Attribution-ShareAlike 4.0, GNU Affero General Public License 3.0"
     explanation: "https://github.com/FreezingMoon/AncientBeast/blob/master/README.md"
 ---

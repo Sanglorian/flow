@@ -12,9 +12,9 @@ entry:
   main_url: "https://www.drivethrufiction.com/en/product/177412/blood-guts-and-glory"
   main_description: "[Local backup](http://fossilbank.wikidot.com/local--files/entry:blood-guts-glory/Blood%2C%20Guts%20%26%20Glory.pdf)"
 connections:
-  - has_connection_to_entry: "Gratis Games"
+  - has_connection_to_entry: "Gurbintroll Games"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Public domain"
 ---
