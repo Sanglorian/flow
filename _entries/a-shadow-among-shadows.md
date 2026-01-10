@@ -3,7 +3,7 @@ layout: entry
 title: "A Shadow among Shadows"
 permalink: /a-shadow-among-shadows/
 created_at: 2015-09-06
-updated_at: 2015-10-08
+updated_at: 2026-01-10
 contributors:
 - "58.107.69.177"
 - "Sanglorian"

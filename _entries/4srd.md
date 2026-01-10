@@ -3,7 +3,7 @@ layout: entry
 title: "4SRD"
 permalink: /4srd/
 created_at: 2015-05-30
-updated_at: 2015-10-06
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

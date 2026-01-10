@@ -3,7 +3,7 @@ layout: entry
 title: "A Byte Of Python"
 permalink: /a-byte-of-python/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

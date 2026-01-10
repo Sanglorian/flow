@@ -1,45 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1401**
+Total pages missing from Jekyll collections: **1370**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (1281)
+## Work (1250)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Adventure Squad Core
-- AdventureLand
-- Adventurer Conqueror King System
-- Adventures in the 41st Millennium
-- Adventures of the Space Patrol
-- Adventures On Dungeon Planet
-- Aelius Blythe
-- Aerogel.org
-- Aetherverse
-- African Storybook Project
-- AfterImage
-- Against Intellectual Property
-- Against Monopoly
-- Age of Fable
-- Al Jazeera
-- Alchemy
-- Alchemy System
-- Alien Survivor
-- All Day
-- All Right to Copy?
-- All The King’s Men
-- Alpha Word Game System
-- Alphonse Maria Mucha - The complete works
-- Altars & Archetypes
-- Alternate Dungeon Squad
-- Always/Never/Now
-- Ambush on All Sides
-- An Anarchist FAQ
-- An End Like This
-- An Open Education Reader
-- An Open World
 - Anchorhold
 - Ancient Beast
 - Andrea si Sposa
