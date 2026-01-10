@@ -3,7 +3,7 @@ layout: entry
 title: "Darkening Skies"
 permalink: /darkening-skies/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -11,7 +11,7 @@ entry:
   short_description: "An unofficial sequel to Lady Blackbird."
   main_url: "http://www.box.net/shared/eqdk9jaqdf"
   main_description: |-
-    [Sombres Cieux](http://ladyblackbird.ecuries-augias.com/), a French translation
+    [Sombres Cieux](https://web.archive.org/web/20120213050228/http://ladyblackbird.ecuries-augias.com/), a French translation
 connections:
   - has_connection_to_entry: "Chris Sakkas"
     details_of_connection: "author"

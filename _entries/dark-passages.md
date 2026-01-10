@@ -3,13 +3,13 @@ layout: entry
 title: "Dark Passages"
 permalink: /dark-passages/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A modern fusion and re-organisation of 0E and 1E rules."
-  main_url: "http://www3.telus.net/public/uncouths/Passages.pdf"
+  main_url: "https://rpggeek.com/rpg/13938/dark-passages"
   main_description: |-
     Direct link to PDF.
 connections:

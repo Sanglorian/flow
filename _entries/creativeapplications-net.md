@@ -3,7 +3,7 @@ layout: entry
 title: "Creativeapplications Net"
 permalink: /creativeapplications-net/
 created_at: 2015-05-28
-updated_at: 2015-09-20
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -12,5 +12,5 @@ entry:
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
     licence_coverage: "entirety"
-    explanation: "\"© 2015 CreativeApplications.Net Licensed under a Creative Commons License.\""
+    explanation: "https://www.creativeapplications.net/about/"
 ---

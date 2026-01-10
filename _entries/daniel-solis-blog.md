@@ -3,13 +3,13 @@ layout: entry
 title: "Daniel Solis' Blog"
 permalink: /daniel-solis-blog/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "An artist and game designer."
-  main_url: "http://danielsolisblog.blogspot.com/"
+  main_url: "https://danielsolisblog.blogspot.com/"
   main_description: |-
     [All blog posts tagged as Creative Commons.](http://danielsolisblog.blogspot.com/search/label/creative%20commons)
     

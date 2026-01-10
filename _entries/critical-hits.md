@@ -3,13 +3,13 @@ layout: entry
 title: "Critical Hits"
 permalink: /critical-hits/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "The journal of gamer culture."
-  main_url: "http://www.critical-hits.com/"
+  main_url: "https://critical-hits.com/"
 groupings:
   - grouping: "Information"
   - grouping: "Tabletop Game"

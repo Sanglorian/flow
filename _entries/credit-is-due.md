@@ -9,7 +9,8 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A song by Nina Paley about attribution."
-  main_url: "http://blog.ninapaley.com/2011/06/27/credit-is-due/"
+  main_url: "https://web.archive.org/web/20110703163312/http://blog.ninapaley.com/2011/06/27/credit-is-due/"
+  main-description: "Internet Archive host: https://archive.org/details/CreditIsDue"
 connections:
   - has_connection_to_entry: "Nina Paley"
   - has_connection_to_entry: "QuestionCopyright.org"

@@ -3,7 +3,7 @@ layout: entry
 title: "Daniel Bautista"
 permalink: /daniel-bautista/
 created_at: 2015-05-28
-updated_at: 2015-09-20
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -16,5 +16,6 @@ connections:
 groupings:
   - grouping: "Music"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution 4.0"
+  - license: "Creative Commons Attribution-ShareAlike 3.0"
 ---

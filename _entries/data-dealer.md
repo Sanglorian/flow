@@ -3,7 +3,7 @@ layout: entry
 title: "Data Dealer"
 permalink: /data-dealer/
 created_at: 2015-08-08
-updated_at: 2015-10-09
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
