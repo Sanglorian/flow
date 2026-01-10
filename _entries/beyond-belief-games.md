@@ -3,13 +3,13 @@ layout: entry
 title: "Beyond Belief Games"
 permalink: /beyond-belief-games/
 created_at: 2015-05-28
-updated_at: 2015-09-20
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "Swords & Wizardry ports."
-  main_url: "http://beyondbeliefgames.webs.com/freestuff.htm"
+  main_url: "hhttps://web.archive.org/web/20150719125451/http://beyondbeliefgames.webs.com/freestuff.htm"
   main_description: |-
     Includes:
     - Blood & Bullets, a Wild West port of Swords & Wizardry

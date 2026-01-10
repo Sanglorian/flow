@@ -3,7 +3,7 @@ layout: entry
 title: "Biodigital"
 permalink: /biodigital/
 created_at: 2015-05-28
-updated_at: 2016-04-28
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 - "202.55.151.86"

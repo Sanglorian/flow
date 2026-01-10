@@ -3,13 +3,13 @@ layout: entry
 title: "Beast Hunters"
 permalink: /beast-hunters/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Tattooed hunters of beasts use their fiendish blood for sorcery."
-  main_url: "http://www.berengad.com/bh/"
+  main_url: "https://berengad.com/site/index.php?id=beast-hunters"
 connections:
   - has_connection_to_entry: "Berengad Games"
 genres:
