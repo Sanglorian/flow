@@ -1,0 +1,19 @@
+---
+layout: entry
+title: "Diggy Diggy Dice"
+permalink: /diggy-diggy-dice/
+created_at: 2015-08-05
+updated_at: 2015-10-07
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  main_url: "https://boardgamegeek.com/boardgame/164083/diggy-diggy-dice"
+  main_description: "The rules:"
+groupings:
+  - grouping: "Dice Game"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
+    licence_coverage: "entirety"
+    explanation: "Although the print-and-play dice image appears to use Minecraft art which is all rights reserved."
+---

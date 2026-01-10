@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1184**
+Total pages missing from Jekyll collections: **1149**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -9,41 +9,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Work (1209)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Data.gv.at
-- Data.vic.gov.au
-- Dati.camera.it
-- David Lippman
-- David Revoy's art
-- Death Of The Japanese Emperor
-- Death School
-- Death Takes a Holiday
-- Deathtrap Dungeon
-- Debtocracy
-- Decktet
-- Deconcrete
-- Deconstructing Masculinity
-- Deep Freeze
-- Delubrum
-- Department Nine
-- Design Livre
-- Destiny Dice
-- Destiny Of The Metal Gods
-- Destiny System
-- Desura
-- Developing Open Access Electronic Journals: A Practical Guide
-- Deviantart
-- Diagonal
-- Diaspora
-- Dice Icons
-- Dictionary Of Sydney
-- Diffuser Net
-- Diggy Diggy Dice
-- Digital IPA Recipe
-- Digital Public Library of America
-- Dilly Daily Draws
-- Directory of Open Access Journals
-- Disasteradio
-- Dispatches from Wondermark Manor
 - DIYLILCNC
 - Djinnbusters
 - Dominion Rules
