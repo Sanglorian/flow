@@ -3,7 +3,7 @@ layout: entry
 title: "Ancient Beast"
 permalink: /ancient-beast/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -23,5 +23,6 @@ connections:
 groupings:
   - grouping: "Electronic Game, Painting, 3D Art, Music"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike, Affero General Public License"
+  - license: "Creative Commons Attribution-ShareAlike 4.0, Affero General Public License 3.0"
+    explanation: "https://github.com/FreezingMoon/AncientBeast/blob/master/README.md"
 ---

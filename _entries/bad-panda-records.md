@@ -3,7 +3,7 @@ layout: entry
 title: "Bad Panda Records"
 permalink: /bad-panda-records/
 created_at: 2015-06-03
-updated_at: 2015-10-11
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

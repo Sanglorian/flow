@@ -3,7 +3,7 @@ layout: entry
 title: "Atlas of Living Australia"
 permalink: /atlas-of-living-australia/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1329**
+Total pages missing from Jekyll collections: **1289**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -9,46 +9,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Work (1209)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Balloon Mapping Kit
-- Balloon Suite
-- Bandcamp
-- Bank Robbery LARP
-- Barcelona Creative Commons Film Festival
-- Basic Fantasy RPG
-- Battle for Wesnoth
-- Beast Hunters
-- Bedroom Wall Press
-- Beginning Titan The Distributed Graph Database
-- Behance
-- Beowulf: A Translation
-- Beyond Belief Games
-- Bhaloidam
-- BibServer
-- Big Buck Bunny
-- Big Buck Bunny Loves Creative Commons
-- Big Island
-- Bill Browne
-- Biodigital
-- Blackbird Pie
-- Blambot
-- Blazing World
-- Blend Swap
-- Blender
-- Blogs Against Humanity
-- Blood, Guts & Glory
-- Bloody Forks
-- Bloody Forks of the Ohio
-- Bloomsbury Academic
-- Blue Rose
-- Boarsdraft
-- Boundless
-- Bounty Hunters: Metaphors for Fair Intellectual Property Laws
-- Brian Foo Wiki
-- BrickQuest
-- Brikwars
-- British Library
-- Brytenwalda
-- Bugs Of Venus
 - Bulletproof Blues
 - Burningwell
 - Caminandes

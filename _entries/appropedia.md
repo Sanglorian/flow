@@ -3,7 +3,7 @@ layout: entry
 title: "Appropedia"
 permalink: /appropedia/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Hardware"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
 ---
