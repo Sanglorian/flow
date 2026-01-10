@@ -209,3 +209,60 @@ h2 {
 .featured-card p {
   margin-bottom: 0;
 }
+
+/* =========================
+   Search
+   ========================= */
+
+.search-page {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.search-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #c7c7c7;
+  border-radius: 6px;
+  font-size: 1rem;
+  background-color: #fff;
+}
+
+.search-status {
+  margin-top: 0.75rem;
+  font-style: italic;
+}
+
+.search-results {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+}
+
+.search-result {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.search-result a {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #1f4b7a;
+}
+
+.search-result-meta {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+  color: #5d6770;
+}
+
+.search-result-description {
+  margin: 0.35rem 0 0;
+  font-size: 0.95rem;
+}

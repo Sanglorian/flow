@@ -8,6 +8,7 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 <aside class="site-sidebar">
   <section>
     <ul>
+      <li><a href="{{ "/search/" | relative_url }}">Search</a></li>
       <li><a href="{{ "/recent-changes/" | relative_url }}">Recent changes</a></li>
       <li><a href="{{ "/random/" | relative_url }}">Random page</a></li>
       <li><a href="{{ "/entries.xml" | relative_url }}">RSS feed (new entries)</a></li>

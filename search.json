@@ -1,0 +1,34 @@
+---
+layout: null
+---
+[
+{% assign first = true %}
+{% for collection in site.collections %}
+  {% if collection.output %}
+    {% for doc in collection.docs %}
+      {% unless first %},{% endunless %}
+      {
+        "title": {{ doc.title | default: doc.name | jsonify }},
+        "url": {{ doc.url | relative_url | jsonify }},
+        "collection": {{ collection.label | jsonify }},
+        "description": {{ doc.short_description | default: doc.description | jsonify }},
+        "content": {{ doc.content | strip_html | strip_newlines | jsonify }}
+      }
+      {% assign first = false %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+{% for page in site.pages %}
+  {% if page.title and page.url != '/search/' and page.url != '/search.json' %}
+    {% unless first %},{% endunless %}
+    {
+      "title": {{ page.title | jsonify }},
+      "url": {{ page.url | relative_url | jsonify }},
+      "collection": "pages",
+      "description": {{ page.description | default: page.excerpt | strip_html | strip_newlines | jsonify }},
+      "content": {{ page.content | strip_html | strip_newlines | jsonify }}
+    }
+    {% assign first = false %}
+  {% endif %}
+{% endfor %}
+]
