@@ -3,7 +3,7 @@ layout: entry
 title: "Cecil Street (Internet Archive)"
 permalink: /cecil-street-internet-archive/
 created_at: 2015-07-13
-updated_at: 2015-09-20
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

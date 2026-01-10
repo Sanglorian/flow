@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1256**
+Total pages missing from Jekyll collections: **1224**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -9,38 +9,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Work (1209)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Codename: Spandex
-- Collections Online
-- Comic Neue
-- Comment/How
-- Commonly
-- Commonwealth of Learning
-- Communia
-- Companies & Carpools
-- Composition Generators
-- Comunes
-- Confrontation Chess
-- Connexions
-- Conquering Corsairs
-- Consequences, risks and side-effects of the license module “non-commercial use only”
-- Console
-- Constructs Of Innocence In Selected Works Of Cyberpunk
-- Contagion
-- Contraptor
-- Copy/South Dossier
-- Copying Is Not Theft
-- Copyleft Notice
-- copyleft.org
-- Copyright And Creation
-- Copyright for Librarians
-- Copyright in databases in Australia
-- Copyright Week
-- Copywrong
-- Cordial Minuet
-- Core Elements
-- Cosmo Noticias
-- Cosmos Laundromat
-- Crash / Lanterns Of The Dead
 - Crawling For Cash
 - Creationistas
 - Creationmix

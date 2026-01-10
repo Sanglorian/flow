@@ -16,4 +16,5 @@ groupings:
   - grouping: "Art"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+    explanation: "Clear on earlier version of site: https://web.archive.org/web/20130824095339/http://citiesofyou.com/copyright"
 ---

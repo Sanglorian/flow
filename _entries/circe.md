@@ -3,13 +3,13 @@ layout: entry
 title: "Circe"
 permalink: /circe/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "One of the first games to be open source."
-  main_url: "http://worldforge.org/dev/content/rules/circe/"
+  main_url: "https://rpggeek.com/rpg/6314/circe"
   main_description: |-
     Local backups:
     * [Circe DOC](http://fossilbank.wikidot.com/local--files/work:circe/circe-1.9.doc) and [PDF](http://fossilbank.wikidot.com/local--files/work:circe/circe-1.9.pdf)

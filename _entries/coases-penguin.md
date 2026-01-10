@@ -3,7 +3,7 @@ layout: entry
 title: "Coase's Penguin"
 permalink: /coases-penguin/
 created_at: 2015-05-30
-updated_at: 2015-10-06
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -18,4 +18,5 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+    explanation: "According to the version linked on an older iteration of the site: https://web.archive.org/web/20160304052729/http://www.benkler.org/CoasesPenguin.html"
 ---

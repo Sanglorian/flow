@@ -3,13 +3,14 @@ layout: entry
 title: "ccMixter"
 permalink: /ccmixter/
 created_at: 2015-05-27
-updated_at: 2015-09-21
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "ccMixter is a site for Creative Commons remixes. You can listen to the music, but also sample and mash-up it."
   main_url: "http://ccmixter.org/"
+  main-description: "On Patreon: https://www.patreon.com/cw/ccMixter"
 languages:
   - language: "English"
     relationship_of_language: "original"

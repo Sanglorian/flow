@@ -3,7 +3,7 @@ layout: entry
 title: "Bulletproof Blues"
 permalink: /bulletproof-blues/
 created_at: 2015-05-28
-updated_at: 2019-11-28
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
