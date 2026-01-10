@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1289**
+Total pages missing from Jekyll collections: **1256**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -9,39 +9,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Work (1209)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Bulletproof Blues
-- Burningwell
-- Caminandes
-- Cap & Trade
-- Captive
-- Cardenio's Daughter
-- Cards Against Humanity
-- Cascade Failure
-- Castle Blackbird
-- Catalogue of Illuminated Manuscripts
-- Catalyst Games
-- Catastroika
-- Catching the Waves
-- CC Content Directories
-- CC Government Guide
-- ccMixter
-- Cctrax
-- Cecil Street (Internet Archive)
-- Center for the Study of Innovative Freedom
-- Centre For Policy Development
-- Choosealicence.com
-- Chronicles
-- CIA World Factbook
-- Circe
-- Circus Divas
-- City of Rain, City of Darkness
-- City of You
-- CK-12
-- Class Warfare
-- Classroom Activity Guide for Happy Birthday, Robot!
-- Coase's Penguin
-- Code Book
-- Code School
 - Codename: Spandex
 - Collections Online
 - Comic Neue
