@@ -9,7 +9,8 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A toolkit for the Fate tabletop RPG."
-  main_url: "http://www.faterpg.com/licensing/"
+  main_url: "https://evilhat.itch.io/fate-system-toolkit"
+  main-description: "SRD: https://web.archive.org/web/20210127065325/https://fate-srd.com/fate-system-toolkit"
 connections:
   - has_connection_to_entry: "Evil Hat Productions"
   - has_connection_to_entry: "Fate Core System, Fate Accelerated Edition"

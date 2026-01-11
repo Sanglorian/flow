@@ -3,13 +3,13 @@ layout: entry
 title: "FASERIP"
 permalink: /faserip/
 created_at: 2015-07-20
-updated_at: 2016-07-17
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "\"FASERIP is a pen-and-paper role-playing game of super powered heroes, with addictive character generation and comic-book combat pacing.\""
-  main_url: "http://www.gratisgames.webspace.virginmedia.com/faserip.html"
+  main_url: "https://gurbintrollgames.wordpress.com/faserip/"
 connections:
   - has_connection_to_entry: "Marvel Super Heroes RPG"
     details_of_connection: "clone of"

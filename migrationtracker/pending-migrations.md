@@ -1,45 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1149**
+Total pages missing from Jekyll collections: **1118**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (1209)
+## Work (1178)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Fatony
-- Featurin.gs
-- Feedback Loops in Game Design
-- Feeding The City
-- Fhsildsj
-- Ficlatte
-- Fight!
-- Final Decrees
-- Fire & Sword
-- First of May
-- First Year of Our REIGN
-- FISC
-- Five by Five
-- Floor Games
-- Flower Rainbow
-- Folger Shakespeare Library
-- Foodista
-- For Gold & Glory
-- Forall X
-- Ford Foundation
-- Forge
-- Fortune Cookies And Nuclear War
-- Fortune System Reference Document
-- Forty Thieves
-- Four Colors Al Fresco
-- Framed
-- Free As In Freedom
-- Free Beer
-- Free Beer Book
-- Free Culture Guide
-- Free Curricula Center
 - Free Fall
 - Free Fate
 - Free Gamer

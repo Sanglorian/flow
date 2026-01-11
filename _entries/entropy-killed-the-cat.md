@@ -3,13 +3,14 @@ layout: entry
 title: "Entropy Killed The Cat"
 permalink: /entropy-killed-the-cat/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A movie."
   main_url: "http://entropy.tuxfamily.org/?La-chambre-de-Schrodinger"
+  main-description: "File: https://archive.org/details/wiki-entropytuxfamilyorg_wiki"
 groupings:
   - grouping: "Movie"
     is_or_about_grouping: "is"

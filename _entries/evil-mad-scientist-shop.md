@@ -3,12 +3,12 @@ layout: entry
 title: "Evil Mad Scientist Shop"
 permalink: /evil-mad-scientist-shop/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
-  main_url: "http://evilmadscience.com/"
+  main_url: "https://shop.evilmadscientist.com/directory"
 groupings:
   - grouping: "Hardware, Software"
 licensing:

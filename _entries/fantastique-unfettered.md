@@ -3,13 +3,13 @@ layout: entry
 title: "Fantastique Unfettered"
 permalink: /fantastique-unfettered/
 created_at: 2015-05-29
-updated_at: 2015-09-20
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "A magazine of short stories."
-  main_url: "http://fantastique-unfettered.blogspot.com/"
+  main_url: "https://web.archive.org/web/20130721162312/http://fantastique-unfettered.blogspot.com/"
   main_description: "Previously at: http://www.fantastique-unfettered.com/"
 connections:
   - has_connection_to_entry: "M-Brane Press"

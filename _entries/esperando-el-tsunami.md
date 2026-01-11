@@ -3,13 +3,13 @@ layout: entry
 title: "Esperando el Tsunami"
 permalink: /esperando-el-tsunami/
 created_at: 2015-08-08
-updated_at: 2015-10-08
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "\"Esperando el Tsunami (Waiting for the Tsunami) is a quest for the sounds and people of present-day Colombia, in a continuous improvisation by the filmmaker and musicians as we composed and created on the road.\""
-  main_url: "http://www.esperando.cc/?lang=en"
+  main_url: "https://web.archive.org/web/20120610030014/http://www.esperando.cc/?lang=en"
 groupings:
   - grouping: "Music, Music Video, Documentary"
     is_or_about_grouping: "is"

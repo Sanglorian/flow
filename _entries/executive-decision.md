@@ -3,18 +3,18 @@ layout: entry
 title: "Executive Decision"
 permalink: /executive-decision/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Compete for the trust of the President of the United States."
-  main_url: "http://www.gregstolze.com/downloads.html"
+  main_url: "https://www.gregstolze.com/downloads.html"
   main_description: "The game was [http://nickwedig.libraryofhighmoon.com/2010/12/executive-decision/ revised] by Teapot Dome Games."
 connections:
   - has_connection_to_entry: "Greg Stolze, Teapot Dome Games"
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0"
 ---

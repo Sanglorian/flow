@@ -3,7 +3,7 @@ layout: entry
 title: "Fate Game"
 permalink: /fate-game/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
