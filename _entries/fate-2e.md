@@ -1,0 +1,26 @@
+---
+layout: entry
+title: "Fate 2E"
+permalink: /fate-2e/
+created_at: 2015-05-29
+updated_at: 2015-09-23
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: "A universal game based on the FATE engine."
+  main_url: "http://www.faterpg.com/"
+  main_description: |-
+    [http://zork.net/~nick/loyhargil/fate-srd-rest/Fate-SRD-2005-03-31.html HTML SRD].
+    [http://www.faterpg.com/dl/Fate-SRD-2005-03-31.rtf RTF SRD].
+    [http://www.darkshire.net/jhkim/rpg/srd/fate/index.html HTML SRD].
+    
+    [http://www.systemreferencedocuments.org/resources/systems/pennpaper/fate2/fatesrd.html HTML SRD]
+connections:
+  - has_connection_to_entry: "Evil Hat Productions"
+  - has_connection_to_entry: "Fate"
+groupings:
+  - grouping: "Tabletop Game (RPG)"
+licensing:
+  - license: "Open Game License"
+---
