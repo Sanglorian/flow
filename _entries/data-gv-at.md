@@ -3,13 +3,13 @@ layout: entry
 title: "Data.gv.at"
 permalink: /data-gv-at/
 created_at: 2015-06-03
-updated_at: 2015-10-10
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Data from the Austrian government."
-  main_url: "http://data.gv.at/"
+  main_url: "https://www.data.gv.at/home?locale=de"
 connections:
   - has_connection_to_entry: "Austrian Government"
 languages:
@@ -17,5 +17,6 @@ languages:
 groupings:
   - grouping: "Data"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 4.0"
+    explanation: "https://www.data.gv.at/info/open-data-prinzipien?locale=de"
 ---

@@ -3,7 +3,7 @@ layout: entry
 title: "Deathtrap Dungeon"
 permalink: /deathtrap-dungeon/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
@@ -13,8 +13,10 @@ entry:
   main_description: "Based on closed Parsley games by [Jason Morningstar](/jason-morningstar/)."
 connections:
   - has_connection_to_entry: "Teapot Dome Games"
+  - has_connection_to_entry: "Jason Morningstar"
+    explanation: "based on works by"
 groupings:
   - grouping: "Tabletop Game (Solitaire)"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

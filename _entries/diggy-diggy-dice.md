@@ -3,7 +3,7 @@ layout: entry
 title: "Diggy Diggy Dice"
 permalink: /diggy-diggy-dice/
 created_at: 2015-08-05
-updated_at: 2015-10-07
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
