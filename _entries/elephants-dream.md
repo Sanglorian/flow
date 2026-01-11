@@ -3,13 +3,13 @@ layout: entry
 title: "Elephants Dream"
 permalink: /elephants-dream/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "A short and surreal movie about an old man and his grandson."
-  main_url: "http://www.elephantsdream.org/"
+  main_url: "https://orange.blender.org/"
   main_description: |-
     [Elephants Dream gallery](http://orange.blender.org/media-gallery)
 connections:

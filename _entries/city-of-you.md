@@ -1,9 +1,9 @@
 ---
 layout: entry
-title: "City of You"
-permalink: /city-of-you/
+title: "Cities of You"
+permalink: /cities-of-you/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

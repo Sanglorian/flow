@@ -3,7 +3,7 @@ layout: entry
 title: "FancyCrave"
 permalink: /fancycrave/
 created_at: 2015-11-25
-updated_at: 2015-11-25
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

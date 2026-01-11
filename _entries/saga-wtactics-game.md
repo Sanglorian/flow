@@ -3,7 +3,7 @@ layout: entry
 title: "saga (WTactics game)"
 permalink: /saga-wtactics-game/
 created_at: 2017-02-24
-updated_at: 2017-02-24
+updated_at: 2026-01-10
 contributors:
 - "220.245.24.134"
 entry:

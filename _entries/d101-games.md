@@ -3,7 +3,7 @@ layout: entry
 title: "D101 Games"
 permalink: /d101-games/
 created_at: 2015-06-03
-updated_at: 2015-10-10
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

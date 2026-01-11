@@ -3,7 +3,7 @@ layout: default
 title: "Dungeon World Index"
 permalink: /dungeon-world-index/
 created_at: 2015-07-22T08:09:07Z
-updated_at: 2015-07-22T08:09:07Z
+updated_at: 2026-01-10
 contributors:
   - Sanglorian
 entry:

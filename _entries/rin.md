@@ -3,7 +3,7 @@ layout: entry
 title: "Rin"
 permalink: /rin/
 created_at: 2019-01-02
-updated_at: 2019-01-02
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

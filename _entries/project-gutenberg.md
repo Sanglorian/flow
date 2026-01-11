@@ -3,7 +3,7 @@ layout: entry
 title: "Project Gutenberg"
 permalink: /project-gutenberg/
 created_at: 2015-06-03
-updated_at: 2015-09-21
+updated_at: 2026-01-10
 contributors:
 - Sanglorian
 entry:

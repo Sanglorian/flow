@@ -3,7 +3,7 @@ layout: entry
 title: "The Devil's Brood"
 permalink: /the-devils-brood/
 created_at: 2015-09-23
-updated_at: 2015-09-23
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

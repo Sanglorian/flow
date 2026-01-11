@@ -3,7 +3,7 @@ layout: entry
 title: "Knave"
 permalink: /knave/
 created_at: 2019-03-02
-updated_at: 2019-03-02
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

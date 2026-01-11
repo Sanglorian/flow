@@ -3,13 +3,13 @@ layout: entry
 title: "Eastern Standard Tribe"
 permalink: /eastern-standard-tribe/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "A book of the near future."
-  main_url: "http://craphound.com/est/download.php"
+  main_url: "https://craphound.com/est/download/"
 connections:
   - has_connection_to_entry: "Cory Doctorow"
 groupings:

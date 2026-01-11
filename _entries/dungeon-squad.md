@@ -3,7 +3,7 @@ layout: entry
 title: "Dungeon Squad"
 permalink: /dungeon-squad/
 created_at: 2014-09-28
-updated_at: 2015-09-21
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:

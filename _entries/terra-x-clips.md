@@ -3,7 +3,7 @@ layout: entry
 title: "Terra X-Clips"
 permalink: /terra-x-clips/
 created_at: 2020-07-30
-updated_at: 2020-07-30
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

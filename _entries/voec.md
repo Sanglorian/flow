@@ -3,7 +3,7 @@ layout: entry
 title: "voec"
 permalink: /voec/
 created_at: 2017-05-21
-updated_at: 2017-05-21
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

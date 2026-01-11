@@ -3,7 +3,7 @@ layout: entry
 title: "logodust.com"
 permalink: /logodust-com/
 created_at: 2016-01-31
-updated_at: 2016-01-31
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

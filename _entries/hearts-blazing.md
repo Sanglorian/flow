@@ -3,7 +3,7 @@ layout: entry
 title: "Hearts Blazing"
 permalink: /hearts-blazing/
 created_at: 2016-10-04
-updated_at: 2016-10-04
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

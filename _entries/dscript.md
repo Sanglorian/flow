@@ -3,7 +3,7 @@ layout: entry
 title: "Dscript"
 permalink: /dscript/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
@@ -15,4 +15,5 @@ groupings:
   - grouping: "Art"
 licensing:
   - license: "Creative Commons Attribution"
+  coverage: "Everything on this website (except the stories)"
 ---

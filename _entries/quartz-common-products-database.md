@@ -3,7 +3,7 @@ layout: entry
 title: "Quartz Common Products Database"
 permalink: /quartz-common-products-database/
 created_at: 2015-11-20
-updated_at: 2015-11-20
+updated_at: 2026-01-10
 contributors:
 - "202.55.151.86"
 entry:

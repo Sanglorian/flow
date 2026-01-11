@@ -3,13 +3,13 @@ layout: entry
 title: "Emergency 2.0 Wiki"
 permalink: /emergency-2-0-wiki/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "An Australian disaster awareness site."
-  main_url: "http://emergency20wiki.org/"
+  main_url: "https://web.archive.org/web/20161018072252/http://emergency20wiki.org/terms-of-use/copyright"
 groupings:
   - grouping: "Information"
 licensing:

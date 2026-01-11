@@ -3,7 +3,7 @@ layout: entry
 title: "Pixar One Twenty Eight"
 permalink: /pixar-one-twenty-eight/
 created_at: 2015-09-21
-updated_at: 2015-09-21
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

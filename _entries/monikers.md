@@ -3,7 +3,7 @@ layout: entry
 title: "Monikers"
 permalink: /monikers/
 created_at: 2018-06-29
-updated_at: 2018-06-29
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

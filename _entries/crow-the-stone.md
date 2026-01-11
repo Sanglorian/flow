@@ -3,7 +3,7 @@ layout: entry
 title: "Crow the Stone"
 permalink: /crow-the-stone/
 created_at: 2015-11-30
-updated_at: 2025-01-05
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:

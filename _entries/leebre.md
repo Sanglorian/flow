@@ -3,7 +3,7 @@ layout: entry
 title: "Leebre"
 permalink: /leebre/
 created_at: 2015-08-08
-updated_at: 2015-09-20
+updated_at: 2026-01-10
 contributors:
 - Sanglorian
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "Open Source Food Safety"
 permalink: /open-source-food-safety/
 created_at: 2016-12-16
-updated_at: 2016-12-16
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
