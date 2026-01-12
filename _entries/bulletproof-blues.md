@@ -15,7 +15,9 @@ connections:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike, Open Game License, Creative Commons Attribution-NoDerivatives"
+  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Open Game License"
+  - license: "Creative Commons Attribution-NoDerivatives"
 versions:
   - version_title: "2nd edition"
     version_format: "PDF"

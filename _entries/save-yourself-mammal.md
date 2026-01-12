@@ -11,7 +11,8 @@ entry:
   short_description: "Hand selected comics from the gratis webcomic Saturday Morning Breakfast Cereal."
   main_url: "https://web.archive.org/web/20110429122956/https://breadpig.myshopify.com/collections/everything-else/products/save-yourself-mammal-a-saturday-morning-breakfast-cereal-collection"
 connections:
-  - has_connection_to_entry: "Zach Weiner, Breadpig"
+  - has_connection_to_entry: "Zach Weiner"
+  - has_connection_to_entry: "Breadpig"
 groupings:
   - grouping: "Comics"
 genres:

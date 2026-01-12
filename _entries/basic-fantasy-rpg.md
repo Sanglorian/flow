@@ -11,11 +11,13 @@ entry:
   short_description: "A fusion of Basic D&D with D&D 3E to create a simple, light-weight game."
   main_url: "https://www.basicfantasy.org/downloads.html"
 connections:
-  - has_connection_to_entry: "Basic Dungeons & Dragons, d20 System"
+  - has_connection_to_entry: "Basic Dungeons & Dragons"
+  - has_connection_to_entry: "d20 System"
 genres:
   - "Dungeon"
 groupings:
-  - grouping: "Tabletop Roleplaying, Clone"
+  - grouping: "Tabletop Roleplaying"
+  - grouping: "Clone"
 licensing:
   - license: "Open Game License"
   - license: "Creative Commons Attribution-ShareAlike 4.0"

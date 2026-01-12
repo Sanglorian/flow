@@ -14,7 +14,9 @@ entry:
   thumbnail: "/thumbnails/dungeon-world.png"
   main_description: "A tabletop RPG that plays like your nostalgic memories of Dungeons & Dragons."
 connections:
-  - has_connection_to_entry: "Adam Koebel, Sage LaTorra"
+  - has_connection_to_entry: "Adam Koebel"
+    details_of_connection: "author, designer"
+  - has_connection_to_entry: "Sage LaTorra"
     details_of_connection: "author, designer"
   - has_connection_to_entry: "Apocalypse World"
     details_of_connection: "engine"

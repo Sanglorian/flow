@@ -3,7 +3,7 @@ layout: entry
 title: "Foodista"
 permalink: /foodista/
 created_at: 2015-05-28
-updated_at: 2015-09-20
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
@@ -14,5 +14,5 @@ groupings:
   - grouping: "Recipe"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0"
 ---

@@ -11,7 +11,8 @@ entry:
   short_description: "An introduction to Google's open source browser project."
   main_url: "http://blogoscoped.com/google-chrome/"
 connections:
-  - has_connection_to_entry: "Scott McCloud, Google"
+  - has_connection_to_entry: "Scott McCloud"
+  - has_connection_to_entry: "Google"
 groupings:
   - grouping: "Information"
   - grouping: "Comics"

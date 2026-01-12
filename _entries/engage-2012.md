@@ -14,5 +14,6 @@ types:
   - type: "Video"
     distribution: "electronic"
 licensing:
-  - license: "Creative Commons Attribution, Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution-ShareAlike"
 ---

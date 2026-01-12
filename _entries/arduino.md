@@ -17,7 +17,10 @@ entry:
     
     Company like microchip are selling clone of the arduino platform named [ChipKit](http://chipkit.net/) based on their pic32 MIPS core.
 groupings:
-  - grouping: "Technology, Software"
+  - grouping: "Technology"
+  - grouping: "Software"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike, GNU General Public License 2.0, GNU Lesser General Public License 2.1"
+  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "GNU General Public License 2.0"
+  - license: "GNU Lesser General Public License 2.1"
 ---

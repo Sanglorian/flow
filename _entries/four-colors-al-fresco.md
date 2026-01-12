@@ -3,7 +3,7 @@ layout: entry
 title: "Four Colors Al Fresco"
 permalink: /four-colors-al-fresco/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
@@ -20,4 +20,5 @@ genres:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "Open Game License"
+    explanation: "PDF mentions a different license, the October OGL, but the website text confirms CC BY-SA and OGL. https://www.tiltingatwindmills.net/games/four-colors-al-fresco/"
 ---

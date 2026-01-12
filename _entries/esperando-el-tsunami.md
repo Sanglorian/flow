@@ -11,10 +11,15 @@ entry:
   short_description: "\"Esperando el Tsunami (Waiting for the Tsunami) is a quest for the sounds and people of present-day Colombia, in a continuous improvisation by the filmmaker and musicians as we composed and created on the road.\""
   main_url: "https://web.archive.org/web/20120610030014/http://www.esperando.cc/?lang=en"
 groupings:
-  - grouping: "Music, Music Video, Documentary"
+  - grouping: "Music"
+    is_or_about_grouping: "is"
+  - grouping: "Music Video"
+    is_or_about_grouping: "is"
+  - grouping: "Documentary"
     is_or_about_grouping: "is"
 types:
-  - type: "Audio, Video"
+  - type: "Audio"
+  - type: "Video"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
     licence_coverage: "entirety"

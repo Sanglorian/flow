@@ -12,7 +12,9 @@ entry:
   main_url: "https://web.archive.org/web/20140613032017/http://everycook.org/db/"
   main-description: "Database: https://github.com/everycook/EveryCook"
 groupings:
-  - grouping: "Recipes, Software, Hardware"
+  - grouping: "Recipes"
+  - grouping: "Software"
+  - grouping: "Hardware"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "GPL"

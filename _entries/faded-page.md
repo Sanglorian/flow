@@ -9,13 +9,15 @@ contributors:
 entry:
   category_of_entry: "Collection"
   short_description: "\"Faded Page is an archive of eBooks that are provided completely free to everyone.\""
-  main_url: "https://www.fadedpage.com/
+  main_url: "https://www.fadedpage.com/"
 languages:
   - language: "English"
     relationship_of_language: "original"
     explanation: "Mostly."
 groupings:
-  - grouping: "Literature, Nonfiction"
+  - grouping: "Literature"
+    is_or_about_grouping: "is"
+  - grouping: "Nonfiction"
     is_or_about_grouping: "is"
 types:
   - type: "Book"

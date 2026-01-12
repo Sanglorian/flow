@@ -13,5 +13,6 @@ entry:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Open Game License, GNU General Public License"
+  - license: "Open Game License"
+  - license: "GNU General Public License"
 ---

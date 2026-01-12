@@ -10,9 +10,10 @@ entry:
   category_of_entry: "Collection"
   main_url: "https://shop.evilmadscientist.com/directory"
 groupings:
-  - grouping: "Hardware, Software"
+  - grouping: "Hardware"
+  - grouping: "Software"
 licensing:
-  - license: "GNU General Public License, TAPR OHL, Creative Commons Attribution, Creative Commons Attribution-ShareAlike, GNU Free Documentation License"
+  - license: "GNU General Public License"
     explanation: |-
       The TAPR OHL is the main hardware licence they use; the GNU GPL is the main software licence they use.
       
@@ -28,4 +29,8 @@ licensing:
       * Googly Shield: TAPR OHL
       * ATmegaXX8 Breakout boards: CC-BY-SA/GPL/GFDL
       * Larson Scanner/Menorah: CC-BY-SA/GPL/GFDL
+  - license: "TAPR OHL"
+  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "GNU Free Documentation License"
 ---

@@ -1,6 +1,6 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **1118**
+Total pages missing from Jekyll collections: **1077**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
@@ -9,47 +9,6 @@ Grouped by the first template used in each wiki page. Titles are sorted alphabet
 ## Work (1178)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Free Fall
-- Free Fate
-- Free Gamer
-- Free Knowledge Based On Creative Commons Licenses
-- Free Motion Quilting
-- Free Music Archive
-- Free Music Sampler
-- Free Software Directory
-- Free Software Free Society
-- Free Software Recommendations
-- Free Speculative Fiction Online
-- Free To Mix
-- Freebase
-- Freebassel Cookbook
-- FreeLab
-- FreePD.com
-- Freesouls
-- Freetems
-- French Government
-- Fringe
-- Frontier Encounters
-- Frost Devils
-- FUBAR
-- Fudge
-- Full Circle Magazine
-- Full Command
-- Fury Comics
-- Future of Copyright Anthology
-- Game-Icons.net
-- Ganakagok Cards
-- Geasa
-- Generic Fantasy Quest Game
-- Genesis Of Legend
-- Genesys System
-- Genetica Texture Packs
-- Ghost Lines
-- Ghost Runner
-- Ghostlight
-- Ghosts
-- Ghosts I-IV
-- GIMP
 - Gimp Magazine
 - Give Life Back To Music
 - Glain

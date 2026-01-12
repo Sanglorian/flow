@@ -3,7 +3,7 @@ layout: entry
 title: "Fortune Cookies And Nuclear War"
 permalink: /fortune-cookies-and-nuclear-war/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2016-01-11
 contributors:
 - "Sanglorian"
 entry:
@@ -16,5 +16,5 @@ groupings:
   - grouping: "Tabletop Game (Story Game)"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0"
 ---

@@ -3,7 +3,7 @@ layout: entry
 title: "Ficlatte"
 permalink: /ficlatte/
 created_at: 2015-05-28
-updated_at: 2015-09-20
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
@@ -17,5 +17,5 @@ groupings:
   - grouping: "Literature"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 3.0"
 ---

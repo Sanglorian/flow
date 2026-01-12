@@ -11,7 +11,8 @@ entry:
   short_description: "'397 carefully crafted premium pictograms'"
   main_url: "https://github.com/chancancode/entypo-plus"
 groupings:
-  - grouping: "Art, Font"
+  - grouping: "Art"
+  - grouping: "Font"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
 ---

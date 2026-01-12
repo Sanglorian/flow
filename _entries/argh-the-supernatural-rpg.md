@@ -12,7 +12,8 @@ entry:
   main_url: "https://www.drivethrurpg.com/en/product/96079/argh"
   main_description: "A modern-day supernatural thriller RPG using the SFX! system (Simple, Fast, Exciting!), in the manner of Buffy the Vampire Slayer, the Dresden Files, the Sookie Stackhouse series, and the like."
 connections:
-  - has_connection_to_entry: "Joshua Macy, SFX! RPGs"
+  - has_connection_to_entry: "Joshua Macy"
+  - has_connection_to_entry: "SFX! RPGs"
   - has_connection_to_entry: "SFX!"
 genres:
   - "Fantasy"

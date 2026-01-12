@@ -14,5 +14,6 @@ groupings:
   - grouping: "Tech Support"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives, Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

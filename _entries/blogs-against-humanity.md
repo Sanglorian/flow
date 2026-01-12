@@ -11,7 +11,8 @@ entry:
   short_description: "A short, GMless tabletop game."
   main_url: "http://www.silvergardengames.com/gamesgalore/BlogsAgainstHumanity.html"
 connections:
-  - has_connection_to_entry: "Cards Against Humanity, Apocalypse World"
+  - has_connection_to_entry: "Cards Against Humanity"
+  - has_connection_to_entry: "Apocalypse World"
 groupings:
   - grouping: "Tabletop Gaming"
 licensing:

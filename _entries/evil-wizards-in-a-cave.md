@@ -12,7 +12,8 @@ entry:
   main_url: "https://www.drivethrurpg.com/en/product/119066/rk2-evil-wizards-in-a-cave"
 connections:
   - has_connection_to_entry: "Johnstone Metzger"
-  - has_connection_to_entry: "Dungeon World, Labyrinth Lord"
+  - has_connection_to_entry: "Dungeon World"
+  - has_connection_to_entry: "Labyrinth Lord"
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:

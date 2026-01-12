@@ -20,5 +20,6 @@ genres:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "GNU Free Documentation License, GNU General Public License"
+  - license: "GNU Free Documentation License"
+  - license: "GNU General Public License"
 ---

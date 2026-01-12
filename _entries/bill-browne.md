@@ -18,5 +18,8 @@ entry:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Public domain, Open Game License, Creative Commons Attribution, Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Public domain"
+  - license: "Open Game License"
+  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

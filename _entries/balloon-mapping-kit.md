@@ -15,5 +15,6 @@ connections:
 groupings:
   - grouping: "Technology"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike, CERN Open Hardware Licence"
+  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "CERN Open Hardware Licence"
 ---

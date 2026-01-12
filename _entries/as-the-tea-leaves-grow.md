@@ -13,7 +13,8 @@ entry:
   main_description: "[Local backup](http://fossilbank.wikidot.com/local--files/work:as-the-tea-leaves-grow/As%20the%20Tea%20Leaves%20Grow.pdf)"
 connections:
   - has_connection_to_entry: "Stuart Chaplin"
-  - has_connection_to_entry: "Lady Blackbird, Apocalypse World"
+  - has_connection_to_entry: "Lady Blackbird"
+  - has_connection_to_entry: "Apocalypse World"
 genres:
   - "Fantasy"
 groupings:

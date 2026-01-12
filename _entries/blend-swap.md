@@ -22,7 +22,9 @@ groupings:
   - grouping: "3D Assets"
     is_or_about_grouping: "is"
 types:
-  - type: "Code, Graphic"
+  - type: "Code"
+    distribution: "electronic"
+  - type: "Graphic"
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"

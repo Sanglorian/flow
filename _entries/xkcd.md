@@ -11,7 +11,8 @@ entry:
   short_description: "A webcomic of romance, sarcasm, math, and language."
   main_url: "http://xkcd.com/"
 connections:
-  - has_connection_to_entry: "Randall Munroe, Breadpig"
+  - has_connection_to_entry: "Randall Munroe"
+  - has_connection_to_entry: "Breadpig"
 groupings:
   - grouping: "Comics"
 licensing:

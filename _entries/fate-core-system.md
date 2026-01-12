@@ -21,6 +21,8 @@ connections:
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:
-  - license: "Creative Commons Attribution, Open Game License"
+  - license: "Creative Commons Attribution"
+    explanation: "Only the text of Fate Core is so licensed. See [http://www.faterpg.com/licensing/licensing-fate-cc-by Licensing Fate (CC BY)] and [http://www.faterpg.com/licensing/licensing-fate-ogl/ Licensing Fate (OGL)] for more details."
+  - license: "Open Game License"
     explanation: "Only the text of Fate Core is so licensed. See [http://www.faterpg.com/licensing/licensing-fate-cc-by Licensing Fate (CC BY)] and [http://www.faterpg.com/licensing/licensing-fate-ogl/ Licensing Fate (OGL)] for more details."
 ---

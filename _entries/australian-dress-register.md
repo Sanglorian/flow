@@ -13,7 +13,8 @@ entry:
 connections:
   - has_connection_to_entry: "Powerhouse Museum"
 groupings:
-  - grouping: "Technology, Art"
+  - grouping: "Technology"
+  - grouping: "Art"
 licensing:
   - license: "Creative Commons Attribution-Noncommercial"
 ---

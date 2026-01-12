@@ -3,13 +3,13 @@ layout: entry
 title: "Free Beer Book"
 permalink: /free-beer-book/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "A book about free software and free culture from the speakers at FSCONS 2008."
-  main_url: "http://freebeer.fscons.org/"
+  main_url: "https://web.archive.org/web/20160304042808/http://freebeer.fscons.org/"
 connections:
   - has_connection_to_entry: "Free Beer"
     details_of_connection: "inspired by"
@@ -20,5 +20,5 @@ groupings:
 genres:
   - "IP Minimalism"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 2.5"
 ---

@@ -13,7 +13,10 @@ entry:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Electronic Game, Pixel Art, Art (Raster Art), Music"
+  - grouping: "Electronic Game"
+  - grouping: "Pixel Art"
+  - grouping: "Art (Raster Art)"
+  - grouping: "Music"
 licensing:
   - license: "GNU General Public License"
     coverage: "The code; visual and audio contributions from 29 July 2017 and before."

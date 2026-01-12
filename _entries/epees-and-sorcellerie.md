@@ -17,7 +17,8 @@ languages:
   - language: "French"
   - language: "English"
 groupings:
-  - grouping: "Tabletop Game (RPG), Clone"
+  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Clone"
 genres:
   - genre: "Fantasy"
 licensing:

@@ -13,11 +13,15 @@ entry:
   main-description: "SRD: https://web.archive.org/web/20210127065325/https://fate-srd.com/fate-system-toolkit"
 connections:
   - has_connection_to_entry: "Evil Hat Productions"
-  - has_connection_to_entry: "Fate Core System, Fate Accelerated Edition"
+  - has_connection_to_entry: "Fate Core System"
+    explanation: "For these games"
+  - has_connection_to_entry: "Fate Accelerated Edition"
     explanation: "For these games"
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:
-  - license: "Creative Commons Attribution, Open Game License"
+  - license: "Creative Commons Attribution"
+    explanation: "There is also an exception to the normal attribution requirements of CC BY that makes some Evil Hat Productions content under that licence interoperable with OGL."
+  - license: "Open Game License"
     explanation: "There is also an exception to the normal attribution requirements of CC BY that makes some Evil Hat Productions content under that licence interoperable with OGL."
 ---

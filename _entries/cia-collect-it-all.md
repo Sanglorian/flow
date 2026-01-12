@@ -12,7 +12,10 @@ entry:
   year_of_publication: 2018
   main-url: "https://diegeticgames.com/cia-collect-it-all/"
 connections:
-  - has_connection_to_entry: "Central Intelligence Agency, David Clopper"
+  - has_connection_to_entry: "Central Intelligence Agency"
+    details_of_connection: "a contributor to"
+    explanation: "Based on Collection Deck, a CIA game designed by David Clopper"
+  - has_connection_to_entry: "David Clopper"
     details_of_connection: "a contributor to"
     explanation: "Based on Collection Deck, a CIA game designed by David Clopper"
   - has_connection_to_entry: "AH Games"

@@ -3,7 +3,7 @@ layout: entry
 title: "Feeding The City"
 permalink: /feeding-the-city/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
