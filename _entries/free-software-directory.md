@@ -3,13 +3,13 @@ layout: entry
 title: "Free Software Directory"
 permalink: /free-software-directory/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "Details of almost 7,000 free software projects."
-  main_url: "http://directory.fsf.org/wiki/Main_Page"
+  main_url: "https://directory.fsf.org/wiki/Main_Page"
 connections:
   - has_connection_to_entry: "Free Software Foundation"
 groupings:

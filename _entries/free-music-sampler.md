@@ -3,13 +3,13 @@ layout: entry
 title: "Free Music Sampler"
 permalink: /free-music-sampler/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "36 songs under Creative Commons licences."
-  main_url: "http://bandcamp.musikpiraten-ev.de/album/viva-la-freevolucci-n"
+  main_url: "https://musikpiraten.bandcamp.com/album/viva-la-freevolucci-n"
   main_description: |-
     Of the 36 songs, the following thirteen are free/libre/open:
     1. Josh Woodward - Faded War

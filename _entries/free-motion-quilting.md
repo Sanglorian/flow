@@ -3,7 +3,7 @@ layout: entry
 title: "Free Motion Quilting"
 permalink: /free-motion-quilting/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
@@ -14,5 +14,5 @@ groupings:
   - grouping: "Art"
 licensing:
   - license: "Public domain"
-    explanation: "The designs themselves are free for anyone to use. Using the videos and books giving instruction on how to make the design is [http://www.daystyledesigns.com/copyright.htm explained here.]"
+    explanation: "https://leahday.com/pages/copyright"
 ---

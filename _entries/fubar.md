@@ -3,7 +3,7 @@ layout: entry
 title: "FUBAR"
 permalink: /fubar/
 created_at: 2015-05-30
-updated_at: 2015-10-06
+updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
