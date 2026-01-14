@@ -3,13 +3,13 @@ layout: entry
 title: "Instructables"
 permalink: /instructables/
 created_at: 2015-05-27
-updated_at: 2015-10-11
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "Instructables is a place that lets you explore, document, and share your creations."
-  main_url: "http://www.instructables.com/"
+  main_url: "https://www.instructables.com/"
   main_description: |-
     "Our Story
     

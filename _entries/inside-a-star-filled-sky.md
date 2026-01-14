@@ -3,7 +3,7 @@ layout: entry
 title: "Inside A Star Filled Sky"
 permalink: /inside-a-star-filled-sky/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
