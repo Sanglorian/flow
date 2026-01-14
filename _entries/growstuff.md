@@ -1,0 +1,23 @@
+---
+layout: entry
+title: "Growstuff"
+permalink: /growstuff/
+created_at: 2015-05-28
+updated_at: 2015-09-22
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: "Growstuff is a community of food gardeners. We're building an open source platform to help you learn about growing food, track what you plant and harvest, and swap seeds and produce with other gardeners near you."
+  main_url: "http://growstuff.org/"
+groupings:
+  - grouping: "Data"
+    is_or_about_grouping: "is"
+  - grouping: "Nonfiction"
+    is_or_about_grouping: "is"
+types:
+  - type: "Website"
+    distribution: "electronic"
+licensing:
+  - license: "Creative Commons Attribution-ShareAlike"
+---
