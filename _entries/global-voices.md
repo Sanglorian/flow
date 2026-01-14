@@ -3,13 +3,13 @@ layout: entry
 title: "Global Voices"
 permalink: /global-voices/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "A network of bloggers."
-  main_url: "http://globalvoicesonline.org"
+  main_url: "https://globalvoices.org/"
 languages:
   - language: "Aymara"
   - language: "Indonesian"
@@ -40,5 +40,5 @@ languages:
 groupings:
   - grouping: "Information (Blogs)"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0"
 ---

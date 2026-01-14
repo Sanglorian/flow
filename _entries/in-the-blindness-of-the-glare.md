@@ -1,0 +1,20 @@
+---
+layout: entry
+title: "In the Blindness of the Glare"
+permalink: /in-the-blindness-of-the-glare/
+created_at: 2015-05-29
+updated_at: 2015-09-23
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: "Part of the deal with the Ardwin ransom was that I agreed to write a story for ten of the $50+ donors. Each one got to dictate one element for inclusion."
+  main_url: "http://www.gregstolze.com/downloads.html"
+  main_description: "Available in PDF."
+connections:
+  - has_connection_to_entry: "Greg Stolze"
+groupings:
+  - grouping: "Literature (Short Story)"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+---

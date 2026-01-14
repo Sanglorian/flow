@@ -3,13 +3,13 @@ layout: entry
 title: "Gunwave"
 permalink: /gunwave/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A system for playing the angsty teens of a mecha anime series."
-  main_url: "http://brentnewhall.com/rpg/doku.php?id=gunwave"
+  main_url: "http://brentnewhall.com/games/doku.php?id=gunwave&rev=1307769882"
 connections:
   - has_connection_to_entry: "Brent P Newhall"
 genres:
@@ -18,5 +18,5 @@ genres:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0"
 ---

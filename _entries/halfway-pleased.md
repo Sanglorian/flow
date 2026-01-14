@@ -3,14 +3,14 @@ layout: entry
 title: "Halfway Pleased"
 permalink: /halfway-pleased/
 created_at: 2015-06-03
-updated_at: 2015-10-08
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  main_url: "http://curtsmithofficial.com/music/halfway-pleased/"
+  main_url: "https://freemusicarchive.org/music/Curt_Smith/Halfway_Pleased"
 groupings:
   - grouping: "Music"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
 ---

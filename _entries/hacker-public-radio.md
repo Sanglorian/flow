@@ -3,7 +3,7 @@ layout: entry
 title: "Hacker Public Radio"
 permalink: /hacker-public-radio/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
@@ -17,5 +17,5 @@ types:
   - type: "Audio"
     distribution: "electronic"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
 ---

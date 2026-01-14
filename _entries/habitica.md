@@ -3,13 +3,13 @@ layout: entry
 title: "Habitica"
 permalink: /habitica/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Habitica is an open source habit building program which treats your life like a Role Playing Game. Level up as you succeed, lose HP as you fail, earn money to buy weapons and armor."
-  main_url: "https://habitica.com/"
+  main_url: "https://habitica.com/static/home"
   alias: "HabitRPG"
 connections:
   - has_connection_to_entry: "Liberated Pixel Cup Content"

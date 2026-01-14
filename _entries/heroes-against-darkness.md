@@ -3,7 +3,7 @@ layout: entry
 title: "Heroes Against Darkness"
 permalink: /heroes-against-darkness/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
