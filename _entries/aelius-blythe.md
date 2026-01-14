@@ -10,9 +10,13 @@ entry:
   category_of_entry: "Work"
   short_description: "A fiction author."
   main_url: "https://web.archive.org/web/20140309071314/http://aeliusblythe.com/"
-  main-description: "https://aelius-blythe.freenovelread.com/"
+  Site-archived: 1
 groupings:
   - grouping: "Literature"
 licensing:
   - license: "CC0 1.0 Universal"
+versions:
+  - version_title: "FreeNovelRead host"
+    version_format: "HTML"
+    version_url: "https://aelius-blythe.freenovelread.com/"
 ---

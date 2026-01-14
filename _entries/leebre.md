@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "A book publishing site."
   main_url: "https://web.archive.org/web/20180726113633/http://leebre.org/browse/"
+  Site-archived: 1
   main_description: "Several books have been uploaded under a variety of free and non-free licences."
 groupings:
   - grouping: "Novels"

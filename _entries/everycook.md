@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "'Better food through information.'"
   main_url: "https://web.archive.org/web/20140613032017/http://everycook.org/db/"
-  main-description: "Database: https://github.com/everycook/EveryCook"
+  Site-archived: 1
 groupings:
   - grouping: "Recipes"
   - grouping: "Software"
@@ -18,4 +18,8 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "GPL"
+versions:
+  - version_title: "Database repository"
+    version_format: "SQL"
+    version_url: "https://github.com/everycook/EveryCook"
 ---

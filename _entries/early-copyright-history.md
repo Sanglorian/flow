@@ -13,5 +13,7 @@ entry:
   connected-to-work: "YouTube"
     explanation: "host of"
   genre: "IP Minimalism"
-  main-description: "Source files: https://web.archive.org/web/20150409051032/http://copy-me.org/2014/10/copy-me-webseries-early-copyright-history-episode-3/"
+versions:
+  - version_title: "Source files (archived)"
+    version_url: "https://web.archive.org/web/20150409051032/http://copy-me.org/2014/10/copy-me-webseries-early-copyright-history-episode-3/"
 ---

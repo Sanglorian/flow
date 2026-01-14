@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "A free wargame."
   main_url: "http://web.archive.org/web/20050211090655/http://aegisstudios.net/files/Contagion.pdf"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "d20 System"
 groupings:

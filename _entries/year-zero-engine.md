@@ -9,10 +9,14 @@ contributors:
 entry:
   category_of_entry: "Work"
   main_url: "https://www.frank-mitchell.com/rpg/year-zero-engine-ogl/#"
-  main-description: "A later version was published under an ad hoc Year Zero Engine Free Tabletop License. https://freeleaguepublishing.com/wp-content/uploads/2023/03/YZE-Standard-Reference-Document.pdf"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
     licence_coverage: "entirety"
+versions:
+  - version_title: "Year Zero Engine Free Tabletop License SRD"
+    version_format: "PDF"
+    version_url: "https://freeleaguepublishing.com/wp-content/uploads/2023/03/YZE-Standard-Reference-Document.pdf"
+    explanation: "A later version published under the Year Zero Engine Free Tabletop License."
 ---

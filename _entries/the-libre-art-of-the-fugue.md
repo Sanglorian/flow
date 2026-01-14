@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "A new free recording of Bach's final masterpiece, played by pianist Kimiko Ishizaka. Concerts in the Elbphilharmonie and Carnegie Hall."
   main_url: "https://kimikoishizaka.bandcamp.com/album/j-s-bach-the-art-of-the-fugue-kunst-der-fuge-bwv-1080"
-  main-description: "Also hosted by Open Goldberg on YouTube: https://www.youtube.com/watch?v=pSbQpOtggGk"
 connections:
   - has_connection_to_entry: "Kimiko Ishizaka"
     details_of_connection: "a contributor to"
@@ -31,4 +30,8 @@ funding:
   funding_tool: "Kickstarter"
   funding_type: "ransom"
   explanation: "https://www.kickstarter.com/projects/opengoldberg/libre-art-of-the-fugue/description"
+versions:
+  - version_title: "Open Goldberg YouTube upload"
+    version_format: "YouTube"
+    version_url: "https://www.youtube.com/watch?v=pSbQpOtggGk"
 ---

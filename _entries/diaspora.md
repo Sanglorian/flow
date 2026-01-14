@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "Singularity FATE-based role-playing."
   main_url: "https://web.archive.org/web/20160303213105/http://www.vsca.ca/Diaspora/diaspora-srd.html"
-  main-description: "PDFs: https://rpggeek.com/filepage/54289/diaspora-srd"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "VSCA"
   - has_connection_to_entry: "Fate"
@@ -20,4 +20,8 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
+versions:
+  - version_title: "PDFs"
+    version_format: "PDF"
+    version_url: "https://rpggeek.com/filepage/54289/diaspora-srd"
 ---

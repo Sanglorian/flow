@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "A site to ransom CC0 game assets."
   main_url: "https://web.archive.org/web/20150301021711/http://open.commonly.cc/"
+  Site-archived: 1
   main_description: "[Gamedev Garage Sale](http://garage.commonly.cc/#download)"
 groupings:
   - grouping: "Art"

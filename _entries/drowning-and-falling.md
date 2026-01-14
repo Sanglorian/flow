@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "The Fantasy Role-Playing Game of Adventure and Death from Drowning and Falling"
   main_url: "https://web.archive.org/web/20140817225315/http://www.bullypulpitgames.com/downloads/index.php?cat=5"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "Jason Morningstar"
 genres:

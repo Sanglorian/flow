@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "An artist."
   main_url: "https://web.archive.org/web/20160309142507/http://ramonlucha.com/"
+  Site-archived: 1
 groupings:
   - grouping: "Painting"
     is_or_about_grouping: "is"

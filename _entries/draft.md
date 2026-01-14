@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A generic RPG with rules for magic and hit locations."
   main_url: "https://web.archive.org/web/20150906102106/http://ekkaia.org/rpg/draft/"
+  Site-archived: 1
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "\"Pitch Deck is a game about convincing your friends to invest in the most ridiculous startups imaginable.\""
   main_url: "https://web.archive.org/web/20170220222631/http://pitchdeck.business/"
+  Site-archived: 1
 genres:
   - "Comedy"
 languages:

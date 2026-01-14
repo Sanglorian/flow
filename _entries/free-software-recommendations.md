@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "Windows and Mac FLOSS."
   main_url: "https://web.archive.org/web/20150213131111/https://hampedia.org/wiki/Free_Software_Recommendations"
+  Site-archived: 1
 groupings:
   - grouping: "Software"
----
+---

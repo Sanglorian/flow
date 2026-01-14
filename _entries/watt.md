@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "Watt explores the economic, technology, culture, and health issues facing musicians."
   main_url: "http://web.archive.org/web/20200804015114/https://watt.cashmusic.org/"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "CASH Music"
     details_of_connection: "a contributor to, a host of"

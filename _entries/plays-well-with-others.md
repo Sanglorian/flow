@@ -11,7 +11,6 @@ entry:
   short_description: "\"From Creative Commons, Plays Well with Others is a podcast about the art and science of collaboration.\""
   year_of_publication: 2019
   main_url: "https://creativecommons.org/2019/02/21/plays-well-with-others/"
-  main-description: "Archived site: https://web.archive.org/web/20221205001753/https://playswellwithothers.org/"
 connections:
   - has_connection_to_entry: "Creative Commons"
     details_of_connection: "a contributor to, a host of"
@@ -26,4 +25,8 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"
+versions:
+  - version_title: "Archived site"
+    version_format: "HTML"
+    version_url: "https://web.archive.org/web/20221205001753/https://playswellwithothers.org/"
 ---

@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "A free, universal RPG."
   main_url: "https://web.archive.org/web/20150203103316/http://rpg.ekkaia.org/page/Epitome"
+  Site-archived: 1
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:

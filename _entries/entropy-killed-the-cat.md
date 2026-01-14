@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A movie."
   main_url: "http://entropy.tuxfamily.org/?La-chambre-de-Schrodinger"
-  main-description: "File: https://archive.org/details/wiki-entropytuxfamilyorg_wiki"
 groupings:
   - grouping: "Movie"
     is_or_about_grouping: "is"
@@ -19,4 +18,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
+versions:
+  - version_title: "Internet Archive file"
+    version_url: "https://archive.org/details/wiki-entropytuxfamilyorg_wiki"
 ---

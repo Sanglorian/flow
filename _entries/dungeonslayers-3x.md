@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A fun and rules-lite dungeoncrawl game (editions 3 and 3.5)."
   main_url: "https://www.dungeonslayers.net/"
-  main-description: "Older versions: https://web.archive.org/web/20160310072234/http://www.dungeonslayers.com/"
 connections:
   - has_connection_to_entry: "Dungeonslayers"
 genres:
@@ -24,4 +23,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+versions:
+  - version_title: "Older versions (archived site)"
+    version_url: "https://web.archive.org/web/20160310072234/http://www.dungeonslayers.com/"
 ---

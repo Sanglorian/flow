@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   year_of_publication: 2020
   main_url: "https://web.archive.org/web/20191119012022/https://www.globalreadingnetwork.net/resources/open-licensing-primary-grade-reading-materials-considerations-and-recommendations"
+  Site-archived: 1
   main_description: |-
     This new GRN resource provides:
     

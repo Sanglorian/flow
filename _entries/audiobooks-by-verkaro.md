@@ -10,6 +10,7 @@ entry:
   category_of_entry: Collection
   short_description: "Audiobooks."
   main_url: "https://web.archive.org/web/20131222201134/http://literalsystems.org/abooks/index.php/Main/Listen"
+  Site-archived: 1
 groupings:
   - grouping: "Audiobook"
 licensing:

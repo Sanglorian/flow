@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A diceless horror game that uses a Jenga tower."
   main_url: "http://www.tiltingatwindmills.net/dread/index.html"
-  main-description: "HTML SRD: http://eakett.ca/dread_srd/"
 connections:
   - has_connection_to_entry: "The Impossible Dream"
 genres:
@@ -19,4 +18,8 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 2.5"
+versions:
+  - version_title: "SRD"
+    version_format: "HTML"
+    version_url: "http://eakett.ca/dread_srd/"
 ---

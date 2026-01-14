@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "ccMixter is a site for Creative Commons remixes. You can listen to the music, but also sample and mash-up it."
   main_url: "http://ccmixter.org/"
-  main-description: "On Patreon: https://www.patreon.com/cw/ccMixter"
 languages:
   - language: "English"
     relationship_of_language: "original"
@@ -28,4 +27,8 @@ licensing:
   - license: "Creative Commons Attribution-NoDerivatives"
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
+funding:
+  - funding_tool: "Patreon"
+    funding_type: "sponsored"
+    explanation: "https://www.patreon.com/cw/ccMixter"
 ---

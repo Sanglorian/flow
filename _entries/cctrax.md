@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "A collection of CC albums."
   main_url: "https://web.archive.org/web/20200201132900/http://www.cctrax.com/"
+  Site-archived: 1
   main_description: "It's possible to search by Creative Commons licence, allowing you to select only free and open works."
 genres:
   - "Dub"

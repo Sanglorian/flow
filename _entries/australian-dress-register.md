@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A collaborative, online project about dress in New South Wales pre 1945."
   main_url: "https://web.archive.org/web/20190118162718/http://www.australiandressregister.org/"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "Powerhouse Museum"
 groupings:

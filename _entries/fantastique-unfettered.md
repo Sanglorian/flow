@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "A magazine of short stories."
   main_url: "https://web.archive.org/web/20130721162312/http://fantastique-unfettered.blogspot.com/"
+  Site-archived: 1
   main_description: "Previously at: http://www.fantastique-unfettered.com/"
 connections:
   - has_connection_to_entry: "M-Brane Press"

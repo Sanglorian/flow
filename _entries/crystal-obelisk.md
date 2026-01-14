@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "A collection of resources for medieval study and tabletop gaming."
   main_url: "https://web.archive.org/web/20150219043303/http://www.svincent.com/CrystalObelisk/"
+  Site-archived: 1
 groupings:
   - grouping: "Tabletop Game (RPG)"
   - grouping: "Information"

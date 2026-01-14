@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A Spanish RPG."
   main_url: "https://web.archive.org/web/20100616231730/http://maledictus.com.mx/elreymuerto/"
+  Site-archived: 1
 languages:
   - language: "Spanish"
 groupings:

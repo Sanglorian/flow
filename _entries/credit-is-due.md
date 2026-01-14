@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "A song by Nina Paley about attribution."
   main_url: "https://web.archive.org/web/20110703163312/http://blog.ninapaley.com/2011/06/27/credit-is-due/"
-  main-description: "Internet Archive host: https://archive.org/details/CreditIsDue"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "Nina Paley"
   - has_connection_to_entry: "QuestionCopyright.org"
@@ -20,4 +20,8 @@ groupings:
   - grouping: "Music Video"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
+versions:
+  - version_title: "Internet Archive host"
+    version_format: "FLAC, OGG, MP3"
+    version_url: "https://archive.org/details/CreditIsDue"
 ---

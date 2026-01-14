@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "\"A love letter to one of the greatest folk games of all time.\""
   main_url: "https://web.archive.org/web/20161223003122/http://www.monikersgame.com/"
+  Site-archived: 1
 genres:
   - "Comedy"
 languages:

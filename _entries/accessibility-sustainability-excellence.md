@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "“(R)ecommends a programme of action to enable more people to read and use the publications arising from research.”"
   main_url: "https://web.archive.org/web/20120619050401/http://www.researchinfonet.org/publish/finch/"
+  Site-archived: 1
 genres:
   - "IP Minimalism"
 groupings:

@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "A video-making competition."
   main_url: "https://web.archive.org/web/20150307120229/http://www.engage2012.org/"
+  Site-archived: 1
 types:
   - type: "Video"
     distribution: "electronic"

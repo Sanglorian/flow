@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "'Envisioning Technology is an award-winning tech-trend forecasting studio with people in London, São Paulo and New York.'"
   main_url: "https://web.archive.org/web/20140212032407/http://envisioning.io/"
+  Site-archived: 1
 groupings:
   - grouping: "Information"
 genres:

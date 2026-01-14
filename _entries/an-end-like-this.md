@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A 'best of' for Learning Music Monthly."
   main_url: "https://learningmusicmonthly.com/"
-  main-description: "And on https://freemusicarchive.org/music/Learning_Music/bio"
 connections:
   - has_connection_to_entry: "Vosotros"
   - has_connection_to_entry: "Learning Music Monthly"
@@ -19,4 +18,8 @@ groupings:
   - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+versions:
+  - version_title: "Free Music Archive page"
+    version_format: "MP3"
+    version_url: "https://freemusicarchive.org/music/Learning_Music/bio"
 ---

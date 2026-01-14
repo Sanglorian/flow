@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "Earth has been under siege for 200 years."
   main_url: "https://web.archive.org/web/20150602181358/http://fictioneers.net/games/bugs-venus"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "Lady Blackbird"
 genres:

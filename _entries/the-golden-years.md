@@ -10,6 +10,7 @@ entry:
   category_of_entry: Collection
   short_description: "Public domain comics, gratis to view but difficult to download."
   main_url: "https://web.archive.org/web/20190925202745/http://home.insightbb.com/~GoldenYears/Library.html"
+  Site-archived: 1
 groupings:
   - grouping: "Comics"
 licensing:

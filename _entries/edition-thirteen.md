@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A new take on the 4C System"
   main_url: "https://web.archive.org/web/20110131155622/http://www.technohol.com/custom/core-rules/index-4c.asp"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "FASERIP"
   - has_connection_to_entry: "4C System"

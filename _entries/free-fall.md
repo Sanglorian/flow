@@ -9,6 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   main_url: "https://web.archive.org/web/20140117043900/http://caidalibrefilm.com/"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "Nordic Creative Commons Film Festival"
 languages:
@@ -18,4 +19,4 @@ groupings:
   - grouping: "Video"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Costa Rica)"
----
+---

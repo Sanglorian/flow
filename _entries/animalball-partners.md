@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A website that hosted tabletop games."
   main_url: "http://web.archive.org/web/20120122135739/http://animalball.com/games.html"
+  Site-archived: 1
   main_description: |-
     Locally-hosted:
     - [An adventure](http://fossilbank.wikidot.com/local--files/entry:animalball-partners/Steadfast.pdf)

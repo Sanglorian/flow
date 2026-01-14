@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "Quick and easy d20 role-playing."
   main_url: "https://web.archive.org/web/20090107052800/http://www.superdan.net/dimd20/"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "d20 System"
 groupings:

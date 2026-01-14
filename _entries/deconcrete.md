@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "A blog about the lives of buildings and lives in buildings."
   main_url: "https://web.archive.org/web/20131020065200/http://www.deconcrete.org/"
+  Site-archived: 1
 groupings:
   - grouping: "Blog"
 licensing:

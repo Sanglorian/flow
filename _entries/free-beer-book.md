@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A book about free software and free culture from the speakers at FSCONS 2008."
   main_url: "https://web.archive.org/web/20160304042808/http://freebeer.fscons.org/"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "Free Beer"
     details_of_connection: "inspired by"

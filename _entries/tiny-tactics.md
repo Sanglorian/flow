@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "An open source tile laying game."
   main_url: "https://web.archive.org/web/20170920081549/http://tinytactics.org/"
+  Site-archived: 1
 connections:
   - has_connection_to_entry: "WTactics"
     details_of_connection: "a contributor to, a host of, a source of material for"

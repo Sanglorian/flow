@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "Tell Stories & Play Games with your Tribe"
   main_url: "https://web.archive.org/web/20150407050215/http://www.bhaloidam.com/game-design/bhaloidam/handbook/"
+  Site-archived: 1
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

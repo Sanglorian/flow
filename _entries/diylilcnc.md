@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "Plans for a simple, cheap CNC mill."
   main_url: "https://web.archive.org/web/20160509180254/http://diylilcnc.org/"
+  Site-archived: 1
 groupings:
   - grouping: "Technology"
 licensing:

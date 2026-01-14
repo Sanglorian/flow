@@ -11,7 +11,6 @@ entry:
   short_description: "Awkward is a family-comedy role-playing game for 5 players which purports to be the \"New Wave of Italian Freeform\". Whatever that means."
   year_of_publication: 2017
   main_url: "https://orgasmocerebrale.blogspot.com/2015/04/awkward-released.html"
-  main-description: "PDF and ODT downloads: https://web.archive.org/web/20191221102958/https://sites.google.com/site/sitodirafu/Home/i-miei-giochi/awkward"
 connections:
   - has_connection_to_entry: "Rafu"
     details_of_connection: "a contributor to, author"
@@ -29,4 +28,8 @@ types:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"
+versions:
+  - version_title: "Downloads"
+    version_format: "PDF, ODT"
+    version_url: "https://web.archive.org/web/20191221102958/https://sites.google.com/site/sitodirafu/Home/i-miei-giochi/awkward"
 ---
