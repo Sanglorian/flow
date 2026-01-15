@@ -3,7 +3,7 @@ layout: entry
 title: "Horn Solos"
 permalink: /horn-solos/
 created_at: 2015-08-08
-updated_at: 2015-10-09
+updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:

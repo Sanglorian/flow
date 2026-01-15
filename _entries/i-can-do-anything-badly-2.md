@@ -3,7 +3,7 @@ layout: entry
 title: "I Can Do Anything Badly 2"
 permalink: /i-can-do-anything-badly-2/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:

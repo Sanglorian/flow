@@ -3,7 +3,7 @@ layout: entry
 title: "House of Masks"
 permalink: /house-of-masks/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
@@ -14,5 +14,5 @@ connections:
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

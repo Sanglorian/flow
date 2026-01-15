@@ -3,7 +3,7 @@ layout: entry
 title: "How I Learned To Stop Worrying And Love The Bomb Shelter"
 permalink: /how-i-learned-to-stop-worrying-and-love-the-bomb-shelter/
 created_at: 2015-05-30
-updated_at: 2015-10-06
+updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
