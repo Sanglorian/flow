@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A retroclone of 2E AD&D."
   main_url: "https://www.drivethrurpg.com/en/product/156530/for-gold-glory"
-  main_description: "[An alternative](https://www.lulu.com/shop/justen-brown/for-gold-glory/ebook/product-21236826.html?page=1&pageSize=4)"
+  main_description: "[An alternative](https://www.lulu.com/shop/justen-brown/for-gold-glory/ebook/product-21236826.html?page=1&pageSize=4). [Internet Archive](https://archive.org/details/ForGoldGlory_201410)"
 connections:
   - has_connection_to_entry: "Justen Brown"
   - has_connection_to_entry: "Advanced Dungeons & Dragons"
@@ -23,4 +23,6 @@ genres:
   - "Dungeon"
 licensing:
   - license: "Open Game License"
+  - license: "Creative Commons Attribution-ShareAlike"
+    coverage: "The layout and images."
 ---

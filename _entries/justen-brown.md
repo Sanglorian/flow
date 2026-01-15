@@ -3,13 +3,13 @@ layout: entry
 title: "Justen Brown"
 permalink: /justen-brown/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection, Person"
   short_description: "An author of retroclones."
-  main_url: "http://feysquare.com/"
+  main_url: "https://web.archive.org/web/20121026041815/http://feysquare.com/"
 genres:
   - "Dungeon"
 groupings:

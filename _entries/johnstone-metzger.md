@@ -3,13 +3,13 @@ layout: entry
 title: "Johnstone Metzger"
 permalink: /johnstone-metzger/
 created_at: 2015-05-28
-updated_at: 2015-10-10
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Person, Collection"
   short_description: "A game designer."
-  main_url: "http://redboxvancouver.wordpress.com/"
+  main_url: "https://redboxvancouver.wordpress.com/"
   main_description: "Specifically for Dungeon World"
 connections:
   - has_connection_to_entry: "Patreon"
@@ -21,5 +21,5 @@ licensing:
 funding:
   - funding_tool: "Patreon"
     funding_type: "ransom"
-    explanation: "https://www.patreon.com/johnstone"
+    explanation: "https://www.patreon.com/c/johnstone/home"
 ---

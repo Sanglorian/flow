@@ -3,12 +3,12 @@ layout: entry
 title: "Interstate Medicine"
 permalink: /interstate-medicine/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  main_url: "https://www.jamendo.com/en/list/a3100/interstate-medicine"
+  main_url: "https://archive.org/details/Slim-InterstateMedicine"
 connections:
   - has_connection_to_entry: "Radio Nowhere"
     details_of_connection: "band"
