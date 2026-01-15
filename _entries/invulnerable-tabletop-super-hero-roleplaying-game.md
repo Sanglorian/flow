@@ -3,14 +3,14 @@ layout: entry
 title: "Invulnerable Tabletop Super Hero Roleplaying Game"
 permalink: /invulnerable-tabletop-super-hero-roleplaying-game/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "'The Invulnerable RPG Year One Edition allows you to create your own hero, and experience worlds of adventure!'"
-  main_url: "http://rpg.drivethrustuff.com/product_info.php?products_id=91989&affiliate_id=39414"
-  main_description: "A supplement, [Dauntless](http://rpg.drivethrustuff.com/product/101511/Dauntless----Supplement-for-the-Invulnerable-Super-Hero-RPG&affiliate_id=39414), is also available."
+  main_url: "https://rpggeek.com/rpgitem/73389/invulnerable-tabletop-super-hero-roleplaying-game"
+  main_description: "A later 'Vigilante Edition' is still available, but [haven't checked its license.](https://www.drivethrurpg.com/en/product/128436/invulnerable-super-hero-rpg-vigilante-edition)"
 connections:
   - has_connection_to_entry: "Imperfekt Games"
 genres:

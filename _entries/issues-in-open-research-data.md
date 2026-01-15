@@ -3,7 +3,7 @@ layout: entry
 title: "Issues In Open Research Data"
 permalink: /issues-in-open-research-data/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
