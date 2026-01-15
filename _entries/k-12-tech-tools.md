@@ -7,5 +7,11 @@ updated_at: 2015-09-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: ""
+  category_of_entry: "Work"
+  short_description: ""
+  main_url: "http://edutechdatabase.wikispaces.com/"
+groupings:
+  - grouping: "Education"
+licensing:
+  - license: "Creative Commons Attribution-ShareAlike"
 ---

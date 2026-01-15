@@ -7,5 +7,9 @@ updated_at: 2015-09-21
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: ""
+  category_of_entry: "Work"
+  short_description: "Libre software that relates to culture and content."
+  main_url: "https://docs.google.com/spreadsheet/ccc?key=0Ag_7rVJwt0CpdFRJOEJxdEk4ZEMxQ01jaDgxQXFSTkE#gid=0"
+groupings:
+  - grouping: "Software"
 ---
