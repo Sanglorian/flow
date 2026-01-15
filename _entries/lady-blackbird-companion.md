@@ -1,0 +1,22 @@
+---
+layout: entry
+title: "Lady Blackbird Companion"
+permalink: /lady-blackbird-companion/
+created_at: 2015-05-29
+updated_at: 2015-09-23
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: "A setting and rules companion to Lady Blackbird."
+  main_url: "http://www.scribd.com/doc/49451237/blackbirdcompanion"
+connections:
+  - has_connection_to_entry: "Tim Adamson"
+  - has_connection_to_entry: "Lady Blackbird"
+genres:
+  - "Fantasy"
+groupings:
+  - grouping: "Tabletop Game (Story Game)"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+---

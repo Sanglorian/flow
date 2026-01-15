@@ -1,0 +1,19 @@
+---
+layout: entry
+title: "Leviathans"
+permalink: /leviathans/
+created_at: 2015-05-28
+updated_at: 2015-09-21
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: "Leviathans is a steampunk game that simulates combat between warships that have taken to the air in an alternate history 1910."
+  main_url: "http://forum.rpg.net/showthread.php?485254-Catalyst-Game-Labs-Brings-Creative-Commons-To-Miniatures-Wargaming"
+connections:
+  - has_connection_to_entry: "Catalyst Games"
+groupings:
+  - grouping: "Tabletop Game (Miniatures Game)"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+---
