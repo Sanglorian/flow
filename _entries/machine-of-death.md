@@ -3,12 +3,12 @@ layout: entry
 title: "Machine of Death"
 permalink: /machine-of-death/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  main_url: "http://machineofdeath.net/"
+  main_url: "https://machineofdeath.net/"
 connections:
   - has_connection_to_entry: "Ryan North"
   - has_connection_to_entry: "Matthew Bennardo"

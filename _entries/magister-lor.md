@@ -3,7 +3,7 @@ layout: entry
 title: "Magister Lor"
 permalink: /magister-lor/
 created_at: 2015-05-27
-updated_at: 2015-09-21
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 subtitle: "Tales from the Wild Blue Yonder: Chapter II"

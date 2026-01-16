@@ -1,0 +1,19 @@
+---
+layout: entry
+title: "Minions Inc"
+permalink: /minions-inc/
+created_at: 2015-05-30
+updated_at: 2015-10-06
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: "Play the minion servant of a supervillain."
+  main_url: "http://story-games.com/forums/comments.php?DiscussionID=13326&page=1#Item_13"
+connections:
+  - has_connection_to_entry: "Apocalypse World"
+groupings:
+  - grouping: "Tabletop Roleplaying"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+---

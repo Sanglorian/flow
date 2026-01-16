@@ -3,7 +3,7 @@ layout: entry
 title: "Magnatune"
 permalink: /magnatune/
 created_at: 2015-06-03
-updated_at: 2015-09-21
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
@@ -14,7 +14,5 @@ groupings:
   - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
-    explanation: |-
-      
-                      [http://magnatune.com/info/licensing This page confirms that the works are CC licensed.]
+    explanation: "http://magnatune.com/info/licensing"
 ---

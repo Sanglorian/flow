@@ -3,7 +3,7 @@ layout: entry
 title: "Love Vector Free"
 permalink: /love-vector-free/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
@@ -12,4 +12,7 @@ entry:
   main_url: "http://www.lovevectorfree.com/"
 groupings:
   - grouping: "Vector Art"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial"
+    licence-coverage: "Some."
 ---

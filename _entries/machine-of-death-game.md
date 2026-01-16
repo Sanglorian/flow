@@ -3,13 +3,13 @@ layout: entry
 title: "Machine of Death (game)"
 permalink: /machine-of-death-game/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A game of creative assassination."
-  main_url: "http://machineofdeath.net/#download"
+  main_url: "https://machineofdeath.net/about/games/gca"
 connections:
   - has_connection_to_entry: "Machine of Death (book)"
 groupings:

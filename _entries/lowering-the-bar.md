@@ -3,13 +3,13 @@ layout: entry
 title: "Lowering The Bar"
 permalink: /lowering-the-bar/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Funny tales of the law."
-  main_url: "http://www.loweringthebar.net/"
+  main_url: "https://www.loweringthebar.net/"
 groupings:
   - grouping: "Information (Blog)"
 genres:

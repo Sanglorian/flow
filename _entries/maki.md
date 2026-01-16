@@ -3,13 +3,13 @@ layout: entry
 title: "Maki"
 permalink: /maki/
 created_at: 2015-05-29
-updated_at: 2015-10-11
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
   short_description: "A clean point of interest icon set made especially for cartography."
-  main_url: "http://mapbox.com/maki/"
+  main_url: "https://labs.mapbox.com/maki-icons/"
   main_description: |-
     Each symbol comes in three forms, from least to most detail.
     
