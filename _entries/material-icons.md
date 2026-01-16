@@ -1,0 +1,21 @@
+---
+layout: entry
+title: "Material Icons"
+permalink: /material-icons/
+created_at: 2015-05-28
+updated_at: 2015-09-21
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Collection"
+  short_description: "\"Material design system icons are simple, modern, friendly, and sometimes quirky. Each icon is created using our design guidelines to depict in simple and minimal forms the universal concepts used commonly throughout a UI. Ensuring readability and clarity at both large and small sizes, these icons have been optimized for beautiful display on all common platforms and display resolutions.\""
+  main_url: "http://google.github.io/material-design-icons/"
+connections:
+  - has_connection_to_entry: "Google"
+groupings:
+  - grouping: "Symbols"
+    is_or_about_grouping: "is"
+licensing:
+  - license: "Creative Commons Attribution 4.0"
+    licence_coverage: "entirety"
+---
