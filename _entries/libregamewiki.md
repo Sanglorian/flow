@@ -3,13 +3,13 @@ layout: entry
 title: "Libregamewiki"
 permalink: /libregamewiki/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A wiki of libre electronic games."
-  main_url: "http://libregamewiki.org/Main_Page"
+  main_url: "https://libregamewiki.org/Main_Page"
 groupings:
   - grouping: "Electronic Game"
 licensing:

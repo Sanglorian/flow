@@ -3,7 +3,7 @@ layout: entry
 title: "Legendary Lives"
 permalink: /legendary-lives/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
 ---

@@ -3,10 +3,10 @@ layout: entry
 title: "Kellee Maize"
 permalink: /kellee-maize/
 created_at: 2015-05-28
-updated_at: 2015-09-20
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
-  main_url: "http://kelleemaize.com/"
+  category_of_entry: "Source"
+  main_url: "https://web.archive.org/web/20140205021222/http://kelleemaize.com/about.html"
 ---

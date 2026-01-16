@@ -3,13 +3,13 @@ layout: entry
 title: "Las Calles Hablan"
 permalink: /las-calles-hablan/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A feature length documentary about street art in Barcelona"
-  main_url: "http://onistfilm.wordpress.com/"
+  main_url: "https://onistfilm.wordpress.com/2013/03/23/las-calles-hablan-barcelona-street-art-documentary-release-information/"
 connections:
   - has_connection_to_entry: "Nordic Creative Commons Film Festival"
 genres:

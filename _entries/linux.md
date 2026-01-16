@@ -3,7 +3,7 @@ layout: entry
 title: "Linux"
 permalink: /linux/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:

@@ -3,12 +3,12 @@ layout: entry
 title: "Libre Graphics Research Unit"
 permalink: /libre-graphics-research-unit/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  main_url: "http://lgru.net/"
+  main_url: "https://web.archive.org/web/20181102041722/http://lgru.net/"
 groupings:
   - grouping: "Information"
   - grouping: "Art"

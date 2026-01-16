@@ -3,13 +3,13 @@ layout: entry
 title: "Kassy Key & the Raindogs"
 permalink: /kassy-key-and-the-raindogs/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A band."
-  main_url: "http://www.jamendo.com/en/artist/421279/kassy-key-the-raindoggs"
+  main_url: "https://web.archive.org/web/20130330045626/http://www.jamendo.com/en/artist/421279/kassy-key-the-raindoggs"
 connections:
   - has_connection_to_entry: "Jamendo"
 genres:

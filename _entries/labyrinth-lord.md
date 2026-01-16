@@ -3,13 +3,13 @@ layout: entry
 title: "Labyrinth Lord"
 permalink: /labyrinth-lord/
 created_at: 2015-05-29
-updated_at: 2015-10-06
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A retroclone of Basic/Expert D&D."
-  main_url: "http://www.goblinoidgames.com/labyrinthlord.html"
+  main_url: "https://goblinoidgames.com/"
   main_description: "With the Advanced Edition Companion, *Labyrinth Lord* can also run like 1st edition AD&D."
 connections:
   - has_connection_to_entry: "Goblinoid Games"

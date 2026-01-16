@@ -3,13 +3,13 @@ layout: entry
 title: "Lamentations of the Flame Princess"
 permalink: /lamentations-of-the-flame-princess/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Weird fantasy role-playing."
-  main_url: "http://www.lotfp.com/"
+  main_url: "https://lotfp.substack.com/"
 connections:
   - has_connection_to_entry: "James Edward Raggi IV"
   - has_connection_to_entry: "Basic Dungeons & Dragons"

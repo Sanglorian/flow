@@ -3,7 +3,7 @@ layout: entry
 title: "Keeping on the Borderlands"
 permalink: /keeping-on-the-borderlands/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:

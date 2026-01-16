@@ -3,7 +3,7 @@ layout: entry
 title: "Libre Graphics Magazine"
 permalink: /libre-graphics-magazine/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
@@ -16,5 +16,5 @@ groupings:
   - grouping: "Information"
   - grouping: "Graphic Design"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 3.0"
 ---
