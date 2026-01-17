@@ -3,13 +3,13 @@ layout: entry
 title: "Myth & Magic"
 permalink: /myth-and-magic/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "An adaptation of 2E AD&D."
-  main_url: "http://www.newhavengames.com/?page_id=23"
+  main_url: "https://web.archive.org/web/20120423193122/http://www.newhavengames.com/?page_id=23"
 connections:
   - has_connection_to_entry: "New Haven Games"
   - has_connection_to_entry: "Advanced Dungeons & Dragons"

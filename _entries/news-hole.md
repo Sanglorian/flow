@@ -3,13 +3,13 @@ layout: entry
 title: "News Hole"
 permalink: /news-hole/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A LARP about the death of journalism."
-  main_url: "http://www.bullypulpitgames.com/downloads/index.php?cat=8"
+  main_url: "https://archive.org/details/NewsHole"
 connections:
   - has_connection_to_entry: "Jason Morningstar"
 groupings:
