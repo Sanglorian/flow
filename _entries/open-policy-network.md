@@ -3,13 +3,13 @@ layout: entry
 title: "Open Policy Network"
 permalink: /open-policy-network/
 created_at: 2015-05-28
-updated_at: 2015-09-20
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "''The mission of the Open Policy Network is to foster the creation, adoption and implementation of open policies and practices that advance the public good by supporting open policy advocates, organizations and policy makers, connecting open policy opportunities with assistance, and sharing open policy information.''"
-  main_url: "http://openpolicynetwork.org/"
+  main_url: "https://web.archive.org/web/20150718020336/https://openpolicynetwork.org/"
 connections:
   - has_connection_to_entry: "Creative Commons"
 groupings:

@@ -3,7 +3,7 @@ layout: entry
 title: "Open Music Theory"
 permalink: /open-music-theory/
 created_at: 2015-08-08
-updated_at: 2015-10-07
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
