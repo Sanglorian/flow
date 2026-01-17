@@ -3,13 +3,13 @@ layout: entry
 title: "Night of the Living Dead"
 permalink: /night-of-the-living-dead/
 created_at: 2015-08-01
-updated_at: 2026-01-05
+updated_at: 2015-10-08
 contributors:
-- Sanglorian
+- "Sanglorian"
 entry:
-  featured-entry: yes
-  category_of_entry: Work
+  category_of_entry: "Work"
   alias: "NotLD"
+  thumbnail: "/thumbnails/Night-of-the-Living-Dead-poster.jpeg"
   short_description: "An archetypal zombie film, inadvertently placed into the public domain."
   main_url: "https://archive.org/details/Night_Of_The_Living_Dead_raw_HD_WS"
 genres:

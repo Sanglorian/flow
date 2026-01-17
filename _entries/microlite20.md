@@ -3,13 +3,13 @@ layout: entry
 title: "Microlite20"
 permalink: /microlite20/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A simplified version of the d20 System."
-  main_url: "http://www.koboldenterprise.com"
+  main_url: "https://archive.org/details/microlite20"
   main_description: |-
     [http://livingfree.wikidot.com/microlite20 Many remixes listed here].
     [http://www.systemreferencedocuments.org/resources/systems/pennpaper/microlite20/microlite20.html HTML SRD]

@@ -3,7 +3,7 @@ layout: entry
 title: "Men Of Stones"
 permalink: /men-of-stones/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:

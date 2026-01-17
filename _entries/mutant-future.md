@@ -3,13 +3,13 @@ layout: entry
 title: "Mutant Future"
 permalink: /mutant-future/
 created_at: 2015-05-30
-updated_at: 2015-10-06
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Post-apocalyptic role-playing compatible with Labyrinth Lord."
-  main_url: "http://www.goblinoidgames.com/mutantfuture.html"
+  main_url: "https://goblinoidgames.com/"
 connections:
   - has_connection_to_entry: "Goblinoid Games"
   - has_connection_to_entry: "Basic Dungeons & Dragons"

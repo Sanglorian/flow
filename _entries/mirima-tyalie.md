@@ -3,13 +3,13 @@ layout: entry
 title: "Mirima Tyalie"
 permalink: /mirima-tyalie/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A simple fantasy RPG."
-  main_url: "http://www.mediafire.com/?wuamvmett0f"
+  main_url: "https://www.mediafire.com/?wuamvmett0f"
 genres:
   - "Fantasy"
 groupings:

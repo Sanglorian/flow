@@ -3,7 +3,7 @@ layout: entry
 title: "Milky Way Express"
 permalink: /milky-way-express/
 created_at: 2015-08-05
-updated_at: 2015-10-08
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
