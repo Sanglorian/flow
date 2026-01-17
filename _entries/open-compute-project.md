@@ -3,12 +3,12 @@ layout: entry
 title: "Open Compute Project"
 permalink: /open-compute-project/
 created_at: 2015-06-03
-updated_at: 2015-09-20
+updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  main_url: "http://www.opencompute.org/"
+  main_url: "https://www.opencompute.org/"
 groupings:
   - grouping: "Technology"
 licensing:
