@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "Technology for sustainable, localised, modern living."
-  main_url: "http://opensourceecology.org/"
+  main_url: "https://www.opensourceecology.org/"
 groupings:
   - grouping: "Technology"
     is_or_about_grouping: "is"

@@ -15,4 +15,7 @@ groupings:
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
+    explanation: "Former license: https://web.archive.org/web/20170313191547/https://openstates.org/"
+  - license: "Public domain"
+    explanation: "We make no copyright claim over any of the data we collect & publish. https://open.pluralpolicy.com/tos/"
 ---

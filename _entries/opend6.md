@@ -9,7 +9,8 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "The popular D6 System finally released as open."
-  main_description: "[http://sycarion.com/static/sixsidedf.html Six-Sided Fantasy, an SRD containing only Open Game Content from d6 Fantasy]<br />[http://opend6.wikidot.com/ 3rd party HTML SRD]"
+  main-url: "https://ogc.rpglibrary.org/index.php?title=OpenD6"
+  main_description: "[https://web.archive.org/web/20200201141037/http://sycarion.com/static/sixsidedf.html Six-Sided Fantasy, an SRD containing only Open Game Content from d6 Fantasy]<br />[http://opend6.wikidot.com/ 3rd party HTML SRD]. OpenD6 Project [HTML](https://opend6project.wordpress.com/)"
 connections:
   - has_connection_to_entry: "West End Games"
   - has_connection_to_entry: "d6 System"

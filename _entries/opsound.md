@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "A collection of copyleft songs."
-  main_url: "http://www.opsound.org/index.php"
+  main_url: "https://web.archive.org/web/20120626170126/http://www.opsound.org/index.php"
 groupings:
   - grouping: "Music"
     is_or_about_grouping: "is"

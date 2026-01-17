@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A generic role-playing engine."
-  main_url: "http://www.ludism.org/rpg/osprey.pdf"
+  main_url: "https://www.ludism.org/rpg/osprey.pdf"
 groupings:
   - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"

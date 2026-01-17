@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "The name says it all."
-  main_url: "http://oer.educ.cam.ac.uk/wiki/ORBIT"
+  main_url: "https://oer.opendeved.net/wiki/ORBIT"
 groupings:
   - grouping: "Education"
     is_or_about_grouping: "is"

@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A clone of Transport Tycoon Deluxe."
-  main_url: "http://www.openttd.org/en/"
+  main_url: "https://www.openttd.org/"
 groupings:
   - grouping: "Electronic Game"
     is_or_about_grouping: "is"

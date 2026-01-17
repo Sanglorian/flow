@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Collection
-  main_url: "http://osalt.com/"
+  main_url: "https://osalt.com/"
 groupings:
   - grouping: "Software"
     is_or_about_grouping: "is"

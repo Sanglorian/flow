@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "Recipes for food and cocktails."
-  main_url: "http://www.ibiblio.org/oscookbook/"
+  main_url: "https://web.archive.org/web/20100209111404/http://www.ibiblio.org/oscookbook/"
 groupings:
   - grouping: "Recipes"
     is_or_about_grouping: "is"

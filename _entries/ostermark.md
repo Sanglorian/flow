@@ -3,7 +3,7 @@ layout: entry
 title: "Ostermark"
 permalink: /ostermark/
 created_at: 2015-05-29
-updated_at: 2026-01-11
+updated_at: 2015-01-11
 contributors:
 - "Sanglorian"
 entry:

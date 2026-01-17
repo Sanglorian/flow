@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A retroclone of 1st Edition Dungeons & Dragons."
-  main_url: "http://www.knights-n-knaves.com/"
+  main_url: "https://www.knights-n-knaves.com/"
 connections:
   - has_connection_to_entry: "Knights & Knaves"
   - has_connection_to_entry: "Advanced Dungeons & Dragons"

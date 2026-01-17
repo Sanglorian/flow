@@ -3,7 +3,7 @@ layout: entry
 title: "Fortune Cookies And Nuclear War"
 permalink: /fortune-cookies-and-nuclear-war/
 created_at: 2015-05-29
-updated_at: 2016-01-11
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

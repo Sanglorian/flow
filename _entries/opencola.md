@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A libre recipe for cola so you can make your own."
-  main_url: "http://www.wikihow.com/Make-OpenCola"
+  main_url: "https://en.wikipedia.org/wiki/OpenCola_(drink)"
 groupings:
   - grouping: "Recipes"
     is_or_about_grouping: "is"

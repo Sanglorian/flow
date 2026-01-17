@@ -9,10 +9,12 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A database on corporations."
-  main_url: "http://opencorporates.com/"
+  main_url: "https://opencorporates.com/"
 groupings:
   - grouping: "Data"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Open Database License, Creative Commons Attribution-ShareAlike"
+  - license: "Open Database License"
+    explanation: "https://opencorporates.com/terms-of-use-2/"
+  - license: "Creative Commons Attribution-ShareAlike"
 ---

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Collection
-  main_url: "http://www.soros.org/"
+  main_url: "https://www.opensocietyfoundations.org/"
 groupings:
   - grouping: "Information"
     is_or_about_grouping: "is"

@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "An entire chemistry curriculum."
-  main_url: "http://media.learn.uci.edu/openchem/"
+  main_url: "https://web.archive.org/web/20140216081918/http://media.learn.uci.edu/openchem/"
 connections:
   - has_connection_to_entry: "UC Irvine"
 groupings:

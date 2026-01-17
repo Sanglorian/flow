@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A recipe website."
-  main_url: "http://www.opensourcefood.com/"
+  main_url: "https://web.archive.org/web/20130530234908/http://www.opensourcefood.com/"
 groupings:
   - grouping: "Recipes"
     is_or_about_grouping: "is"

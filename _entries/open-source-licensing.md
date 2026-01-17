@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "'' Software Freedom and Intellectual Property Law''"
-  main_url: "http://www.rosenlaw.com/oslbook.htm"
+  main_url: "https://www.rosenlaw.com/oslbook.htm"
 connections:
   - has_connection_to_entry: "Larry Lessig"
     details_of_connection: "contributor"

@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "\"The free and open global address collection\""
-  main_url: "http://openaddresses.io/"
+  main_url: "https://openaddresses.io/"
 groupings:
   - grouping: "Data"
     is_or_about_grouping: "is"

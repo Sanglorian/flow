@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "''This site tries to gather open-source reimplementations of great old games in one place.''"
-  main_url: "http://osgameclones.com/"
+  main_url: "https://osgameclones.com/"
 groupings:
   - grouping: "Electronic Game"
     is_or_about_grouping: "is"
