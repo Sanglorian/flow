@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **504**
+Total pages missing from Jekyll collections: **463**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (504)
+## Work (463)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Open Resource Bank for Interactive Teaching
-- Open Society Foundations
-- Open Source Alternative
-- Open Source Cookbook
-- Open Source Ecology
-- Open Source Food
-- Open Source Game Clones
-- Open Source Licensing
-- Open Source Seed Initiative
-- Open States
-- Open The Future
-- Open Translation Tools
-- Open4E
-- Openaddresses
-- Openchem
-- Opencola
-- Opencorporates
-- OpenD6
-- Opendemocracy
-- Opendesk
-- Openlibra
-- Openphoto
-- OpenQuest
-- OpenRelativity
-- Opensource.com
-- OpenStax CNX
-- Openstax College
-- Opentechco
-- OpenTest
-- Opentextbookstore
-- OpenTTD
-- Oppia
-- Opsound
-- Oral Literature in Africa
-- ORC
-- Orcus
-- OrganiXperiment
-- Orphan Songs (album)
-- Osprey
-- OSRIC
-- Ostermark
 - OSVehicle
 - Our Digital Future
 - Out for Blood
