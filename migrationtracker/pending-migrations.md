@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **422**
+Total pages missing from Jekyll collections: **381**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (422)
+## Work (381)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Second Year of Our REIGN
-- Secret Santicore 2011
-- Sefaria
-- Seventh
-- Severed Fifth
-- Shackled Self
-- Shadow Hack
-- Shadows
-- Shakespeare 2985
-- Shared Creations
-- Sharing Is Liberty
-- Sharing The Book
-- Shrimp
-- SIL International
-- Simple 20
-- Sintel
-- Sintel The Game
-- Sita Sings the Blues
-- Skeksis cards for Ganakagok
-- SketchChair
-- Sketchfab
-- Skitterphoto
-- Slacking through the Sandbox
-- Sleep Is Death
-- Slime Attack
-- SMAF 17
-- Small Beer Press' Creative Commons page
-- Smartcopying
-- Smarthistory
-- Sneaky Cards
-- So Now You're a Time Traveler
-- So You Want To Be A Librarian
-- Software Freedom Conservancy
-- Solitudes & Silence
-- Somnambulance
-- Sorcerer's Symposium
-- Sorcerers Garden
-- Sound Image
-- Soundcloud
-- Source Code Pro
-- Source Sans Pro
 - Sovereign
 - Spacepirates
 - SpaceX
