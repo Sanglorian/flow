@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **217**
+Total pages missing from Jekyll collections: **52**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (217)
+## Work (52)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Ultramodern4
-- Uncensored Interview
-- Uncharted Worlds
-- Understanding Changes In Poverty
-- Unlikely Treasures 1
-- Unseen Studio
-- Unsplash
-- Unsung Tales
-- Unz.org
-- Valence
-- Valentin Champer's COPYME Editions
-- Vampires, a postmodern roleplaying game
-- Vector 3
-- Venn's Revenge
-- Very Simple Generic Miniatures Rules
-- Vessel.cc
-- Vicious Crucible of the Eburnean Tower
-- Vicious Crucible of Verdigris Valley
-- Vicious Crucible of Villa Argentate
-- Video Game Law
-- videolectures.net
-- Viento Libre
-- Vimeo
-- Violence
-- Voidspanners
-- Volley Zombie
-- Vs Elves
-- Vs. Monsters
-- War Galley
-- Warlord's Wager
-- WaRP
-- Warrior & Wizard
-- Warrior, Rogue & Mage
-- Wayfarers
-- Ways To Practice Responsible Development Data
-- We Magazine
-- Wealth Inequality In America
-- Weapons & Gear
-- Weasels
-- Weird World
-- Wellcome Images
 - What Is a Roleplaying Game
 - What's the Deal with Copyright and 3D Printing
 - Where Are The Joneses
