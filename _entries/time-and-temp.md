@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "Time & Temp is a game of time travel and underemployment for 3 to 5 players."
-  main_url: "http://dig1000holes.wordpress.com/time-temp/"
+  main_url: "https://dig1000holes.wordpress.com/time-temp/"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

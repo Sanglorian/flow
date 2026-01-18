@@ -9,8 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: ""
-  main_url: "http://apolitical.info/teleleli/?p=380"
-  main_description: "Despite the claim in the link, Two-Fisted Tweets is available for free, not for 99 cents."
+  main_url: "https://www.smashwords.com/books/view/43859"
 connections:
   - has_connection_to_entry: "James Hutchings"
 groupings:

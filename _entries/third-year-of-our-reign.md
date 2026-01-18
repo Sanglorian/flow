@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "Three alternative settings for REIGN."
-  main_url: "http://www.lulu.com/shop/greg-stolze/third-year-of-our-reign-pdf/ebook/product-18647772.html;jsessionid=8FB5200AA4B8A0C47C1B058E2067D585"
+  main_url: "https://www.gregstolze.com/downloads.html"
   main_description: "Available as a gratis PDF or a for-charge softcover or hardcover."
 connections:
   - has_connection_to_entry: "Greg Stolze"
@@ -18,5 +18,5 @@ groupings:
   - grouping: "Tabletop Roleplaying"
   - grouping: "RPG Supplement"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0"
 ---

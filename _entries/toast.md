@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A rules-light universal RPG."
-  main_url: "http://www.simplephrase.com/games/toast/toast.html"
+  main_url: "https://web.archive.org/web/20110202094948/http://www.simplephrase.com/games/toast/toast.html"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

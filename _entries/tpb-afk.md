@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A documentary about a court case against The Pirate Bay"
-  main_url: "http://en.wikipedia.org/wiki/TPB_AFK"
+  main_url: "https://en.wikipedia.org/wiki/TPB_AFK"
 groupings:
   - grouping: "Video (Documentary)"
 licensing:

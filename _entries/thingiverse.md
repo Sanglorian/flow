@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "Designs for 3D printers."
-  main_url: "http://www.thingiverse.com/"
+  main_url: "https://www.thingiverse.com/"
 groupings:
   - grouping: "Hardware (Designs)"
 ---

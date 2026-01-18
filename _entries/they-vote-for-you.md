@@ -9,4 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   main_url: "https://theyvoteforyou.org.au/help/licencing"
+licensing:
+  - license: "Open Data Commons Open Database License"
+  - license: "GNU Affero General Public License 3.0"
 ---

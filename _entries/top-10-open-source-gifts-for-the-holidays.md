@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: ""
-  main_url: "http://opensource.com/life/12/11/top-ten-open-source-gifts-holidays"
+  main_url: "https://opensource.com/life/12/11/top-ten-open-source-gifts-holidays"
 connections:
   - has_connection_to_entry: "opensource.com"
 groupings:

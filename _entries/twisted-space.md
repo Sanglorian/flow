@@ -13,6 +13,7 @@ entry:
   main_description: "A supplement for the closed RPG Dungeons & Dragons 4th Edition."
 connections:
   - has_connection_to_entry: "Teapot Dome Games"
+  - has_connection_to_entry: "Dungeons & Dragons 4E"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

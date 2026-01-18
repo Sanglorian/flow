@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A modular, symbols-based RPG."
-  main_url: "http://www.treasurerpg.com/"
+  main_url: "https://web.archive.org/web/20110717093740/http://www.treasurerpg.com/"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

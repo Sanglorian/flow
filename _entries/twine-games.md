@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "Online choose your own adventure games."
-  main_url: "https://docs.google.com/folder/d/0ByPQTbPQJHr6RVkxWUpFY2R5YWs/edit"
+  main_url: "https://web.archive.org/web/20140818092618/https://docs.google.com/folderview?id=0ByPQTbPQJHr6RVkxWUpFY2R5YWs"
 groupings:
   - grouping: "Literature"
 licensing:

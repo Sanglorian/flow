@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A 4E clone."
-  main_url: "http://open4e.wikia.com/wiki/Home"
+  main_url: "https://open4e.fandom.com/wiki/Home"
 connections:
   - has_connection_to_entry: "Dungeons & Dragons 4E"
 groupings:

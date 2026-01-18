@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A rules-light RPG for the noir genre."
-  main_url: "http://sites.google.com/site/stargazersrpgstuff/files-and-documents/noir_bogart31.pdf?attredirects=0"
+  main_url: "https://stargazersworld.com/2009/07/28/noir-is-now-thrilling-noir-stories/"
 groupings:
   - grouping: "Tabletop Roleplaying"
 genres:

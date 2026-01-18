@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A boardgame about a faceoff between radicals and the police."
-  main_url: "http://blackflaggames.org/download/"
+  main_url: "https://web.archive.org/web/20140225074510/http://blackflaggames.org/download/"
 groupings:
   - grouping: "Tabletop Gaming"
 licensing:

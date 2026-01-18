@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: ""
-  main_url: "http://funguloids.sourceforge.net/index.php"
+  main_url: "https://funguloids.sourceforge.io/index.php"
 groupings:
   - grouping: "Electronic Game"
 licensing:

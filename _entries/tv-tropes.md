@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A website about tropes in fiction, mythology and real life."
-  main_url: "http://tvtropes.org/"
+  main_url: "https://tvtropes.org/"
 groupings:
   - grouping: "Information"
 licensing:

@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "This is Not This is Not a Podcast - a sports podcast."
-  main_url: "http://archive.org/details/TINTEpisode1"
+  main_url: "https://archive.org/details/TINTEpisode1"
 connections:
   - has_connection_to_entry: "Doug Whitfield"
 groupings:
