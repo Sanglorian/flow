@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **299**
+Total pages missing from Jekyll collections: **258**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (299)
+## Work (258)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- The Cathedral and the Bazaar
-- The Classic Short Story, 1870-1925: Theory Of A Genre
-- The Collected Writings Of Jeremy Kellerman Volume One
-- The Commons Collages
-- The Conversation
-- The Cookbook
-- The Democracy Of Objects
-- The Devil, John Moulton
-- The Digital Public Domain
-- The Dragonswarm
-- The Dreaming Crucible
-- The Enemy And How I Helped To Fight It
-- The Face of Angels
-- The Far Towers
-- The Fate Codex
-- The Fifth World
-- The First 100 Days Of Government
-- The FLOK Society Project
-- The Foundations For An Open Source City
-- The Free Culture Game
-- The Freesound Project
-- The Game System
-- The Getty
-- The GNU C Programming Tutorial
-- The Great Tournament
-- The Green
-- The Hill Productions
-- The Infinite Voyager
-- The Internet's Own Boy
-- The Lands Of The Dead
-- The Last Challenge
-- The Last Door Season One
-- The Later Blue Tome of Amaxathroth the Cursed
-- The League Of Moveable Type
-- The Liberate Pixil Cup Quest
-- The Libertarian Standard
-- The Libre Labyrinth
-- The Logic of Tales and Dreams
-- The Manual
-- The Modern Path
-- The Most Amazing Online Organizing Guide Ever!
 - The Mustang
 - The New Birthday Song Contest
 - The New Death and Others

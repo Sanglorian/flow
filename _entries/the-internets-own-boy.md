@@ -1,0 +1,21 @@
+---
+layout: entry
+title: "The Internet's Own Boy"
+permalink: /the-internets-own-boy/
+created_at: 2015-05-28
+updated_at: 2015-09-22
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: "A documentary about Aaron Swartz."
+  main_url: "http://boingboing.net/2014/06/19/aaron-swartz-documentary-the.html"
+groupings:
+  - grouping: "Documentary"
+    is_or_about_grouping: "is"
+types:
+  - type: "Video"
+    distribution: "electronic"
+licensing:
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+---
