@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **463**
+Total pages missing from Jekyll collections: **422**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (463)
+## Work (422)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- REIGN Supplement 16
-- Renaissance
-- Repository 66
-- Republic Lost
-- Resolute Adventurer Genius
-- Retrocalypse
-- Return To Maniac Mansion
-- Revolucion
-- Right To Music
-- Right2Remix
-- Ring Of Changes
-- Rivers & Lakes
-- Roadkill
-- Robot Hamlet vs Richard III
-- Rookvale
-- Rosalind Wells Ambassador To Space
-- Runebearer
-- Runequest
-- Ruritania 1844
-- Ryzom Asset Repository
-- Ryzom Core
-- Sacred Steel
-- Safecast
-- Saga
-- Saga Machine
-- Sage
-- Sanglorian's Dungeon World Stuff
-- Sarrenor
-- Saylor
-- Scarlet Heroes Art Pack
-- Schematic
-- School Daze
-- School of Open
-- Science Comics
-- Science Fiction Mystery
-- Scienceimage
-- SCIRES-IT
-- SCP Foundation
-- Scrabblenauts
-- Season Of Gratitude
-- Second String Superheroes
 - Second Year of Our REIGN
 - Secret Santicore 2011
 - Sefaria
