@@ -3,18 +3,24 @@ layout: entry
 title: "The Tube Open Movie Project"
 permalink: /the-tube-open-movie-project/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A movie, still in production."
-  main_url: "http://vimeo.com/70363616"
+  main_url: "https://wiresforempathy.org/"
+  main_description: "Formerly called 'The Tube Open Movie Project'."
 groupings:
   - grouping: "Movie"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 4.0"
+    license-coverage: "Images"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
+    explanation: "The final product, when it is released."
+  - license: "GNU General Public License"
+    explanation: "The final product, when it is released."
 funding:
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/1331941187/the-tube-open-movie?ref=6gv0om"

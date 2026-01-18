@@ -3,13 +3,13 @@ layout: entry
 title: "Theonosis"
 permalink: /theonosis/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A crowdsourced fantasy setting."
-  main_url: "http://theonosis.com/wiki/Main_Page"
+  main_url: "https://web.archive.org/web/20180422110950/http://theonosis.com/wiki/Main_Page"
 groupings:
   - grouping: "Tabletop Game (RPG), Setting"
 licensing:

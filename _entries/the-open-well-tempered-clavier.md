@@ -3,7 +3,7 @@ layout: entry
 title: "The Open Well-Tempered Clavier"
 permalink: /the-open-well-tempered-clavier/
 created_at: 2015-08-08
-updated_at: 2015-10-11
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

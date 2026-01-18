@@ -3,13 +3,13 @@ layout: entry
 title: "The Power Of Open"
 permalink: /the-power-of-open/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A book from Creative Commons about how those licences have been used in various projects."
-  main_url: "http://thepowerofopen.org/"
+  main_url: "https://thepowerofopen.org/"
 connections:
   - has_connection_to_entry: "Creative Commons"
 groupings:
@@ -17,5 +17,5 @@ groupings:
 genres:
   - "IP Minimalism"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0"
 ---

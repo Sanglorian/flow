@@ -10,6 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "The Fortune System Resource Document includes the basic rules of the Fortune System. It also includes advice from existing Fortune System designers."
   main_url: "https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/"
+  site_archived: 1
 groupings:
   - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"

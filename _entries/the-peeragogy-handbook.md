@@ -3,12 +3,12 @@ layout: entry
 title: "The Peeragogy Handbook"
 permalink: /the-peeragogy-handbook/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  main_url: "http://peeragogy.org/"
+  main_url: "https://peeragogy.org/"
 groupings:
   - grouping: "Information"
 licensing:

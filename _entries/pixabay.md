@@ -10,6 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "\"Find and share outstanding images\""
   main_url: "https://web.archive.org/web/20181130204307/https://pixabay.com/"
+  site_archived: 1
 groupings:
   - grouping: "Photography"
 licensing:

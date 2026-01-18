@@ -36,6 +36,7 @@ Entries live in `_entries/*.md` and are Markdown files with YAML front matter be
 
 - `short_description` (string): brief summary.
 - `main_url` (string): primary URL.
+- `site_archived` (integer or string): `1` if the `main_url` points to a Wayback Machine page.
 - `main_description` (string or block scalar): longer description; often contains links.
 - `featured-entry` (boolean or string): flag marking a featured entry; commonly `yes`.
 - `subtitle` (string): short secondary title.

@@ -3,7 +3,7 @@ layout: entry
 title: "The Psychology Of Emotions Feelings And Thoughts"
 permalink: /the-psychology-of-emotions-feelings-and-thoughts/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

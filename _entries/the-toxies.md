@@ -3,7 +3,7 @@ layout: entry
 title: "The Toxies"
 permalink: /the-toxies/
 created_at: 2015-05-29
-updated_at: 2015-09-20
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

@@ -3,13 +3,13 @@ layout: entry
 title: "The Ware Tetralogy"
 permalink: /the-ware-tetralogy/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Sci-fi about human-cyborg relations."
-  main_url: "http://www.rudyrucker.com/wares/"
+  main_url: "https://www.rudyrucker.com/wares/"
 groupings:
   - grouping: "Literature"
 genres:
