@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A blog about copyright reform."
-  main_url: "http://sharingisliberty.wordpress.com/"
+  main_url: "https://sharingisliberty.wordpress.com/"
 groupings:
   - grouping: "Information"
 genres:

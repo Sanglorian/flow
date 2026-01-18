@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "Read to live. Live to read."
-  main_url: "http://smallbeerpress.com/creative-commons/"
+  main_url: "https://smallbeerpress.com/creative-commons/"
   main_description: "Also produces all rights reserved books."
 groupings:
   - grouping: "Literature"

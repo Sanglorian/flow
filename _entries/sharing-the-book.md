@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
-  main_url: "http://www.sharing-thebook.com/"
+  main_url: "https://www.sharing-thebook.com/"
 groupings:
   - grouping: "Information"
 genres:

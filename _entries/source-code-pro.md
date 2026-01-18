@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A monospaced typeface from Adobe."
-  main_url: "http://blogs.adobe.com/typblography/2012/09/source-code-pro.html"
+  main_url: "https://en.wikipedia.org/wiki/Source_Code_Pro"
 connections:
   - has_connection_to_entry: "Adobe"
 groupings:

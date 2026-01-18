@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
-  main_url: "http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html"
+  main_url: "https://en.wikipedia.org/wiki/Source_Sans_3"
 connections:
   - has_connection_to_entry: "Adobe"
 groupings:

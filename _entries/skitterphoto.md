@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "High resolution public domain photos."
-  main_url: "http://skitterphoto.com/"
+  main_url: "https://skitterphoto.com/"
 groupings:
   - grouping: "Photography"
 licensing:

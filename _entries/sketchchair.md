@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "Software allowing you to design and build your own wooden furniture."
-  main_url: "http://www.sketchchair.cc/"
+  main_url: "https://www.sketchchair.cc/"
 connections:
   - has_connection_to_entry: "Diatom Studio"
 groupings:

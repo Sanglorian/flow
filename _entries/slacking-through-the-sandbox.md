@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "How to put together a slacker's sandbox."
-  main_url: "http://stirgessuck.wordpress.com/2011/01/21/slacking-through-the-sandbox/"
+  main_url: "https://stirgessuck.wordpress.com/2011/01/21/slacking-through-the-sandbox/"
   main_description: "Targetted at Dungeons & Dragons but usable for any game."
 connections:
   - has_connection_to_entry: "Roger Carbol"

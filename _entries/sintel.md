@@ -9,11 +9,11 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A brief fantasy film about a girl's love for her dragon."
-  main_url: "http://www.sintel.org/"
+  main_url: "https://durian.blender.org/"
   main_description: |-
     According to the film's producer, 'sintel' is the Dutch word for a 'piece of glowing coal or metal. It glows brightly, burns, and then becomes ashes.
     
-    [Gallery of concept art](http://www.sintel.org/gallery/)
+    [Gallery of concept art](https://durian.blender.org/gallery/)
 connections:
   - has_connection_to_entry: "Blender Foundation"
 groupings:

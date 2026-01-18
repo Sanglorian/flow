@@ -9,11 +9,11 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A novel set in the Theonosis setting."
-  main_url: "http://theonosis.com/wiki/Solitudes_and_Silence"
+  main_url: "https://ia802902.us.archive.org/12/items/solitudes-and-silence/solitudes-and-silence.pdf"
   main_description: |-
-    Available [gratis in PDF, TXT, RTF, EPUB and more, for charge for the Kindle and for charge for a hardcopy](http://theonosis.com/wiki/Solitudes_and_Silence) (link broken, but available via the Wayback Machine [here](http://web.archive.org/web/20120218211347/http://www.theonosis.com/wiki/Solitudes_and_Silence)).
+    Available [gratis in PDF, TXT, RTF, EPUB and more, for charge for the Kindle and for charge for a hardcopy] via the Wayback Machine [here](http://web.archive.org/web/20120218211347/http://www.theonosis.com/wiki/Solitudes_and_Silence)).
     
-    [Also still available on Smashwords](http://www.smashwords.com/books/view/75576).
+    [Also still available on Smashwords](https://www.smashwords.com/books/view/75576).
     
     Set in the [Theonosis](/theonosis/) setting.
     

@@ -9,8 +9,8 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A music site."
-  main_url: "http://soundcloud.com/"
-  main_description: "Most songs are ARR, but there is an option to search for [Creative Commons licensed](http://soundcloud.com/creativecommons) works. You can also search only for [free culture works](http://soundcloud.com/tracks/search?q[cc_licensed]=true&q[fulltext]=&q[commercial]=true&q[derivative]=true)."
+  main_url: "https://soundcloud.com/discover"
+  main_description: "Most songs are ARR, but there is an option to search for [Creative Commons licensed](https://soundcloud.com/search/sounds?filter.license=to_share) works. You can also search only for [free culture works](https://soundcloud.com/search/sounds?filter.license=to_modify_commercially)."
 groupings:
   - grouping: "Music"
 ---

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
-  main_url: "http://www.gregstolze.com/downloads.html"
+  main_url: "https://www.gregstolze.com/downloads.html"
   main_description: "Available in PDF and EPUB."
 connections:
   - has_connection_to_entry: "Greg Stolze"

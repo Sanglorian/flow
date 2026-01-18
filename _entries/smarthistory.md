@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "*Smarthistory at Khan Academy is the leading open educational resource for art history. *"
-  main_url: "http://smarthistory.khanacademy.org/about-smarthistory.html?q=about-smarthistory.html"
+  main_url: "https://smarthistory.org/"
 connections:
   - has_connection_to_entry: "Khan Academy"
 groupings:

@@ -17,5 +17,5 @@ groupings:
 genres:
   - "Science Fiction"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

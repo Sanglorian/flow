@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "*The Official Guide to Copyright Issues for Australian Schools and TAFE*"
-  main_url: "http://www.smartcopying.edu.au/"
+  main_url: "https://smartcopying.edu.au/"
 connections:
   - has_connection_to_entry: "Australian Government"
 groupings:

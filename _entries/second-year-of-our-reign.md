@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "Supplements 7 to 12 for REIGN."
-  main_url: "http://gregstolze.com/downloads.html"
+  main_url: "https://gregstolze.com/downloads.html"
   main_description: "REIGN is all rights reserved."
 connections:
   - has_connection_to_entry: "Greg Stolze"

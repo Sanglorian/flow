@@ -9,8 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A game designed for the Liberated Pixel Cup."
-  main_url: "http://opengameart.org/content/slime-attack"
-  main_description: "a [Play it without downloading](http://k3rnel.net/slime_attack/) (hosted by K3rnel)"
+  main_url: "https://opengameart.org/content/slime-attack"
 connections:
   - has_connection_to_entry: "Liberated Pixel Cup Content"
 groupings:

@@ -3,7 +3,7 @@ layout: entry
 title: "Sorcerer's Symposium"
 permalink: /sorcerers-symposium/
 created_at: 2015-05-30
-updated_at: 2026-01-18
+updated_at: 2015-01-18
 contributors:
 - "Sanglorian"
 entry:

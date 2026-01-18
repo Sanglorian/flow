@@ -9,9 +9,9 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "Children accompanied by their formidable Shadows."
-  main_url: "http://www.harlekin-maus.com/games/shadows/shadows.html"
+  main_url: "https://web.archive.org/web/20111108203341/http://www.harlekin-maus.com/games/shadows/shadows.html"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 2.5"
 ---

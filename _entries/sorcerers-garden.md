@@ -9,8 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A simple HTML5 game made for the Liberated Pixel Cup."
-  main_url: "http://opengameart.org/content/sorcerers-garden"
-  main_description: "a [Play it without downloading](http://sanojian.github.com/lpc_sorc_garden/game.html)"
+  main_url: "https://opengameart.org/content/sorcerers-garden"
 connections:
   - has_connection_to_entry: "Liberated Pixel Cup Content"
 groupings:

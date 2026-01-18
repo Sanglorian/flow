@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

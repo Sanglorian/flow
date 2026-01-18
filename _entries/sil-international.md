@@ -9,8 +9,8 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "An organisation which supports language communities"
-  main_url: "http://scripts.sil.org/"
-  main_description: "[Download the SIL fonts here](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&cat_id=FontDownloads)"
+  main_url: "https://www.sil.org/"
+  main_description: "[Download the SIL fonts here](https://scripts.sil.org/cms/scripts/page.php?id=fontdownloads&site_id=nrsi)"
 groupings:
   - grouping: "Font"
 licensing:

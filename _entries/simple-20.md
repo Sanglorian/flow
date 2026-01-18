@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A simple d20-based RPG."
-  main_url: "http://miscellaneousdebris.sitesled.com/games.html"
+  main_url: "https://web.archive.org/web/20070917013231/http://miscellaneousdebris.sitesled.com/games.html"
 connections:
   - has_connection_to_entry: "James D Hargrove"
   - has_connection_to_entry: "d20 System"

@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "A mashup of Old School Hack and Shadowrun."
-  main_url: "http://story-games.com/forums/comments.php?DiscussionID=16599&page=1#Item_0"
+  main_url: "https://sentientgames.wordpress.com/2012/05/31/shadow-hack/"
   main_description: "[Old School Hack](/old-school-hack/)"
 connections:
   - has_connection_to_entry: "Redbox Hack"
