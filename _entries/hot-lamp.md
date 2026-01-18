@@ -14,7 +14,7 @@ entry:
 connections:
   - has_connection_to_entry: "Jason Morningstar"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

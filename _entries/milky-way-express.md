@@ -17,7 +17,7 @@ entry:
 genres:
   - "Science Fiction"
 groupings:
-  - grouping: "Board Game"
+  - grouping: "Boardgame"
     is_or_about_grouping: "is"
 languages:
   - language: "English"

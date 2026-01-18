@@ -15,7 +15,7 @@ connections:
 genres:
   - "IP Minimalism"
 groupings:
-  - grouping: "Video"
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution"
 ---

@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "LibreOffice"
     details_of_connection: "supplemented by"
 groupings:
-  - grouping: "Reference Books"
+  - grouping: "Instructions"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"

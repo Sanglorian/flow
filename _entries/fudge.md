@@ -16,7 +16,7 @@ connections:
   - has_connection_to_entry: "Steffan O'Sullivan"
   - has_connection_to_entry: "Fate"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
     explanation: "Also published under its own licence."
@@ -32,4 +32,4 @@ versions:
   - version_title: "In other formats"
     version_price: 0
     version_url: "http://www.panix.com/~sos/fudge.html#download"
----
+---

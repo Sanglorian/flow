@@ -38,7 +38,7 @@ languages:
   - language: "Chinese"
   - language: "Japanese"
 groupings:
-  - grouping: "Information (Blogs)"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution 3.0"
 ---

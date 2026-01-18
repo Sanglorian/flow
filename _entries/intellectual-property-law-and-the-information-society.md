@@ -15,7 +15,7 @@ connections:
 genres:
   - "IP Minimalism"
 groupings:
-  - grouping: "Information (Textbook)"
+  - grouping: "Education"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
 ---

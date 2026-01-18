@@ -12,5 +12,5 @@ entry:
 connections:
   - has_connection_to_entry: "Open Knowledge Foundation"
 groupings:
-  - grouping: "Licences"
+  - grouping: "Information"
 ---

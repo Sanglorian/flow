@@ -12,7 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20120312072843/http://homepages.ihug.co.nz/~devisser/"
   Site-archived: 1
 groupings:
-  - grouping: "Tabletop Game (Card Game)"
+  - grouping: "Card Game"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 3.0 (NZ)"

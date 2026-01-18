@@ -17,7 +17,7 @@ genres:
   - "Fantasy"
   - "Humour"
 groupings:
-  - grouping: "Story Game"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
 ---

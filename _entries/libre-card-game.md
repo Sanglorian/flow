@@ -13,7 +13,7 @@ entry:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Tabletop Game (Card Game)"
+  - grouping: "Card Game"
 licensing:
   - license: "Creative Commons Attribution"
 ---

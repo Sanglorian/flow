@@ -11,7 +11,7 @@ entry:
   short_description: "\"Free silhouette images of animals, plants, and other life forms, available for reuse under a Public Domain or Creative Commons license.\""
   main_url: "https://www.phylopic.org/"
 groupings:
-  - grouping: "Art (Silhouettes)"
+  - grouping: "Symbols"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     licence_coverage: "part"

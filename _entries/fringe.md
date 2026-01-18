@@ -11,7 +11,7 @@ entry:
   short_description: "A half-finished RPG designed by committee."
   main_url: "https://app.box.com/s/v38ckzapbj"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "GNU General Public License"
----
+---

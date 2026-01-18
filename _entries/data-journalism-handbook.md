@@ -18,7 +18,7 @@ languages:
   - language: "Spanish"
   - language: "Russian"
 groupings:
-  - grouping: "Information (Data)"
+  - grouping: "Data"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 versions:

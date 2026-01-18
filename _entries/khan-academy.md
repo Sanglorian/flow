@@ -11,8 +11,7 @@ entry:
   short_description: "Lessons and tests so you can teach yourself."
   main_url: "https://www.khanacademy.org/about/docs/khan-academy-terms-of-service"
 groupings:
-  - grouping: "Video"
-  - grouping: "Information (OER)"
+  - grouping: "Education"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
 ---

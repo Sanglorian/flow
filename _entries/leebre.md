@@ -13,7 +13,7 @@ entry:
   Site-archived: 1
   main_description: "Several books have been uploaded under a variety of free and non-free licences."
 groupings:
-  - grouping: "Novels"
+  - grouping: "Novel"
     is_or_about_grouping: "is"
   - grouping: "Short Stories"
     is_or_about_grouping: "is"

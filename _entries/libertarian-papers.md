@@ -13,7 +13,7 @@ entry:
 genres:
   - "Libertarianism"
 groupings:
-  - grouping: "Information (Journal)"
+  - grouping: "Journal"
 licensing:
   - license: "Creative Commons Attribution"
 ---

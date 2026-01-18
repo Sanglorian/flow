@@ -23,7 +23,7 @@ languages:
   - language: "French"
     relationship_of_language: "official translation"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

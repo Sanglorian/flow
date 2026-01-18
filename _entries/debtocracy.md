@@ -20,7 +20,7 @@ languages:
   - language: "Bulgarian"
   - language: "Croatian"
 groupings:
-  - grouping: "Video"
+  - grouping: "Documentary"
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

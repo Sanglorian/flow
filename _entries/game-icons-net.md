@@ -13,7 +13,7 @@ entry:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Art (Vector Art)"
+  - grouping: "Vector Art"
 licensing:
   - license: "Creative Commons Attribution"
----
+---

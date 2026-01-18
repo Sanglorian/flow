@@ -22,7 +22,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Novels"
+  - grouping: "Novel"
     is_or_about_grouping: "is"
 types:
   - type: "Book"

@@ -13,7 +13,7 @@ entry:
 languages:
   - language: "Spanish"
 groupings:
-  - grouping: "Video (Documentary)"
+  - grouping: "Documentary"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

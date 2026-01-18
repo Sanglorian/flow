@@ -12,7 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20100819171812/http://blog.retroroleplaying.com/2010/05/free-fast-rpg-re-released-under.html"
   Site-archived: 1
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
 versions:

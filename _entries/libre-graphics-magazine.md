@@ -14,7 +14,6 @@ genres:
 groupings:
   - grouping: "Art"
   - grouping: "Information"
-  - grouping: "Graphic Design"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
 ---

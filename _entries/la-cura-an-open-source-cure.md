@@ -11,7 +11,7 @@ entry:
   short_description: "A brain cancer. Some very personal Open Data. An opportunity."
   main_url: "https://web.archive.org/web/20130120000347/http://www.artisopensource.net/cure/"
 groupings:
-  - grouping: "Information (Data)"
+  - grouping: "Data"
 licensing:
   - license: "Creative Commons Attribution"
 ---

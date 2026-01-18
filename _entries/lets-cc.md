@@ -13,7 +13,7 @@ entry:
 languages:
   - language: "Korean"
 groupings:
-  - grouping: "Information (Search Engine)"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution"
   - license: "GNU General Public License 3.0"

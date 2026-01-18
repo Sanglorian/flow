@@ -14,7 +14,7 @@ genres:
   - "Electronica"
 groupings:
   - grouping: "Music"
-  - grouping: "Video (Music Video)"
+  - grouping: "Music Video"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
 ---

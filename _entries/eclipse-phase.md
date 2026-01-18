@@ -24,7 +24,7 @@ languages:
 genres:
   - "Science Fiction"
 groupings:
-  - grouping: "Tabletop Game (Role-Playing Game)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
     explanation: "https://eclipsephase.com/cclicense/"

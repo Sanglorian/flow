@@ -14,7 +14,7 @@ entry:
 genres:
   - "Pirate"
 groupings:
-  - grouping: "Tabletop Game (Card Game)"
+  - grouping: "Card Game"
   - grouping: "Art"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

@@ -12,7 +12,7 @@ entry:
   main_url: "https://critical-hits.com/"
 groupings:
   - grouping: "Information"
-  - grouping: "Tabletop Game"
+  - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
     explanation: "All articles and comments posted posted on the site (but not the products for sale) are licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. References to trademarks and copywritten material are included for review and commentary use only and are not intended as any kind of challenge."

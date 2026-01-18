@@ -19,7 +19,7 @@ connections:
   - has_connection_to_entry: "Evil Hat Productions"
   - has_connection_to_entry: "Fate"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "Only the text of Fate Core is so licensed. See [http://www.faterpg.com/licensing/licensing-fate-cc-by Licensing Fate (CC BY)] and [http://www.faterpg.com/licensing/licensing-fate-ogl/ Licensing Fate (OGL)] for more details."

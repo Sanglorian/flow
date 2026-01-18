@@ -11,7 +11,7 @@ entry:
   short_description: "Funny tales of the law."
   main_url: "https://www.loweringthebar.net/"
 groupings:
-  - grouping: "Information (Blog)"
+  - grouping: "Information"
 genres:
   - "Law"
 licensing:

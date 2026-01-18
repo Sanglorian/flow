@@ -13,9 +13,9 @@ entry:
 connections:
   - has_connection_to_entry: "Daniel Solis"
 groupings:
-  - grouping: "Tabletop Game (Resource)"
+  - grouping: "Tabletop Gaming"
     is.about: "About"
-  - grouping: "Information (Diagram)"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution"
 ---

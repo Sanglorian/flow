@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Hanna Skold"
 groupings:
-  - grouping: "Video (Film)"
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

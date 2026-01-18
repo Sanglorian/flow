@@ -11,7 +11,7 @@ entry:
   short_description: "A board game played on two different boards."
   main_url: "https://www.scribd.com/document/61899332/Hunters-and-Haunts-An-Ancient-Classic-Board-Game"
 groupings:
-  - grouping: "Tabletop Game (Boardgame)"
+  - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

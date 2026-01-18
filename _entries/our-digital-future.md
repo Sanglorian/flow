@@ -11,7 +11,7 @@ entry:
   short_description: "\"Internet users from across the globe have come together to create a crowdsourced vision for free expression online.\""
   main_url: "https://web.archive.org/web/20150117021402/https://openmedia.org/DigitalFuture"
 groupings:
-  - grouping: "Report"
+  - grouping: "Information"
     is_or_about_grouping: "is"
 genres:
   - genre: "IP Minimalism"

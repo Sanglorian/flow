@@ -13,7 +13,7 @@ entry:
   main_description: |-
     [Gratis PDF](https://www.drivethrurpg.com/en/product/100105/critical-creative-commons?products_id=100105)
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

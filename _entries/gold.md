@@ -14,7 +14,7 @@ entry:
 connections:
   - has_connection_to_entry: "PUNISHER77"
 groupings:
-  - grouping: "TV Series"
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (US)"
 ---

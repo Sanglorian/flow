@@ -19,7 +19,7 @@ languages:
   - language: "English"
   - language: "Spanish"
 groupings:
-  - grouping: "Video"
+  - grouping: "Documentary"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

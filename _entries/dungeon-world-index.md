@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
   - Sanglorian
 entry:
-  grouping: "Tabletop RPG"
+  grouping: "Tabletop Roleplaying"
 ---
 
 ## Other indexes

@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   main_url: "https://farmsubsidy.org/"
 groupings:
-  - grouping: "Information (Data)"
+  - grouping: "Data"
 licensing:
   - license: "Open Database License"
 ---

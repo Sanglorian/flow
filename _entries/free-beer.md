@@ -11,7 +11,7 @@ entry:
   short_description: "A libre recipe for beer."
   main_url: "https://freebeer.org/blog/"
 groupings:
-  - grouping: "Recipe"
+  - grouping: "Recipes"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 2.5"

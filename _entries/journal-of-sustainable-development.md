@@ -11,7 +11,7 @@ entry:
   short_description: "A transdisciplinary international journal published monthly."
   main_url: "https://www.ccsenet.org/journal/index.php/jsd/index"
 groupings:
-  - grouping: "Information (Journal)"
+  - grouping: "Journal"
 licensing:
   - license: "Creative Commons Attribution"
 ---

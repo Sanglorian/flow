@@ -11,7 +11,7 @@ entry:
   short_description: "Scientific and medical knowledge shared with the world."
   main_url: "https://plos.org/"
 groupings:
-  - grouping: "Information (Journals)"
+  - grouping: "Journal"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "Unless otherwise mentioned."

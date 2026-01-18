@@ -15,6 +15,6 @@ languages:
   - language: "French"
 groupings:
   - grouping: "Music"
-  - grouping: "Video"
+  - grouping: "Film"
   - grouping: "Art"
 ---

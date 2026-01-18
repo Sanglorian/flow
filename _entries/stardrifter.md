@@ -15,7 +15,7 @@ entry:
     Better take a deep breath!
   main_url: "https://davidcollinsrivera.com/"
   groupings:
-    - grouping: "Tabletop RPG"
+    - grouping: "Tabletop Roleplaying"
       is_or_about_grouping: "is"
     - grouping: "Audiobook"
       is_or_about_grouping: "is"

@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Catalyst Games"
 groupings:
-  - grouping: "Tabletop Game (Miniatures Game)"
+  - grouping: "Miniatures Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

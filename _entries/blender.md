@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Blender Foundation"
 groupings:
-  - grouping: "Software (3D Graphics)"
+  - grouping: "Software"
 licensing:
   - license: "GNU General Public License"
 ---

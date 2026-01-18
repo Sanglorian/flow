@@ -11,7 +11,7 @@ entry:
   short_description: "An RPG in a post-human world."
   main_url: "https://www.drivethrurpg.com/en/product/106842/engine-heart"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 genres:
   - genre: "Science Fiction"
 licensing:

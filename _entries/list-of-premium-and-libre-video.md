@@ -20,6 +20,4 @@ languages:
 groupings:
   - grouping: "Film"
     is_or_about_grouping: "is"
-  - grouping: "TV Series"
-    is_or_about_grouping: "is"
 ---

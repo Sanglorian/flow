@@ -14,8 +14,8 @@ entry:
 connections:
   - has_connection_to_entry: "Domino Writing"
 groupings:
-  - grouping: "Tabletop Game (Boardgame)"
-  - grouping: "Tabletop Game (Miniatures Game)"
+  - grouping: "Boardgame"
+  - grouping: "Miniatures Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

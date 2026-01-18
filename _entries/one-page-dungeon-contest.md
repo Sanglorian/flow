@@ -11,8 +11,7 @@ entry:
   short_description: "One-page dungeons, part of an annual contest."
   main_url: "https://www.dungeoncontest.com/"
 groupings:
-  - grouping: "Tabletop Game (RPG"
-  - grouping: "Resource)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     explanation: "https://www.dungeoncontest.com/submission-rules"

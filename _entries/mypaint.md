@@ -11,7 +11,7 @@ entry:
   short_description: "A simple graphics program."
   main_url: "https://www.mypaint.app/en/"
 groupings:
-  - grouping: "Software (Graphic Design)"
+  - grouping: "Graphic Design Software"
 licensing:
   - license: "GNU General Public License"
 ---

@@ -13,8 +13,8 @@ entry:
   Site-archived: 1
 groupings:
   - grouping: "Tabletop Roleplaying"
-  - grouping: "Miniatures Games"
-  - grouping: "Boardgames"
+  - grouping: "Miniatures Game"
+  - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

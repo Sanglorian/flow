@@ -11,7 +11,7 @@ entry:
   short_description: "External designs of Honda's cars."
   main_url: "https://web.archive.org/web/20140210063032/http://www.honda-3d.com/"
 groupings:
-  - grouping: "Art (3D Art)"
+  - grouping: "3D Art"
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"

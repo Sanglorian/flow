@@ -11,7 +11,7 @@ entry:
   short_description: "A movie."
   main_url: "http://entropy.tuxfamily.org/?La-chambre-de-Schrodinger"
 groupings:
-  - grouping: "Movie"
+  - grouping: "Film"
     is_or_about_grouping: "is"
 types:
   - type: "Video"

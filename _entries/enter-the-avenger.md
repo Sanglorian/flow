@@ -21,7 +21,7 @@ connections:
     details_of_connection: "contributor"
     explanation: "Created the unofficial EPUB"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 genres:
   - genre: "Fantasy"
 licensing:

@@ -11,7 +11,7 @@ entry:
   short_description: "A three-way game of shifting alliances."
   main_url: "https://glyphpress.com/talk/2011/kodrek-rules-version-1-0"
 groupings:
-  - grouping: "Tabletop Game (Boardgame)"
+  - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

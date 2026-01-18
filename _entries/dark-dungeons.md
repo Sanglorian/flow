@@ -25,7 +25,7 @@ connections:
 genres:
   - "Dungeon"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
   - grouping: "Clone"
 licensing:
   - license: "Open Game License"

@@ -17,7 +17,7 @@ connections:
   - has_connection_to_entry: "Basic Fantasy Role-Playing Game"
     details_of_connection: "based on"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
   - grouping: "Clone"
 licensing:
   - license: "Open Game License"

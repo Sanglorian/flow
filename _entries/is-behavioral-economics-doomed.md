@@ -13,7 +13,7 @@ connections:
   - has_connection_to_entry: "David K Levine"
   - has_connection_to_entry: "Open Book Publishers"
 groupings:
-  - grouping: "Information (Book)"
+  - grouping: "Nonfiction"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
 ---

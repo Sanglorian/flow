@@ -12,9 +12,9 @@ entry:
   main_url: "http://www.kenney.nl/assets"
   main_description: "Also hosted on Open Game Art. https://opengameart.org/users/kenney"
 groupings:
-  - grouping: "3D Assets"
+  - grouping: "3D Art"
     is_or_about_grouping: "is"
-  - grouping: "2D Art"
+  - grouping: "Art"
     is_or_about_grouping: "is"
   - grouping: "Pixel Art"
     is_or_about_grouping: "is"

@@ -11,8 +11,8 @@ entry:
   short_description: "An RPG publisher."
   main_url: "https://genesisoflegend.com/about/"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
     explanation: "[http://www.genesisoflegend.com/about/code-of-conduct/ Code of conduct] talks about open source and Creative Commons."
----
+---

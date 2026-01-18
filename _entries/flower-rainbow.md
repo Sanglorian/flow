@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "Jason Morningstar"
   - has_connection_to_entry: "1KM1KT"
 groupings:
-  - grouping: "Tabletop Game (Story Game)"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
 genres:
   - "Fantasy"

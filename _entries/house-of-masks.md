@@ -12,7 +12,7 @@ entry:
 connections:
   - has_connection_to_entry: "Teapot Dome Games"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

@@ -12,7 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20150203103316/http://rpg.ekkaia.org/page/Epitome"
   Site-archived: 1
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "OpenContent License"
 ---

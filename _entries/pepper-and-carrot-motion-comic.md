@@ -26,7 +26,7 @@ languages:
 groupings:
   - grouping: "Film"
     is_or_about_grouping: "is"
-  - grouping: "Motion Comic"
+  - grouping: "Comics"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"

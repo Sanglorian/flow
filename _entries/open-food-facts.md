@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   main_url: "https://world.openfoodfacts.org/"
 groupings:
-  - grouping: "Information (Database)"
+  - grouping: "Data"
 licensing:
   - license: "ODBL"
   - license: "Creative Commons Attribution-ShareAlike"

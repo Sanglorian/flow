@@ -11,7 +11,7 @@ entry:
   short_description: "A tabletop RPG set in modern times."
   main_url: https://www.drivethrurpg.com/en/product/134520/d6pool-modern-roleplaying"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
 ---

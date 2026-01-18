@@ -11,8 +11,8 @@ entry:
   short_description: "A creator of games you can print and play."
   main_url: "https://www.interactivitiesink.com/"
 groupings:
-  - grouping: "Boardgames"
-  - grouping: "Card Games"
+  - grouping: "Boardgame"
+  - grouping: "Card Game"
   - grouping: "LARP"
 licensing:
   - license: "Creative Commons Attribution"

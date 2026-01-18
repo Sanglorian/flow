@@ -18,10 +18,10 @@ connections:
   - has_connection_to_entry: "Daniel Solis"
     nature_of_connection: "a contributor to"
 groupings:
-  - grouping: "Tabletop Game"
+  - grouping: "Tabletop Gaming"
   - grouping: "Vector Art"
   - grouping: "Raster Art"
-  - grouping: "T-Shirt Designs"
+  - grouping: "Art"
   - grouping: "Font"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"

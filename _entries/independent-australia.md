@@ -12,7 +12,7 @@ entry:
   main_url: "http://www.independentaustralia.net/"
   main_description: "Couldn't find a site-wide licence, but at least some articles are under CC BY-NC-ND."
 groupings:
-  - grouping: "Information (News)"
+  - grouping: "News"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
     explanation: "https://independentaustralia.net/about-ia"

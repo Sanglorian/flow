@@ -16,7 +16,7 @@ languages:
   - language: "English"
   - language: "Spanish"
 groupings:
-  - grouping: "Video"
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Costa Rica)"
 ---

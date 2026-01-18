@@ -11,7 +11,7 @@ entry:
   short_description: "A generic rules-light RPG."
   main_url: "https://web.archive.org/web/20110307034240/http://www.chaosphere.com/genesys/downloads.html"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 3.0 (US)"
----
+---

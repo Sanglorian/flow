@@ -19,7 +19,7 @@ languages:
 groupings:
   - grouping: "Podcasting"
     is_or_about_grouping: "is"
-  - grouping: "Blog"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"

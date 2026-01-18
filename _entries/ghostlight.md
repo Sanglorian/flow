@@ -11,7 +11,7 @@ entry:
   short_description: "Play a ghost who interacts with the world through emotion."
   main_url: "https://www.wyrmis.com/rpgs/ghostlight.html"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
 ---

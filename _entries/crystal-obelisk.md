@@ -12,7 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20150219043303/http://www.svincent.com/CrystalObelisk/"
   Site-archived: 1
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
   - grouping: "Information"
 licensing:
   - license: "Open Game License"

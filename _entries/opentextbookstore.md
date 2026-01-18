@@ -13,6 +13,4 @@ entry:
 groupings:
   - grouping: "Education"
     is_or_about_grouping: "is"
-  - grouping: "Textbooks"
-    is_or_about_grouping: "is"
 ---

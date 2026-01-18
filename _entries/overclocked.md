@@ -14,7 +14,7 @@ entry:
 connections:
   - has_connection_to_entry: "Cory Doctorow"
 groupings:
-  - grouping: "Literature (Short Stories"
+  - grouping: "Short Stories"
   - grouping: "Audiobook"
 genres:
   - genre: "Science Fiction"

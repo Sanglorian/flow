@@ -12,7 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20131020065200/http://www.deconcrete.org/"
   Site-archived: 1
 groupings:
-  - grouping: "Blog"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

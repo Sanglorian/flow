@@ -11,7 +11,7 @@ entry:
   short_description: "\"d0x3d! is a cooperative game, for 2-4 players. Players assume the role of hackers, infiltrating a network.\""
   main_url: "https://boardgamegeek.com/boardgame/134274/d0x3d"
 groupings:
-  - grouping: "Tabletop Game"
+  - grouping: "Tabletop Gaming"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"

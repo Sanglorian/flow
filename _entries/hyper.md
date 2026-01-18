@@ -11,7 +11,7 @@ entry:
   short_description: "A modular gaming system."
   main_url: "https://web.archive.org/web/20191023093930/http://ynam.tripod.com/hyper/index.html"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "GNU General Public License"
 ---

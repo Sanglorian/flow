@@ -14,7 +14,7 @@ entry:
 connections:
   - has_connection_to_entry: "Greg Stolze"
 groupings:
-  - grouping: "Literature (Short Story)"
+  - grouping: "Short Stories"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

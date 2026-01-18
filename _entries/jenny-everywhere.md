@@ -16,7 +16,7 @@ connections:
 genres:
   - "Superhero"
 groupings:
-  - grouping: "Literature (Character)"
+  - grouping: "Literature"
 licensing:
   - license: "Jenny Everywhere Declaration"
 ---

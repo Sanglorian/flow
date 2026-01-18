@@ -15,7 +15,7 @@ connections:
 languages:
   - language: "Italian"
 groupings:
-  - grouping: "Information (Data)"
+  - grouping: "Data"
 licensing:
   - license: "Creative Commons Attribution"
 ---

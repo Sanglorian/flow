@@ -14,7 +14,7 @@ entry:
 connections:
   - has_connection_to_entry: "Nordic Creative Commons Film Festival"
 groupings:
-  - grouping: "Video"
+  - grouping: "Documentary"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

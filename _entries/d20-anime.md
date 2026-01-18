@@ -16,7 +16,7 @@ connections:
 genres:
   - "Anime"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
 versions:

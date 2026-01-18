@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "R Hunter Gough"
   - has_connection_to_entry: "Fate"
 groupings:
-  - grouping: "Tabletop Roleplaying Game"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
 ---

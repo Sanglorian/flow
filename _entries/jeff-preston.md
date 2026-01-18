@@ -12,7 +12,7 @@ entry:
   main_url: "https://www.drivethrurpg.com/en/product/91360/108-Terrible-Character-Portraits"
   main_description: "Broken link: aterribleidea.com/ccworks/"
 groupings:
-  - grouping: "Art (Raster)"
+  - grouping: "Raster Art"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

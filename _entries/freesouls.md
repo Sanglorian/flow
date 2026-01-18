@@ -18,7 +18,7 @@ genres:
   - "IP Minimalism"
 groupings:
   - grouping: "Information"
-  - grouping: "Art (Photos)"
+  - grouping: "Photography"
 licensing:
   - license: "Creative Commons Attribution 4.0"
----
+---

@@ -60,7 +60,7 @@ entry:
 connections:
   - has_connection_to_entry: "Creative Commons"
 groupings:
-  - grouping: "Video (Films)"
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution"
 ---

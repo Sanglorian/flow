@@ -11,7 +11,7 @@ entry:
   short_description: "\"Character-driven science-fiction series about the first settlers on the Moon\""
   main_url: "https://lunatics.tv/"
 groupings:
-  - grouping: "TV Series"
+  - grouping: "Film"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"

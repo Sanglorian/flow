@@ -16,7 +16,7 @@ connections:
   - has_connection_to_entry: "Jason Morningstar"
     explanation: "based on works by"
 groupings:
-  - grouping: "Tabletop Game (Solitaire)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

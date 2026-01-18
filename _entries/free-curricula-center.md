@@ -12,7 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20130115114201/http://www.freecurricula.org/"
   Site-archived: 1
 groupings:
-  - grouping: "Information (OER)"
+  - grouping: "Education"
     is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"

@@ -12,7 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/"
   Site-archived: 1
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"

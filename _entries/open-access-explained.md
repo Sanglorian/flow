@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   main_url: "https://phdcomics.com/comics/archive.php?comicid=1533"
 groupings:
-  - grouping: "Video"
+  - grouping: "Comics"
 genres:
   - "IP Minimalism"
 licensing:

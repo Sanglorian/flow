@@ -14,7 +14,7 @@ entry:
 connections:
   - has_connection_to_entry: "Dungeon World"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 genres:
   - genre: "Dungeon"
 licensing:

@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Greg Christopher"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 genres:
   - genre: "Fantasy"
 licensing:

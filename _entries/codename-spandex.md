@@ -16,7 +16,7 @@ connections:
 genres:
   - "Superhero"
 groupings:
-  - grouping: "Tabletop Roleplaying Game"
+  - grouping: "Tabletop Roleplaying"
   - grouping: "Clone"
 licensing:
   - license: "Public domain"

@@ -11,5 +11,5 @@ entry:
   short_description: "A third-party site that allows you to CC license your Instagram photos."
   main_url: "https://web.archive.org/web/20150215024750/http://i-am-cc.org/"
 groupings:
-  - grouping: "Art (Photos)"
+  - grouping: "Photography"
 ---

@@ -19,7 +19,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "3D Assets"
+  - grouping: "3D Art"
     is_or_about_grouping: "is"
 types:
   - type: "Code"

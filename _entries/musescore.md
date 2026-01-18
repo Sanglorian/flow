@@ -11,7 +11,7 @@ entry:
   short_description: "Hosts the sources of the Open Goldberg Variations edition"
   main_url: "http://musescore.com/opengoldberg/goldberg-variations"
 groupings:
-  - grouping: "Music (Sheet Music)"
+  - grouping: "Music"
 licensing:
   - license: "CC0"
 ---

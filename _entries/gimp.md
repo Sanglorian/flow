@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "GIMP Development Team"
 groupings:
-  - grouping: "Software (Graphic Design)"
+  - grouping: "Graphic Design Software"
 licensing:
   - license: "GNU General Public License"
----
+---

@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "Domino Writing"
   - has_connection_to_entry: "Bad Attitudes"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
 ---

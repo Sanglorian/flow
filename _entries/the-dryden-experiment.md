@@ -16,7 +16,9 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Worldbuilding"
+  - grouping: "Literature"
+    is_or_about_grouping: "is"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"

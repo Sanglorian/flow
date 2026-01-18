@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "HG Wells"
   - has_connection_to_entry: "Project Gutenberg"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"
   - grouping: "Miniatures Game"
     is_or_about_grouping: "is"

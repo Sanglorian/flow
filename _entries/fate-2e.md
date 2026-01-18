@@ -20,7 +20,7 @@ connections:
   - has_connection_to_entry: "Evil Hat Productions"
   - has_connection_to_entry: "Fate"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
 ---

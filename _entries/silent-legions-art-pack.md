@@ -19,7 +19,7 @@ connections:
 genres:
   - "Horror"
 groupings:
-  - grouping: "Illustrations"
+  - grouping: "Art"
     is_or_about_grouping: "is"
   - grouping: "Painting"
     is_or_about_grouping: "is"

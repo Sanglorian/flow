@@ -13,7 +13,7 @@ entry:
 languages:
   - language: "English"
 groupings:
-  - grouping: "Open Educational Resource"
+  - grouping: "Education"
     is_or_about_grouping: "is"
 types:
   - type: "Webpage"
