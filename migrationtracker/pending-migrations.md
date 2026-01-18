@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **381**
+Total pages missing from Jekyll collections: **340**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (381)
+## Work (340)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Sovereign
-- Spacepirates
-- SpaceX
-- Spellchrome
-- Spellcraft & Swordplay
-- Spirit of the Century
-- Spite
-- Spoppy
-- SpringerOpen
-- Square 1
-- SRD5
-- Stamtar
-- Stanford Engineering Everywhere
-- Star Blades
-- Star Empire
-- Star Quest
-- Star Wreck RPG
-- Stargazers World
-- Starguide
-- Start Programming With Python
-- State Library Of Queensland
-- Steampunkfitters
-- Stephen Kinsella
-- Stick's Adventure
-- Stories System
-- Storn R Cook's Art for Swipin'
-- Story Games Names Project
-- Storyleaves
-- Streetfilms
-- Strolen's Citadel
-- Stuck in Customs
-- Subaqueous
-- Sufficiently Advanced Technologies
-- Sunspot
-- Super Hero Fun
-- Super Repo
-- Superliga
-- Superpower Wiki
-- Supertux
-- Surlalune
-- Sweet20
 - Swords & Wizardry
 - Synergy
 - Syria Deeply
