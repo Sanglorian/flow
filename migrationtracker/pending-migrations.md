@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **258**
+Total pages missing from Jekyll collections: **217**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (258)
+## Work (217)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- They Say The Sirens Left The Seas
-- They Vote For You
-- Thingiverse
-- Third Year of Our REIGN
-- Those Funny Funguloids!
-- Thou Shalt Not Commit Logical Fallacies
-- Threshold Tragic Superheroes
-- Thrilling Noir Stories
-- Time & Temp
-- Tings
-- Tint
-- Tiny Triangles
-- To the Barricades
-- Toast
-- Top 10 Open Source Gifts For The Holidays
-- Tor
-- Torch & Sword
-- Torus One
-- Toybox Wars
-- TPB AFK
-- Traficantes de Sueños
-- Training.gov.au
-- Transontology
-- Traveller
-- Treasure
-- Tri-Fold Fate
-- Triangle Wiki
-- TRIC SRD
-- Trolling Effects
-- True20
-- TV Tropes
-- Twemoji
-- Twenty One Turn Hero
-- Twine Games
-- Twisted Space
-- Two Things She Does With Her Body
-- Two-Fisted Tweets
-- Two-Page Space
-- Ubunchu
-- Ubuntu Free Culture Showcase
-- Ubuntu List Of Open Source Programs
 - Ultramodern4
 - Uncensored Interview
 - Uncharted Worlds
