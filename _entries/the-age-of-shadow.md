@@ -3,7 +3,7 @@ layout: entry
 title: "The Age of Shadow"
 permalink: /the-age-of-shadow/
 created_at: 2015-05-29
-updated_at: 2015-09-24
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

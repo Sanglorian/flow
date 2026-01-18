@@ -3,13 +3,13 @@ layout: entry
 title: "The Adventures of Boris Munchausen"
 permalink: /the-adventures-of-boris-munchausen/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A movie animated by 12-15 year olds."
-  main_url: "http://munchausenproject.wordpress.com/"
+  main_url: "https://munchausenproject.wordpress.com/"
   main_description: |-
     "The Adventures of Boris Munchausen is an animated short created by the group of Russian kids under direction of open-source animation activist Konstantin Dmitriev.
     

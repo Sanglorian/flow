@@ -3,14 +3,14 @@ layout: entry
 title: "Tejid@s Junt@s"
 permalink: /tejid-s-junt-s/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "'(A) fun and active documentary film exploring the relationship and shared story of Workers and Students in the anti-sweatshop movement.'"
-  main_url: "http://tejidxs.tumblr.com/"
-  main_description: "[http://vodo.net/tejidxs Older site]"
+  main_url: "https://commons.wikimedia.org/wiki/File:TejidXs_JuntXs.ogv"
+  main_description: "[https://web.archive.org/web/20140818093532/http://vodo.net/tejidxs Older site]"
 groupings:
   - grouping: "Video (Documentary)"
 licensing:

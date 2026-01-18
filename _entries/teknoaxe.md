@@ -3,7 +3,7 @@ layout: entry
 title: "TeknoAXE"
 permalink: /teknoaxe/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
@@ -13,9 +13,9 @@ entry:
 groupings:
   - grouping: "Music"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 4.0"
 funding:
   - funding_tool: "Patreon"
     funding_type: "ransom"
-    explanation: "http://www.patreon.com/teknoaxe"
+    explanation: "https://www.patreon.com/cw/teknoaxe"
 ---

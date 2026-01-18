@@ -3,14 +3,14 @@ layout: entry
 title: "Tears of Steel"
 permalink: /tears-of-steel/
 created_at: 2015-05-29
-updated_at: 2015-09-22
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "The results of the Blender Foundation's Mango Project: a sci-fi romance."
-  main_url: "http://mango.blender.org/production/tears-of-steel-download-watch/"
-  main_description: "[http://mango.blender.org/gallery/ Tears of Steel gallery]<br /><br />[http://mango.blender.org/production/4-tb-original-4k-footage-available-as-cc-by/ Original 4k footage]"
+  main_url: "https://mango.blender.org/production/tears-of-steel-download-watch/"
+  main_description: "[https://mango.blender.org/gallery/ Tears of Steel gallery]<br /><br />[https://mango.blender.org/production/4-tb-original-4k-footage-available-as-cc-by/ Original 4k footage]"
 connections:
   - has_connection_to_entry: "Blender Foundation"
 groupings:

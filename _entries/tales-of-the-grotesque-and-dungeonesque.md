@@ -3,13 +3,13 @@ layout: entry
 title: "Tales of the Grotesque and Dungeonesque"
 permalink: /tales-of-the-grotesque-and-dungeonesque/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Horror role-playing resource."
-  main_url: "http://talesofthegrotesqueanddungeonesque.blogspot.com/2012/04/release-compendium.html"
+  main_url: "https://www.scribd.com/document/136173660/Tales-of-the-Grotesque-and-Dungeonesqe-Compendium-i"
 connections:
   - has_connection_to_entry: "Basic Dungeons & Dragons"
     details_of_connection: "resource for"
