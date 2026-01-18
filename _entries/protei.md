@@ -1,0 +1,15 @@
+---
+layout: entry
+title: "Protei"
+permalink: /protei/
+created_at: 2015-05-29
+updated_at: 2026-01-18
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: Work
+  short_description: "Open hardware to clean up oil spills."
+  main_url: "https://web.archive.org/web/20150315025307/https://sites.google.com/a/opensailing.net/protei/"
+groupings:
+  - grouping: "Technology"
+---
