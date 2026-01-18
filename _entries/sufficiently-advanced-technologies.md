@@ -17,5 +17,5 @@ genres:
 groupings:
   - grouping: "LARP"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0"
 ---

@@ -1,55 +1,14 @@
 # Pages Still to Migrate from MediaWiki
 
-Total pages missing from Jekyll collections: **340**
+Total pages missing from Jekyll collections: **299**
 
 Redirect pages are excluded from this list; see `aliases.md` for redirect mappings.
 
 Grouped by the first template used in each wiki page. Titles are sorted alphabetically within each template.
 
-## Work (340)
+## Work (299)
 > Likely becomes an `_entries` record with `entry.category_of_entry: Work`. Watch for embedded templates such as `Link to Work`, `Of Grouping`, and `Is Licensed` that need to map to structured fields and connection lists. Missing thumbnails or URLs are common pitfalls.
 
-- Swords & Wizardry
-- Synergy
-- Syria Deeply
-- Tagesschrift
-- Take Back Toe
-- Take on Establishments
-- Take on Magic Items
-- Tale Of Navri
-- Tales of the Grotesque and Dungeonesque
-- Talislanta
-- Tannenberg 4
-- Tceope
-- Tea Party
-- Teaching Copyright
-- Tears of Steel
-- Tech Noir
-- Techdirt
-- Tejid@s Junt@s
-- TeknoAXE
-- Telecanter
-- Teleleli
-- Telgrathia
-- Ten Thousand Worlds
-- Terms of Service; Didn't Read
-- Terror of the Serpent Men
-- Test 1
-- Test without a License
-- Tex For The Impatient
-- The 52 Pages
-- The Accessible Icon Project
-- The Adventures of Boris Munchausen
-- The Age of Shadow
-- The Art Of Community
-- The Beggar's Opera
-- The Beggar's Opera RPG
-- The Best Copyright-Free Photo Libraries
-- The Big Brown Book
-- The Camera Collection
-- The Carnival Of Dreams
-- The Case For Copyright Reform
-- The Castle Doctrine
 - The Cathedral and the Bazaar
 - The Classic Short Story, 1870-1925: Theory Of A Genre
 - The Collected Writings Of Jeremy Kellerman Volume One

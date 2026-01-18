@@ -3,13 +3,13 @@ layout: entry
 title: "Stick's Adventure"
 permalink: /sticks-adventure/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "New Brothers Whim picturebook."
-  main_url: "http://brotherswhim.com/sticks-adventure-free-childrens-book"
+  main_url: "https://web.archive.org/web/20140815022417/http://brotherswhim.com/sticks-adventure-free-childrens-book"
   main_description: |-
     "Cute little Stick sets off on a grand adventure pursuing big dreams and exciting goals. Along the way, she learns that life’s sweetest moments happen along the way. It’s not the destination, but the journey that makes the adventure wonderful.
     

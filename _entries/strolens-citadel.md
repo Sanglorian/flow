@@ -3,13 +3,14 @@ layout: entry
 title: "Strolen's Citadel"
 permalink: /strolens-citadel/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Collection
   short_description: "[A]n interactive, searchable role playing resource"
-  main_url: "http://strolen.com/"
+  main_url: "https://web.archive.org/web/20240301065028/http://strolen.com/"
+  main-description: "Older archive may have more: https://web.archive.org/web/20190916004607/http://strolen.com/"
 groupings:
   - grouping: "Tabletop Gaming"
   - grouping: "Literature"

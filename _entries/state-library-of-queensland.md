@@ -3,12 +3,12 @@ layout: entry
 title: "State Library Of Queensland"
 permalink: /state-library-of-queensland/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Collection, Organisation
-  main_url: "http://www.slq.qld.gov.au/home"
+  main_url: "https://www.slq.qld.gov.au/"
 groupings:
   - grouping: "Data"
     is_or_about_grouping: "is"
@@ -17,9 +17,9 @@ groupings:
   - grouping: "Photographs"
     is_or_about_grouping: "is"
 licensing:
-  - license: "Creative Commons Attribution 3.0 (Australia)"
+  - license: "Creative Commons Attribution 4.0"
     licence_coverage: "text only"
-    explanation: "http://www.slq.qld.gov.au/home/copyright"
+    explanation: "https://www.slq.qld.gov.au/understanding-copyright"
   - license: "Public domain"
     licence_coverage: "part"
     explanation: "most of the photos"

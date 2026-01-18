@@ -3,13 +3,13 @@ layout: entry
 title: "Stargazers World"
 permalink: /stargazers-world/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "A role-playing blog."
-  main_url: "http://www.stargazersworld.com/"
+  main_url: "https://stargazersworld.com/"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

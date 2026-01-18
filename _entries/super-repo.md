@@ -3,7 +3,7 @@ layout: entry
 title: "Super Repo"
 permalink: /super-repo/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution 3.0 (US)"
 ---
