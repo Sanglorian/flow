@@ -6,6 +6,7 @@ created_at: 2017-04-09T09:54:45Z
 updated_at: 2017-04-09T09:58:41Z
 contributors:
   - Sanglorian
+nav_exclude: true
 ---
 <h1>Rookvale</h1>
 <p>The Demons are Evolving</p>

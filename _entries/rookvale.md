@@ -24,7 +24,7 @@ versions:
   - version_title: "Rookvale HTML"
     version_format: "HTML"
     version_price: 0
-    version_url: "http://faow.referata.com/wiki/Rookvale_HTML"
+    version_url: "/rookvale-html/"
     explanation: "A backup created when the original files could not be found."
   - version_title: "Rookvale Printer-Friendly Cards"
     version_format: "PDF"
