@@ -3,13 +3,13 @@ layout: entry
 title: "Rookvale"
 permalink: /rookvale/
 created_at: 2015-05-28
-updated_at: 2017-04-09
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "''Rookvale is a [tabletop] game of cinematic tactical combat [with demons]''"
-  main_url: "http://buriedwithoutceremony.com/rookvale/"
+  main_url: "https://web.archive.org/web/20140120104608/http://buriedwithoutceremony.com/rookvale/"
 connections:
   - has_connection_to_entry: "Buried without Ceremony"
   - has_connection_to_entry: "Anima Prime"

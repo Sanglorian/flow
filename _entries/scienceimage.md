@@ -3,12 +3,12 @@ layout: entry
 title: "Scienceimage"
 permalink: /scienceimage/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
-  main_url: "http://www.scienceimage.csiro.au/"
+  main_url: "https://www.csiro.au/en/news/All/News/2023/July/ScienceImage-Online"
 connections:
   - has_connection_to_entry: "CSIRO"
 groupings:
