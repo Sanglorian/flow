@@ -3,13 +3,13 @@ layout: entry
 title: "The Green"
 permalink: /the-green/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A Donjon supplement by Valent Games."
-  main_url: "http://www.rpgnow.com/product_info.php?products_id=56873"
+  main_url: "https://www.drivethrurpg.com/en/product/56873/the-green?products_id=56873"
 connections:
   - has_connection_to_entry: "Valent Games"
   - has_connection_to_entry: "Donjon"

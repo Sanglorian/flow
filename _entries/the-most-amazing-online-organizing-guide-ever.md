@@ -3,13 +3,13 @@ layout: entry
 title: "The Most Amazing Online Organizing Guide Ever!"
 permalink: /the-most-amazing-online-organizing-guide-ever/
 created_at: 2015-08-08
-updated_at: 2015-10-09
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "\"[A] new FREE guide designed to help environmental and social change activists kick butt and break through on social media.\""
-  main_url: "http://greenmemesteam.tumblr.com/guide/"
+  main_url: "https://greenmemesteam.tumblr.com/guide/"
 groupings:
   - grouping: "Activism"
     is_or_about_grouping: "about"

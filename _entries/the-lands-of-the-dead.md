@@ -3,7 +3,7 @@ layout: entry
 title: "The Lands Of The Dead"
 permalink: /the-lands-of-the-dead/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
@@ -17,5 +17,5 @@ groupings:
 genres:
   - genre: "Dungeon"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
 ---

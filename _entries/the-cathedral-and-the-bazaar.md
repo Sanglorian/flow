@@ -3,7 +3,7 @@ layout: entry
 title: "The Cathedral and the Bazaar"
 permalink: /the-cathedral-and-the-bazaar/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

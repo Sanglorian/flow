@@ -3,14 +3,13 @@ layout: entry
 title: "The Liberate Pixil Cup Quest"
 permalink: /the-liberate-pixil-cup-quest/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A game where you fight monsters."
-  main_url: "http://opengameart.org/content/the-liberate-pixil-cup-quest"
-  main_description: "[http://tiniglob.com/games/the-liberate-pixil-cup-quest.html Play it without downloading]"
+  main_url: "https://opengameart.org/content/the-liberate-pixil-cup-quest"
 connections:
   - has_connection_to_entry: "Liberated Pixel Cup Content"
 groupings:

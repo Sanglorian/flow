@@ -3,7 +3,7 @@ layout: entry
 title: "The Foundations For An Open Source City"
 permalink: /the-foundations-for-an-open-source-city/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
@@ -15,5 +15,5 @@ groupings:
 genres:
   - genre: "IP Minimalism"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
 ---

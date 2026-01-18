@@ -3,7 +3,7 @@ layout: entry
 title: "The Democracy Of Objects"
 permalink: /the-democracy-of-objects/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

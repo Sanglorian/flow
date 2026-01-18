@@ -3,13 +3,13 @@ layout: entry
 title: "The Enemy And How I Helped To Fight It"
 permalink: /the-enemy-and-how-i-helped-to-fight-it/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A political satire about the situation that used to prevail in the Israeli-Lebanese boder."
-  main_url: "http://www.shlomifish.org/"
+  main_url: "https://web.archive.org/web/20151120112805/http://www.shlomifish.org/humour/TheEnemy/"
   main_description: |-
     
     <
@@ -21,5 +21,6 @@ genres:
   - genre: "Humour"
   - genre: "Politics"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 2.5"
+    explanation: "'or at your option a greater version of this license'"
 ---

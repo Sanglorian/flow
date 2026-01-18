@@ -3,13 +3,13 @@ layout: entry
 title: "The Dragonswarm"
 permalink: /the-dragonswarm/
 created_at: 2015-06-03
-updated_at: 2015-10-09
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "The second in a trilogy of fantasy novels."
-  main_url: "http://www.consortiumokc.com/books/the-dragonswarm/"
+  main_url: "https://web.archive.org/web/20140906215518/http://www.consortiumokc.com/books/the-dragonswarm/"
   main_description: |-
     "The Kingdom of the Sarianne teeters on the brink. While its tyrant king plays out his petty vendettas, rebellion foments on the edges of his domain. Politics and power struggles gamble civilization on the tides of war.
     

@@ -3,15 +3,15 @@ layout: entry
 title: "The Conversation"
 permalink: /the-conversation/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "Peer reviewed journalism."
-  main_url: "https://theconversation.com/au/republishing_guidelines"
+  main_url: "https://theconversation.com/au/republishing-guidelines"
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "Creative Commons Attribution-NoDerivatives"
+  - license: "Creative Commons Attribution-NoDerivatives 4.0"
 ---

@@ -3,7 +3,7 @@ layout: entry
 title: "The GNU C Programming Tutorial"
 permalink: /the-gnu-c-programming-tutorial/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
