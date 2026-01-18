@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "This database offers access to tens of thousands of high resolution images from the Folger Shakespeare Library, including books, theater memorabilia, manuscripts, and art."
-  main_url: "https://digitalcollections.folger.edu/
+  main_url: "https://digitalcollections.folger.edu/"
 connections:
   - has_connection_to_entry: "William Shakespeare"
     details_of_connection: "a contributor to"

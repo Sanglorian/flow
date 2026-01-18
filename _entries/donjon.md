@@ -13,7 +13,7 @@ entry:
   main_description: |-
     a [HTML SRD](https://web.archive.org/web/20150226033747/http://open.crngames.com/src/donjon.html).
     [Spanish translation](https://web.archive.org/web/20100211143716/http://www.salganalsol.com/juegos.html).
-	[PDF](https://rpggeek.com/rpgitem/44979/donjon/files).
+    [PDF](https://rpggeek.com/rpgitem/44979/donjon/files).
 connections:
   - has_connection_to_entry: "CRN Games"
 genres:

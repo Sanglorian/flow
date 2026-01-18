@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A clone of D&D 4E."
   main_url: "https://sanglorian.github.io/orcus/"
-  main-description: "Started as a 'micro-clone': https://forum.rpg.net/index.php?threads/4e-orcus-a-micro-clone-of-fourth-edition-d-d.701690/#post-17165645"
+  main_description: "Started as a 'micro-clone': https://forum.rpg.net/index.php?threads/4e-orcus-a-micro-clone-of-fourth-edition-d-d.701690/#post-17165645"
 connections:
   - has_connection_to_entry: "Chris Sakkas"
 groupings:
@@ -19,7 +19,7 @@ groupings:
 genres:
   - "Dungeon"
 licensing:
-  - "Open Game License"
-  - "Creative Commons Attribution 4.0"
+  - license: "Open Game License"
+  - license: "Creative Commons Attribution 4.0"
     explanation: "A 'basic' version."
 ---

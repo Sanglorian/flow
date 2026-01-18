@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "Fate-based roleplaying in a world of mecha and Norse legend."
-  main-description: "PDF: https://www.scribd.com/document/349547764/Iron-Edda-pdf"
+  main_description: "PDF: https://www.scribd.com/document/349547764/Iron-Edda-pdf"
 connections:
   - has_connection_to_entry: "Tracy Barnett"
     details_of_connection: "a contributor to"
@@ -28,7 +28,7 @@ languages:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     licence_coverage: "entirety"
-	explanation: "Later versions have been released under an ad hoc license."
+    explanation: "Later versions have been released under an ad hoc license."
 funding:
   - funding_tool: "Kickstarter"
     funding_type: "ransom"

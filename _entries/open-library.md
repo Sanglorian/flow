@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A project to create one page for every book ever published."
-  main_url: "https://openlibrary.org/
+  main_url: "https://openlibrary.org/"
 connections:
   - has_connection_to_entry: "Internet Archive"
 groupings:

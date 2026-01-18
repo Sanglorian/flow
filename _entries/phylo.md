@@ -14,8 +14,8 @@ groupings:
   - grouping: "Card Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
-    coverage: "Rules.
-	explanation: "https://phylogame.org/licenses/"
+    coverage: "Rules."
+    explanation: "https://phylogame.org/licenses/"
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
     coverage: "Most card art."
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"

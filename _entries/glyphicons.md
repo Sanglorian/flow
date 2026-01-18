@@ -15,8 +15,8 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "Free set was originally listed under CC BY. https://web.archive.org/web/20170317095007/http://glyphicons.com/license/"
-version:
-  - version: "ZIP file"
-    file type: "PNG"
-	explanation: "https://web.archive.org/web/20170317095007/http://glyphicons.com/files/glyphicons_free.zip"
+versions:
+  - version_title: "ZIP file"
+    version_format: "PNG"
+    version_url: "https://web.archive.org/web/20170317095007/http://glyphicons.com/files/glyphicons_free.zip"
 ---

@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A Risus supplement."
-  main_url: "https://tower.gonnerman.org/eo/
+  main_url: "https://tower.gonnerman.org/eo/"
   main_description: "Risus is an all rights reserved game."
 groupings:
   - grouping: "Tabletop Roleplaying"

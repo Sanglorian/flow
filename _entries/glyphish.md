@@ -21,6 +21,6 @@ funding:
 versions:
   - version_title: "Glyphish free icons"
     version_price: 0
-	version_file: "PNG"
-    version_file: "https://glyphish.com/download/glyphish-free.zip"
+    version_format: "PNG"
+    version_url: "https://glyphish.com/download/glyphish-free.zip"
 ---

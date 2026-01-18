@@ -9,9 +9,9 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "Play a ghost who interacts with the world through emotion."
-  main_url: "https://www.wyrmis.com/rpgs/ghostlight.html
+  main_url: "https://www.wyrmis.com/rpgs/ghostlight.html"
 groupings:
   - grouping: "Tabletop Game (RPG)"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
----
+---

@@ -12,14 +12,14 @@ entry:
   main_url: "https://eclipsephase.com/"
   main_description: |-
     [Resources](https://eclipsephase.com/resources/)
-	* [First edition archive](https://giantkiller.itch.io/eclipsephase-1e-archive) or [main rulebook PDF](https://archive.org/details/EclipsePhaseCore)
+    * [First edition archive](https://giantkiller.itch.io/eclipsephase-1e-archive) or [main rulebook PDF](https://archive.org/details/EclipsePhaseCore)
     * [Eclipse Phase pre-generated characters](http://thealexandrian.net/wordpress/18402/roleplaying-games/eclipse-phase-pregenerated-characters)
 connections:
   - has_connection_to_entry: "Posthuman Studios"
   - has_connection_to_entry: "Catalyst Games"
-language:
-  - English
-  - French
+languages:
+  - language: "English"
+  - language: "French"
     explanation: "https://giantkiller.itch.io/eclipsephase-1e-archive"
 genres:
   - "Science Fiction"

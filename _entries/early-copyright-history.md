@@ -9,10 +9,13 @@ contributors:
 entry:
   category_of_entry: Work
   main_url: "https://www.youtube.com/watch?v=H_aOHpn_vqQ"
-  license: "Creative Commons Attribution]]
-  connected-to-work: "YouTube"
-    explanation: "host of"
-  genre: "IP Minimalism"
+connections:
+  - has_connection_to_entry: "YouTube"
+    details_of_connection: "host of"
+genres:
+  - "IP Minimalism"
+licensing:
+  - license: "Creative Commons Attribution"
 versions:
   - version_title: "Source files (archived)"
     version_url: "https://web.archive.org/web/20150409051032/http://copy-me.org/2014/10/copy-me-webseries-early-copyright-history-episode-3/"

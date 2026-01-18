@@ -15,5 +15,5 @@ groupings:
   - grouping: "Art"
 licensing:
   - license: "Creative Commons Attribution"
-  coverage: "Everything on this website (except the stories)"
+    coverage: "Everything on this website (except the stories)"
 ---
