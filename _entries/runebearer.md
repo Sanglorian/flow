@@ -3,13 +3,13 @@ layout: entry
 title: "Runebearer"
 permalink: /runebearer/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "A fantasy game which draws on several different RPG systems."
-  main_url: "http://www.runebearer.com/"
+  main_url: "https://web.archive.org/web/20070701151850fw_/http://www.cs.cmu.edu/~tpope/bostonia/downloads.html"
 genres:
   - "Fantasy"
 groupings:

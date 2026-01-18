@@ -3,13 +3,13 @@ layout: entry
 title: "Sage"
 permalink: /sage/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "'Sage is a free open-source mathematics software system licensed under the GPL.'"
-  main_url: "http://www.sagemath.org/index.html"
+  main_url: "https://www.sagemath.org/index.html"
 genres:
   - "Mathematics"
 groupings:

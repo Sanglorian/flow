@@ -3,12 +3,12 @@ layout: entry
 title: "Schematic"
 permalink: /schematic/
 created_at: 2015-06-03
-updated_at: 2015-10-07
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
-  main_url: "https://www.jamendo.com/en/list/a45655/schematic"
+  main_url: "https://archive.org/details/jamendo-045655"
 connections:
   - has_connection_to_entry: "Lorenzo's Music"
 groupings:

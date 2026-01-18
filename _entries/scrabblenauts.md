@@ -3,7 +3,7 @@ layout: entry
 title: "Scrabblenauts"
 permalink: /scrabblenauts/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Creative Commons Attribution-ShareAlike 3.0"
 ---

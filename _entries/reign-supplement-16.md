@@ -3,7 +3,7 @@ layout: entry
 title: "REIGN Supplement 16"
 permalink: /reign-supplement-16/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:

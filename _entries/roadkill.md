@@ -3,13 +3,13 @@ layout: entry
 title: "Roadkill"
 permalink: /roadkill/
 created_at: 2015-05-28
-updated_at: 2015-09-21
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "A short story by Leonard Kirke."
-  main_url: "http://leonardkirke.wordpress.com/roadkill-a-short-story/"
+  main_url: "https://leonardkirke.wordpress.com/roadkill-a-short-story/"
 connections:
   - has_connection_to_entry: "Leonard Kirke"
 groupings:

@@ -3,13 +3,13 @@ layout: entry
 title: "SCP Foundation"
 permalink: /scp-foundation/
 created_at: 2015-05-28
-updated_at: 2015-09-22
+updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
   short_description: "Wiki describing X-Files-like phenomena."
-  main_url: "http://www.scp-wiki.net/"
+  main_url: "https://scp-wiki.wikidot.com/"
   thumbnail: "/thumbnails/SCP.png"
 languages:
   - language: "English"
