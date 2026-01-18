@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "Pulp two-fisted adventure in the 1930s."
   main_url: "https://evilhat.com/product/spirit-of-the-century/"
-  main-description: "[SRD](https://fate-srd.com/downloads/fate-3/sotc-srd.html)"
+  main_description: "[SRD](https://fate-srd.com/downloads/fate-3/sotc-srd.html)"
 connections:
   - has_connection_to_entry: "Evil Hat Productions"
   - has_connection_to_entry: "Fate"

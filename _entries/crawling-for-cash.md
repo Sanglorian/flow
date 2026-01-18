@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Bleak, nihilistic dungeon-crawling."
   main_url: "https://web.archive.org/web/20140818092355/http://chthonic.150m.com/rpg/crawlingforcash.htm"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Ben Wright"
 genres:

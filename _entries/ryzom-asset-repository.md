@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "3D assets from the MMORPG Ryzom."
-  main-url: "https://github.com/ryzom/ryzomcore_graphics"
+  main_url: "https://github.com/ryzom/ryzomcore_graphics"
 genres:
   - "Fantasy"
 groupings:

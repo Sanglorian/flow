@@ -6,10 +6,10 @@ created_at: 2015-05-27
 updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
-subtitle: "Tales from the Wild Blue Yonder: Chapter II"
-year_of_publication: 2015
 entry:
   category_of_entry: "Work"
+  subtitle: "Tales from the Wild Blue Yonder: Chapter II"
+  year_of_publication: 2015
   short_description: "A story game and sequel to indie darling Lady Blackbird."
   main_url: "http://www.onesevendesign.com/ladyblackbird/magister_lor.pdf"
   main_description: |-

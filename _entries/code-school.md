@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Learn to program."
   main_url: "https://web.archive.org/web/20180121135109/http://codeschool.org/"
-  Site-archived: 1
 groupings:
   - grouping: "Education"
     is_or_about_grouping: "is"

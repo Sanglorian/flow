@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "A CC film festival."
   main_url: "https://web.archive.org/web/20180828210910/http://www.bccn.cc/"
-  Site-archived: 1
 languages:
   - language: "Spanish"
 groupings:

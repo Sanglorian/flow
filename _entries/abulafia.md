@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A collection of random concept and word generators for story gamers."
   main_url: "http://www.random-generator.com/"
-  main-description: "Appears to have been wiped."
+  main_description: "Appears to have been wiped."
 groupings:
   - grouping: "Tabletop Roleplaying"
     is_or_about_grouping: "is"

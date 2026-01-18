@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "Final Decrees is a board game based on a monstrous incompetent bureaucracy."
   main_url: "https://web.archive.org/web/20120312072843/http://homepages.ihug.co.nz/~devisser/"
-  Site-archived: 1
 groupings:
   - grouping: "Card Game"
     is_or_about_grouping: "is"

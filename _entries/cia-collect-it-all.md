@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A competitive card game where players use intelligence collection techniques to solve international crises. On each turn, one player will try to defuse a crisis while their opponents interfere with reality checks."
   year_of_publication: 2018
-  main-url: "https://diegeticgames.com/cia-collect-it-all/"
+  main_url: "https://diegeticgames.com/cia-collect-it-all/"
 connections:
   - has_connection_to_entry: "Central Intelligence Agency"
     details_of_connection: "a contributor to"

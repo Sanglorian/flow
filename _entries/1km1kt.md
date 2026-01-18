@@ -8,5 +8,5 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Collection
-  main-url: "http://www.1km1kt.net/"
+  main_url: "http://www.1km1kt.net/"
 ---

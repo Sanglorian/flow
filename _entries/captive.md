@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A novel about an Al-Qaida agent under interrogation."
   main_url: "https://web.archive.org/web/20131011095739/http://meganlisajones.com/captive/"
-  Site-archived: 1
   main_description: "[Legally torrent it here](https://web.archive.org/web/20130308015556/http://www.clearbits.net/torrents/1684-captive---bittorrent-edition)"
 connections:
   - has_connection_to_entry: "Megan Lisa Jones"

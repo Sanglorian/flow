@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A space opera miniatures wargame."
   main_url: "https://web.archive.org/web/20140817225256/http://www.angelfire.com/games2/warpspawn/AstralDreams.htm"
-  Site-archived: 1
 genres:
   - "Science Fiction"
 groupings:

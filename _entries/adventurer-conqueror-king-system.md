@@ -14,9 +14,9 @@ connections:
   - has_connection_to_entry: "Basic Dungeons & Dragons"
 genres:
   - "Dungeon"
+  - "Retroclone"
 groupings:
   - grouping: "Tabletop Roleplaying"
-genre: "Retroclone"
 licensing:
   - license: "Open Game License"
 ---

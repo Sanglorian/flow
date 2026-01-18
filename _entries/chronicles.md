@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A fantasy game."
   main_url: "https://web.archive.org/web/20200625201743/https://chroniclesgame.wordpress.com/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Daniel Brouwer"
 genres:

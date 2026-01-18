@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Information about space."
   main_url: "https://web.archive.org/web/20171125012635/http://www.cosmonoticias.org/"
-  Site-archived: 1
 groupings:
   - grouping: "Information"
 genres:

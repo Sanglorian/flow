@@ -10,7 +10,6 @@ entry:
   category_of_entry: Collection
   short_description: "\"670 free HD images for your web and design projects.\""
   main_url: "https://web.archive.org/web/20150331073519/http://www.resplashed.com/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Unsplash"
     details_of_connection: "a host of"

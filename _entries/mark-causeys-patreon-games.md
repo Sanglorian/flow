@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   category_of_entry: "Collection"
-  short-description: "Defunct."
+  short_description: "Defunct."
 groupings:
   - grouping: "Tabletop Gaming"
     is_or_about_grouping: "is"

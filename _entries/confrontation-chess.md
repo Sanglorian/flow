@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Turn Chess into a tactical miniatures game."
   main_url: "https://web.archive.org/web/20140817224835/http://dominowriting.com/ConfrontationChess.pdf"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Domino Writing"
 groupings:

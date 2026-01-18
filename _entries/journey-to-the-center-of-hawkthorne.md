@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "An unofficial computer game based on an episode of the hit show Community."
   main_url: "http://www.reddit.com/r/hawkthorne/"
-  main-description: "Code: https://github.com/hawkthorne/hawkthorne-journey/"
+  main_description: "Code: https://github.com/hawkthorne/hawkthorne-journey/"
 connections:
   - has_connection_to_entry: "Reddit"
 genres:

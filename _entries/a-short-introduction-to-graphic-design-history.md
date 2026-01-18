@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A graphic design primer."
   main_url: "https://web.archive.org/web/20090801200505/http://www.designhistory.org/"
-  Site-archived: 1
 groupings:
   - grouping: "Art"
     is_or_about_grouping: "is"

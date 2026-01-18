@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A modified d20 game set in its own universe."
   main_url: "https://web.archive.org/web/20201015232412/https://sites.google.com/site/thealchemysystem/Home"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "d20 System"
 groupings:

@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "This allows you to play the old d100 games."
   main_url: "https://web.archive.org/web/20111127014527/http://basicroleplaying.com/downloads.php?do=file&id=433"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "d100 System"
 groupings:

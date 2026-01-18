@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Music for the computer game Balloon Diaspora."
   main_url: "https://web.archive.org/web/20110222155548/http://cardboardcomputer.com/balloon-suite-by-oliver-blank/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Balloon Diaspora"
 groupings:

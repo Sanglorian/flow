@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A fantasy RPG."
   main_url: "https://web.archive.org/web/20140801192239/http://dreamsanddragons.blogspot.com/2014/02/15-years-of-free-rpgs-cover-gallery.html"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Jeff Moore"
 genres:

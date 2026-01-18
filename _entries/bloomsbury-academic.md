@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Non-fiction"
   main_url: "https://web.archive.org/web/20140818091235/http://www.bloomsbury.com/au/academic/online-resources-and-ebooks/bloomsbury-open-content/"
-  Site-archived: 1
 groupings:
   - grouping: "Information"
 licensing:

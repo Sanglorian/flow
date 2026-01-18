@@ -12,9 +12,9 @@ entry:
   main_url: "https://web.archive.org/web/20160104184629/http://right2remix.org/"
 genres:
   - "IP Minimalism"
-language:
-  - "English"
-  - "German"
+languages:
+  - language: "English"
+  - language: "German"
     explanation: "Still live: https://rechtaufremix.org/"
 groupings:
   - grouping: "Information"

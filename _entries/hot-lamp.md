@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "Two detectives interrogate two suspects."
   main_url: "https://bpglink.com/downloads"
-  main-description: "Internet Archive PDF: https://archive.org/details/HotLamp"
+  main_description: "Internet Archive PDF: https://archive.org/details/HotLamp"
 connections:
   - has_connection_to_entry: "Jason Morningstar"
 groupings:

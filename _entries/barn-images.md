@@ -10,7 +10,6 @@ entry:
   category_of_entry: Collection
   short_description: "Barn Images offers you a collection of free high-resolution non-stock photography."
   main_url: "https://web.archive.org/web/20150908223553/http://barnimages.com/about/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"

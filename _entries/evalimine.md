@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "The server-side source code for the Estonian electronic voting system."
   main_url: "https://github.com/vvk-ehk/evalimine"
-  main-description: "Deprecated and replaced by https://github.com/valimised/ivxv?tab=License-1-ov-file#readme, also under CC BY-NC-ND."
+  main_description: "Deprecated and replaced by https://github.com/valimised/ivxv?tab=License-1-ov-file#readme, also under CC BY-NC-ND."
 languages:
   - language: "Estonian"
 groupings:

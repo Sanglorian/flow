@@ -8,6 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
-  main-url: "https://web.archive.org/web/20120426172232/http://365sketches.org/"
-  grouping: "Art"
+  main_url: "https://web.archive.org/web/20120426172232/http://365sketches.org/"
+groupings:
+  - grouping: "Art"
 ---

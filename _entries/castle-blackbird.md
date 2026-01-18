@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A Gothic horror role-playing game."
   main_url: "https://web.archive.org/web/20140818092502/http://gremlinlegions.blogspot.com/2011/06/castle-blackbird-2nd-version.html"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Gremlin Legions"
   - has_connection_to_entry: "Lady Blackbird"

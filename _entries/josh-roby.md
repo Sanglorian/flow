@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: Source
   short_description: "A game designer."
-  main-url: "https://boardgamegeek.com/boardgamedesigner/13421/miriam-robern"
-  main-description: "Move to Miriam Robern."
+  main_url: "https://boardgamegeek.com/boardgamedesigner/13421/miriam-robern"
+  main_description: "Move to Miriam Robern."
   main_url: "https://www.patreon.com/posts/about-josh-roby-51991495"
 ---

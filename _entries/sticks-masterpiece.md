@@ -13,7 +13,6 @@ entry:
   short_description: "A whimsical children's picturebook."
   year_of_publication: 2013
   main_url: "https://web.archive.org/web/20190324135557/http://brotherswhim.com/sticks-masterpiece-creative-commons-childrens-book"
-  Site-archived: 1
   main_description: |-
     "Cute, little Stick learns that while she may not know how to paint a masterpiece, she can do small and simple things. These small and simple things, composed over a lifetime, are what become her masterpiece. And the result is more beautiful than she could have imagined.
 

@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "'Better food through information.'"
   main_url: "https://web.archive.org/web/20140613032017/http://everycook.org/db/"
-  Site-archived: 1
 groupings:
   - grouping: "Recipes"
   - grouping: "Software"

@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "A visual demonstration of the samples used by Girl Talk."
   main_url: "https://web.archive.org/web/20130310100331/http://mashupbreakdown.com/"
-  main-description: "A static video is preserved on [YouTube](https://www.youtube.com/watch?v=pnFisVo40nk)."
+  main_description: "A static video is preserved on [YouTube](https://www.youtube.com/watch?v=pnFisVo40nk)."
 connections:
   - has_connection_to_entry: "Girl Talk"
   - has_connection_to_entry: "All Day"

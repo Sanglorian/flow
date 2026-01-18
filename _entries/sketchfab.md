@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "3D models for viewing and download."
   main_url: "https://sketchfab.com/download"
-  main-description: "Can filter by CC license."
+  main_description: "Can filter by CC license."
 groupings:
   - grouping: "Art"
 licensing:

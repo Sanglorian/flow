@@ -8,5 +8,5 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Work
-  main-url: "https://ccmixter.org/media/playlist/browse/44"
+  main_url: "https://ccmixter.org/media/playlist/browse/44"
 ---

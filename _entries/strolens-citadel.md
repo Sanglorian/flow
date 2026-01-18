@@ -10,7 +10,7 @@ entry:
   category_of_entry: Collection
   short_description: "[A]n interactive, searchable role playing resource"
   main_url: "https://web.archive.org/web/20240301065028/http://strolen.com/"
-  main-description: "Older archive may have more: https://web.archive.org/web/20190916004607/http://strolen.com/"
+  main_description: "Older archive may have more: https://web.archive.org/web/20190916004607/http://strolen.com/"
 groupings:
   - grouping: "Tabletop Gaming"
   - grouping: "Literature"

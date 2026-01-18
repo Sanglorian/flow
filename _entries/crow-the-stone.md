@@ -10,7 +10,6 @@ entry:
   category_of_entry: Collection
   short_description: "Free photos to use any way you want. Subscribe to receive new photos directly to your inbox every week."
   main_url: "https://web.archive.org/web/20160201134038/http://crowthestone.com/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"

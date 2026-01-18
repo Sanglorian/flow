@@ -8,9 +8,10 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  short-description: "'Monkaa is a blue furred, pink faced monkey who consumes a crystallized meteorite, making Monkaa invincibly strong and too hot to handle. Exploring his superpower Monkaa zooms into an unexplored universe.'"
-  grouping: "Film"
-  main-url: "https://www.blender.org/news/monkaa-open-movie-by-weybec/"
+  short_description: "'Monkaa is a blue furred, pink faced monkey who consumes a crystallized meteorite, making Monkaa invincibly strong and too hot to handle. Exploring his superpower Monkaa zooms into an unexplored universe.'"
+  main_url: "https://www.blender.org/news/monkaa-open-movie-by-weybec/"
+groupings:
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     explanation: "In credits"

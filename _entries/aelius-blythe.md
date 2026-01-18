@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A fiction author."
   main_url: "https://web.archive.org/web/20140309071314/http://aeliusblythe.com/"
-  Site-archived: 1
 groupings:
   - grouping: "Literature"
 licensing:

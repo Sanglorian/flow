@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "In order to \"consolidate an audience for open movies, a first step in addressing the yawning gap in distribution and marketing for open, even where open production is feasible\" the best copies (inclusive of encodings, translations/translatable, provenance info) must be discoverable in one place."
   main_url: "https://web.archive.org/web/20191016200112/https://d.wifo.org/t/list-of-premium-and-libre-video/70"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Mike Linksvayer"
     details_of_connection: "a contributor to"

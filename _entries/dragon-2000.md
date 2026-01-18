@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A shady Chinese restaurant is the setting for a Fiasco playset."
   main_url: "https://web.archive.org/web/20140104124804/http://nickwedig.libraryofhighmoon.com/2011/03/dragon-2000-all-you-can-eat/"
-  Site-archived: 1
   main_description: |-
     A supplement for the closed RPG Fiasco.
 connections:

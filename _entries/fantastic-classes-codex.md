@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Classes for Dungeon World."
   main_url: "https://web.archive.org/web/20131105174052/http://scoundrell.com/dw/?page_id=49"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Dungeon World"
 groupings:

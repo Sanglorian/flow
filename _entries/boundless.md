@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "Textbooks."
   main_url: "https://web.archive.org/web/20150711142805/https://www.boundless.com/"
-  Site-archived: 1
 groupings:
   - grouping: "Education"
 licensing:

@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Life in a post-apocalyptic future."
   main_url: "https://web.archive.org/web/20111027123551/http://www.synapserpg.com/CascadeFailureRPG_PUBLICBETA_v1_1.pdf"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Greg Christopher"
 genres:

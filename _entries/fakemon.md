@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: entry
 title: "Fakemon"
 permalink: /fakemon/
 created_at: 2015-09-22T11:57:13Z
@@ -8,8 +8,9 @@ contributors:
   - Sanglorian
   - 124.171.68.233
 entry:
-category: "Collection"
-grouping: "Art"
+  category_of_entry: "Collection"
+groupings:
+  - grouping: "Art"
 ---
 These **Fakemon** are under Creative Commons licences.
 

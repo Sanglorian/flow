@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "A collection of 444 public domain songs"
   main_url: "https://web.archive.org/web/20250914182536/https://freepd.com/"
-  Site-archived: 1
   main_description: "Can download individual songs for free or the album for US$14."
 connections:
   - has_connection_to_entry: "Kevin Macleod"

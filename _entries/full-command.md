@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "\"Full Command is a 7 page core ruleset for simulating battles all the way from a skirmish level with a handful of individual models through to full scale war with units totalling hundreds of miniatures.\""
   main_url: "https://web.archive.org/web/20150922133312/http://seriouslemon.com/full-command.html"
-  Site-archived: 1
 languages:
   - language: "English"
     relationship_of_language: "original"

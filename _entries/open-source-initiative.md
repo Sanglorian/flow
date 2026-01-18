@@ -8,5 +8,5 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: Organisation
-  main-url: "https://opensource.org/"
+  main_url: "https://opensource.org/"
 ---

@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A fantasy RPG designed for quick play and no fuss."
   main_url: "https://web.archive.org/web/20100210060406/http://www.bullypulpitgames.com/projects/games/dulse/"
-  Site-archived: 1
   main_description: |-
     The sequel to [Dungeon Squad](/dungeon-squad/).
 connections:

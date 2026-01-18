@@ -10,7 +10,7 @@ entry:
   category_of_entry: Work
   short_description: "A Risk-like boardgame."
   main_url: "https://github.com/cotteux/Sovereign"
-  main-description: "Buy a hardcopy: https://www.thegamecrafter.com/games/sovereign:-open-source-board-game"
+  main_description: "Buy a hardcopy: https://www.thegamecrafter.com/games/sovereign:-open-source-board-game"
 groupings:
   - grouping: "Boardgame"
 licensing:

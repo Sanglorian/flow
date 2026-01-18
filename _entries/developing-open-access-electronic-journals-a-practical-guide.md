@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "What it says in the title."
   main_url: "https://web.archive.org/web/20110630103010/http://www.developing-oa-journals.org/"
-  Site-archived: 1
   main_description: "a [Direct link to PDF](https://web.archive.org/web/20081119173109/http://www.developing-oa-journals.org/Guide_to_developing_oa_journals.pdf)"
 genres:
   - "IP Minimalism"

@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "An Australian disaster awareness site."
   main_url: "https://web.archive.org/web/20161018072252/http://emergency20wiki.org/terms-of-use/copyright"
-  Site-archived: 1
 groupings:
   - grouping: "Information"
 licensing:

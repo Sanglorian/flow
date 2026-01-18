@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "An Arabic guide to free culture."
   main_url: "https://web.archive.org/web/20140818092158/http://www.freecultureguide.net/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Creative Commons"
 groupings:

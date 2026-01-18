@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "An online choose-your-own-adventure story."
   main_url: "https://web.archive.org/web/20160308122323/http://www.apolitical.info/webgame/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "James Hutchings"
 genres:

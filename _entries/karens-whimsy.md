@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "Public domain images scanned from books."
-  main-url: "https://karenswhimsy.com/public_domain_images/"
+  main_url: "https://karenswhimsy.com/public_domain_images/"
 groupings:
   - grouping: "Art"
 licensing:

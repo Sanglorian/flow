@@ -6,10 +6,10 @@ created_at: 2015-05-27
 updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
-subtitle: "Tales from the Wild Blue Yonder: Chapter 3"
-year_of_publication: 2015
 entry:
   category_of_entry: "Work"
+  subtitle: "Tales from the Wild Blue Yonder: Chapter 3"
+  year_of_publication: 2015
   short_description: "A sequel to the Lady Blackbird indie darling."
   main_url: "http://onesevendesign.com/ladyblackbird/lord_scurlock.pdf"
   main_description: |-

@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "A repository of Australian OER for Adaptation Studies."
   main_url: "https://web.archive.org/web/20151002082405/http://www.adapt.edu.au/about"
-  Site-archived: 1
 groupings:
   - grouping: "Information"
     is_or_about_grouping: "is"

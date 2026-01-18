@@ -7,6 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
+  category_of_entry: "Work"
   main_url: "http://toddlertimothy.com/"
 genres:
   - "For Children"

@@ -9,7 +9,6 @@ contributors:
 entry:
   category_of_entry: "Work"
   main_url: "https://web.archive.org/web/20170522000705/https://dillydailydraws.wordpress.com/"
-  Site-archived: 1
 groupings:
   - grouping: "Art"
 licensing:

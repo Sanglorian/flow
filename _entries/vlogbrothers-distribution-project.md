@@ -9,7 +9,6 @@ contributors:
 entry:
   category_of_entry: "Collection"
   main_url: "https://web.archive.org/web/20201108112925/https://vbdp.singpolyma.net/"
-  Site-archived: 1
 languages:
   - language: "English"
     relationship_of_language: "original"

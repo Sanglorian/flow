@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "Browser-based single-player fantasy electronic game."
   main_url: "http://www.moonshadesgame.com/"
-  description: "Code appears to have been forked here: https://github.com/seacloud9/moonshadesgame/tree/master"
+  main_description: "Code appears to have been forked here: https://github.com/seacloud9/moonshadesgame/tree/master"
 genres:
   - "Fantasy"
 groupings:

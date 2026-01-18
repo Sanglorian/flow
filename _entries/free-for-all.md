@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "Free Culture, Games and Design"
   main_url: "https://web.archive.org/web/20180403051215/http://freeforall.cc/"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Open Game Art"
     details_of_connection: "a host of"

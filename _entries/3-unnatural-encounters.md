@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "Contemporary, surreal horror where the highest goal is surviving more or less intact."
   main_url: "https://web.archive.org/web/20140817224705/http://chthonic.150m.com/rpg/3.htm"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Ben Wright"
 genres:

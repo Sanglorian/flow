@@ -10,9 +10,24 @@ entry:
   category_of_entry: "Work"
   short_description: "A free do-it-yourself party game where you match cards in humorous ways"
   main_url: "https://www.cardsagainsthumanity.com/"
-  languages: "Dutch, Brazilian Portuguese, Turkish, Romanian, Hebrew, Galician, Portuguese, Catalan, Czech, German, Italian, Argentinian Spanish, Greek, Spanish, Russian"
 genres:
   - "Humour"
+languages:
+  - language: "Dutch"
+  - language: "Brazilian Portuguese"
+  - language: "Turkish"
+  - language: "Romanian"
+  - language: "Hebrew"
+  - language: "Galician"
+  - language: "Portuguese"
+  - language: "Catalan"
+  - language: "Czech"
+  - language: "German"
+  - language: "Italian"
+  - language: "Argentinian Spanish"
+  - language: "Greek"
+  - language: "Spanish"
+  - language: "Russian"
 groupings:
   - grouping: "Card Game"
 licensing:

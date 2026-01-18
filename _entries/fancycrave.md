@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "Free high resolution photos from professional photographers. Two new images every day."
   main_url: "https://web.archive.org/web/20160103120712/http://fancycrave.com/TermsandServices"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"
     details_of_connection: "a host of"

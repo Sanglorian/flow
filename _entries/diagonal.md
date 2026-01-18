@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A Spanish language periodical."
   main_url: "https://web.archive.org/web/20140208005522/https://www.diagonalperiodico.net/"
-  Site-archived: 1
 genres:
   - "Spanish"
 languages:

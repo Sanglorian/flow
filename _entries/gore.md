@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "A d%-based horror RPG."
   main_url: "https://web.archive.org/web/20080320065700/http://www.goblinoidgames.com/gore.htm"
-  main-description: "https://www.drivethrufiction.com/en/product/28521/gore"
+  main_description: "https://www.drivethrufiction.com/en/product/28521/gore"
 connections:
   - has_connection_to_entry: "Goblinoid Games"
 genres:

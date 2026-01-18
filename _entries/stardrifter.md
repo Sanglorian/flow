@@ -7,20 +7,21 @@ updated_at: 2026-01-09
 contributors:
 - "Jcolag"
 entry:
+  category_of_entry: "Work"
   short_description: "A science-fiction audiobook series"
-  main-description: |-
+  main_description: |-
     Meet Ejoq Dosantos: loner, nomad, and professional gunner for corporate and privately-owned armed merchant vessels.
     In a future filled with pirates, venal business interests, and interstellar intrigue, the fates of people, ships, and entire worlds can sometimes be in just one man's hands.
     Star-spanning super-nations, high technology, and good old-fashioned greed!
     Better take a deep breath!
   main_url: "https://davidcollinsrivera.com/"
-  groupings:
-    - grouping: "Tabletop Roleplaying"
-      is_or_about_grouping: "is"
-    - grouping: "Audiobook"
-      is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution Share-Alike Unported 3.0"
     licence_coverage: "RPG, at least some audiobooks"
     explanation: "RPG has license in front piece. Older website applies it to at least some of the audiobooks: https://web.archive.org/web/20190807184342/http://downloads.cavalcadeaudio.com/stardrifter-novels/02-street-candles/?p=home"
+groupings:
+  - grouping: "Tabletop Roleplaying"
+    is_or_about_grouping: "is"
+  - grouping: "Audiobook"
+    is_or_about_grouping: "is"
 ---

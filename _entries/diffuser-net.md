@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "A collection of works under various licences."
   main_url: "https://web.archive.org/web/20140818093536/http://www.adiffuser.net/"
-  Site-archived: 1
 languages:
   - language: "French"
 groupings:

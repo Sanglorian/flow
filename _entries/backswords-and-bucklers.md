@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "Fantasy dungeoncrawling in Elizabethan England."
   main_url: "https://web.archive.org/web/20110531042524/http://tiedtoakite.com/backswords_bucklers"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "Basic Dungeons & Dragons"
   - has_connection_to_entry: "Swords & Wizardry"

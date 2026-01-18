@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Work"
   short_description: "Reviews of gratis and CC-licensed music."
   main_url: "https://web.archive.org/web/20180719202027/http://soundthefreetrumpet.typepad.com/"
-  Site-archived: 1
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
 ---

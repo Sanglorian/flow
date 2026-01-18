@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "Instructional clips."
   main_url: "https://web.archive.org/web/20200611141331/https://www.zdf.de/dokumentation/terra-x/terra-x-creative-commons-cc-100.html"
-  Site-archived: 1
 connections:
   - has_connection_to_entry: "ZDF"
     details_of_connection: "a contributor to"
