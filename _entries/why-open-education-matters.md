@@ -1,0 +1,24 @@
+---
+layout: entry
+title: "Why Open Education Matters"
+permalink: /why-open-education-matters/
+created_at: 2015-05-29
+updated_at: 2026-01-11
+contributors:
+- "Sanglorian"
+entry:
+  category_of_entry: "Work"
+  short_description: ""
+  main_url: "http://whyopenedmatters.org/"
+connections:
+  - has_connection_to_entry: "Creative Commons"
+  - has_connection_to_entry: "Open Society Foundations"
+  - has_connection_to_entry: "US Department of Education"
+groupings:
+  - grouping: "Video"
+  - grouping: "Information"
+genres:
+  - "IP Minimalism"
+licensing:
+  - license: "Creative Commons Attribution"
+---
