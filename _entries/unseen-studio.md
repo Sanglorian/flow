@@ -1,15 +1,18 @@
 ---
 layout: entry
-title: "Unseen Studio"
-permalink: /unseen-studio/
+title: "The Other Side"
+permalink: /the-other-side/
 created_at: 2015-05-28
-updated_at: 2026-01-18
+updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
-  short_description: "'Unseen Studio is a small podcast network promoting Creative Commons culture and Open Source software. We currently have 3 podcasts; CCJam, Crivins and TuxJam.'"
-  main_url: "http://unseenstudio.co.uk/"
+  category_of_entry: "Collection, Source"
+  short_description: "A podcast network."
+  main_url: "https://otherside.network/shows/"
 groupings:
   - grouping: "Music (Podcasts)"
+licensing:
+  - licence: "Creative Commons Attribution-ShareAlike 3.0 (Unported)
+    coverage: "At least CChits, Crivins and Tuxjam."
 ---

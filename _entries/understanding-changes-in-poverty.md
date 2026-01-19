@@ -3,7 +3,7 @@ layout: entry
 title: "Understanding Changes In Poverty"
 permalink: /understanding-changes-in-poverty/
 created_at: 2015-05-28
-updated_at: 2026-01-18
+updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:

@@ -3,7 +3,7 @@ layout: entry
 title: "Wayfarers"
 permalink: /wayfarers/
 created_at: 2015-05-30
-updated_at: 2026-01-18
+updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:

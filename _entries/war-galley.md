@@ -3,7 +3,7 @@ layout: entry
 title: "War Galley"
 permalink: /war-galley/
 created_at: 2015-08-05
-updated_at: 2026-01-18
+updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
@@ -38,9 +38,4 @@ licensing:
   - license: "Creative Commons Attribution-NonCommercial 3.0 (Unported)"
     licence_coverage: "entirety"
     explanation: "According to the PDF itself. Boardgame Geek says it's CC BY-NC-SA."
-versions:
-  - version_title: "War Galley rules (English)"
-    version_format: "PDF"
-    version_price: 0
-    version_file: "War galley rules 01.zip"
 ---

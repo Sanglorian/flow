@@ -3,13 +3,13 @@ layout: entry
 title: "Warrior, Rogue & Mage"
 permalink: /warrior-rogue-mage/
 created_at: 2015-05-29
-updated_at: 2026-01-18
+updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A rules lite dungeoncrawl."
-  main_url: "http://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzdGFyZ2F6ZXJzcnBnc3R1ZmZ8Z3g6MTU1MWMzNjFiMzcyY2Vl&pli=1"
+  main_url: "https://www.stargazergames.eu/warrior-rogue-mage/"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
@@ -23,5 +23,5 @@ versions:
   - version_title: "SRD"
     version_format: "RTF"
     version_price: 0
-    version_url: "http://www.stargazergames.eu/2015/01/22/some-notes-on-the-wrm-srd-and-the-new-license/"
+    version_url: "https://www.stargazergames.eu/warrior-rogue-mage/"
 ---

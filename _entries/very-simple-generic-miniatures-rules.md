@@ -3,7 +3,7 @@ layout: entry
 title: "Very Simple Generic Miniatures Rules"
 permalink: /very-simple-generic-miniatures-rules/
 created_at: 2015-05-29
-updated_at: 2026-01-18
+updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
