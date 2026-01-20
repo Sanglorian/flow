@@ -9,7 +9,6 @@ contributors:
 entry:
   category_of_entry: "Work"
   alias: "NotLD"
-  thumbnail: "/thumbnails/Night-of-the-Living-Dead-poster.jpeg"
   short_description: "An archetypal zombie film, inadvertently placed into the public domain."
   main_url: "https://archive.org/details/Night_Of_The_Living_Dead_raw_HD_WS"
 genres:

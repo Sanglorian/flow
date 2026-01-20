@@ -42,7 +42,7 @@ Entries live in `_entries/*.md` and are Markdown files with YAML front matter be
 - `featured_entry` (boolean or string): flag marking a featured entry; commonly `yes`.
 - `subtitle` (string): short secondary title.
 - `alias` (string): alternate name.
-- `thumbnail` (string): path to thumbnail image (e.g., `/thumbnails/...`).
+- `thumbnail` (string): path to thumbnail image (e.g., /thumbnails/the-plant.jpg).
 - `wikidata_code` (string): Wikidata identifier.
 - `year_of_publication` (integer or string): year for works.
 

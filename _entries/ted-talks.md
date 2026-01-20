@@ -10,7 +10,6 @@ entry:
   category_of_entry: "Collection"
   short_description: "Short talks from experts."
   main_url: "https://www.ted.com/"
-  thumbnail: "/thumbnails/Ted1f.png"
 groupings:
   - grouping: "Nonfiction"
 types:

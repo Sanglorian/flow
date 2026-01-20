@@ -70,7 +70,7 @@ body:
     attributes:
       label: Thumbnail path (Optional)
       description: "If you have a thumbnail already in the repo, provide its path."
-      placeholder: "/thumbnails/example.jpg"
+      placeholder: "/thumbnails/the-plant.jpg"
 
   - type: input
     id: wikidata_code

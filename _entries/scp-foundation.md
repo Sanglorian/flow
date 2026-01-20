@@ -10,7 +10,6 @@ entry:
   category_of_entry: Work
   short_description: "Wiki describing X-Files-like phenomena."
   main_url: "https://scp-wiki.wikidot.com/"
-  thumbnail: "/thumbnails/SCP.png"
 languages:
   - language: "English"
     relationship_of_language: "original"
