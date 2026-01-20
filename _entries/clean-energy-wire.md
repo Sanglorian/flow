@@ -15,7 +15,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Nonfiction"
+  - grouping: "News"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license_coverage: "part"

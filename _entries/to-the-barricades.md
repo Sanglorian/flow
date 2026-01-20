@@ -11,7 +11,7 @@ entry:
   short_description: "A boardgame about a faceoff between radicals and the police."
   main_url: "https://web.archive.org/web/20140225074510/http://blackflaggames.org/download/"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

@@ -23,7 +23,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Tabletop Roleplaying"
 types:
   - type: "Book"
     distribution: "electronic"

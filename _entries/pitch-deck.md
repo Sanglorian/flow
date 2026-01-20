@@ -16,7 +16,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Card Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     license_coverage: "part"

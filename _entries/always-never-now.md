@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Lady Blackbird"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

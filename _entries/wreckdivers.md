@@ -17,7 +17,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Parlour Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
 versions:

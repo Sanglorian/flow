@@ -12,7 +12,7 @@ entry:
   main_url: "http://librivox.org/"
 
 groupings:
-  - grouping: "Literature"
+  - grouping: "Audiobook"
 licensing:
   - license: "Public domain"
 types:

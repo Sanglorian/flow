@@ -16,7 +16,7 @@ connections:
   - has_connection_to_entry: "Joshua Macy"
   - has_connection_to_entry: "SFX!"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Tabletop Roleplaying"
 genres:
   - "Fantasy"
 licensing:

@@ -11,7 +11,7 @@ entry:
   short_description: "A modern translation."
   main_url: "https://www.amazon.com/gp/product/0615612652"
 groupings:
-  - grouping: "Literature"
+  - grouping: "Poetry"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
 ---

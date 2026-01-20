@@ -11,7 +11,7 @@ entry:
   main_url: "https://boardgamegeek.com/boardgame/164083/diggy-diggy-dice"
   main_description: "The rules:"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
     license_coverage: "entirety"

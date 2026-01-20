@@ -18,7 +18,7 @@ connections:
 genres:
   - "Superhero"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Tabletop Roleplaying"
 languages:
   - language: "English"
 licensing:

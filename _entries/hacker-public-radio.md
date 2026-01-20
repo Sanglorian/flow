@@ -11,7 +11,7 @@ entry:
   short_description: "Hacker Public Radio (HPR) is an Internet Radio show (podcast) that releases shows every weekday Monday through Friday."
   main_url: "http://hackerpublicradio.org/"
 groupings:
-  - grouping: "Nonfiction"
+  - grouping: "Podcasting"
 types:
   - type: "Audio"
     distribution: "electronic"

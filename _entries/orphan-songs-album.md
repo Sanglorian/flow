@@ -21,7 +21,7 @@ connections:
   - has_connection_to_entry: "Orphan Songs"
     details_of_connection: "band"
 groupings:
-  - grouping: "Music"
+  - grouping: "Album"
 types:
   - type: "Audio"
     distribution: "electronic"

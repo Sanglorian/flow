@@ -11,7 +11,7 @@ entry:
   short_description: "Sensor enhanced hive designs for bees"
   main_url: "https://github.com/opensourcebeehives"
 groupings:
-  - grouping: "Technology"
+  - grouping: "Hardware"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

@@ -11,7 +11,7 @@ entry:
   short_description: "A game of strategy and guess work played only with hands."
   main_url: "https://www.slideshare.net/slideshow/thousand-year-game-v5/9077062"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Parlour Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

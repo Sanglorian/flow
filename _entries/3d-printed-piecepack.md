@@ -11,7 +11,7 @@ entry:
   short_description: "A piecepack set that can be printed."
   main_url: "http://www.trueelena.org/fantastic/feelies/3d_printed_piecepack.html"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Tabletop Game System"
   - grouping: "Design"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"

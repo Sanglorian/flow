@@ -11,7 +11,7 @@ entry:
   short_description: "Public domain images (mostly photographs)"
   main_url: "http://www.burningwell.org/"
 groupings:
-  - grouping: "Art"
+  - grouping: "Photography"
 licensing:
   - license: "Public domain"
 ---

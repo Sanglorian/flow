@@ -10,7 +10,7 @@ entry:
   category: Collection
   main_url: "https://openclipart.org/"
 groupings:
-  - grouping: "Art"
+  - grouping: "Vector Images"
 licensing:
   - license: "CC0 1.0 Universal"
     license_coverage: "entirety"

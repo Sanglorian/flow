@@ -20,7 +20,7 @@ languages:
   - language: "English"
     relationship_of_language: "official translation"
 groupings:
-  - grouping: "Tabletop Gaming"
+  - grouping: "Tabletop Roleplaying"
 types:
   - type: "Book"
     distribution: "electronic"
