@@ -18,5 +18,6 @@ groupings:
 genres:
   - genre: "Fantasy"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial, Public domain"
+  - license: "Creative Commons Attribution-NonCommercial"
+  - license: "Public domain"
 ---

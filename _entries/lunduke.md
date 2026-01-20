@@ -24,5 +24,6 @@ groupings:
 genres:
   - "Science Fiction"
 licensing:
-  - license: "GNU General Public License, Creative Commons Attribution-ShareAlike"
+  - license: "GNU General Public License"
+  - license: "Creative Commons Attribution-ShareAlike"
 ---

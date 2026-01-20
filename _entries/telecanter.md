@@ -15,5 +15,6 @@ groupings:
   - grouping: "Art (Silhouettes)"
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Public domain, Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Public domain"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

@@ -13,5 +13,6 @@ entry:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike, Affero General Public License"
+  - license: "Creative Commons Attribution-ShareAlike"
+  - license: "Affero General Public License"
 ---

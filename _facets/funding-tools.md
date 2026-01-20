@@ -10,18 +10,18 @@ permalink: /funding-tools/
   </header>
 
   {%- assign funding_tools = site["funding-tools"] | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category contains 'Work'" -%}
+  {%- assign entries = site.entries -%}
   <ul>
     {%- for funding_tool in funding_tools -%}
-      {%- assign work_count = 0 -%}
-      {%- for work in works -%}
-        {%- if work.funding and work.funding.funding_tool -%}
-          {%- if work.funding.funding_tool == funding_tool.title -%}
-            {%- assign work_count = work_count | plus: 1 -%}
+      {%- assign entry_count = 0 -%}
+      {%- for entry in entries -%}
+        {%- if entry.funding and entry.funding.funding_tool -%}
+          {%- if entry.funding.funding_tool == funding_tool.title -%}
+            {%- assign entry_count = entry_count | plus: 1 -%}
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
-      <li><a href="{{ funding_tool.url | relative_url }}">{{ funding_tool.title }}</a> ({{ work_count }})</li>
+      <li><a href="{{ funding_tool.url | relative_url }}">{{ funding_tool.title }}</a> ({{ entry_count }})</li>
     {%- endfor -%}
   </ul>
 </article>

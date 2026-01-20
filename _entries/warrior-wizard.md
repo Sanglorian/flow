@@ -19,5 +19,6 @@ groupings:
   - grouping: "Tabletop Roleplaying"
   - grouping: "Clone"
 licensing:
-  - license: "Open Game License, Creative Commons Attribution-ShareAlike"
+  - license: "Open Game License"
+  - license: "Creative Commons Attribution-ShareAlike"
 ---

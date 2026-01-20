@@ -12,5 +12,6 @@ entry:
 groupings:
   - grouping: "Technology"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike 3.0, CERN OHL"
+  - license: "Creative Commons Attribution-ShareAlike 3.0"
+  - license: "CERN OHL"
 ---

@@ -15,5 +15,8 @@ connections:
 groupings:
   - grouping: "Music"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike, Creative Commons Attribution, Creative Commons Attribution-NonCommercial, Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution-NonCommercial"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

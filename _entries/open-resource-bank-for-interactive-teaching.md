@@ -13,5 +13,6 @@ entry:
 groupings:
   - grouping: "Education"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial 4.0, Creative Commons Attribution-ShareAlike 4.0"
+  - license: "Creative Commons Attribution-NonCommercial 4.0"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
 ---

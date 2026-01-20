@@ -10,21 +10,22 @@ permalink: /languages/
   </header>
 
   {%- assign languages = site.languages | sort: "title" -%}
- {%- assign works = site.entries | where_exp: "item", "item.entry.category contains 'Work'" -%}
+  {%- assign entries = site.entries -%}
   <ul>
     {%- for language in languages -%}
-      {%- assign work_count = 0 -%}
-      {%- for work in works -%}
-        {%- if work.languages -%}
-          {%- for work_language in work.languages -%}
-            {%- if work_language.language == language.title -%}
-              {%- assign work_count = work_count | plus: 1 -%}
+      {%- assign entry_count = 0 -%}
+      {%- for entry in entries -%}
+        {%- if entry.languages -%}
+          {%- for entry_language in entry.languages -%}
+            {%- assign language_name = entry_language.language | default: entry_language -%}
+            {%- if language_name == language.title -%}
+              {%- assign entry_count = entry_count | plus: 1 -%}
               {%- break -%}
             {%- endif -%}
           {%- endfor -%}
         {%- endif -%}
       {%- endfor -%}
-      <li><a href="{{ language.url | relative_url }}">{{ language.title }}</a> ({{ work_count }})</li>
+      <li><a href="{{ language.url | relative_url }}">{{ language.title }}</a> ({{ entry_count }})</li>
     {%- endfor -%}
   </ul>
 </article>
