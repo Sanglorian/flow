@@ -12,7 +12,7 @@ permalink: /orphaned-groupings/
     {%- assign all_groupings = "" | split: "" -%}
 
     {%- for entry in site.entries -%}
-      {%- assign entry_groupings = entry.groupings | default: entry.grouping -%}
+      {%- assign entry_groupings = entry.groupings -%}
       {%- if entry_groupings -%}
         {%- for g in entry_groupings -%}
           {%- assign grouping_name = g.grouping | default: g | strip -%}
@@ -55,7 +55,7 @@ permalink: /orphaned-groupings/
         {%- for orphaned_grouping in orphaned_groupings -%}
           {%- assign grouped_entries = "" | split: "" -%}
           {%- for entry in site.entries -%}
-            {%- assign entry_groupings = entry.groupings | default: entry.grouping -%}
+            {%- assign entry_groupings = entry.groupings -%}
             {%- if entry_groupings -%}
               {%- for g in entry_groupings -%}
                 {%- assign grouping_name = g.grouping | default: g | strip -%}
