@@ -1,0 +1,365 @@
+name: Create entry from issue
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - labeled
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  create-entry:
+    if: >-
+      github.event.issue.state == 'open' &&
+      contains(join(github.event.issue.labels.*.name, ','), 'new-entry')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Build entry from issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const issue = context.payload.issue;
+
+            if (!issue) {
+              core.setFailed('No issue payload found.');
+              return;
+            }
+
+            function cleanValue(value) {
+              const cleaned = value.trim();
+              if (!cleaned || cleaned === '_No response_') {
+                return '';
+              }
+              return cleaned;
+            }
+
+            function getSections(body) {
+              const sections = {};
+              const sectionRegex = /^### (.+)\n([\s\S]*?)(?=^### |\Z)/gm;
+              let match;
+              while ((match = sectionRegex.exec(body)) !== null) {
+                sections[match[1].trim()] = cleanValue(match[2]);
+              }
+              return sections;
+            }
+
+            function parseList(value) {
+              if (!value) {
+                return [];
+              }
+              return value
+                .split('\n')
+                .map((line) => line.replace(/^[-*]\s*/, '').trim())
+                .filter((line) => line.length > 0);
+            }
+
+            function parseDelimited(line) {
+              return line.split('|').map((part) => part.trim());
+            }
+
+            function slugify(value) {
+              return value
+                .toLowerCase()
+                .replace(/[’']/g, '')
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/(^-|-$)/g, '');
+            }
+
+            function yamlScalar(value) {
+              if (typeof value === 'number') {
+                return String(value);
+              }
+              return JSON.stringify(value);
+            }
+
+            function writeBlock(lines, indent, text) {
+              text.split('\n').forEach((line) => {
+                lines.push(`${' '.repeat(indent)}${line}`);
+              });
+            }
+
+            const sections = getSections(issue.body || '');
+            const title = sections['Title (Required)'] || issue.title.replace(/^New entry:\s*/i, '').trim();
+            if (!title) {
+              core.setFailed('Unable to determine entry title.');
+              return;
+            }
+
+            const slug = slugify(title);
+            if (!slug) {
+              core.setFailed('Unable to generate a slug from the title.');
+              return;
+            }
+
+            const filePath = path.join('_entries', `${slug}.md`);
+            if (fs.existsSync(filePath)) {
+              core.setFailed(`Entry already exists at ${filePath}.`);
+              return;
+            }
+
+            const mainUrl = sections['Main URL (Required)'];
+            const shortDescription = sections['Short description (Required)'];
+            const mainDescription = sections['Main description (Optional)'];
+            const categoryValues = parseList(sections['Category of entry (Required)']);
+            const yearOfPublication = sections['Year of publication (Optional)'];
+            const thumbnail = sections['Thumbnail path (Optional)'];
+            const wikidataCode = sections['Wikidata code (Optional)'];
+
+            const languages = parseList(sections['Languages (Optional)']).map((line) => {
+              const [language, relationship, explanation] = parseDelimited(line);
+              return {
+                language,
+                relationship_of_language: relationship,
+                explanation: explanation || '',
+              };
+            });
+
+            const groupings = parseList(sections['Groupings (Optional)']).map((line) => {
+              const [grouping, relationship, explanation] = parseDelimited(line);
+              return {
+                grouping,
+                is_or_about_grouping: relationship,
+                explanation: explanation || '',
+              };
+            });
+
+            const genres = parseList(sections['Genres (Optional)']);
+
+            const types = parseList(sections['Types (Optional)']).map((line) => {
+              const [type, distribution, explanation] = parseDelimited(line);
+              return {
+                type,
+                distribution,
+                explanation: explanation || '',
+              };
+            });
+
+            const licensing = parseList(sections['Licensing (Optional)']).map((line) => {
+              const [license, coverage, explanation] = parseDelimited(line);
+              return {
+                license,
+                license_coverage: coverage,
+                explanation: explanation || '',
+              };
+            });
+
+            const versions = parseList(sections['Versions (Optional)']).map((line) => {
+              const [titleValue, format, price, url, explanation] = parseDelimited(line);
+              const parsedPrice = /^-?\d+(\.\d+)?$/.test(price || '') ? Number(price) : price;
+              return {
+                version_title: titleValue,
+                version_format: format,
+                version_price: parsedPrice,
+                version_url: url,
+                explanation: explanation || '',
+              };
+            });
+
+            const funding = parseList(sections['Funding (Optional)']).map((line) => {
+              const [tool, model, explanation] = parseDelimited(line);
+              return {
+                funding_tool: tool,
+                funding_type: model,
+                explanation: explanation || '',
+              };
+            });
+
+            const connections = parseList(sections['Connections (Optional)']).map((line) => {
+              const [entry, details, explanation] = parseDelimited(line);
+              return {
+                has_connection_to_entry: entry,
+                details_of_connection: details,
+                explanation: explanation || '',
+              };
+            });
+
+            if (!mainUrl) {
+              core.setFailed('Main URL is required.');
+              return;
+            }
+
+            if (!shortDescription) {
+              core.setFailed('Short description is required.');
+              return;
+            }
+
+            if (!categoryValues.length) {
+              core.setFailed('At least one category is required.');
+              return;
+            }
+
+            const lines = ['---'];
+            lines.push('layout: entry');
+            lines.push(`title: ${yamlScalar(title)}`);
+            lines.push(`permalink: /${slug}/`);
+            const createdAt = new Date(issue.created_at).toISOString().slice(0, 10);
+            const updatedAt = new Date().toISOString().slice(0, 10);
+            lines.push(`created_at: ${createdAt}`);
+            lines.push(`updated_at: ${updatedAt}`);
+            lines.push('contributors:');
+            lines.push(`  - ${yamlScalar(issue.user.login)}`);
+
+            lines.push('entry:');
+            if (categoryValues.length > 1) {
+              lines.push('  category:');
+              categoryValues.forEach((value) => {
+                lines.push(`    - ${yamlScalar(value)}`);
+              });
+            } else if (categoryValues.length === 1) {
+              lines.push(`  category: ${yamlScalar(categoryValues[0])}`);
+            }
+            if (shortDescription) {
+              lines.push(`  short_description: ${yamlScalar(shortDescription)}`);
+            }
+            if (yearOfPublication) {
+              const yearValue = /^-?\d+$/.test(yearOfPublication) ? Number(yearOfPublication) : yearOfPublication;
+              lines.push(`  year_of_publication: ${yamlScalar(yearValue)}`);
+            }
+            if (mainUrl) {
+              lines.push(`  main_url: ${yamlScalar(mainUrl)}`);
+            }
+            if (thumbnail) {
+              lines.push(`  thumbnail: ${yamlScalar(thumbnail)}`);
+            }
+            if (wikidataCode) {
+              lines.push(`  wikidata_code: ${yamlScalar(wikidataCode)}`);
+            }
+            if (mainDescription) {
+              lines.push('  main_description: |-');
+              writeBlock(lines, 4, mainDescription);
+            }
+
+            function writeList(sectionName, items, writer) {
+              if (!items.length) {
+                return;
+              }
+              lines.push(`${sectionName}:`);
+              items.forEach((item) => {
+                writer(item);
+              });
+            }
+
+            if (genres.length) {
+              lines.push('genres:');
+              genres.forEach((genre) => {
+                lines.push(`  - ${yamlScalar(genre)}`);
+              });
+            }
+
+            writeList('languages', languages, (lang) => {
+              lines.push(`  - language: ${yamlScalar(lang.language)}`);
+              if (lang.relationship_of_language) {
+                lines.push(`    relationship_of_language: ${yamlScalar(lang.relationship_of_language)}`);
+              }
+              if (lang.explanation) {
+                lines.push(`    explanation: ${yamlScalar(lang.explanation)}`);
+              }
+            });
+
+            writeList('groupings', groupings, (grouping) => {
+              lines.push(`  - grouping: ${yamlScalar(grouping.grouping)}`);
+              if (grouping.is_or_about_grouping) {
+                lines.push(`    is_or_about_grouping: ${yamlScalar(grouping.is_or_about_grouping)}`);
+              }
+              if (grouping.explanation) {
+                lines.push(`    explanation: ${yamlScalar(grouping.explanation)}`);
+              }
+            });
+
+            writeList('types', types, (type) => {
+              lines.push(`  - type: ${yamlScalar(type.type)}`);
+              if (type.distribution) {
+                lines.push(`    distribution: ${yamlScalar(type.distribution)}`);
+              }
+              if (type.explanation) {
+                lines.push(`    explanation: ${yamlScalar(type.explanation)}`);
+              }
+            });
+
+            writeList('licensing', licensing, (license) => {
+              lines.push(`  - license: ${yamlScalar(license.license)}`);
+              if (license.license_coverage) {
+                lines.push(`    license_coverage: ${yamlScalar(license.license_coverage)}`);
+              }
+              if (license.explanation) {
+                lines.push(`    explanation: ${yamlScalar(license.explanation)}`);
+              }
+            });
+
+            writeList('versions', versions, (version) => {
+              lines.push(`  - version_title: ${yamlScalar(version.version_title)}`);
+              if (version.version_format) {
+                lines.push(`    version_format: ${yamlScalar(version.version_format)}`);
+              }
+              if (version.version_price !== '' && version.version_price !== undefined) {
+                lines.push(`    version_price: ${yamlScalar(version.version_price)}`);
+              }
+              if (version.version_url) {
+                lines.push(`    version_url: ${yamlScalar(version.version_url)}`);
+              }
+              if (version.explanation) {
+                lines.push(`    explanation: ${yamlScalar(version.explanation)}`);
+              }
+            });
+
+            writeList('funding', funding, (item) => {
+              lines.push(`  - funding_tool: ${yamlScalar(item.funding_tool)}`);
+              if (item.funding_type) {
+                lines.push(`    funding_type: ${yamlScalar(item.funding_type)}`);
+              }
+              if (item.explanation) {
+                lines.push(`    explanation: ${yamlScalar(item.explanation)}`);
+              }
+            });
+
+            writeList('connections', connections, (connection) => {
+              lines.push(`  - has_connection_to_entry: ${yamlScalar(connection.has_connection_to_entry)}`);
+              if (connection.details_of_connection) {
+                lines.push(`    details_of_connection: ${yamlScalar(connection.details_of_connection)}`);
+              }
+              if (connection.explanation) {
+                lines.push(`    explanation: ${yamlScalar(connection.explanation)}`);
+              }
+            });
+
+            lines.push('---');
+            const content = `${lines.join('\n')}\n`;
+            fs.writeFileSync(filePath, content, 'utf8');
+            core.notice(`Created entry at ${filePath}`);
+
+      - name: Create pull request
+        id: create-pull-request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Add entry from issue"
+          title: "Add entry: ${{ github.event.issue.title }}"
+          body: |
+            Creates a new entry from #${{ github.event.issue.number }}.
+          branch: "automation/entry/${{ github.event.issue.number }}"
+
+      - name: Comment on issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prUrl = process.env.PR_URL;
+            if (!prUrl) {
+              return;
+            }
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Created a draft entry PR: ${prUrl}`,
+            });
+        env:
+          PR_URL: ${{ steps.create-pull-request.outputs.pull-request-url }}
