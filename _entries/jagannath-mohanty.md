@@ -16,5 +16,5 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-  - license: "GNU FDL"
+  - license: "GNU Free Documentation License"
 ---

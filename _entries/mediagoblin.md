@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Software"
 licensing:
-  - license: "Affero General Public License"
+  - license: "GNU Affero General Public License"
 ---

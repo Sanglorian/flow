@@ -13,7 +13,7 @@ entry:
 groupings:
   - grouping: "Recipes"
   - grouping: "Software"
-  - grouping: "Hardware"
+  - grouping: "Technology"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "GPL"

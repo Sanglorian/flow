@@ -18,7 +18,7 @@ languages:
     explanation: "https://freelabpl.wordpress.com/"
 groupings:
   - grouping: "Information"
-  - grouping: "Hardware"
+  - grouping: "Technology"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

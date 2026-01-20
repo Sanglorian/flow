@@ -18,7 +18,7 @@ connections:
 groupings:
   - grouping: "Literature"
 genres:
-  - genre: "Humour"
+  - genre: "Comedy"
   - genre: "Politics"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 2.5"

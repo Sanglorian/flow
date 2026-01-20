@@ -33,7 +33,7 @@ languages:
   - language: "Macedonian"
   - language: "Russian"
   - language: "Arabic"
-  - language: "Bangla"
+  - language: "Bengali"
   - language: "Korean"
   - language: "Chinese"
   - language: "Japanese"

@@ -13,7 +13,7 @@ entry:
 groupings:
   - grouping: "Data"
 licensing:
-  - license: "Open Database License"
+  - license: "Open Data Commons Open Database License"
     explanation: "https://opencorporates.com/terms-of-use-2/"
   - license: "Creative Commons Attribution-ShareAlike"
 ---

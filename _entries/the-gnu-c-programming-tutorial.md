@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "GNU FDL"
+  - license: "GNU Free Documentation License"
 ---

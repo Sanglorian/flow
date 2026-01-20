@@ -17,5 +17,5 @@ languages:
 groupings:
   - grouping: "Poetry"
 licensing:
-  - license: "CC0"
+  - license: "CC0 1.0 Universal"
 ---

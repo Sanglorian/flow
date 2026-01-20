@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Data"
 licensing:
-  - license: "CC0"
+  - license: "CC0 1.0 Universal"
 ---

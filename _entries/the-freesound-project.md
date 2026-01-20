@@ -14,7 +14,7 @@ groupings:
   - grouping: "Music (Sound Effects)"
 licensing:
   - license: "Creative Commons Attribution"
-  - license: "CC0"
+  - license: "CC0 1.0 Universal"
   - license: "Creative Commons Attribution-NonCommercial"
   - license: "Creative Commons Sampling Plus"
 ---

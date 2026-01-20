@@ -15,7 +15,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
   - grouping: "Art"
 genres:
-  - genre: "Science fiction"
+  - genre: "Science Fiction"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     explanation: "Former versions had some parts under the Open Game License"

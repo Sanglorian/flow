@@ -11,7 +11,7 @@ entry:
   short_description: "''This international team is working together to create a low-cost, open source eye-tracking system that will allow ALS patients to draw using just their eyes.''"
   main_url: "https://eyewriter.org/"
 groupings:
-  - grouping: "Hardware"
+  - grouping: "Technology"
 licensing:
   - license: "Public domain"
 ---

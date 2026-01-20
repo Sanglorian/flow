@@ -18,7 +18,7 @@ genres:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "CC0"
+  - license: "CC0 1.0 Universal"
   - license: "Creative Commons Attribution 4.0"
     explanation: "As a fallback: https://c4sif.org/about/"
 ---

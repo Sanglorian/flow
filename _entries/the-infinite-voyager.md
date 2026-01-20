@@ -18,5 +18,5 @@ types:
   - type: "Audio"
     distribution: "electronic"
 licensing:
-  - license: "CC0"
+  - license: "CC0 1.0 Universal"
 ---

@@ -11,7 +11,7 @@ entry:
   short_description: "open source DIY rapid hardware prototyping"
   main_url: "http://www.contraptor.org/about"
 groupings:
-  - grouping: "Hardware"
+  - grouping: "Technology"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

@@ -12,5 +12,5 @@ entry:
 groupings:
   - grouping: "Data"
 licensing:
-  - license: "Open Database License"
+  - license: "Open Data Commons Open Database License"
 ---

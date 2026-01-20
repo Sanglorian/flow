@@ -12,7 +12,7 @@ entry:
   main_url: "http://www.fairphone.com/"
   main_description: "Documentation: https://code.fairphone.com/"
 groupings:
-  - grouping: "Hardware"
+  - grouping: "Technology"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

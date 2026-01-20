@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "CC0"
+  - license: "CC0 1.0 Universal"
 ---

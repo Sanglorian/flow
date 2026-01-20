@@ -14,5 +14,5 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-  - license: "Affero General Public License"
+  - license: "GNU Affero General Public License"
 ---
