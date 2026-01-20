@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Collection
   short_description: "Where you make the charts"
   main_url: "http://cchits.net/"

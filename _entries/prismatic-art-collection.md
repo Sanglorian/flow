@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
   - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Collection
   short_description: "A collection of inclusive fantasy art."
   main_url: "https://opengameart.org/content/prismatic-art-collection"

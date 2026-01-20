@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 - Mike Linksvayer
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Person
   short_description: "a one man band with no fans"
   main_url: "http://www.bradsucks.net/"

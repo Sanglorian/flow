@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Collection
   short_description: "A site of microfiction where you can add sequels and prequels to the writing of others."
   main_url: "http://ficly.com/"

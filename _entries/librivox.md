@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Collection
   main_url: "http://librivox.org/"
 

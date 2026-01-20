@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Work
   short_description: "A Beatles classic that squeaked into the public domain just before the term was extended."
   main_url: "http://archive.constantcontact.com/fs142/1104014358705/archive/1112026166157.html"

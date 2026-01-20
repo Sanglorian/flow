@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
   - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Work
   short_description: "A roleplaying game of emotionally tempestuous arthaus wuxia."
   main_url: "http://summerbird.wordpress.com/2012/02/14/mist-robed-gate-pdf/"

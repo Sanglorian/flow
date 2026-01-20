@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Collection
   short_description: "The World Bank Open Knowledge Repository (OKR) is The World Bank’s official open access repository for its research outputs and knowledge products."
   main_url: "https://openknowledge.worldbank.org/"

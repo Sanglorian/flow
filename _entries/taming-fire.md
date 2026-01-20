@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Work
   subtitle: "The Dragonprince's Legacy, #1"
   short_description: "The first book in an epic fantasy series."

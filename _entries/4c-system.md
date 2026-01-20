@@ -7,7 +7,7 @@ updated_at: 2026-01-02T21:15:00+11:00
 contributors:
   - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Work
   short_description: "A supers retroclone."
   main_url: "https://www.drivethrurpg.com/en/product/50837/four-color-system-core-rules"

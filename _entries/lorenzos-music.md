@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured_entry: yes
+  featured_entry: true
   category_of_entry: Source
   short_description: "‘Their sound is not unlike a band of swaggering Lotharios caught between yesteryear and today.’"
   main_url: "http://www.lorenzosmusic.com/"
