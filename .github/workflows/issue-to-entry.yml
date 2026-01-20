@@ -10,7 +10,6 @@ on:
 permissions:
   contents: write
   issues: write
-  pull-requests: write
 
 jobs:
   create-entry:
@@ -337,29 +336,28 @@ jobs:
             fs.writeFileSync(filePath, content, 'utf8');
             core.notice(`Created entry at ${filePath}`);
 
-      - name: Create pull request
-        id: create-pull-request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "Add entry from issue"
-          title: "Add entry: ${{ github.event.issue.title }}"
-          body: |
-            Creates a new entry from #${{ github.event.issue.number }}.
-          branch: "automation/entry/${{ github.event.issue.number }}"
+      - name: Commit entry
+        env:
+          BRANCH_NAME: automation/entry/${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH_NAME"
+          if git status --porcelain | grep .; then
+            git add _entries
+            git commit -m "Add entry from issue #${{ github.event.issue.number }}"
+            git push --set-upstream origin "$BRANCH_NAME"
+          else
+            echo "No changes to commit."
+          fi
 
       - name: Comment on issue
         uses: actions/github-script@v7
         with:
           script: |
-            const prUrl = process.env.PR_URL;
-            if (!prUrl) {
-              return;
-            }
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `Created a draft entry PR: ${prUrl}`,
+              body: 'Entry file created and pushed to branch automation/entry/${{ github.event.issue.number }}. Please open a PR manually from that branch.',
             });
-        env:
-          PR_URL: ${{ steps.create-pull-request.outputs.pull-request-url }}
