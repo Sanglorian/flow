@@ -14,7 +14,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 types:
   - type: "Code"
     distribution: "electronic"

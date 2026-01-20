@@ -13,5 +13,5 @@ entry:
 connections:
   - has_connection_to_entry: "Reddit"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 ---

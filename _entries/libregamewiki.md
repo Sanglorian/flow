@@ -11,7 +11,7 @@ entry:
   short_description: "A wiki of libre electronic games."
   main_url: "https://libregamewiki.org/Main_Page"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "The site itself is dual-licensed; the entries are on all sorts of libre games."

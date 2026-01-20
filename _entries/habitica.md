@@ -16,7 +16,7 @@ connections:
     nature_of_connection: "a source of material for"
     explanation: "Assets from the Liberated Pixel Cup are re-used by Habitica."
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     explanation: "Assets designed for the Liberated Pixel Cup."

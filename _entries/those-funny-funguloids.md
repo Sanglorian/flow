@@ -11,7 +11,7 @@ entry:
   short_description: ""
   main_url: "https://funguloids.sourceforge.io/index.php"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "zlib/libpng License"
 ---

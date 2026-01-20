@@ -18,7 +18,7 @@ connections:
   - has_connection_to_entry: "Mozilla"
   - has_connection_to_entry: "K3rnel"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
   - grouping: "Pixel Art"
 licensing:
   - license: "GNU General Public License"

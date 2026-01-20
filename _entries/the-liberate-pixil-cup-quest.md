@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Liberated Pixel Cup Content"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "GNU General Public License"

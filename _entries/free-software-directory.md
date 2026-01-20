@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "Free Software Foundation"
 groupings:
   - grouping: "Software"
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "GNU Free Documentation License"
     explanation: "A variety of free software licences."

@@ -11,5 +11,5 @@ entry:
   short_description: "A programmer."
   main_url: "https://ncase.me/"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 ---

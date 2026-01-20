@@ -16,7 +16,7 @@ connections:
 genres:
   - "Comedy"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "MIT License"
   - license: "Creative Commons Attribution-NonCommercial"

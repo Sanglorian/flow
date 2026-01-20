@@ -15,7 +15,7 @@ connections:
   - connection: "Sintel"
     nature of connection: "Based on"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution"
   - license: "GNU General Public License"

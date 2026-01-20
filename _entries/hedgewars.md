@@ -11,7 +11,7 @@ entry:
   short_description: "A Worms-like computer game."
   main_url: "https://hedgewars.org/download.html"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "GNU General Public License"
     explanation: "Not sure about the assets."

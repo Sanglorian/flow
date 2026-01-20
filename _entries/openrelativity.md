@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "MIT"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "MIT License"
 ---

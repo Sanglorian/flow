@@ -11,5 +11,5 @@ entry:
   short_description: "Open source software on Windows."
   main_url: "https://bartvandewoestyne.github.io/osswin/"
 groupings:
-  - grouping: "Software, Electronic Game"
+  - grouping: "Software, Video Game"
 ---

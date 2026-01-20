@@ -11,7 +11,7 @@ entry:
   short_description: "A blog of open source games."
   main_url: "https://freegamer.blogspot.com/"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
     explanation: "The site itself"

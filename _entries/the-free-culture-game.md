@@ -11,7 +11,7 @@ entry:
   short_description: "A game about commercialisation of content."
   main_url: "http://www.molleindustria.org/en/freeculturegame/"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0"
 ---

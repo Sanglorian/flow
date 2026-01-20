@@ -11,7 +11,7 @@ entry:
   short_description: "Was a Steam-like computer game platform."
   main_url: "https://en.wikipedia.org/wiki/Desura"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "GNU General Public License"
 ---

@@ -13,7 +13,7 @@ entry:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
   - grouping: "Pixel Art"
   - grouping: "Raster Art"
   - grouping: "Music"

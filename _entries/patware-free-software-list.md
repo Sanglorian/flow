@@ -11,5 +11,5 @@ entry:
   short_description: "Includes a list of libre electronic games."
   main_url: "https://web.archive.org/web/20150829102925/http://patware.freeshell.org/game.htm"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 ---

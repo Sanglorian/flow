@@ -11,7 +11,7 @@ entry:
   short_description: "The code used by the Ryzom MMORPG."
   main_url: "https://github.com/ryzom/ryzomcore"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Affero General Public License"
 ---

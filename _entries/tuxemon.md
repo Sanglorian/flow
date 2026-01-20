@@ -20,7 +20,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
   - grouping: "Pixel Art"
 types:
   - type: "Audio"

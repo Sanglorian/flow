@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Jason Rohrer"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Public domain"
 ---

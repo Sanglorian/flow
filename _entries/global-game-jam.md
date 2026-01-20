@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Collection"
   main_url: "https://globalgamejam.org/"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
     explanation: "Some of the works are under other CC licences."

@@ -17,7 +17,7 @@ entry:
 connections:
   - has_connection_to_entry: "Blender Foundation"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution"
   - license: "GNU General Public License"
