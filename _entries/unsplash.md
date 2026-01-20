@@ -18,5 +18,5 @@ groupings:
 licensing:
   - license: "CC0 1.0 Universal"
     coverage: "Formerly applied to the whole site."
-	explanation: "Now a limited set: https://unsplash.com/s/photos/cc0"
+    explanation: "Now a limited set: https://unsplash.com/s/photos/cc0"
 ---

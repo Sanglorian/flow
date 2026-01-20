@@ -15,6 +15,6 @@ entry:
 groupings:
   - grouping: "Music (Podcasts)"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)
+  - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     coverage: "At least CChits, Crivins and Tuxjam."
 ---

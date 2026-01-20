@@ -16,7 +16,7 @@ entry:
     The Vicious Crucible of Villa Argentate is game for up to six players and a GM. It plays in three to five sessions, or a pulse-pouding single session of jump cuts and action sequences. Best of all, it's free.
 
     Happy Gaming!'
-	Archive: https://web.archive.org/web/20150206174143/http://joshroby.com/node/347
+    Archive: https://web.archive.org/web/20150206174143/http://joshroby.com/node/347
 genres:
   - "Fantasy"
 languages:
