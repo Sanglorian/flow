@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "An Odia author and academic."
   main_url: "https://commons.wikimedia.org/wiki/File:Relicensing_of_books_by_Jagannath_Mohanty_in_CC_license.jpg"
 groupings:

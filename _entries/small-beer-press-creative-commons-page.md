@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Read to live. Live to read."
   main_url: "https://smallbeerpress.com/creative-commons/"
   main_description: "Also produces all rights reserved books."

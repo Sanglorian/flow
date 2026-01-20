@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"Created in 1993 this texture library includes 128 repeating textures, now available for free.\""
   year_of_publication: 2015
   main_url: "https://renderman.pixar.com/pixar-one-twenty-eight"

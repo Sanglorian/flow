@@ -7,7 +7,7 @@ updated_at: 2026-01-02T21:10:30+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A webcomic."
   main_url: "https://github.com/s-macke/Abstruse-Goose-Archive"
 groupings:

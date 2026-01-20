@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "You are the crew of the interstellar scout ship Raptor."
   main_url: "http://onesevendesign.com/lasers_and_feelings_rpg.pdf"
 connections:

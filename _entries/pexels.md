@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"Best free stock photos in one place.\""
   main_url: "https://web.archive.org/web/20160914062127/https://www.pexels.com/"
   site_archived: 1

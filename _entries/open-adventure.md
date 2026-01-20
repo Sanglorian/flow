@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''Open Adventure is a full-featured tabletop adventure game that offers out-of-box support for medieval fantasy and science-fiction expeditions.''"
   main_url: "https://web.archive.org/web/20181029070921/http://www.geekguild.com/openadventure/"
   main_description: "GitHub: https://github.com/openadventure/Open-Adventure/tree/master"

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Links to collections of CC-licensed works."
   main_url: "https://wiki.creativecommons.org/wiki/Content_Directories"
 connections:

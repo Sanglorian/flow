@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An old school tabletop RPG with each concept explained on one page."
   main_url: "http://rolesrules.blogspot.com/"
 groupings:

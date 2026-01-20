@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "124.171.66.181"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"To provide tutorials, workflows and a showcase for high-quality photography using Free/Open Source Software.\""
   main_url: "https://pixls.us/"
 groupings:

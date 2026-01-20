@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A Risk-like boardgame."
   main_url: "https://github.com/cotteux/Sovereign"
   main_description: "Buy a hardcopy: https://www.thegamecrafter.com/games/sovereign:-open-source-board-game"

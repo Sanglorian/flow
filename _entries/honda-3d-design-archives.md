@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "External designs of Honda's cars."
   main_url: "https://web.archive.org/web/20140210063032/http://www.honda-3d.com/"
 groupings:

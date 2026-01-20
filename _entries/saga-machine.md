@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "''Saga Machine is a brand new tabletop role-playing system by the Tab Creations Collective.''"
   main_url: "https://www.tabcreations.com/saga-machine/"
 groupings:

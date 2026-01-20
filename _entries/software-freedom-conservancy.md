@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "*Software Freedom Conservancy is a not-for-profit organization that helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects.*"
   main_url: "https://sfconservancy.org/"
 groupings:

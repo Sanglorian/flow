@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The software that NASA used to land Curiosity."
   main_url: "https://nasa.github.io/openmct/"
 connections:

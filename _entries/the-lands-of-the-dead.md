@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''This [Dungeon World] supplement is a resource to help you and your players create interesting, exciting, mysterious and dangerous lives after death.''"
   main_url: "https://docs.google.com/document/d/1-tO8mux58YHCpX7wGGDnnv9siL58w4yN-v2M8C3lBmQ/edit"
 connections:

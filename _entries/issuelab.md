@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A collection of information."
   main_url: "https://www.issuelab.org/"
 groupings:

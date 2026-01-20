@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: ""
   main_url: "http://www.1km1kt.net/rpg/princes-of-arabia"
 connections:

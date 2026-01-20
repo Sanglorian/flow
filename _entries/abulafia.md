@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A collection of random concept and word generators for story gamers."
   main_url: "http://www.random-generator.com/"
   main_description: "Appears to have been wiped."

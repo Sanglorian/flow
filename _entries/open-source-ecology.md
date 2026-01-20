@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Technology for sustainable, localised, modern living."
   main_url: "https://www.opensourceecology.org/"
 groupings:

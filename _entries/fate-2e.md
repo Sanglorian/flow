@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A universal game based on the FATE engine."
   main_url: "http://www.faterpg.com/"
   main_description: |-

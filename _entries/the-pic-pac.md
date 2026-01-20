@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "New pacs on Monday. Free pics Tuesday-Sunday"
   alias: "43+ Unique Places to Find Remarkable Free Photos"
   main_url: "https://thepicpac.com/"

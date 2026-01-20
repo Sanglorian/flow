@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A deck-building card game."
   main_url: "https://boardgamegeek.com/boardgame/136847/conquering-corsairs"
   main_description: "[Art](https://opengameart.org/content/prismatic-art-collection). [Print on demand](https://www.thegamecrafter.com/games/conquering-corsairs)."

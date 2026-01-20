@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A massive art website, with some CC licensed works."
   main_url: "https://www.deviantart.com/creative-commons"
 groupings:

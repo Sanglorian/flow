@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   main_url: "https://www.fsf.org/blogs/community/hampshire-college-distributes-free-software-bundle-to-all-incoming-students"
 groupings:
   - grouping: "Software"

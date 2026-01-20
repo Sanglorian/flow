@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "The Fortune System Resource Document includes the basic rules of the Fortune System. It also includes advice from existing Fortune System designers."
   main_url: "https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/"
   site_archived: 1

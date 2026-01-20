@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A 'best of' for Learning Music Monthly."
   main_url: "https://learningmusicmonthly.com/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://gitlab.com/voadi/voadi"
 genres:
   - "Politics"

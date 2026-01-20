@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play travelling enforcers and heroes putting wrongs to right."
   main_url: "http://sites.google.com/site/amagigames/danger-rolls"
 connections:

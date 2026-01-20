@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A wizarding setting for REIGN. (REIGN Supplement #13)"
   main_url: "https://gregstolze.com/downloads.html"
   main_description: "REIGN is an all rights reserved game."

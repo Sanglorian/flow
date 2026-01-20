@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://libregraphicsmag.com/"
   main_description: |-
     Particular articles in the magazine are under different license.

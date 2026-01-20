@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Welcome to Bulletproof Blues: a \"rules light\" superhero roleplaying game set in the universe of Kalos Comics."
   main_url: "http://ogc.rpglibrary.org/index.php?title=Bulletproof_Blues"
 connections:

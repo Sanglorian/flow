@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Undergraduate photography class."
   main_url: "https://web.archive.org/web/20130125111434/http://phonar.covmedia.co.uk/"
 groupings:

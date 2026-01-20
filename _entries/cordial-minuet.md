@@ -8,7 +8,7 @@ contributors:
 - "202.55.151.86"
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A two-player ONLINE STRATEGY GAME played for REAL MONEY by JASON ROHRER"
   year_of_publication: 2014
   main_url: "http://cordialminuet.com/"

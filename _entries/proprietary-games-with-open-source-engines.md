@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A useful Reddit post."
   main_url: "https://www.reddit.com/r/linux_gaming/comments/1e9vks/proprietary_games_with_open_source_engines/"
 connections:

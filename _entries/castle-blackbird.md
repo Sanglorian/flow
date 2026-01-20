@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Gothic horror role-playing game."
   main_url: "https://web.archive.org/web/20140818092502/http://gremlinlegions.blogspot.com/2011/06/castle-blackbird-2nd-version.html"
 connections:

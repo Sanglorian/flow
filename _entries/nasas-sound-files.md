@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   main_description: |-
     https://soundcloud.com/nasa
     https://soundcloud.com/nasa

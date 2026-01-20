@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A simple, abstract board game."
   main_url: "https://tesera.ru/images/items/831686/TakeBackToe.pdf"
 connections:

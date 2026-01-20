@@ -7,7 +7,9 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work, Collection"
+  category:
+    - Work
+    - Collection
   short_description: "'This site provides over 2,600 free mini-lessons and example videos with no ads. The videos are organized by course and topic.'"
   main_url: "https://mathispower4u.com/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A supplement for Dungeon Squad from Domino Writing."
   main_url: "http://dominowriting.com/games.html"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Cardenio has a problem. He seems to be slipping between realities."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/07/cardenios-daughter/"
 connections:

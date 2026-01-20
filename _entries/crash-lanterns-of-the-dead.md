@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Crash / Lanterns of the Dead is two game in one: a game about a crashed astronaut, and a game about an alien culture."
   main_url: "http://nickwedig.libraryofhighmoon.com/2012/04/game-chef-2012-crash-lanterns-of-the-dead/"
   main_description: "A version of the game as a gratis DOCX is available [here](http://nickwedig.libraryofhighmoon.com/2012/04/game-chef-2012-astronauts-and-aliens-rough-draft/)."

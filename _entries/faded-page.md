@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "\"Faded Page is an archive of eBooks that are provided completely free to everyone.\""
   main_url: "https://www.fadedpage.com/"
 languages:

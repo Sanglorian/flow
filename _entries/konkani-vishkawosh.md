@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Konkani Vishwakosh is a four-volume hard copy encyclopedia (3632 pages) published by Goa University; a work that took over 14 years to develop."
   main_url: "https://diff.wikimedia.org/2013/11/26/konkani-vishkawosh-free-license/"
 genres:

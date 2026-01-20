@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Theatre Is Evil is a studio album by Amanda Palmer & The Grand Theft Orchestra produced by John Congleton.'"
   main_url: "https://web.archive.org/web/20130601071211/http://amandapalmer.net/producttypes/featured/"
 connections:

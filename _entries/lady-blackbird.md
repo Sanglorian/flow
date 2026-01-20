@@ -8,7 +8,7 @@ contributors:
 - "115.187.248.102"
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   subtitle: "Tales from the Wild Blue Yonder: Chapter I"
   short_description: "A game, a setting and a starting adventure all in one; a collage of recent innovations in gaming."
   year_of_publication: 2009

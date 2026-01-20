@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'[A] collection of physical establishments and locations, brief descriptions (sights, sounds, smells), an NPC, and corresponding moves for Dungeon World.'"
   main_url: "https://www.drivethrurpg.com/en/product/107759/take-on-establishments"
 connections:

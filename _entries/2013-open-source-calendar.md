@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Featuring all your favourite Open Source Heroes and Heroines, these are some of the people who have done most to exemplify or further the cause of a more open, collaborative or more freedom-conscious approach to working, thinking and licensing."
   main_url: "https://web.archive.org/web/20141228154102/http://yearofopensource.net/2013-open-source-calendar-swimsuit-edition/"
   main_description: |-

@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://web.archive.org/web/20210507011940/http://www.isitopendata.org/"
 connections:
   - has_connection_to_entry: "Open Knowledge Foundation"

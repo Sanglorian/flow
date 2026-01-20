@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Organisation
+  category: Organisation
   short_description: "Creators of the 3D graphics/video software Blender and films using Blender."
   main_url: "http://www.blender.org"
   main_description: "The Foundation develops the Blender software while the Institute creates other projects like videos and electronic games."

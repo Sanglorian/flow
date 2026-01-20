@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Information about a fantasy world, in the form of a newspaper."
   main_url: "https://rustfoot.blogspot.com/"
   main_description: "Rules-free."

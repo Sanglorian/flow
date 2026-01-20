@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A single - remixed multiple times - released by Dan Bull. #9 in the UK Independent chart."
   main_description: |-
     The license status of the work isn't mentioned on the main site, but is confirmed on the [http://www.creativecommons.org.uk/blog/tabid/84/EntryId/22/Dan-Bull-reaches-number-9-in-the-Indie-charts-with-music-to-which-he-has-waived-copyright-using-CC0.aspx Creative Commons UK]

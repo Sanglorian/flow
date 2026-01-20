@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Zany space adventures powered by the Token Effort system."
   main_url: "https://www.gregstolze.com/space.html"
 connections:

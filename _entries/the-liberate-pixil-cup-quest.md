@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game where you fight monsters."
   main_url: "https://opengameart.org/content/the-liberate-pixil-cup-quest"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Conversations about open data in science."
   main_url: "https://web.archive.org/web/20120117135052/http://pantonprinciples.org/panton-discussions/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An artist."
   main_url: "http://brianfoo.com/"
   main_description: "[Wiki](http://wiki.brianfoo.com/). [GitHub](https://github.com/beefoo)"

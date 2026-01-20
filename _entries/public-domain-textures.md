@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "What it says."
   main_url: "http://pdtextures.blogspot.com/"
 groupings:

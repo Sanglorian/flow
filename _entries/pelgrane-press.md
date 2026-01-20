@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "An RPG publisher."
   main_description: "[https://web.archive.org/web/20190706181824/http://www.pelgranepress.com/wiki/index.php?title=Main_Page Pelgrane Press SRDs Wiki]"
 groupings:

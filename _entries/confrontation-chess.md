@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Turn Chess into a tactical miniatures game."
   main_url: "https://web.archive.org/web/20140817224835/http://dominowriting.com/ConfrontationChess.pdf"
 connections:

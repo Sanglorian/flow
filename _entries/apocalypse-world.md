@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An all-rights-reserved tabletop roleplaying game that has inspired many other games."
 connections:
   - has_connection_to_entry: "Vincent Baker"

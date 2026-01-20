@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Disturbed teen meets impassible therapist meets faceless killer meets white trash drama. A compact, rapid-fire psychological thriller."
   main_url: "https://unglue.it/work/140224/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A fantasy RPG with a freeform magic system."
   main_url: "https://web.archive.org/web/20131012230821/http://greylotus.org/rpg/grey-lotus/download/"
 genres:

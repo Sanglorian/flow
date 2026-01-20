@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A song written by free software guru Richard Stallman."
   main_url: "http://www.gnu.org/music/free-software-song.html"
   main_description: |-

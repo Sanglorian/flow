@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Includes a list of libre electronic games."
   main_url: "https://web.archive.org/web/20150829102925/http://patware.freeshell.org/game.htm"
 groupings:

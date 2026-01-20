@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A project to create a drink, the proceeds funding the Pirate Party."
   main_url: "https://web.archive.org/web/20181013093330/http://mier.metamate.cc/sample-page/miers-cc-license/"
 groupings:

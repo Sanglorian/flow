@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A roleplaying game that celebrates the sense of possibility in the Victorian era."
   main_url: "https://emmetto.itch.io/steampunkfitters"
 genres:

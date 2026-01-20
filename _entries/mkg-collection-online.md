@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"For the first time, MKG Collection Online makes the objects of the Museum für Kunst und Gewerbe Hamburg publicly available on a digital platform.\""
   main_url: "http://sammlungonline.mkg-hamburg.de/en"
 connections:

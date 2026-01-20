@@ -7,7 +7,9 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Source"
+  category:
+    - Collection
+    - Source
   short_description: "A podcast network."
   main_url: "https://otherside.network/shows/"
 groupings:

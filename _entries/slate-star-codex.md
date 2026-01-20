@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A  blog about science, medicine, philosophy, politics, and futurism."
   main_url: "https://slatestarcodex.com/about/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   main_url: "http://imslp.org/"
 groupings:
   - grouping: "Music"

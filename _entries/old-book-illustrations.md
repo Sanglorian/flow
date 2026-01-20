@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Illustrations scanned from old books."
   main_url: "http://www.oldbookillustrations.com/"
 groupings:

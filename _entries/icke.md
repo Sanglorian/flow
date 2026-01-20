@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A sad story about a miserable kid and the perils of fish telepathy. Despite this flippant description, I consider this one of my more successful horror stories."
   main_url: "https://www.gregstolze.com/downloads.html"
   main_description: "Available in PDF."

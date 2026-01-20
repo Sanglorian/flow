@@ -8,7 +8,7 @@ contributors:
   - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A solo RPG where you play someone crawling around the innards of a power plant."
   year_of_publication: 2009
   main_url: "https://archive.org/details/ThePlant/ThePlant/page/n1/mode/2up"

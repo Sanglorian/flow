@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Welcome to Fort Biloxi. Your parents have sent you to military school to help you focus\". What could be scarier than military school? How about being one of the new kids? Luckily, you have a cunning plan. You and the other new kids (the other players) are going to try to get expelled so you can go back to public school with all your friends.\""
   main_url: "https://www.ludism.org/ppwiki/ArmyBrats"
 connections:

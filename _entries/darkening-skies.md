@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An unofficial sequel to Lady Blackbird."
   main_url: "http://www.box.net/shared/eqdk9jaqdf"
   main_description: |-

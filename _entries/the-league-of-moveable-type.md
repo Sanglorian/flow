@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "'Here, you'll find only the most well-made, free & open-source, @font-face ready fonts.'"
   main_url: "https://www.theleagueofmoveabletype.com/"
 groupings:

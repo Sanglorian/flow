@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Rafu, or Raffaele Manzo, is a game designer."
   main_url: "https://web.archive.org/web/20160818111617/https://sites.google.com/site/sitodirafu/"
 groupings:

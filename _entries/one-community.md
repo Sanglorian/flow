@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "202.55.151.86"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"7 complete and different sustainable village prototypes, all related living infrastructure, and a Highest Good society model for global transformation.\""
   main_url: "http://onecommunityglobal.org/open-source/"
 languages:

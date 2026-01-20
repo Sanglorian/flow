@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "This site allows users to explore the natural sciences and humanities collections of Museum Victoria in Australia, featuring collections of zoology, geology, palaeontology, history, indigenous cultures and technology. Over 1.15 million records were presented at launch in 2015, accompanied by over 150,000 images."
   main_url: "http://collections.museumvictoria.com.au/"
 connections:

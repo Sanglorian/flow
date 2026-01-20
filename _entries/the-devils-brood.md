@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Plantagenet family drama LARP for 7-9 players"
   main_url: "https://larpwiki.labcats.org/index.php?title=The_Devil%27s_Brood"
   main_description: |-

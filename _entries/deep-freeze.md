@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "In Deep Freeze, economists Philipp Bagus and David Howden demonstrate that the real cause of the calamity was bad central bank policy."
   main_url: "https://unglue.it/work/136419/"
 connections:

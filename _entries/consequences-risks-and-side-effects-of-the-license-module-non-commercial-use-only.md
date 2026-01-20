@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The title is comprehensive."
   main_url: "http://blog.okfn.org/2013/01/08/consequences-risks-and-side-effects-of-the-license-module-non-commercial-use-only-2/"
 connections:

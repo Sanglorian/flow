@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A clean point of interest icon set made especially for cartography."
   main_url: "https://labs.mapbox.com/maki-icons/"
   main_description: |-

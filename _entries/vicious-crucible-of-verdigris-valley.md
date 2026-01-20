@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://miriamrobern.itch.io/verdigris"
   main_description:" "Archive backup: https://web.archive.org/web/20150214171426/http://joshroby.com/node/340"
 connections:

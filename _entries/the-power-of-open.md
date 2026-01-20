@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A book from Creative Commons about how those licenses have been used in various projects."
   main_url: "https://thepowerofopen.org/"
 connections:

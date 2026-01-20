@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "New options for Dungeon Squad."
   main_url: "https://web.archive.org/web/20130411033610/http://www.freewebs.com/skathrosds/index.htm"
 connections:

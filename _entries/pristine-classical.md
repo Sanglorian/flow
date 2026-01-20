@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A company that remasters public domain music."
   main_url: "https://www.pristineclassical.com/"
 ---

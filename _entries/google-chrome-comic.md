@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An introduction to Google's open source browser project."
   main_url: "http://blogoscoped.com/google-chrome/"
 connections:

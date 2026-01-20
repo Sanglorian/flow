@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The story of the beginning of the Machine Age."
   main_url: "https://www.drivethrurpg.com/en/product/81873/maschine-zeit"
 groupings:

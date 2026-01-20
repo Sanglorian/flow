@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A Western LARP of small town secrets."
   main_url: "http://nickwedig.libraryofhighmoon.com/2010/12/providence-junction/"
 connections:

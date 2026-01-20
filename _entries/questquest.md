@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   main_url: "https://github.com/JustinNichol/questquest"
 connections:
   - has_connection_to_entry: "Justin Nichols"

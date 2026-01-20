@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "202.55.151.86"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A colouring book that explains SELinux policies."
   main_url: "http://blog.linuxgrrl.com/2014/04/16/the-selinux-coloring-book/"
 genres:

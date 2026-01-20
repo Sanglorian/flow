@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"A grab bag of rules support. Nain, Ardwin and Out of the Violent Planet all get expanded material, but much of it is perfectly adaptable to any REIGN game at all, full stop.\""
   main_url: "http://www.gregstolze.com/downloads.html"
 connections:

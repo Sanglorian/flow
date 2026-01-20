@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Life in a post-apocalyptic future."
   main_url: "https://web.archive.org/web/20111027123551/http://www.synapserpg.com/CascadeFailureRPG_PUBLICBETA_v1_1.pdf"
 connections:

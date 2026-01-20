@@ -8,7 +8,7 @@ contributors:
   - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "An RPG based on Apocalypse World for dungeoncrawling adventure."
   main_url: "http://www.dungeon-world.com/"
   thumbnail: "/thumbnails/dungeon-world.png"

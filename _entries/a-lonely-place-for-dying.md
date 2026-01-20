@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An independent drama-thriller film."
   year_of_publication: 2009
   main_url: "https://archive.org/details/ALonelyPlaceForDying"

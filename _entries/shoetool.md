@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'ShoeTool is an animated fairy tale about an elf shoemaker who thinks he buys a machine to help him make shoes... only to find out that there are there are strings attached to his \"purchase.\"'"
   year_of_publication: 2019
   main_url: "https://www.fsf.org/blogs/community/presenting-shoetool-happy-holidays-from-the-fsf"

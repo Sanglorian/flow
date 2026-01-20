@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A website about tropes in fiction, mythology and real life."
   main_url: "https://tvtropes.org/"
 groupings:

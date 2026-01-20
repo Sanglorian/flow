@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'TeX for the Impatient is a ~350 page book on TeX, plain TeX, and Eplain, written by Paul Abrahams, Kathryn Hargreaves, and Karl Berry.'"
   main_url: "https://www.gnu.org/software/teximpatient/"
 groupings:

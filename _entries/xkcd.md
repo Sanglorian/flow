@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A webcomic of romance, sarcasm, math, and language."
   main_url: "http://xkcd.com/"
 connections:

@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Collection
+  category: Collection
   short_description: "At opensource.com, we want to show you the places where the open source way is multiplying ideas and effort, even beyond technology."
   main_url: "http://opensource.com/about"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fast-paced RPG inspired by manga and anime."
   main_url: "http://www.animaprimerpg.com/main/"
 connections:

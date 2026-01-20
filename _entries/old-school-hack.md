@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Trying to capture that sweet spot in a new way."
   main_url: "https://web.archive.org/web/20190724233928/http://www.oldschoolhack.net/"
   main_description: "[https://artikid.itch.io/old-school-hack-edizione-italiana Gratis PDF in Italian]. [Internet Archive PDF](https://archive.org/details/OldSchoolHack) in English."

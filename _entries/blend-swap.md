@@ -8,7 +8,7 @@ contributors:
 - "115.187.248.102"
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "BLEND SWAP IS A COMMUNITY OF PASSIONATE BLENDER ARTISTS WHO SHARE THEIR WORK UNDER CREATIVE COMMONS LICENSES."
   main_url: "http://www.blendswap.com/"
 connections:

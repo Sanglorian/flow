@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An anthology arguing for freeing up works from copyright."
   main_description: |-
     Originally released under an obscure license which seemingly released the work into the public domain.

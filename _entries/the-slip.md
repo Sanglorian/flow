@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An album from Nine Inch Nails."
   main_url: "https://wiki.creativecommons.org/wiki/Case_Studies/Nine_Inch_Nails_The_Slip"
   main_description: "Available for free if you join the Nine Inch Nails mailing list."

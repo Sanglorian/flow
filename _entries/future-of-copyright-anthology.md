@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Short fiction and non-fiction on the future of copyright."
   year_of_publication: 2012
   main_url: "https://fundacja.wolnelektury.pl/2012/05/17/works-for-future-of-copyright-e-book-selected/"

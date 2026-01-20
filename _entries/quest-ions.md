@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Quest-ions is a fantasy roleplaying game with a novel mechanic using tokens."
   main_url: "http://www.1km1kt.net/rpg/quest-ions"
 connections:

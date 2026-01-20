@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "OSR Fantasy RPG based on Steve Jackson's \"The Fantasy Trip\" with updated rules and original races (no elves, dwarves, or halflings)."
   main_url: "http://www.1km1kt.net/rpg/rage-precognition-grace-rpg"
   main_description: |-

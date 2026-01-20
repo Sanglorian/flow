@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Trophy is a collaborative storytelling game about a group of treasure-hunters on a doomed expedition into a forest that doesn’t want them there."
   main_url: "https://trophyrpg.com/system/"
 connections:

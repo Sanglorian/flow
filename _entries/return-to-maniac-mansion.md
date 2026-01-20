@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game for Jonathan Walton's Stage One."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/11/return-to-maniac-mansion/"
 connections:

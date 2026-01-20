@@ -7,7 +7,9 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Person
+  category:
+    - Collection
+    - Person
   short_description: "Composer"
   main_url: "https://anttinorthwest.wixsite.com/anttiluode"
 languages:

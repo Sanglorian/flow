@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Hexoshi is a libre game generally inspired by the Metroid series. It is a work in progress, but once completed, it will be my biggest game yet, with a maze-like world spanning hundreds of individual rooms. I intend to make this one of the greatest libre free-roaming games to date."
   main_url: "https://hexoshi.github.io/download.html"
 languages:

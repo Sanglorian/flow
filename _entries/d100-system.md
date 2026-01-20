@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "124.168.215.177"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "A tabletop roleplaying game engine."
 groupings:
   - grouping: "Tabletop Roleplaying"

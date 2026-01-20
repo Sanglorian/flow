@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game where spelling words with Scrabble tiles affects what happens in the story."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/11/scrabblenauts/"
 connections:

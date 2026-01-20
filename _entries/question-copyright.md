@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An advocacy group for copyright reform."
   main_url: "https://questioncopyright.org/"
 groupings:

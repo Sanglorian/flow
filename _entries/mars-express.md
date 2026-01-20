@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Images from the Mars Express mission."
   main_url: "https://blogs.esa.int/communication/2014/12/18/esa-mars-express-high-resolution-stereo-camera-hrsc-images-now-available-under-a-creative-commons-license/"
 groupings:

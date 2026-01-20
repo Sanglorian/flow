@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A straightforward narrative role-playing game."
   main_url: "hhttps://www.drivethrurpg.com/en/product/137638/wordplay-rpg-core-edition"
 groupings:

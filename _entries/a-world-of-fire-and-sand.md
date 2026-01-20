@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A freeform game inspired by Dark Sun."
   main_url: "http://nickwedig.libraryofhighmoon.com/2010/12/a-world-of-fire-and-sand/"
   main_description: |-

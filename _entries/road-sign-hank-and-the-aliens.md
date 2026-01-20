@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: 
+  category:  
   - Collection
   short_description: "Lunduke is a game designer and comic creator."
   main_url: "http://lunduke.com/"

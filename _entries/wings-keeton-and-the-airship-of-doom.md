@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An RPG of high adventure in the 1920s."
   main_url: "http://www.1km1kt.net/rpg/wings-keeton-and-the-airship-of-doom"
 connections:

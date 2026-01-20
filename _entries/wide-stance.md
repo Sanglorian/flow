@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game about repressed homosexuality, written in five minutes."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/07/wide-stance/"
 connections:

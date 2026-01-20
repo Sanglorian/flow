@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Official photos from Elon Musk's space operations."
   main_url: "https://www.flickr.com/photos/spacex/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game of earth, air, fire, water and balance."
   main_url: "https://www.drivethrurpg.com/en/product/92757/a-wanderer-s-romance?it=1&products_id=92757"
 connections:

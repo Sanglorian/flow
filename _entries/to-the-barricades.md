@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A boardgame about a faceoff between radicals and the police."
   main_url: "https://web.archive.org/web/20140225074510/http://blackflaggames.org/download/"
 groupings:

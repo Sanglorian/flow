@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The role-playing game of mooks, minions, and dupes."
   main_url: "http://www.1km1kt.net/rpg/witless-minion"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A science fiction Western."
   main_url: "http://nickwedig.libraryofhighmoon.com/2010/12/longshot/"
 connections:

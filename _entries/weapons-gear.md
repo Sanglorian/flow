@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Ronin Arts gear book for 4C System."
   main_url: "https://web.archive.org/web/20080907042249/http://www.lulu.com/content/2245907"
 connections:

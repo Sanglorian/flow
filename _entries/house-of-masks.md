@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://nickwedig.libraryofhighmoon.com/2010/12/house-of-masks/"
 connections:
   - has_connection_to_entry: "Teapot Dome Games"

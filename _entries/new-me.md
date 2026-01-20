@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"New Me! is 10 original pieces for solo piano\""
   main_url: "https://www.kickstarter.com/projects/kimikoishizaka/new-me"
 connections:

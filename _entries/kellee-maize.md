@@ -7,6 +7,6 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Source"
+  category: Source
   main_url: "https://web.archive.org/web/20140205021222/http://kelleemaize.com/about.html"
 ---

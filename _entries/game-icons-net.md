@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Hundreds of free icons to customize and include in your games'"
   main_url: "https://game-icons.net/"
 genres:

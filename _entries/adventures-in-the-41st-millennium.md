@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A modification of Dungeon Squad for the Warhammer 40K universe."
   main_url: "http://www.1km1kt.net/rpg/dungeon-squad-adventures-in-the-41st-millennium"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A book of the near future."
   main_url: "https://craphound.com/est/download/"
 connections:

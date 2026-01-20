@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A detailed pulp-and-planet game."
   main_url: "http://zamani.pbworks.com/w/page/4329181/FrontPage"
 groupings:

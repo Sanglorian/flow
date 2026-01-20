@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A 24HRPG by Phil Reed."
   main_url: "https://forum.rpg.net/index.php?threads/vs-monsters-anyone-have-the-srd-vsmengine-zip.731027/"
   main_description: "Also available from: https://stream-monk.itch.io/vs-m-engine-srd"

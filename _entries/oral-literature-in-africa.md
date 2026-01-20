@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "First published in 1970 by Oxford University Press, this classic study has been hailed as \"the single most authoritative work on oral literature\u201d."
   main_url: "https://unglue.it/work/81834/"
   main_description: |-

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A hacker, wrongly imprisoned, tries to take down the police state."
   main_url: "https://craphound.com/category/littlebrother/"
   main_description: |-

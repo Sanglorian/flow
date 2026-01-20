@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://www.flickr.com/photos/samlavi/sets/72157622151078044/detail/"
 connections:
   - has_connection_to_entry: "samlavi"

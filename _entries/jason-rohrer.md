@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Source
+  category: Source
   short_description: "A game designer who writes simple but not simplistic games."
   main_url: "https://hcsoftware.sourceforge.net/jason-rohrer/"
 ---

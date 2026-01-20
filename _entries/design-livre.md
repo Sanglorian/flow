@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Design Livre is an attitude, a way of conceiving the design and seek a comprehensive and inclusive look, recognizing designs made by people. (translated from Portuguese)"
   main_url: "https://unglue.it/work/128686/"
 connections:

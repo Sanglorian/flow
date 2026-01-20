@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Ryan St's rewriting of original D&D in the style of Apocalypse World."
   main_url: "https://web.archive.org/web/20140818093353/http://story-games.com/forums/discussion/comment/335481#Comment_335481"
   main_description: |-

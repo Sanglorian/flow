@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "eLife is a unique collaboration between funders and practitioners of research to communicate influential discoveries in the life and biomedical sciences in the most effective way."
   main_url: "https://elifesciences.org/"
 connections:

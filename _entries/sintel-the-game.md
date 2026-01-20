@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game inspired by the Blender Foundation's movie Sintel."
   main_url: "https://web.archive.org/web/20160205055207/http://sintelgame.org/downloads/"
   main_description: "[Github Code](https://github.com/jonburesh/sintelgame)"

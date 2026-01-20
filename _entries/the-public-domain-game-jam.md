@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A competition to create a game inspired by the public domain."
   main_url: "https://itch.io/jam/the-public-domain-jam"
 connections:

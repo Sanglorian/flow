@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'We're a community of free culture-loving individuals, creating a free card game.'"
   main_url: "http://wtactics.org/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An expansion to the Piecepack."
   main_url: "https://hexpack.org/"
   main_description: |-

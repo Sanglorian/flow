@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Collection
+  category: Collection
   short_description: "A website that preserves out-of-copyright books."
   main_url: "http://www.gutenberg.org/wiki/Main_Page"
   main_description: "[A Brief Survey of Victorian Science Fiction](http://wondermark.com/victorian-scifi/) (a catalogue of some Victorian science fiction public domain works)"

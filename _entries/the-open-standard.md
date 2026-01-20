@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A discontinued newsletter."
   main_url: "https://web.archive.org/web/20141016083857/https://openstandard.mozilla.org/"
 connections:

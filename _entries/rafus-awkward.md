@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Awkward is a family-comedy role-playing game for 5 players which purports to be the \"New Wave of Italian Freeform\". Whatever that means."
   year_of_publication: 2017
   main_url: "https://orgasmocerebrale.blogspot.com/2015/04/awkward-released.html"

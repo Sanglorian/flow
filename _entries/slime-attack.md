@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game designed for the Liberated Pixel Cup."
   main_url: "https://opengameart.org/content/slime-attack"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A computer game about collecting people's information."
   main_url: "https://datadealer.com"
   main_description: |-

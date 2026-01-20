@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A minimalist beer-and-pretzels game about life as an Arabian thief."
   main_url: "https://rpggeek.com/rpgitem/56456/forty-thieves"
 connections:

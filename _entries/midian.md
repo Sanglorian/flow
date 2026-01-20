@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An intricate and lengthy RPG of dark fantasy."
   main_url: "https://web.archive.org/web/20110406034721/http://lostsouls.damnserver.com/Midian.htm"
   main_description: |-

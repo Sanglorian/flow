@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "(A) modern d20 RPG system that combines speed and simplicity with balance and depth."
   main_url: "http://heroesagainstdarkness.blogspot.com/p/game-rules-download.html"
 genres:

@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://nickwedig.libraryofhighmoon.com/2013/03/doodles-and-dragons-all-the-doodles-and-more/"
 connections:
   - has_connection_to_entry: "Teapot Dome Games"

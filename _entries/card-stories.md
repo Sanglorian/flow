@@ -8,7 +8,7 @@ contributors:
   - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A Dixit-like multiplayer online game."
   main_url: "https://opengameart.org/content/card-stories-creativity-card-game"
   main_description: "Assets available via OpenGameArt. Code still available on GitHub: https://github.com/farsides/cardstories"

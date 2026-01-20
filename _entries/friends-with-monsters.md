@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "124.171.139.119"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A computer game and its asset packs."
   main_url: "https://bitbucket.org/gemlion/monsterworld/overview"
 connections:

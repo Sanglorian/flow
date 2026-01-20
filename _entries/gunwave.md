@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A system for playing the angsty teens of a mecha anime series."
   main_url: "http://brentnewhall.com/games/doku.php?id=gunwave&rev=1307769882"
 connections:

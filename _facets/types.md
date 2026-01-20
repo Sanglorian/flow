@@ -10,7 +10,7 @@ permalink: /types/
   </header>
 
   {%- assign types = site.types | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
+  {%- assign works = site.entries | where_exp: "item", "item.entry.category contains 'Work'" -%}
   <ul>
     {%- for type in types -%}
       {%- assign work_count = 0 -%}

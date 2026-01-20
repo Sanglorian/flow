@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The second in a trilogy of fantasy novels."
   main_url: "https://web.archive.org/web/20140906215518/http://www.consortiumokc.com/books/the-dragonswarm/"
   main_description: |-

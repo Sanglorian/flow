@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://boardgamegeek.com/boardgame/164083/diggy-diggy-dice"
   main_description: "The rules:"
 groupings:

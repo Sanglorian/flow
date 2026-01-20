@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Source
+  category: Source
   short_description: "‘Their sound is not unlike a band of swaggering Lotharios caught between yesteryear and today.’"
   main_url: "http://www.lorenzosmusic.com/"
   main_description: "Remix kit: https://lorenzosmusic.blocsonic.com/; Ardour sessions on GitHub: https://github.com/lorenzosmusic"

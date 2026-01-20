@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A guide to using Creative Commons licensing in government."
   main_url: "https://eprints.qut.edu.au/38364/"
 connections:

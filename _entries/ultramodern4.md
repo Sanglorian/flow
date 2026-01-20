@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Dungeons & Dragons 4E rules in a modern setting."
   main_url: "http://www.diasexmachina.com/"
 connections:

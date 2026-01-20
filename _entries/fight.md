@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fast-paced 2 player card game of risk and luck. Punch, kick, parry and dodge your way to victory!"
   main_url: "https://www.ashleypringle.ca/index.php?id=2"
   year_of_publication: 2014

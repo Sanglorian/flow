@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A collection of works under various licenses."
   main_url: "https://web.archive.org/web/20140818093536/http://www.adiffuser.net/"
 languages:

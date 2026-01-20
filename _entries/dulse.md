@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game about relationships, ideals, and the choices we make to preserve or destroy them."
   main_url: "https://archive.org/details/Dulse"
 connections:

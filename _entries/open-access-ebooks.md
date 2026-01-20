@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''This chapter discusses what Open Access means in the context of e-books, how Open Access e-books can be supported, and the roles that Open Access e-books will play in libraries and in our society.''"
   main_url: "https://unglue.it/work/82028/#"
 connections:

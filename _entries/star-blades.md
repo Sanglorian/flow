@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Science fiction role-playing using the original Dungeons & Dragons rules."
   main_url: "https://archive.org/details/star-blades-v-2/"
   main_description: "Must join the Yahoo group to access the file."

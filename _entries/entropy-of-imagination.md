@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''The inhabitants of this future Web reside in a closed system, where all possible experiences will soon be exhausted. The Web is winding down, falling into stasis. Here, Flatline is a brief infusion of novelty, bringing chaos to the system.''"
   main_url: "https://unglue.it/work/136246/"
 connections:

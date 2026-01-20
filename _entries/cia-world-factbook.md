@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "Details about all the countries of the world."
   main_url: "https://www.cia.gov/the-world-factbook/"
 connections:

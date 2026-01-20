@@ -8,5 +8,5 @@ contributors:
 - "115.187.248.102"
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
 ---

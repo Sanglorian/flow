@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Linux is an operating system. Sometimes called GNU/Linux"
 groupings:
   - grouping: "Software"

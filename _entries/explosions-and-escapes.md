@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A simple, clean RPG for emulating action movies."
   main_url: "http://dominowriting.com/games.html"
 connections:

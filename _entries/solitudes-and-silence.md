@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A novel set in the Theonosis setting."
   main_url: "https://ia802902.us.archive.org/12/items/solitudes-and-silence/solitudes-and-silence.pdf"
   main_description: |-

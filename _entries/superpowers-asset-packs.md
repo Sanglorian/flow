@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Pixel art assets, specifically for the Superpowers game engine, but usable anywhere."
   main_url: "https://github.com/sparklinlabs/superpowers-asset-packs"
 connections:

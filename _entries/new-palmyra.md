@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "3D maps of the ruins of Palmyra."
   main_url: "http://www.newpalmyra.org/"
 connections:

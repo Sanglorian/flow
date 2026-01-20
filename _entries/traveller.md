@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A long-lived role-playing game with some setting details."
   main_url: "https://www.mongoosepublishing.com/collections/traveller-rpgs"
   main_description: |-

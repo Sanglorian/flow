@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "A supplement for Rivers and Lakes containing optional rules and a series of linked quests."
   main_url: "http://chthonic.150m.com/rpg/riversandlakes.htm"
 connections:

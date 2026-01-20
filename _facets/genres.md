@@ -10,7 +10,7 @@ permalink: /genres/
   </header>
 
   {%- assign genres = site.genres | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
+  {%- assign works = site.entries | where_exp: "item", "item.entry.category contains 'Work'" -%}
   <ul>
     {%- for genre in genres -%}
       {%- assign work_count = 0 -%}

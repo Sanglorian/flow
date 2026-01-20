@@ -7,7 +7,9 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Person"
+  category:
+    - Collection
+    - Person
   short_description: "A mashup musician."
   main_url: "https://web.archive.org/web/20130406125246/http://www.nichecom.com/songs/"
 genres:

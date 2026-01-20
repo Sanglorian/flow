@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Billy the Kid is on a train to Old Messila, doomed to hanging in this Hackbird."
   main_url: "https://sagelt.itch.io/old-mesilla"
 connections:

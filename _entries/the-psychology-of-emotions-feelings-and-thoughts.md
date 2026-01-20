@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This book makes the statement that thought, action and feeling can occur in any order, it also puts forth the idea that life is divided into three groups, emotion, thinking, and feeling."
   main_url: "https://unglue.it/work/139827/#"
 connections:

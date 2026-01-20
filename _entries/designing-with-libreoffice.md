@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A detailed book on using the LibreOffice suite to design."
   main_url: "http://designingwithlibreoffice.com/"
 connections:

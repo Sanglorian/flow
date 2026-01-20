@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A guide for teachers running the closed game Happy Birthday, Robot!"
   main_url: "https://danielsolisblog.blogspot.com/2011/10/classroom-activity-guide-for-happy.html"
 connections:

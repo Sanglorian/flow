@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "ccMixter is a site for Creative Commons remixes. You can listen to the music, but also sample and mash-up it."
   main_url: "http://ccmixter.org/"
 languages:

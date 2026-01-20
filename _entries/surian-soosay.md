@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   main_url: "https://commons.wikimedia.org/w/index.php?search=Surian+Soosay&title=Special%3AMediaSearch&type=image"
 groupings:
   - grouping: "Raster Art"

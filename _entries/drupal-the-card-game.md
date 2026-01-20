@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "In this quick card game 2-4 players compete to earn the most reputation by developing new Drupal modules and building complex websites!"
   main_url: "https://boardgamegeek.com/wiki/page/thing:70279"
 groupings:

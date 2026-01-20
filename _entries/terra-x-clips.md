@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Instructional clips."
   main_url: "https://web.archive.org/web/20200611141331/https://www.zdf.de/dokumentation/terra-x/terra-x-creative-commons-cc-100.html"
 connections:

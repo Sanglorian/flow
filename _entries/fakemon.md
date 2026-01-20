@@ -8,7 +8,7 @@ contributors:
   - Sanglorian
   - 124.171.68.233
 entry:
-  category_of_entry: "Collection"
+  category: Collection
 groupings:
   - grouping: "Art"
 ---

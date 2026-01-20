@@ -8,7 +8,7 @@ contributors:
   - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "Humanity’s Open-Source Automated Precision Farming Machine"
   main_url: "https://farm.bot/"
 groupings:

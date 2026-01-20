@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play a lost soul returned from beyond the grave."
   main_url: "http://www.hauntedattic.org/lostsouls.html"
 connections:

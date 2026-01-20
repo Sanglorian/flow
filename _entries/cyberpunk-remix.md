@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This game is about your crazy friends and family."
   main_url: "http://www.1km1kt.net/rpg/cyberpunk-revival-entry-cyberpunk-remix"
 connections:

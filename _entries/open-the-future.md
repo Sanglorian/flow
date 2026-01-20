@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A futurism blog."
   main_url: "https://web.archive.org/web/20161108133133/http://www.openthefuture.com/"
 groupings:

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "A world of nautical fantasy adventure."
   main_url: "http://burningzeppelinexperience.blogspot.com/2011/03/presenting-thetis.html"
 connections:

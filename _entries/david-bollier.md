@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Person"
+  category: Person
   short_description: "David Bollier is a journalist, activist, and longtime scholar of the commons."
   main_url: "http://bollier.org/"
 ---

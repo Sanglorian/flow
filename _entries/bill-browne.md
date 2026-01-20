@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "RPG creator."
   main_description: |-
     - Wrote [Golden Age Redux](https://web.archive.org/web/20140818091627/http://www.keckpublishing.com/downloads/ASH1-1.pdf) (public domain)

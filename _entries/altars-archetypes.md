@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A dungeoncrawling fantasy role-playing game."
   main_url: "https://rpggeek.com/filepage/285495/altar-and-archetypes-rules"
 connections:

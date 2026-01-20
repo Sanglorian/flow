@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "What it says in the title."
   main_url: "https://github.com/horstjens/ThePythonGameBook"
   main_description: "Archived wiki site: https://web.archive.org/web/20150207005812/http://thepythongamebook.com/en:start"

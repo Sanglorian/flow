@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'The Rainbow Deck is a card game system that has a total of 162 cards.'"
   main_url: "https://www.ludism.org/rainbow"
 groupings:

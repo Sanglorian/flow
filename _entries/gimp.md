@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A program for image manipulation and creation."
   main_url: "https://www.gimp.org/"
 connections:

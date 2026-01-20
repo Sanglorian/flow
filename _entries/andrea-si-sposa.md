@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A one-track album."
   main_url: "https://www.jamendo.com/en/list/a115917/andrea-si-sposa"
 connections:

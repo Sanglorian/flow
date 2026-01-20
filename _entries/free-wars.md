@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "“Free Wars” is an open table top wargame system designed to be used with whatever you have at hand."
   main_url: "https://www.drivethrurpg.com/product/206446/Free-Wars-Open-Source-Wargame-System?manufacturers_id=3461"
 connections:

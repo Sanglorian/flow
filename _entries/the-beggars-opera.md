@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An 18th Century ballad opera."
   main_url: "https://en.wikisource.org/wiki/The_Beggar%27s_Opera"
 connections:

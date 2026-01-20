@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A page on Wikipedia."
   main_url: "https://en.wikipedia.org/wiki/List_of_open-source_video_games"
 connections:

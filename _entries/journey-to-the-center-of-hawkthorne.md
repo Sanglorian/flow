@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An unofficial computer game based on an episode of the hit show Community."
   main_url: "http://www.reddit.com/r/hawkthorne/"
   main_description: "Code: https://github.com/hawkthorne/hawkthorne-journey/"

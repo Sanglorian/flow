@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "JoCo''s only free/libre/open song."
   main_url: "https://en.wikipedia.org/wiki/File:Wikipedia_Chanukah.flac?oldformat=true"
 connections:

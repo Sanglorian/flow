@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fantasy game which draws on several different RPG systems."
   main_url: "https://web.archive.org/web/20070701151850fw_/http://www.cs.cmu.edu/~tpope/bostonia/downloads.html"
 genres:

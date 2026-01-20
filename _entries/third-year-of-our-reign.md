@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Three alternative settings for REIGN."
   main_url: "https://www.gregstolze.com/downloads.html"
   main_description: "Available as a gratis PDF or a for-charge softcover or hardcover."

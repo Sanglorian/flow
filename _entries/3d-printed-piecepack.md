@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A piecepack set that can be printed."
   main_url: "http://www.trueelena.org/fantastic/feelies/3d_printed_piecepack.html"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Free high resolution photos from professional photographers. Two new images every day."
   main_url: "https://web.archive.org/web/20160103120712/http://fancycrave.com/TermsandServices"
 connections:

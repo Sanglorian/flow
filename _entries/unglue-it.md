@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Collection
+  category: Collection
   short_description: "A website to fund the release of Creative Commons-licensed books through a number of methods."
   main_url: "https://unglue.it/"
   main_description: |-

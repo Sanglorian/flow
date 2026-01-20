@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Problems with using the NonCommercial Creative Commons license term."
   main_url: "https://vlaamse-erfgoedbibliotheken.be/en/node/2725"
 genres:

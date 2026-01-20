@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Back from the Crusades, you must kill the bandit lord Robin Hood."
   main_url: "http://www.1km1kt.net/rpg/all-the-kings-men"
 connections:

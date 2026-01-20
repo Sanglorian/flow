@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Person"
+  category: Person
   short_description: "An RPG designer."
   main_url: "http://www.gregstolze.com"
 ---

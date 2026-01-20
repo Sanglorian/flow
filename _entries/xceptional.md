@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A supers RPG."
   main_url: "http://dreamsanddragons.blogspot.com/"
   main_description: "PDF: https://i.4pcdn.org/tg/1378922740745.pdf"

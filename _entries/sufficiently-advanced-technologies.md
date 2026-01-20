@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: Work
+  category: Work
   short_description: "A 16-player LARP inspired by Doctor Who."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/01/sufficiently-advanced-technologies/"
 connections:

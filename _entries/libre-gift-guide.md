@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A list of libre things that one might enjoy receiving from one's acquaintances at upcoming gift-giving occasions."
   main_url: "https://vtluug.org/wiki/Libre_gift_guide"
 groupings:

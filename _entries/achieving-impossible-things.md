@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Six \"impossible things\": GNU/Linux, Wikipedia, the Creative Commons, the Blender Foundation, Open Hardware, and the OLPC/Sugar project. All created under free licenses for everyone to use, in defiance of our conventional ideas of business economics. Is it magic, coincidence, or just plain common sense at work here?"
   main_url: "https://archive.org/details/Achieving_Impossible_Things_with_Free_Culture_and_Commons_Based_Enterprise"
 connections:

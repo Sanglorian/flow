@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A los-res horror computer game."
   main_url: "https://thegamekitchen.com/the-last-door-season-one-assets/"
   main-description: "Hosted on Open Game Art: https://opengameart.org/content/the-last-door-season-one-complete-assets-pack"

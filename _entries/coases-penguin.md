@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An analysis of the economics behind free, libre and open source software."
   main_url: "http://www.benkler.org/CoasesPenguin.html"
 connections:

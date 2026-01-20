@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   subtitle: "Tales from the Wild Blue Yonder: Chapter 3"
   year_of_publication: 2015
   short_description: "A sequel to the Lady Blackbird indie darling."

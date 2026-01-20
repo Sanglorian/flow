@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Bleak, nihilistic dungeon-crawling."
   main_url: "https://web.archive.org/web/20140818092355/http://chthonic.150m.com/rpg/crawlingforcash.htm"
 connections:

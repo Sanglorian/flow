@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A superhero RPG."
   main_url: "http://www.1km1kt.net/forum/viewtopic.php?f=38&t=3923&sid=d8a341931509225928afc64e2ce31f6e"
 connections:

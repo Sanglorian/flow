@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Mix and match your own Dungeon World classes."
   year_of_publication: 2014
   main_url: "http://redboxvancouver.wordpress.com/2014/10/14/class-warfare-character-and-class-creation-for-dungeon-world/"

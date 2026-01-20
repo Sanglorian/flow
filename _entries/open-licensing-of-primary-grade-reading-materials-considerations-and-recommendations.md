@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   year_of_publication: 2020
   main_url: "https://web.archive.org/web/20191119012022/https://www.globalreadingnetwork.net/resources/open-licensing-primary-grade-reading-materials-considerations-and-recommendations"
   main_description: |-

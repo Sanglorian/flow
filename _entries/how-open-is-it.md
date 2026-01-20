@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Defining open access."
   main_url: "https://sparcopen.org/wp-content/uploads/2016/01/hoii_guide_rev4_web.pdf"
 connections:

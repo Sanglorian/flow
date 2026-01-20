@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "36 songs under Creative Commons licenses."
   main_url: "https://musikpiraten.bandcamp.com/album/viva-la-freevolucci-n"
   main_description: |-

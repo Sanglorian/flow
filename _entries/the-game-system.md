@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The Generic Action Mediation System is designed to give players flexibility in the powers they design."
   main_url: "http://www.1km1kt.net/rpg/the-game-system"
 connections:

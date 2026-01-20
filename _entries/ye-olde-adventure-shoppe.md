@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A proof of concept for an HTML5 game for the Liberated Pixel Cup."
   main_url: "http://opengameart.org/content/ye-olde-adventure-shoppe"
 connections:

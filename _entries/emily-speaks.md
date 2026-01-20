@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'My attempt at grappling with issues of feminist dialectic in a short, entertaining fashion. Or, if you prefer, a story about a piece of software that turns loneliness into cash.'"
   main_url: "https://www.gregstolze.com/downloads.html"
   main_description: "Available in PDF and EPUB."

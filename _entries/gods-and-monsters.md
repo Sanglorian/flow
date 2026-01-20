@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An old-school style fantasy RPG."
   main_url: "https://www.godsmonsters.com/"
 groupings:

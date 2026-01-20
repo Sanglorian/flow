@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A guide to programming with Python."
   main_url: "https://github.com/drmrboy/Start-Programming-with-Python"
 groupings:

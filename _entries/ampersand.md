@@ -7,7 +7,7 @@ updated_at: 2026-01-02T21:32:00+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "My name is Barry Deutsch, and I write and draw Ampersand, a political comic with a generally progressive sensibility."
   main_url: "http://leftycartoons.com/"
 groupings:

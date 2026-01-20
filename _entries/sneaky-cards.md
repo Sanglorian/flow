@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "*Sneaky Cards is designed to encourage, inspire, or facilitate playful interactions. Breaking up the tedium of everyday life, with small entertaining objectives. Each card is created to be unique and develop different kinds of play.*"
   main_url: "https://sneakycards.com/play/"
 groupings:

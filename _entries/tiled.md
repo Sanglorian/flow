@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Free software to create tiled maps for electronic games."
   main_url: "http://mapeditor.org"
 languages:

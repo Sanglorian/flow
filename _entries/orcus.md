@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A clone of D&D 4E."
   main_url: "https://sanglorian.github.io/orcus/"
   main_description: "Started as a 'micro-clone': https://forum.rpg.net/index.php?threads/4e-orcus-a-micro-clone-of-fourth-edition-d-d.701690/#post-17165645"

@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The document is a reference for game designers, and is not tuned to teach the game, or provide a playable game experience."
   main_url: "https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/"
 connections:

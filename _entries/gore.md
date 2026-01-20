@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A d%-based horror RPG."
   main_url: "https://web.archive.org/web/20080320065700/http://www.goblinoidgames.com/gore.htm"
   main_description: "https://www.drivethrufiction.com/en/product/28521/gore"

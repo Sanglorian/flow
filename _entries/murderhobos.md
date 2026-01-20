@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "MurderHobos gets to the meat of dungeon crawling: killing things and taking their stuff."
   main_url: "https://www.drivethrurpg.com/en/product/129865/murderhobos"
 groupings:

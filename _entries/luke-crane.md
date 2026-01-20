@@ -7,6 +7,6 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Source
+  category: Source
   main_url: "https://www.burningwheel.com/"
 ---

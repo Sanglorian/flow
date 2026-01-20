@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "Chris Gonnerman's website."
   main_url: "https://www.gonnerman.org/"
 ---

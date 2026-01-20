@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A retroclone of Basic/Expert D&D."
   main_url: "https://goblinoidgames.com/"
   main_description: "With the Advanced Edition Companion, *Labyrinth Lord* can also run like 1st edition AD&D."

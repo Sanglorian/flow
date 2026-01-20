@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "There ought to be but one large art warehouse in the world, to which the artist could carry his art-works and from which he could carry away whatever he needed... - Beethoven"
   main_url: "https://musopen.org/"
 genres:

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: Work
+  category: Work
   short_description: "A slimline historical wuxia game."
   main_url: "http://chthonic.150m.com/rpg/riversandlakes.htm"
 connections:

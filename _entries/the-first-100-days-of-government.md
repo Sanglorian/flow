@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The Abbott Coalition Government's assessment of what it has achieved in its first 100 days."
   main_url: "https://web.archive.org/web/20131228172226/http://www.pm.gov.au/sites/default/files/reports/first_100_days_of_government.pdf"
 connections:

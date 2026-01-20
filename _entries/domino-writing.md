@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "I have been a tabletop gamer for about 25 years, mostly with pen-and-paper role playing games."
   main_url: "https://web.archive.org/web/20160314030835/http://dominowriting.com/"
 groupings:

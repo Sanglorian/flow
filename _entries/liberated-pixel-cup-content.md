@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The games and art produced by the Liberated Pixel Cup."
   main_url: "https://lpc.opengameart.org/"
   main_description: "[K3rnel](/k3rnel/) is writing [reviews of the games](http://k3rnel.net/)."

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An album created as part of a copyright course."
   main_description: |-
     The first three songs are CC0. The final one is a cover, still under copyright.

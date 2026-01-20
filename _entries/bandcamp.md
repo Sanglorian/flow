@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Creative Commons-licensed albums."
   main_url: "https://bandcamp.com/tag/creative-commons"
   main_description: "Unfortunately, no way to sort by license."

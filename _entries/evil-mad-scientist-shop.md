@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   main_url: "https://shop.evilmadscientist.com/directory"
 groupings:
   - grouping: "Hardware"

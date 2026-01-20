@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"Milky Way Express is a Free Print-and-Play space trading and exploration game.\""
   main_url: "https://boardgamegeek.com/boardgame/92013/milky-way-express"
   main_description: |-

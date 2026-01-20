@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A libre recipe for cola so you can make your own."
   main_url: "https://en.wikipedia.org/wiki/OpenCola_(drink)"
 groupings:

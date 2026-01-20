@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A collection of resources for medieval study and tabletop gaming."
   main_url: "https://web.archive.org/web/20150219043303/http://www.svincent.com/CrystalObelisk/"
 groupings:

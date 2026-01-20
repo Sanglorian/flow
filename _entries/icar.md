@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A detailed sci-fi RPG and setting, beautifully decorated with 3D images."
   main_url: "https://www.icar.co.uk/"
 connections:

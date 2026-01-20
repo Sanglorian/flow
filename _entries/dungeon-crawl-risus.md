@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Dungeoncrawling in Risus."
   main_url: "http://www.1km1kt.net/rpg/dungeon-crawl-risus"
 connections:

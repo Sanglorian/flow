@@ -9,7 +9,7 @@ contributors:
 - 69.171.154.34
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A whimsical children's picturebook."
   year_of_publication: 2013
   main_url: "https://web.archive.org/web/20190324135557/http://brotherswhim.com/sticks-masterpiece-creative-commons-childrens-book"

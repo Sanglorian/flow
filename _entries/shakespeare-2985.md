@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A \"science fiction espionage murder mystery do-it-yourself alternate reality game about interpreting poetry and failing thermal dampeners.\""
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/08/shakespeare-2985/"
 connections:

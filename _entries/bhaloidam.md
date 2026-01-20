@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Tell Stories & Play Games with your Tribe"
   main_url: "https://web.archive.org/web/20150407050215/http://www.bhaloidam.com/game-design/bhaloidam/handbook/"
 groupings:

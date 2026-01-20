@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"This is a journey of a Portuguese guy moving that decided that every photo should be used for free. Help yourselves and use them wherever you want (CC0)\""
   main_url: "http://moveast.me/"
 connections:

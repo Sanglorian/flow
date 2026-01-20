@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://vulpinoid.blogspot.com/2011/05/fubar-directors-cut-now-available.html"
 connections:
   - has_connection_to_entry: "Vulpinoid Studios"

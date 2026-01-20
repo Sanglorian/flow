@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Geological hazard information for New Zealand."
   main_url: "https://www.geonet.org.nz/"
 groupings:

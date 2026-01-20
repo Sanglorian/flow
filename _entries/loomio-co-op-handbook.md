@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://loomio.coop/"
 connections:
   - has_connection_to_entry: "Loomio"

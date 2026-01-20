@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Short talks from experts."
   main_url: "https://www.ted.com/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Bulbapedia is a MediaWiki installation run by Bulbagarden for the purpose of creating a Pokémon-focused encyclopedia."
   year_of_publication: 2004
   main_url: "http://bulbapedia.bulbagarden.net/"

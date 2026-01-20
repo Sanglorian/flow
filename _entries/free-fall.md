@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://web.archive.org/web/20140117043900/http://caidalibrefilm.com/"
 connections:
   - has_connection_to_entry: "Nordic Creative Commons Film Festival"

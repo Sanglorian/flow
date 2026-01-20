@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Hackbird inspired by Gundam."
   main_url: "https://www.scribd.com/document/339051863/Gundam-Blackbird-Play-Test"
 connections:

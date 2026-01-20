@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An artist."
   main_url: "https://www.drivethrurpg.com/en/product/91360/108-Terrible-Character-Portraits"
   main_description: "Broken link: aterribleidea.com/ccworks/"

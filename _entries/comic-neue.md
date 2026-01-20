@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An elegant take on Comic Sans."
   main_url: "https://en.wikipedia.org/wiki/Comic_Neue"
 groupings:

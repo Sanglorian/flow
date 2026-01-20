@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Software to make games."
   main_url: "http://superpowers-html5.com/index.en.html"
 languages:

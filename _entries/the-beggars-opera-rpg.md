@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An experimental RPG based on the John Gay play of the same name."
   main_url: "https://bpglink.com/downloads"
 connections:

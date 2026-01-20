@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A collection of role-playing material."
   main_url: "http://gibletblizzard.blogspot.com/2011/12/secret-santicore-2011.html"
 connections:

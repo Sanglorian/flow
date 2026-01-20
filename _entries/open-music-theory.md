@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"This textbook is meant to support active student engagement with music in the theory classroom.\""
   main_url: "http://elliotthauser.com/openmusictheory/"
 groupings:

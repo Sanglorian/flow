@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An extended version of the fractal role-playing game Fate."
   main_url: "https://evilhat.com/product/fate-core-system/"
   main_description: |-

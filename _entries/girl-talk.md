@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Person"
+  category: Person
   short_description: "Gregg Gillis samples hundreds of songs to create his music."
   main_url: "http://illegal-art.net/girltalk/"
 ---

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A setting and rules companion to Lady Blackbird."
   main_url: "https://www.scribd.com/document/49451237/blackbirdcompanion"
 connections:

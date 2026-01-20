@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A fun and engaging game of gladiatorial battles in the far future, where the dice you gather determines your actions for that round."
   main_url: "https://www.gregstolze.com/downloads.html"
 connections:

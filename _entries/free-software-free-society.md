@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Selected essays of Richard Stallman."
   main_url: "https://en.wikipedia.org/wiki/Free_Software%2C_Free_Society"
 connections:

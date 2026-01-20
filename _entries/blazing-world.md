@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The first planar document."
   main_url: "http://monstermanualsewnfrompants.blogspot.co.nz/2014/12/blazing-world-first-planar-document.html"
 genres:

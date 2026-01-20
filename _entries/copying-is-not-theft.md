@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A song arguing that copyright violation is not theft."
   main_url: "https://archive.org/details/CopyingIsNotTheft-ScratchTrack1280X720Hdv"
   main_description: "The song is available from the [Internet Archive](http://www.archive.org/details/copyingIsNotTheft-MusicAndVocalsFlacFile)."

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: '"Subaqueous is a solo music project of Isaac Cotec.  The music has incorporated beat science to create progressive mid tempo and dance music."'
   main_url: "https://www.subaqueousmusic.com/usb-splash-drive-kickstarter/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "How money pollutes democracy."
   main_url: "https://flowersforsocrates.com/wp-content/uploads/2015/05/republic-lost.pdf"
 connections:

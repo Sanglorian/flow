@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Collection
+  category: Collection
   main_url: "http://librivox.org/"
 
 groupings:

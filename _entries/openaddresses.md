@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"The free and open global address collection\""
   main_url: "https://openaddresses.io/"
 groupings:

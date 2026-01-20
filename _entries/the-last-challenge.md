@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "Old warriors gather round a campfire to tell stories of their exploits and prepare for the final battle of their careers."
   main_url: "http://chthonic.150m.com/rpg/thelastchallenge.htm"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The website of the President of the Russian Federation."
   main_url: "http://en.kremlin.ru/"
 groupings:

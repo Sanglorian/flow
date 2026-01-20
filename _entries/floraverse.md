@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "174.255.135.73"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Web comic/open world project"
   main_url: "http://floraverse.com"
 groupings:

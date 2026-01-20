@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A collection of musical compositions, audiobooks and songs."
   main_url: "https://zero-project.gr/"
 groupings:

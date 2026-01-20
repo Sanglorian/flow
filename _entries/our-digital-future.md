@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"Internet users from across the globe have come together to create a crowdsourced vision for free expression online.\""
   main_url: "https://web.archive.org/web/20150117021402/https://openmedia.org/DigitalFuture"
 groupings:

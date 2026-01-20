@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://web.archive.org/web/20120426172232/http://365sketches.org/"
 groupings:
   - grouping: "Art"

@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "As a Ghost Runner, you the players must track down rogue Ghosts, pulled from the afterlife and embedded into cybernetic SHELS which are used to hold these spirits to the world."
   main_url: "http://www.1km1kt.net/rpg/ghost-runner-the-9th-layer"
 connections:

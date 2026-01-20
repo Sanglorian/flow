@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An organisation which supports language communities"
   main_url: "https://www.sil.org/"
   main_description: "[Download the SIL fonts here](https://scripts.sil.org/cms/scripts/page.php?id=fontdownloads&site_id=nrsi)"

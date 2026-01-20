@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "124.171.197.72"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A roleplaying game based on Dungeon World."
   main_url: "http://nocountryforoldkobolds.com/"
 connections:

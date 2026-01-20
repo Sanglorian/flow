@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Dice icons."
   main_url: "https://itomi.itch.io/rpg-dice-icons"
 groupings:

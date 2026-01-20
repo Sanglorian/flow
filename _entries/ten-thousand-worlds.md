@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game which allows you to describe almost anything based on its 'levels'."
   main_url: "https://www.tenthousandworlds.org/"
 connections:

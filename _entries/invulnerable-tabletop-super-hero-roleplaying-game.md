@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'The Invulnerable RPG Year One Edition allows you to create your own hero, and experience worlds of adventure!'"
   main_url: "https://rpggeek.com/rpgitem/73389/invulnerable-tabletop-super-hero-roleplaying-game"
   main_description: "A later 'Vigilante Edition' is still available, but [haven't checked its license.](https://www.drivethrurpg.com/en/product/128436/invulnerable-super-hero-rpg-vigilante-edition)"

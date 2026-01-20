@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Swords Without Master adventure."
   main_url: "https://rpggeek.com/rpgitem/212000/the-carnival-of-dreams"
 groupings:

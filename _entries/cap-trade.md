@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game to teach people about carbon pricing."
   main_url: "http://www.bullypulpitgames.com/downloads/index.php?cat=8"
   main_description: "[Local backup](http://fossilbank.wikidot.com/local--files/work:cap-trade/cap_and_trade.pdf)"

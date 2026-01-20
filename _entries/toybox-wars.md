@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Ready an army from your old toys!"
   main_url: "N/A"
   main_description: "The designer has removed the game from his website, but the [http://livingfree.wikidot.com/tbw-srd SRD] is available here."

@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A curated list of good stuff related to the development of games. This list contains only free software for code, sellers who aren't evil for physical resources, and free cultural works for assets."
   main_url: "https://notabug.org/koz.ross/awesome-gamedev"
 groupings:

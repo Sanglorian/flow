@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
   - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
 ---
 * [Isabella texture pack](https://www.npmjs.com/package/isabella-texture-pack) and [here](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1226573-16x-1-5-isabella-ii-1-5v2-i-got-yer-redstone-here) (CC BY)
 * [j0pack](http://www.planetminecraft.com/texture_pack/j0pack/) (CC BY)

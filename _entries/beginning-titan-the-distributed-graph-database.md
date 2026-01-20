@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Beginning Titan is a comprehensive guide to Titan database."
   main_url: "https://unglue.it/work/139801/#"
 connections:

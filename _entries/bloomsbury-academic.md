@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Non-fiction"
   main_url: "https://web.archive.org/web/20140818091235/http://www.bloomsbury.com/au/academic/online-resources-and-ebooks/bloomsbury-open-content/"
 groupings:

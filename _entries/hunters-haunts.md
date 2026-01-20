@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A board game played on two different boards."
   main_url: "https://www.scribd.com/document/61899332/Hunters-and-Haunts-An-Ancient-Classic-Board-Game"
 groupings:

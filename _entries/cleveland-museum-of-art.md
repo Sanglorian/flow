@@ -7,7 +7,9 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Organisation
+  category:
+    - Collection
+    - Organisation
   main_url: "http://www.clevelandart.org/art/collection/search?only-open-access=1"
 languages:
   - language: "English"

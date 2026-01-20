@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A documentary about a court case against The Pirate Bay"
   main_url: "https://en.wikipedia.org/wiki/TPB_AFK"
 groupings:

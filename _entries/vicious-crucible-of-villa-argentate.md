@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The Vicious Crucible of Villa Argentate is game for up to six players and a GM. It plays in three to five sessions, or a pulse-pouding single session of jump cuts and action sequences. Best of all, it's free."
   main_url: "https://miriamrobern.itch.io/argentate"
   main_description: |-

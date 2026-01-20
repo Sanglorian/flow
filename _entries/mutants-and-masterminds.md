@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A d20 superhero RPG."
   main_url: "https://greenroninstore.com/collections/mutants-masterminds"
 connections:

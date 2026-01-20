@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A simple HTML5 game for the Liberated Pixel Cup."
   main_url: "https://opengameart.org/content/volley-zombie"
 connections:

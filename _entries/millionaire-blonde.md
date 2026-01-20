@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Source
+  category: Source
   short_description: "‘Le Millionaire Blonde sono una band di cui la voce principale è maria Beatrice Alonzi, sono musiciste, fanno musica pop rock electro, sono bellissime e bionde.’"
   main_url: "https://millionaireblonde.bandcamp.com/music"
 ---

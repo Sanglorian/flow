@@ -14,7 +14,7 @@ permalink: /categories/
     {%- for category in categories -%}
       {%- assign entry_count = 0 -%}
       {%- for entry in site.entries -%}
-        {%- if entry.entry.category_of_entry and entry.entry.category_of_entry contains category.title -%}
+        {%- if entry.entry.category and entry.entry.category contains category.title -%}
           {%- assign entry_count = entry_count | plus: 1 -%}
         {%- endif -%}
       {%- endfor -%}

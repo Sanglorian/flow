@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A simple HTML5 game where you wander around avoiding enemies."
   main_url: "https://archive.org/details/PixelQuest"
 connections:

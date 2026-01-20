@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A crowdfunded documentary about the effects of privatisation."
   main_url: "https://www.youtube.com/watch?v=xZLOUkvtgEM"
 groupings:

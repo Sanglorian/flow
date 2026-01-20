@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Person
+  category: Person
   short_description: "An anti-IP libertarian writer and lawyer."
   main_url: "https://stephankinsella.com/"
 genres:

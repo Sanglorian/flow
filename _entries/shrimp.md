@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://www.gregstolze.com/downloads.html"
   main_description: "Available in PDF and EPUB."
 connections:

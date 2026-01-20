@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A modern fusion and re-organisation of 0E and 1E rules."
   main_url: "https://rpggeek.com/rpg/13938/dark-passages"
   main_description: |-

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Monster RPG 2 is a fantasy quest that spans continents and worlds and lets you take a simple villager and develop her into a hero with the power to save her world.'"
   main_description: "Broken link: http://www.nooskewl.com/content/monster-rpg-2-now-free-and-open-source [OpenGameArt hosts most of the art.](https://opengameart.org/content/main-art-from-monster-rpg-2) https://repo.openpandora.org/?page=detail&app=monster2rpg_ptitseb&dp=true"
 connections:

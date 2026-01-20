@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game of spacial relationships."
   main_url: "https://repealofgravity.blogspot.com/p/venns-revenge-game_23.html"
 connections:

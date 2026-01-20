@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A LARP about the French and American battles before the War of Independence.  11 players."
   main_url: "http://nickwedig.libraryofhighmoon.com/2010/12/bloody-forks-larp/"
   main_description: |-

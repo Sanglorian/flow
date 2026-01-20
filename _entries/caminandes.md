@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "Inspired by the good old Chuck Jones cartoons, this very short movie shows the problems a little guanaco (llama cousin) has when trying to cross the roads of Southern Patagonia, in South America."
   main_url: "https://web.archive.org/web/20240110073806/http://www.caminandes.com/"
   main_description: |-

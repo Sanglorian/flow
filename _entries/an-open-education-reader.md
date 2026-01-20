@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A collection of readings on open education with commentary."
   main_url: "http://openedreader.org/"
 connections:

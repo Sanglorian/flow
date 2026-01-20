@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "modern-day supernatural thriller RPG"
   main_url: "https://www.drivethrurpg.com/en/product/96079/argh"
   main_description: "A modern-day supernatural thriller RPG using the SFX! system (Simple, Fast, Exciting!), in the manner of Buffy the Vampire Slayer, the Dresden Files, the Sookie Stackhouse series, and the like."

@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Jcolag"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A science-fiction audiobook series"
   main_description: |-
     Meet Ejoq Dosantos: loner, nomad, and professional gunner for corporate and privately-owned armed merchant vessels.

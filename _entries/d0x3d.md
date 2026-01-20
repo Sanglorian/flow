@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"d0x3d! is a cooperative game, for 2-4 players. Players assume the role of hackers, infiltrating a network.\""
   main_url: "https://boardgamegeek.com/boardgame/134274/d0x3d"
 groupings:

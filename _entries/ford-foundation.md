@@ -7,7 +7,9 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Organisation
+  category:
+    - Collection
+    - Organisation
   short_description: "The Ford Foundation supports visionary leaders and organizations on the frontlines of social change worldwide."
   main_url: "https://www.fordfoundation.org/terms-and-conditions-of-use/"
 groupings:

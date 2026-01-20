@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "A group of researchers seeking to reveal the negative impact of copyright on the Global South."
   main_description: "Broken link: http://copysouth.org/portal/"
 ---

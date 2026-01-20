@@ -7,6 +7,6 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Organisation
+  category: Organisation
   main_url: "https://opensource.org/"
 ---

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A font that is easier for dyslexic people to read."
   main_url: "https://opendyslexic.org/"
 groupings:

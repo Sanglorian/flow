@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "High-magnification photos of insects."
   main_url: "https://www.flickr.com/photos/131104726@N02/page1"
   main_description: |-

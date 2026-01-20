@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play a growing dragon."
   main_url: "https://rpggeek.com/rpgitem/55219/hoard"
 connections:

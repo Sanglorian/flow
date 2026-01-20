@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game of princes who pursue asceticism to save the world."
   main_url: "http://www.1km1kt.net/rpg/the-shackled-self"
 connections:

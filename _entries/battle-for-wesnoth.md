@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://www.wesnoth.org/"
   main_description: "The images and music were available [here](http://svn.gna.org/viewcvs/wesnoth/trunk/data/) (uncompressed, unobfuscated, but without logos or metadata). Resources are listed on [GitHub](https://github.com/wesnoth/resources) but without license mentioned."
 genres:

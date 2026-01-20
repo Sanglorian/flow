@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A documentary about the debt crisis."
   main_url: "https://www.dailymotion.com/video/xi2b7p"
 genres:

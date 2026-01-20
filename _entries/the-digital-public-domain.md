@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"(T)he authors argue that the Public Domain — that is, the informational works owned by all of us, be that literature, music, the output of scientific research, educational material or public sector information — is fundamental to a healthy society.\""
   main_url: "https://communia-association.org/2012/04/14/the-digital-public-domain-foundations-for-an-open-culture/"
   main_description: |-

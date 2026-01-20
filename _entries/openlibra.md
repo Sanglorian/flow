@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "OpenLibra \"La Biblioteca Libre online que estabas esperando\""
   main_description: |-
     This site itself is CC BY, I''m not sure about all of the content

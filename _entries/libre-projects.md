@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A very attractive site that presents key libre projects."
   main_url: "https://libreprojects.net/"
 groupings:

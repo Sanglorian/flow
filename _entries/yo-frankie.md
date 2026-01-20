@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A computer game where you control a rodent."
   main_url: "https://apricot.blender.org/"
   main_description: |-

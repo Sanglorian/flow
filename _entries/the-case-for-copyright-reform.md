@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"The book is a compilation of the strongest articles on reform of the copyright monopoly from Christian Engström (MEP) and (Rick Falkvinge)\""
   main_url: "https://web.archive.org/web/20141028143400/http://www.copyrightreform.eu/"
   main_description: "The book supports: Legalized file sharing, shorter protection times for the commercial copyright monopoly, free sampling and a ban on DRM."

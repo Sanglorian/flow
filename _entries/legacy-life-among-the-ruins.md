@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
     coverage: "SRD: https://ufopress.co.uk/the-world-of-legacy-srd/srd-licensing/"

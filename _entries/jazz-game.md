@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A flexible and easy-to-use game system drawn from many sources."
   main_url: "https://ogc.rpglibrary.org/index.php?title=Jazz"
 groupings:

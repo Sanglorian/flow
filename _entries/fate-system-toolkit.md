@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A toolkit for the Fate tabletop RPG."
   main_url: "https://evilhat.itch.io/fate-system-toolkit"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An open-source, rules-light, role playing game that does not rely on a “game master” or similar role to manage the game."
   main_url: "http://www.1km1kt.net/rpg/synergy"
   main_description: "Original site: https://web.archive.org/web/20140818093700/http://www.ravenlakegames.com/downloads"

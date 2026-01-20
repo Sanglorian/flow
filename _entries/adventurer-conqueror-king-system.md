@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An old school style roleplaying game with a focus on kingdom-building."
   main_url: "http://www.autarch.co/"
 connections:

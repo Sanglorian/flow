@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://theyvoteforyou.org.au/help/licencing"
 licensing:
   - license: "Open Data Commons Open Database License"

@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://archive.org/details/jamendo-087930"
   main_description: |-
     "The self-titled debut of Carl-Otto Johansson's solo project "Orphan Songs" was released in Sweden in 2008 and was very well recieved by critics. In 2011 it was re-released worldwide under a Creative Commons license (BY-SA).

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "First Official EP from Jemex"
   main_url: "https://archive.org/details/jamendo-059700"
 connections:

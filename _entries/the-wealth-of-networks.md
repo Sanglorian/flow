@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A book on the information networks made possible by the Internet."
   main_url: "https://cyber.harvard.edu/wealth_of_networks/Main_Page"
 connections:

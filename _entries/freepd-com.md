@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A collection of 444 public domain songs"
   main_url: "https://web.archive.org/web/20250914182536/https://freepd.com/"
   main_description: "Can download individual songs for free or the album for US$14."

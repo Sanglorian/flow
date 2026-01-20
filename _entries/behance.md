@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A site that hosts artists portfolios."
   main_url: "http://www.behance.net/"
   main_description: "There is no way to search by license. I manually checked dozens of pieces, and found no uses of FLO licenses."

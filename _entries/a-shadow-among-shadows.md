@@ -8,7 +8,7 @@ contributors:
 - "58.107.69.177"
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Here’s a game I made over the summer, inspired by but not entered into Game Chef, but I never got around to posting it here. It’s a mashup [of] Archipelago and some boardgame mechanics, where you explore an abandoned space ship."
   main_url: "http://nickwedig.libraryofhighmoon.com/2015/09/a-shadow-among-shadows/"
 connections:

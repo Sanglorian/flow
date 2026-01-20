@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A fantasy role-playing game."
   main_url: "https://rpggeek.com/rpgitem/97960/errant"
 connections:

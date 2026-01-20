@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A collection of designs for quilt patches."
   main_url: "http://freemotionquilting.blogspot.com.au/"
 groupings:

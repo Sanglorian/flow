@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://www.ag.gov.au/rights-and-protections/publications/australian-government-intellectual-property-manual"
 connections:
   - has_connection_to_entry: "Australian Government"

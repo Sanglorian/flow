@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Survival roleplaying in the infinite multiverse'"
   main_url: "https://www.drivethrurpg.com/en/product/94453/jumpers-rpg-survival-roleplaying-in-the-infinite-multiverse"
 groupings:

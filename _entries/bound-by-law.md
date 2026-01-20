@@ -7,7 +7,7 @@ updated_at: 2026-01-02T21:46:00+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A comic book about intellectual property law."
   main_url: "http://www.law.duke.edu/cspd/comics/"
   main_description: "Gratis PDF, HTML/JPG and source files, plus non-gratis hardcopy: http://www.law.duke.edu/cspd/comics/"

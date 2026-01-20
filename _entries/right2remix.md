@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Advocating for legal remixing."
   main_url: "https://web.archive.org/web/20160104184629/http://right2remix.org/"
 genres:

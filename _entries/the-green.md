@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Donjon supplement by Valent Games."
   main_url: "https://www.drivethrurpg.com/en/product/56873/the-green?products_id=56873"
 connections:

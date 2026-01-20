@@ -7,7 +7,9 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Organisation
+  category:
+    - Collection
+    - Organisation
   main_url: "https://www.slq.qld.gov.au/"
 groupings:
   - grouping: "Data"

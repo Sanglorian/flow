@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A role-playing game without any elves."
   main_description: |-
     [http://talislanta.com/?page_id=2 The declaration of the license]

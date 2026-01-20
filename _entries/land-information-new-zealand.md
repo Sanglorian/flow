@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Delivering a trusted land, geospatial and property system that drives innovation, stability and growth for New Zealand."
   main_url: "https://www.linz.govt.nz/copyright"
 ---

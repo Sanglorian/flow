@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A tabletop RPG."
   main_url: "https://www.drivethrurpg.com/en/product/91058/the-modern-path-heroes-of-the-modern-world-2-0-pfrpg"
   main_description: |-

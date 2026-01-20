@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game inspired by Original Dungeons & Dragons with some modern changes."
   main_url: "https://www.scribd.com/document/58246601/Epees-Sorcellerie-English-Translation"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A whimsical webcomic about a witch and her cat."
   main_url: "http://www.peppercarrot.com/"
   main_description: "David Revoy explains how a webcomic can be 'open source' here: https://web.archive.org/web/20151127192238/http://www.peppercarrot.com/en/article310/an-open-source-webcomic"

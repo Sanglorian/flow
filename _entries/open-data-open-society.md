@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A research project about openness of public data in EU local administrations"
   main_url: "https://web.archive.org/web/20110404131754/http://www.dime-eu.org/node/907"
   main_description: |-

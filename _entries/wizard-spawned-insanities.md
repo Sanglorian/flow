@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The Monthly Monsters project is back with another monster manual for Dungeon World!"
   year_of_publication: 2015
   main_url: "http://www.drivethrurpg.com/product/155484/WizardSpawned-Insanities"

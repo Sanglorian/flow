@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A collection of 100 pixelated images for you to download and use for whatever you want."
   main_url: "http://b.illbrown.com/neworleans/"
   main_description: "https://archive.org/details/pixelatedneworleanshomes"

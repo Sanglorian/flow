@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Interviews"
   main_url: "https://web.archive.org/web/20140206115930/http://www.uncensoredinterview.com/topics/cc"
   main_description: "Over 1,000 FLO licensed."

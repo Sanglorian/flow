@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Children accompanied by their formidable Shadows."
   main_url: "https://web.archive.org/web/20111108203341/http://www.harlekin-maus.com/games/shadows/shadows.html"
 groupings:

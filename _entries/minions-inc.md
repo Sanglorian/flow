@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play the minion servant of a supervillain."
   main_url: "https://web.archive.org/web/20101128091947/http://story-games.com/forums/comments.php?DiscussionID=13326&page=1#Item_13"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An RPG based on the movies that parodied Star Trek."
   main_url: "https://web.archive.org/web/20070913180439/http://rpg.starwreck.com/download.php"
 genres:

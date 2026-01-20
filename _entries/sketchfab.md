@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "3D models for viewing and download."
   main_url: "https://sketchfab.com/download"
   main_description: "Can filter by CC license."

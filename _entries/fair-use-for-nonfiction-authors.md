@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The guide is designed to empower authors to exercise their right to use source materials to further their research and writing goals by helping them to make confident fair use decisions."
   main_url: "https://www.authorsalliance.org/2017/11/29/announcing-the-authors-alliance-guide-to-fair-use-for-nonfiction-authors/?mc_cid=029233b78a&mc_eid=58969fe40a"
 connections:

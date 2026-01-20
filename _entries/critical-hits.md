@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The journal of gamer culture."
   main_description: |-
     > All articles and comments posted posted on the site (but not the products for sale) are licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. References to trademarks and copywritten material are included for review and commentary use only and are not intended as any kind of challenge.

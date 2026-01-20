@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Data about Italian education."
   main_url: "https://web.archive.org/web/20150223050235/http://archivio.pubblica.istruzione.it/scuola_in_chiaro/open_data/index.html"
 connections:

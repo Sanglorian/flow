@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "News."
   main_url: "http://www.independentaustralia.net/"
   main_description: "Couldn't find a site-wide license, but at least some articles are under CC BY-NC-ND."

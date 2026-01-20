@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An article on the circumstances under which copyright would apply to databases."
   main_url: "http://eprints.qut.edu.au/50425/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Play a superhero in the Italian Renaissance."
   main_url: "http://www.tiltingatwindmills.net/alfresco/index.html"
 connections:

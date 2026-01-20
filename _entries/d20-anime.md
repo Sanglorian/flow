@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play magical girls, sorcerers and mecha pilots using everyone's favourite system."
   main_url: "https://web.archive.org/web/20180223173504/http://www.opengamingfoundation.org/animesrd.html"
 connections:

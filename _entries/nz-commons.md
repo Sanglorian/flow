@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Creative Commons New Zealand's website"
   main_url: "https://web.archive.org/web/20160304110930/http://nzcommons.org.nz/"
 licensing:

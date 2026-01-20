@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: ""
   main_url: "https://www.opensocietyfoundations.org/uploads/39fd22a4-74f2-4b3c-9899-4b5cdcc9ee60/winning-the-web-20090501.pdf"
 connections:

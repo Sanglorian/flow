@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Support for and information about OER and a place to host it."
   main_url: "https://oercommons.org/"
 groupings:

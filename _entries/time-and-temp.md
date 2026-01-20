@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Time & Temp is a game of time travel and underemployment for 3 to 5 players."
   main_url: "https://dig1000holes.wordpress.com/time-temp/"
 groupings:

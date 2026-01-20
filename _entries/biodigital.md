@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 - "202.55.151.86"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Biodigital is a novel, first published as an Ebook via Unglue.it, about a Silicon Valley tech genius/messiah and the quasi-religious cult of transhumanist computer designers and brain hackers who follow him."
   main_url: "https://unglue.it/work/136615/"
 connections:

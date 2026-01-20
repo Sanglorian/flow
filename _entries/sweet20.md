@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Bringing indie sensibilities to the d20 System."
   main_url: "https://web.archive.org/web/20140818094847/http://files.crngames.com/cc/sweet20/"
 connections:

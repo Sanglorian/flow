@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "a science fiction tabletop RPG using the SFX! system"
   main_url: "https://www.drivethrurpg.com/en/product/99579/Zap"
   main_description: "A complete Science Fiction tabletop RPG using the SFX! system (Simple, Fast, Exciting!). Scalable to any scope, adaptable to any tone, including rules for character generation, ships, interstellar travel, alien races, equipment, and more."

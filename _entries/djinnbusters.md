@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Hunt ghosts in a land of sultans and deserts."
   main_url: "http://www.1km1kt.net/rpg/djinnbusters"
 connections:

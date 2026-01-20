@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Navigating the Maze of Free and NonFree Licenses"
   main_url: "http://www.greglondon.com/libre/"
 connections:

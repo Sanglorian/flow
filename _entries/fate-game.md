@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'The game is set in a floating island and there the inhabitants have their own struggles with life. '"
   main_url: "http://www.1km1kt.net/rpg/fate-game"
 connections:

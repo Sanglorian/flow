@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: Work
+  category: Work
   short_description: "Fight a conspiracy with your cabal of alchemists."
   main_url: "http://chthonic.150m.com/rpg/ringofchanges.htm"
 connections:

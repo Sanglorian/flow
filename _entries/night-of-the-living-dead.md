@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   alias: "NotLD"
   short_description: "An archetypal zombie film, inadvertently placed into the public domain."
   main_url: "https://archive.org/details/Night_Of_The_Living_Dead_raw_HD_WS"

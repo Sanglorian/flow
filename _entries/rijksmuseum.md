@@ -7,7 +7,9 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Organisation
+  category:
+    - Collection
+    - Organisation
   short_description: "Dutch museum of artworks and artifacts."
   main_url: "https://www.rijksmuseum.nl/"
 connections:

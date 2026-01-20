@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Person"
+  category: Person
   subtitle: "Russian journalist."
   main_url: "https://meduza.io/en/feature/2019/06/09/support-ivan-golunov-by-republishing-his-work"
   main_description: "News website Meduza released Ivan Golunov's articles (published before June 13, 2019) under a Creative Commons license to raise awareness of his arrest."

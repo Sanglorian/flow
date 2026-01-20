@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An open content take on Thomas More's Utopia."
   main_url: "https://theopenutopia.org/about/"
 connections:

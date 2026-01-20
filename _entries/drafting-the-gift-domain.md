@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "an introduction to Open Content projects with respect to how they work, how they are designed, and how they continue to exist alongside Market driven entities."
   main_url: "http://www.greglondon.com/dtgd/index.htm"
 connections:

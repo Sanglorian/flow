@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fantasy RPG designed for quick play and no fuss."
   main_url: "https://web.archive.org/web/20100210060406/http://www.bullypulpitgames.com/projects/games/dulse/"
   main_description: |-

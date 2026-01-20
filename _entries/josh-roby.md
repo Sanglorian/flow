@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Source
+  category: Source
   short_description: "A game designer."
   main_url: "https://boardgamegeek.com/boardgamedesigner/13421/miriam-robern"
   main_description: "Move to Miriam Robern."

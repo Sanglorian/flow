@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "a simple character creation and brief game play paradigm for Grey Ghost Press's Fudge RPG"
   main_url: "http://www.wyrmis.com/rpgs/15minfudge.html"
 connections:

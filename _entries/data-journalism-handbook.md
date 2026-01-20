@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "(A) free, open source reference book for anyone interested in the emerging field of data journalism."
   main_url: "https://datajournalism.com/read/handbook/one"
 connections:

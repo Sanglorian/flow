@@ -7,7 +7,9 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection, Person"
+  category:
+    - Collection
+    - Person
   short_description: "An artist and maker of game assets (2D and 3D)"
   main_url: "http://www.kenney.nl/assets"
   main_description: "Also hosted on Open Game Art. https://opengameart.org/users/kenney"

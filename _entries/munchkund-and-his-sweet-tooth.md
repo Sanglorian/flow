@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   year_of_publication: 2013
   short_description: "A picturebook about a bear."
   main_url: "https://www.scribd.com/lists/4291863/Muchkund-and-his-Sweeth-Tooth"

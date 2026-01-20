@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A generic fantasy RPG with familiar races and classes."
   main_url: "http://www.1km1kt.net/rpg/generic-fantasy-quest-game"
 connections:

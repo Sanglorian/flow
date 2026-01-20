@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A motion comic of episode 6 of Pepper & Carrot."
   year_of_publication: 2017
   main_url: "https://morevnaproject.org/pepper-and-carrot/episode-6/"

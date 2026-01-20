@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Scientific and medical knowledge shared with the world."
   main_url: "https://plos.org/"
 groupings:

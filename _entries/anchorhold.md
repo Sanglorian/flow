@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A complete RPG setting."
   main_url: "https://archive.org/details/Anchorhold"
 connections:

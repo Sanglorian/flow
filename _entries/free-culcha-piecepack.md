@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This book is a collection of games that you can play with the piecepack."
   year_of_publication: 2013
   main_url: "https://www.ludism.org/ppwiki/FreeCulcha"

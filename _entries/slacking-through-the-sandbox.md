@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "How to put together a slacker's sandbox."
   main_url: "https://stirgessuck.wordpress.com/2011/01/21/slacking-through-the-sandbox/"
   main_description: "Targetted at Dungeons & Dragons but usable for any game."

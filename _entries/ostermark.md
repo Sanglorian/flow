@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: Work
+  category: Work
   short_description: "A surreal game of the law set in the Old World."
   main_url: "http://docs.google.com/View?docID=dcm4sxp6_2868pr5rdd&revision=_latest"
 groupings:

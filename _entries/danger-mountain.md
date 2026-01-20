@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play in a 1970s environmental movie."
   main_url: "https://archive.org/details/DangerMountain"
 connections:

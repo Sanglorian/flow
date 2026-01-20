@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Source
+  category: Source
   short_description: "Free Swedish rock pop music."
   main_url: "https://orphansongs.bandcamp.com/"
   main_description: "Formerly at www.orphansongs.com. Archived at https://archive.org/details/jamendo-087930"

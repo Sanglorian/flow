@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "\"Bill Hammack's Video & Audio on Engineering\""
   main_url: "https://engineerguy.com/"
 groupings:

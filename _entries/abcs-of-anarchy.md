@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   year_of_publication: 2010
 connections:
   - has_connection_to_entry: "Brian Heagney"

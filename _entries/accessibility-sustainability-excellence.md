@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "“(R)ecommends a programme of action to enable more people to read and use the publications arising from research.”"
   main_url: "https://web.archive.org/web/20120619050401/http://www.researchinfonet.org/publish/finch/"
 genres:

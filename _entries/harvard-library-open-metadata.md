@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Metadata from the Harvard Library."
   main_url: "https://openmetadata.lib.harvard.edu/"
 connections:

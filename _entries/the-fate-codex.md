@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"The Fate Codex is a mostly-monthly e-zine featuring Quick Start Adventures and more for the Fate roleplaying system.\""
   main_url: "https://fate-srd.com/fate-codex/about-fate-codex-2"
 connections:

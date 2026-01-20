@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   main_url: "https://fonts.google.com/"
   main_description: "As well as selecting fonts one-by-one, you can [download the entire selection](https://code.google.com/p/googlefontdirectory/)."
 connections:

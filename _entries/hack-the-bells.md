@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A competition to remix the carillion in UC Berkeley."
   main_url: "https://cearto.github.io/hack-the-bells/"
 licensing:

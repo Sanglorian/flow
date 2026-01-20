@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Two detectives interrogate two suspects."
   main_url: "https://bpglink.com/downloads"
   main_description: "Internet Archive PDF: https://archive.org/details/HotLamp"

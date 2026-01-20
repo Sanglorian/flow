@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This web page holds an anarchist FAQ. Its aim is to present what anarchism really stands for and indicate why you should become an anarchist."
   main_url: "https://www.anarchistfaq.org/afaq/"
 genres:

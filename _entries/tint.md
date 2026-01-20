@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This is Not This is Not a Podcast - a sports podcast."
   main_url: "https://archive.org/details/TINTEpisode1"
 connections:

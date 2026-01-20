@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Person"
+  category: Person
   short_description: "A fan of free culture."
   main_url: "http://sanglorian.github.io/"
   main_description: |-

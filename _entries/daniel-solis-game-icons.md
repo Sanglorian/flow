@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Game icons designed by Daniel Solis."
 connections:
   - has_connection_to_entry: "Daniel Solis"

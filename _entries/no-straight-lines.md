@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "'No Straight Lines offers a plethora of examples of how societies and companies around the world are using technology in a collaborative and innovative way, bringing success to their economy and a meaningful connection between the members of the community.'"
   main_url: "http://www.no-straight-lines.com/"
 groupings:

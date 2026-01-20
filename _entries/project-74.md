@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A rules-lite game that works only in conjunction with early editions of Dungeons & Dragons"
   main_url: "https://tower.gonnerman.org/project74.html"
 connections:

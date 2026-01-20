@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   year_of_publication: 2019
   subtitle: "Light, social game about holding your breath while doing maths"
 connections:

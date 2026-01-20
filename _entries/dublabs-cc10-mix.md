@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An hour of music created for CC's 10th birthday."
   main_url: "https://vimeo.com/55491617"
 genres:

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A band."
   main_description: |-
     'Sleight of Hand'', ''Tramp'' and ''Don''t Want to Be Good'' are Creative Commons Attribution-ShareAlike; ''My Medicine'' is CC BY-NC-ND.

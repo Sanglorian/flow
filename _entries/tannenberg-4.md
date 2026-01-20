@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Tannenberg 4 is a wargame about the Russian offensive into East Prussia 1914, later known as The Battle of Tannenberg.'"
   main_url: "https://boardgamegeek.com/wiki/page/thing:42080"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A mashup of Old School Hack and Shadowrun."
   main_url: "https://sentientgames.wordpress.com/2012/05/31/shadow-hack/"
   main_description: "[Old School Hack](/old-school-hack/)"

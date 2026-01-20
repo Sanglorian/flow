@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "A superhero RPG."
   main_url: "http://dreamsanddragons.blogspot.com/2012/03/fantasy-and-hilo-heroes-released-to.html"
 connections:

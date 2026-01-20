@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Wizards at a wizarding school, trying to pass their classes while fighting evil."
   main_url: "https://rpggeek.com/rpg/20282/boarsdraft"
   main_description: |-

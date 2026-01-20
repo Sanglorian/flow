@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "You can freely borrow from the Autodesk Help, Support and Video libraries to build a new learning experience for anyone with a particular need or interest."
   main_url: "https://www.autodesk.com/company/creative-commons"
 groupings:

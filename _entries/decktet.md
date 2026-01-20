@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 - "74.70.56.123"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://www.decktet.com/index.php"
   main_description: "Most of the decks are all rights reserved, but the [print & play version](https://www.decktet.com/getit.php) is licensed."
 groupings:

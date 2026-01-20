@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Cookbook made in solidarity with Bassel, a prisoner of the Syrian regime."
   main_url: "https://creativecommons.org/2014/03/15/free-bassel-day/"
 connections:

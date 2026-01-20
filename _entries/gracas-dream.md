@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://en.wikisource.org/wiki/File:Graca%27s_Dream.pdf"
 groupings:
   - grouping: "Picturebooks"

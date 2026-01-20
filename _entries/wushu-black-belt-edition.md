@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://www.drivethrurpg.com/en/product/143146/wushu-black-belt-edition"
 licensing:
   license: "Creative Commons Attribution-ShareAlike 4.0"

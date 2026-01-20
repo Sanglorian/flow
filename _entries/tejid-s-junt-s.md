@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'(A) fun and active documentary film exploring the relationship and shared story of Workers and Students in the anti-sweatshop movement.'"
   main_url: "https://commons.wikimedia.org/wiki/File:TejidXs_JuntXs.ogv"
   main_description: "[https://web.archive.org/web/20140818093532/http://vodo.net/tejidxs Older site]"

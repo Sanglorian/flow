@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Free to use, user-contributed trivia question database."
   main_url: "https://opentdb.com/"
 groupings:

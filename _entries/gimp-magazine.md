@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The goal of this publication is to promote GIMP and related open source software."
   main_url: "https://web.archive.org/web/20160319100522/http://gimpmagazine.org/"
   main_description: "PDFs on Internet Archive: https://archive.org/details/gimp-magazine-issue-4-sep-2013/GIMP_Magazine_Issue_1_Sep_2012/"

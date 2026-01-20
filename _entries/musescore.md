@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Hosts the sources of the Open Goldberg Variations edition"
   main_url: "http://musescore.com/opengoldberg/goldberg-variations"
 groupings:

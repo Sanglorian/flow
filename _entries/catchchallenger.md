@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "124.171.138.68"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An MMORPG where you can capture monsters."
   main_url: "https://catchchallenger.herman-brule.com/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A step-by-step guide to the world of CC licenses."
   main_url: "https://aliprandi.org/books/cc-user-guide/"
 connections:

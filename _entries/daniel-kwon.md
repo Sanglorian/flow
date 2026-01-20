@@ -7,7 +7,9 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Person"
+  category:
+    - Collection
+    - Person
   short_description: "A video creator."
   main_url: "https://vimeo.com/dankwon"
 types:

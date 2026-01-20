@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A REIGN setting that explores race, genetics and cultural identity. (REIGN Supplement #14)"
   main_url: "https://gregstolze.com/downloads.html"
   main_description: "A supplement for the all rights reserved game REIGN"

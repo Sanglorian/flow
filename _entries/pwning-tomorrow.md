@@ -8,7 +8,9 @@ contributors:
 - "202.55.151.86"
 - "Sanglorian"
 entry:
-  category_of_entry: Work, Collection
+  category:
+    - Work
+    - Collection
   short_description: "\"Donate and download Pwning Tomorrow, a free, Creative Commons-licensed anthology of short fiction curated by EFF! The anthology commemorates EFF's quarter-century of fighting for digital rights, and features superstar writers speculating on the upcoming 25 years and beyond.\""
   main_url: "https://supporters.eff.org/donate/pwning-tomorrow"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "This is an expansion of the (soon to be) award winning Fate Core, focussing on the process of collaborative world building. It includes some of the concepts found in The Spark RPG and helps you build an engaging setting with a history, fraught with danger and potential for growth."
   main_url: "http://rpg.drivethrustuff.com/product/117868/A-Spark-in-Fate-Core"
 connections:

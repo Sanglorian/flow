@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A retroclone of original and whitebox Dungeons & Dragons."
   main_url: "https://www.mythmeregames.com/en-au/collections/swords-wizardry"
   main_description: |-

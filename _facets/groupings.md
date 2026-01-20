@@ -10,7 +10,7 @@ permalink: /groupings/
   </header>
 
   {%- assign groupings = site.groupings | sort: "title" -%}
-  {%- assign works = site.entries | where_exp: "item", "item.entry.category_of_entry contains 'Work'" -%}
+  {%- assign works = site.entries | where_exp: "item", "item.entry.category contains 'Work'" -%}
   <ul>
     {%- for grouping in groupings -%}
       {%- assign work_count = 0 -%}

@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Frontier Encounters presents a wide range of views on how the borders between [China, Russia and Mongolia] are enacted, produced, and crossed.'"
   main_url: "https://www.openbookpublishers.com/books/10.11647/obp.0026"
 connections:

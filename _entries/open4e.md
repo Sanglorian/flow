@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'This system is intended to be a streamlined and open tactical RPG. The primary source of inspiration is Dungeons and Dragons 4th Edition.'"
   main_url: "https://wiki.rpg.net/index.php/Open4E:Main_Page"
 connections:

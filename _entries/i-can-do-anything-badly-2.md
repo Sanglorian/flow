@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This book aims to put in common the strategies, methodologies, motivations, and experiences of a wide range of young creators, organizers, and business owners in art, design, technology, academia, and Internet culture in order to document the spirit of DIY in the digital age."
   main_url: "http://icdab.club/"
 languages:

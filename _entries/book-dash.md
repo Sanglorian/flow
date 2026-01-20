@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Children's books, focused on Africa."
   main_url: "http://bookdash.org/see/books/"
 genres:

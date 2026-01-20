@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'We are a user rights initiative to rate and label website terms & privacy policies, from very good to very bad.'"
   main_url: "https://tosdr.org/en"
 groupings:

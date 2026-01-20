@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "You play an alien who gets his or her kicks from speeding."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/05/go-fast-turn-left/"
 connections:

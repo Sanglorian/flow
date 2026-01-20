@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Musicians."
   main_url: "http://www.jamendo.com/en/artist/439729/i-m-fresh-you-re-pretty#"
 connections:

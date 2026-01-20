@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Sci-fi about human-cyborg relations."
   main_url: "https://www.rudyrucker.com/wares/"
 groupings:

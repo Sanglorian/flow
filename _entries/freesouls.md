@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Photos of Joi Ito and writings from others."
   main_url: "https://freesouls.cc/"
 connections:

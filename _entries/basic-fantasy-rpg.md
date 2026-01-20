@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A fusion of Basic D&D with D&D 3E to create a simple, light-weight game."
   main_url: "https://www.basicfantasy.org/downloads.html"
 connections:

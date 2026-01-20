@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "Ordinary people find some of their memories have been taken in exchange for deadly magical powers."
   main_url: "http://www.lulu.com/product/file-download/his-due/15904777"
 connections:

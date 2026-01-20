@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Public domain images scanned from books."
   main_url: "https://karenswhimsy.com/public_domain_images/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "In this game, vampires are constantly engaged in a violent physical struggle for power, respect and security."
   main_url: "http://lilith.gotdns.org/~victor/writings/0058vampires.pdf"
 groupings:

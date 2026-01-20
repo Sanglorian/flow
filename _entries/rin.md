@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An abstract strategy game"
   main_url: "https://web.archive.org/web/20210725063051/http://blog.zmxv.com/2010/12/rin-abstract-strategy-game.html"
 languages:

@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "The engine of several popular tabletop roleplaying games."
 connections:
   - has_connection_to_entry: "Evil Hat Productions"

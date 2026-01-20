@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"The Manual is a design journal for the web, with thrice-yearly issues in print, ebook, audiobook, and online.\""
   main_url: "https://web.archive.org/web/20150315074609/https://themanual.org/read"
 groupings:

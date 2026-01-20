@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Chart the course of any revolution, real or imagined, in any time or place."
   main_url: "https://web.archive.org/web/20140817225129/http://www.latorra.org/revolucion/Revolucion.pdf"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A guide for using writer's dice."
   main_url: "https://danielsolisblog.blogspot.com/2012/01/writers-dice.html"
   main_description: "PDF backup: https://web.archive.org/web/20150108023832/https://dl.dropboxusercontent.com/u/7247980/Writer%27s%20Dice/WritersDiceGuide.pdf"

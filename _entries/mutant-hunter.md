@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Uses a handful of Warhammer 40K miniatures."
   main_url: "http://dominowriting.com/games.html"
 connections:

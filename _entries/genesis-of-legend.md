@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An RPG publisher."
   main_url: "https://genesisoflegend.com/about/"
 groupings:

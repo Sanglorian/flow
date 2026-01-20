@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "a fantasy roleplaying game using the SFX! system"
   main_url: "https://www.drivethrurpg.com/en/product/102723/zounds"
   main_description: "A complete fantasy roleplaying game using the SFX! System (Simple, Fast, Exciting), scalable to any scope, adaptable to any tone, including rules for ruling kingdoms and conflict between kingdoms and faction."

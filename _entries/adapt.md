@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A repository of Australian OER for Adaptation Studies."
   main_url: "https://web.archive.org/web/20151002082405/http://www.adapt.edu.au/about"
 groupings:

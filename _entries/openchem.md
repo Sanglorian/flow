@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An entire chemistry curriculum."
   main_url: "https://web.archive.org/web/20140216081918/http://media.learn.uci.edu/openchem/"
 connections:

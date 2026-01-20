@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'Learn open practices at School of Open.'"
   main_url: "https://schoolofopen.p2pu.org/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A FATE RPG about modern magic."
   main_url: "https://web.archive.org/web/20140422112839/http://www.faterpg.com/resources/"
   main_description: |-

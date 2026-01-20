@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Our vision is for all African children to have enough stories in a language familiar to them to practise reading and learn to love reading."
   main_url: "http://www.africanstorybook.org/"
 languages:

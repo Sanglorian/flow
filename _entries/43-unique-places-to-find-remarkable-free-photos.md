@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Looking for FREE high quality stock photo sites like Unsplash? Here’s a list of the best ones. You can use all of these photos for commercial purposes too. And no attribution is required. Enjoy!"
   main_url: "http://blog.sellfy.com/free-stock-images/"
 languages:

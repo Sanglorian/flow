@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A World of Dungeons hack that allows you to play post-apoc sci-fi."
   main_url: "https://playingoffthetracks.wordpress.com/2014/01/22/arkfall-science-fantasy-world-of-dungeons-hack/"
 connections:

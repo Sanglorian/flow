@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Why open source works."
   main_url: "http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/"
 groupings:

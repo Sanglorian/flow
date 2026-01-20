@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''Move Commons is a simple tool for connecting potential volunteers and contributors to initiatives, collectives and NGOs. ''"
   main_url: "https://movecommons.org/"
 groupings:

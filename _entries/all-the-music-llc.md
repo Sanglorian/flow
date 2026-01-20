@@ -7,7 +7,9 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Organisation
+  category:
+    - Collection
+    - Organisation
   short_description: "We’ve created an application to generate by brute force all mathematically possible melodies and write them to MIDI files."
   year_of_publication: 2020
   main_url: "http://allthemusic.info/"

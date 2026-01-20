@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"Pitch Deck is a game about convincing your friends to invest in the most ridiculous startups imaginable.\""
   main_url: "https://web.archive.org/web/20170220222631/http://pitchdeck.business/"
 genres:

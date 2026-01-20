@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An RPG in a post-human world."
   main_url: "https://www.drivethrurpg.com/en/product/106842/engine-heart"
 groupings:

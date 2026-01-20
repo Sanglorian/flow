@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A retroclone of The Fantasy Trip."
   main_url: "http://warriorandwizard.blogspot.com/"
   main_description: "http://4csystem.wikidot.com/w-w-srd"

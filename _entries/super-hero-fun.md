@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A tabletop RPG."
   main_url: "https://rpggeek.com/rpg/98460/super-hero-fun"
 genres:

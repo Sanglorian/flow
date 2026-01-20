@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A non-profit working with OER and local educators."
   main_url: "https://www.neweducationhighway.org/"
 groupings:

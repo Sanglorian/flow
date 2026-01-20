@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"Free stock photos (high resolution) for personal and commercial use. 7 new photos every week. Just make something creative!\""
   main_url: "http://realisticshots.com/"
 connections:

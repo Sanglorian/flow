@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "The basic rules of FATE on three pages."
   main_url: "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B4v1xSux57vyMjU4NmRmM2ItZGIwOS00ZTUyLWI0NmMtMjQ4MmEyNmFjYmIz&authkey=COW2_dYB&hl=en"
   main_description: |-

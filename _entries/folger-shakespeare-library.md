@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "This database offers access to tens of thousands of high resolution images from the Folger Shakespeare Library, including books, theater memorabilia, manuscripts, and art."
   main_url: "https://digitalcollections.folger.edu/"
 connections:

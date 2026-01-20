@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: |-
     "The Voyager 1 is the first humanmade spacecraft to enter interstellar space.
     Flying with it is the Golden Record, a documentation of the sounds of Earth. Listen."

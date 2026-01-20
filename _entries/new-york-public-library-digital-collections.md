@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "The library's collection, including 180,000 public domain works."
   main_url: "http://digitalcollections.nypl.org/"
 languages:

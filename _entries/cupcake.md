@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Free (do what ever you want) photos."
   main_url: "http://cupcake.nilssonlee.se/"
 connections:

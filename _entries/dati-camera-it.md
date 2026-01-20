@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Data from the Italian Parliament."
   main_url: "https://dati.camera.it/en/"
 connections:

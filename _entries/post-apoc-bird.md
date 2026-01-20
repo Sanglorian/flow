@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Lady Blackbird hack set in a distant, post-apocalyptic future."
   main_url: "https://web.archive.org/web/20101223155309/http://www.bullypulpitgames.com/projects/games/post-apocbird/"
 connections:

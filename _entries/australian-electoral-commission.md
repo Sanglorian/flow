@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Organisation
+  category: Organisation
   short_description: "The government body that supervises and manages elections."
   main_url: "https://www.aec.gov.au/footer/Copyright.htm"
 groupings:

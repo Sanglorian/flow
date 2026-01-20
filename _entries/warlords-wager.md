@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "Contest and intrigue at the Warlord's court."
   main_url: "http://chthonic.150m.com/rpg/warlordswager.htm"
 connections:

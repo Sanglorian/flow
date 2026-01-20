@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A \"meditation on fate, growing older and how people change over time.\""
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/10/once-i-was-a-warrior/"
 connections:

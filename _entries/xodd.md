@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A boardgame."
   main_url: "https://boardgamegeek.com/filepage/91658/360-xodd-problems"
 groupings:

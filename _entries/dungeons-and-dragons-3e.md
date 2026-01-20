@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "The third edition of the world's most popular roleplaying game."
   main_description: |-
     The third edition of D&D had two versions: 3.0 and 3.5.

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'Opt out of PRISM, the NSA’s global data surveillance program. Stop the American government from spying on you by encrypting your communications and ending your reliance on proprietary services.'"
   main_url: "https://prism-break.org/en/"
 groupings:

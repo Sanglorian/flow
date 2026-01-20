@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Reviews and catalogues of works in the public domain."
   main_url: "https://publicdomainreview.org/"
   main_description: |-

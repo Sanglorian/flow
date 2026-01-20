@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "''This site tries to gather open-source reimplementations of great old games in one place.''"
   main_url: "https://osgameclones.com/"
 groupings:

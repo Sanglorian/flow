@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A retroclone of 2E AD&D."
   main_url: "https://www.drivethrurpg.com/en/product/156530/for-gold-glory"
   main_description: "[An alternative](https://www.lulu.com/shop/justen-brown/for-gold-glory/ebook/product-21236826.html?page=1&pageSize=4). [Internet Archive](https://archive.org/details/ForGoldGlory_201410)"

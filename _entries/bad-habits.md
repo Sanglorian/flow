@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A Fiasco playset about backstabbing nuns."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/02/bad-habits/"
   main_description: "A supplement for the closed RPG Fiasco."

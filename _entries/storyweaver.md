@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Browse StoryWeaver, where you can read, create, translate, or download an endless stream of stories."
   main_url: "https://storyweaver.org.in/"
   main_description: |-

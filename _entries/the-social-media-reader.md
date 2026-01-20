@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Culling a broad range and incorporating different styles of scholarship from foundational pieces and published articles to unpublished pieces, journalistic accounts, personal narratives from blogs, and whitepapers, The Social Media Reader promises to be an essential text, with contributions from Lawrence Lessig, Henry Jenkins, Clay Shirky, Tim O'Reilly, Chris Anderson, Yochai Benkler, danah boyd, and Fred von Loehmann, to name a few.'"
   main_url: "https://archive.org/details/TheSocialMediaReader"
 connections:

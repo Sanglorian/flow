@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Ookaboo has collected nearly a million images of precisely defined topics such as places, people, species and products."
   main_url: "https://web.archive.org/web/20120609103406/http://ookaboo.com/o/pictures"
 groupings:

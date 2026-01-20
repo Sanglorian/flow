@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 - "115.187.248.102"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Metaphors for Designing Fair Intellectual Property Laws"
   main_url: "http://www.greglondon.com/bountyhunters/"
 connections:

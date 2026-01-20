@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A *simple little two page hack of Cthulhu Dark made to run a stropped down time travel game comparable to Continuum.*"
   main_url: "http://nickwedig.libraryofhighmoon.com/2013/08/so-now-youre-a-time-traveler/"
 connections:

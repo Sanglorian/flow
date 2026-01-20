@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: Work
+  category: Work
   main_url: "http://chthonic.150m.com/rpg/sorcererssymposium.htm"
 connections:
   - has_connection_to_entry: "Ben Wright"

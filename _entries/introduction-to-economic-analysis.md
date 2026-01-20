@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This book presents standard intermediate microeconomics material and some material that, in the authors view, ought to be standard but is not."
   main_url: "https://unglue.it/work/129348/#"
 connections:

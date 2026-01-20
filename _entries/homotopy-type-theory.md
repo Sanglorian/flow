@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Homotopy type theory is a new branch of mathematics that combines aspects of several different fields in a surprising way."
   main_url: "https://unglue.it/work/128678/"
 connections:

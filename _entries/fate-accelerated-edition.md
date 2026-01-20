@@ -8,7 +8,7 @@ contributors:
   - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A light version of the fractal role-playing game Fate."
   main_url: "https://fate-srd.com/"
   thumbnail: "/thumbnails/fate-accelerated-edition.jpg"

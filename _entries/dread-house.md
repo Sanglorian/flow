@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Spend the night in a haunted house."
   main_url: "https://epidiah.itch.io/dread-house"
   main_description: |-

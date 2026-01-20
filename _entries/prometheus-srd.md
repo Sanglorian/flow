@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An open version of the character creation and advancement rules from Dungeons & Dragons 3E."
   main_url: "https://web.archive.org/web/20100309230109/http://www.prometheusgaming.com/"
 connections:

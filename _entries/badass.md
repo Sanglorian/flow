@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An RPG of high octane action."
   main_url: "https://www.stargazergames.eu/other-games/"
 connections:

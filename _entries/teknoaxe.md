@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Royalty free music in a variety of genres."
   main_url: "http://teknoaxe.com/Home.php"
 groupings:

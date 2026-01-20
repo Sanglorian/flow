@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Game material for Dungeon World."
   main_url: "https://web.archive.org/web/20140818092858/http://story-games.com/forums/discussion/16429/x&page=1"
 connections:

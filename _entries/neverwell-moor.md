@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game where you wander around exploring an island."
   main_url: "https://opengameart.org/content/neverwell-moor"
 connections:

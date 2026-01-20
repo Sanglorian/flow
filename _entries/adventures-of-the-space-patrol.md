@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Retro-Cute Sci-Fi Role-Playing"
   main_url: "http://yarukizero.wordpress.com/adventures-of-the-space-patrol/"
   main_description: "[Appears to be the current version](http://yarukizerogames.com/my-games/adventures-of-the-space-patrol/)"

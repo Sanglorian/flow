@@ -7,7 +7,9 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Person
+  category:
+    - Collection
+    - Person
   short_description: "Free pixel art for games."
   main_url: "http://opengameart.org/users/buch"
 connections:

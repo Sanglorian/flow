@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://www.smashwords.com/books/view/10798"
   main_description: |-
     The second Creative Commons licensed novel.

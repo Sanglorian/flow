@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"Copyright for Librarians\" (CFL) is an online open curriculum on copyright law that was developed jointly with Harvard’s Berkman Center for Internet and Society."
   main_url: "https://unglue.it/work/135926/"
 connections:

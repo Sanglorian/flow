@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A mesmerising and haunting film which combines jazz and Hindu legend"
   main_url: "http://www.sitasingstheblues.com/"
   main_description: |-

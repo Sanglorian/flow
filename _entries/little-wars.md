@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A storytelling game HG Wells played with his children."
   main_url: "https://www.gutenberg.org/ebooks/8973"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "How people interact with tabletop games."
   main_url: "https://danielsolisblog.blogspot.com/2012/04/hierarchy-of-interface-for-tabletop.html"
 connections:

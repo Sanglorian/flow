@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "What it says."
   main_url: "https://web.archive.org/web/20150223013057/https://www.whytheheckshouldicareaboutthetpp.com/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A roleplaying game set on a water world."
   main_url: "https://web.archive.org/web/20140818092302/https://sites.google.com/site/diggledgames/pirate-game-1"
 groupings:

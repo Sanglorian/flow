@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "*Provides information about librarianship as a career, including types of libraries, types of jobs within libraries, professional issues, and educational requirements.*"
   main_url: "https://unglue.it/work/76348/"
 connections:

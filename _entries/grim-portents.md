@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Dungeon World/Powered by the Apocalypse fan e-zine."
   main_url: "https://grimportents.wordpress.com/"
 connections:

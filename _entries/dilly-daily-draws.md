@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://web.archive.org/web/20170522000705/https://dillydailydraws.wordpress.com/"
 groupings:
   - grouping: "Art"

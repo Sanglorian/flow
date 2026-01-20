@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Defending your rights in the digital world"
   main_url: "https://www.eff.org/"
 genres:

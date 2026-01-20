@@ -7,7 +7,7 @@ updated_at: 2026-05-01
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "A website that hosts three comics."
   main_url: "https://web.archive.org/web/20090409144934/http://www.unamused-comics.com/"
 connections:

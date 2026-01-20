@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Post apocalyptic Dungeon Squad."
   main_url: "http://www.1km1kt.net/rpg/psychic-warrior"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"Mythender is a roleplaying adventure game about stabbing gods in the face and sundering every mythic being until there’s none left.\""
   main_url: "https://www.drivethrurpg.com/en/product/110779/mythender-roleplaying-game"
 groupings:

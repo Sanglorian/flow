@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "This text describes two formal languages which have been of special importance to philosophers: truth-functional sentential logic and quantified predicate logic. The book covers translation, formal semantics, and proof theory for both languages."
   main_url: "https://unglue.it/work/129358/"
 connections:

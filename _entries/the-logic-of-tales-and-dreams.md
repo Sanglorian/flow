@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: ""
   main_url: "https://web.archive.org/web/20140818094916/http://www.principiainfecta.com/the-logic-of-tales-and-dreams/"
 groupings:

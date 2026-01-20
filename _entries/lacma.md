@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Los Angeles County Museum of Art."
   main_url: "https://collections.lacma.org/"
   main_description: "80,000 artworks in their possession; 20,000 of these are in the public domain."

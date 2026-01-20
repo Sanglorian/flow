@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A story of those with inhuman power and very human relationships."
   main_url: "https://web.archive.org/web/20160321015919/http://open.crngames.com/src/the-face-of-angels.html"
 connections:

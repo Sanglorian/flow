@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Free culture that has been chosen by the Ubuntu community."
   main_url: "https://wiki.ubuntu.com/UbuntuFreeCultureShowcase"
 groupings:

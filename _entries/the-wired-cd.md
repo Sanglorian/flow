@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "These musicians are saying that true creativity needs to be open, fluid, and alive. When it comes to copyright, they are pro-choice. Here are 16 songs that encourage people to play with their tunes, not just play them."
   main_url: "https://creativecommons.org/extras/wired/"
 connections:

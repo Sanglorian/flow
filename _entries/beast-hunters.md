@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Tattooed hunters of beasts use their fiendish blood for sorcery."
   main_description: |-
     Some parts of this work remain closed. The libre parts can be found in the [http://www.berengad.com/bh15srd/ System Reference Document].

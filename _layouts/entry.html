@@ -4,7 +4,7 @@ layout: default
 
 <article class="post">
   {%- assign e = page.entry | default: page -%}
-  {%- assign category_value = e.category_of_entry | default: page.category_of_entry -%}
+  {%- assign category_value = e.category | default: page.category -%}
   {%- assign category_display = category_value -%}
   {%- if category_value and category_value[1] and category_value[1].size > 1 -%}
     {%- assign category_display = category_value | join: ", " -%}

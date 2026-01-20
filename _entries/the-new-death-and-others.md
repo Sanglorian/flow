@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'44 stories. 19 poems. No sparkly vampires. There’s a thin line between genius and insanity, and James Hutchings has just crossed it – but from which direction?'"
   main_url: "https://www.drivethrufiction.com/en/product/103463/the-new-death-and-others"
   main_description: "Costs 99 US cents. Available in a variety of formats."

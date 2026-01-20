@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://web.archive.org/web/20150206174137/http://joshroby.com/node/345"
   main_description: "See also: https://joshroby.livejournal.com/64781.html"
 connections:

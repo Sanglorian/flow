@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "Unofficial supplement for Feng Shui."
   main_url: "http://chthonic.150m.com/feng/outforblood.htm"
   main_description: "Feng Shui is an all rights reserved game."

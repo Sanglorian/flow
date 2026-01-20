@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''The mission of the Open Policy Network is to foster the creation, adoption and implementation of open policies and practices that advance the public good by supporting open policy advocates, organizations and policy makers, connecting open policy opportunities with assistance, and sharing open policy information.''"
   main_url: "https://web.archive.org/web/20150718020336/https://openpolicynetwork.org/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play Fate Accelerated Edition with dice inspired by Star Wars: Edge of the Empire"
   main_url: "https://yarukizerogames.com/2013/07/29/destiny-dice/"
 connections:

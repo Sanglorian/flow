@@ -7,7 +7,7 @@ updated_at: 2026-01-04
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A cute explanation of how Creative Commons licenses work"
   main_url: "http://wiki.creativecommons.org/Spectrumofrights_Comic1"
 connections:

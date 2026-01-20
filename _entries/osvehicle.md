@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Download car designs."
   main_url: "https://en.wikipedia.org/wiki/OSVehicle_Tabby"
 groupings:

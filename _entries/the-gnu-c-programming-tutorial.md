@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This book is a tutorial for the computer programming language C."
   main_url: "https://unglue.it/work/139867/#"
 connections:

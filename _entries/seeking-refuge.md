@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Jcolag"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A modern take on the Scarlet Pimpernel with a mild superhero flair."
   subtitle: "The League of the Silver Bat, Book #1"
   year_of_publication: 2019

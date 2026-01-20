@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Stories by Cecil Street."
   alias: "John Rhode"
   main_url: "https://archive.org/search.php?query=subject%3A%22John+Rhode%22"

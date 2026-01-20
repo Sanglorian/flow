@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A story about troubled adolescents travelling to Faerie."
   main_url: "https://storybythethroat.wordpress.com/games/"
 groupings:

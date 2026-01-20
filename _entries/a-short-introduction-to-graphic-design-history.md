@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A graphic design primer."
   main_url: "https://web.archive.org/web/20090801200505/http://www.designhistory.org/"
 groupings:

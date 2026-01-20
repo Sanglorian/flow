@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A sci-fi novel."
   main_url: "https://unglue.it/work/128673/"
   main_description: |-

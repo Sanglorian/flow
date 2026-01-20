@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A collection of Pathfinder official and third party materials."
   main_url: "https://www.d20pfsrd.com/"
 connections:

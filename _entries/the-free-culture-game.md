@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game about commercialisation of content."
   main_url: "http://www.molleindustria.org/en/freeculturegame/"
 groupings:

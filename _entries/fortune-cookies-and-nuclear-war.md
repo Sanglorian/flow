@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A game written in a paragraph."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/03/fortune-cookies-and-nuclear-war/"
 connections:

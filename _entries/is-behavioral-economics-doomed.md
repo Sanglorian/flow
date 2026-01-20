@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://www.dklevine.com/general/behavioral/doomed.htm"
 connections:
   - has_connection_to_entry: "David K Levine"

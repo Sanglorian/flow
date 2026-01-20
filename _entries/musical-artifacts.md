@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "A site that hosts and distributes \"artifacts\" that musicians can use to make music."
   main_url: "https://musical-artifacts.com"
 licensing:

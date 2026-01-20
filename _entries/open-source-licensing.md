@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'' Software Freedom and Intellectual Property Law''"
   main_url: "https://www.rosenlaw.com/oslbook.htm"
 connections:

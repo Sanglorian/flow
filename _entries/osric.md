@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A retroclone of 1st Edition Dungeons & Dragons."
   main_url: "https://www.knights-n-knaves.com/"
 connections:

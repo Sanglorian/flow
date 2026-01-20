@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A cyberpunk game that uses a d20."
   main_url: "https://web.archive.org/web/20131206110551/http://tiltingatwindmills.net/technoir/index.html"
   main-description: "PDF: https://web.archive.org/web/20070221134414/http://tiltingatwindmills.net/technoir/technoir2.5.pdf"

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://iite.unesco.org/publications/3214700/"
 connections:
   - has_connection_to_entry: "UNESCO"

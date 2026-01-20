@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A performance of Bach's Goldberg Variations."
   main_url: "http://www.opengoldbergvariations.org/"
 connections:

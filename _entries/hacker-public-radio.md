@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Hacker Public Radio (HPR) is an Internet Radio show (podcast) that releases shows every weekday Monday through Friday."
   main_url: "http://hackerpublicradio.org/"
 groupings:

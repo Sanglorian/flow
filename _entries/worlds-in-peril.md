@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Superhero roleplaying Powered by the Apocalypse."
   main_url: "https://www.drivethrurpg.com/en/product/150013/worlds-in-peril"
   main_description: "\"Worlds in Peril is a collaborative roleplaying game designed to bring a comic book world to life. Learn the rules to the game by reading the comic inside and follow along to create your own hero with the exact powers and abilities you want them to have by mixing and matching Origin stories and motivations. Test their limits and watch their powers expand and change as you push them to learn and grow. Go up against two-bit villains, world-dominating masterminds, and unknowable beings from different planes of existence. Find out what happens when superheroes are powered by the apocalypse!\" -- Worlds in Peril"

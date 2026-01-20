@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Fate-based roleplaying in a world of mecha and Norse legend."
   main_description: "PDF: https://www.scribd.com/document/349547764/Iron-Edda-pdf"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Rules-lite, classless, nostalgic RPG."
   main_url: "https://web.archive.org/web/20120306012211/http://tower.newcenturycomputers.net/realmsofwonder.html"
 groupings:

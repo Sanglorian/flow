@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This is an introductory text intended for a one-year introductory course of the type typically taken by biology majors, or for AP Physics B."
   main_url: "https://unglue.it/work/135647/"
 connections:

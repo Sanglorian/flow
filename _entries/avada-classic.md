@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "220.245.24.134"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fully-featured card game"
   main_url: "http://gaia.li/"
 connections:

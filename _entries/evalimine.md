@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The server-side source code for the Estonian electronic voting system."
   main_url: "https://github.com/vvk-ehk/evalimine"
   main_description: "Deprecated and replaced by https://github.com/valimised/ivxv?tab=License-1-ov-file#readme, also under CC BY-NC-ND."

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A supplement for Rivers and Lakes that brings wuxia action into a city environment, with NPCs, factions and rules for firearms."
   main_url: "http://chthonic.150m.com/rpg/riversandlakes.htm"
 connections:

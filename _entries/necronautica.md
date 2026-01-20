@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game of heroic soldiers fighting against an alien invasion."
   main_url: "http://www.1km1kt.net/rpg/necronautica"
 connections:

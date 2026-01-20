@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The Lightweight Universal Roleplaying System."
   main_url: "https://ludusnovus.net/my-games/lore-and-belief/"
 connections:

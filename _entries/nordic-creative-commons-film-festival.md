@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "\"The Nordic Creative Commons Film Festival is the first festival organized in the Nordic region for films created and distributed under CC-licenses.\""
   main_url: "https://web.archive.org/web/20131216221321/http://www.nordicfilmfestival.cc/"
   main_description: |-

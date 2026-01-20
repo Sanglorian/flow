@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   year_of_publication: 2019
   main_url: "https://creativecommons.org/2019/10/30/cc-style-guide/"
 connections:

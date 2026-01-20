@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "A small press RPG company."
   main_url: "http://www.evilhat.com/home/"
   alias: "Evil Hat"

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A German fantasy game based on FATE."
   main_url: "https://ifyoudontlikeitfuckoff.de/downloads/"
 connections:

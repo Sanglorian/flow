@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An \"anti-stealth\" computer game - you have to be complicit in your own surveillance! Wound up, although an hour-long demo is still available."
   main_url: "https://web.archive.org/web/20150204154307/http://back.nothingtohide.cc/"
   main_description: |-

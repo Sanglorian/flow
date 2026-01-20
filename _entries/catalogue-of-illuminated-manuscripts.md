@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "35,000 scans of illuminated manuscripts."
   main_description: |-
     [http://www.bl.uk/catalogues/illuminatedmanuscripts/reuse.asp Reuse guidelines]

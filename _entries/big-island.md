@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game where you protect island inhabitants from skeletons."
   main_url: "http://opengameart.org/content/big-island"
   main_description: "[GitHub](https://github.com/seveibar/liberated-pixel-cup/tree/master)"

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "One of the first games to be open source."
   main_url: "https://rpggeek.com/rpg/6314/circe"
   main_description: |-

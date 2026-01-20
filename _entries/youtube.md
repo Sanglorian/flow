@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A video site."
   main_url: "http://www.youtube.com/creativecommons"
   main_description: "YouTube allows people to license their uploads under Creative Commons Attribution, and search filters can limit videos to those so licensed."

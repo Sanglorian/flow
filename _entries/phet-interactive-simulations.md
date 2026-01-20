@@ -8,7 +8,7 @@ contributors:
 - "58.107.69.177"
 - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   main_url: "https://phet.colorado.edu/en/simulations/category/new"
 languages:
   - language: "English"

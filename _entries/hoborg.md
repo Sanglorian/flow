@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century. - that anyone can edit, fork and contribute to."
   main_url: "http://jj.github.io/hoborg/"
 groupings:

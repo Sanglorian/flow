@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "The results of a contest to explain the tension between culture and copyright."
   main_url: "https://web.law.duke.edu/cspd/contest/"
   main_description: "The [https://web.law.duke.edu/cspd/contest/winners/ winners] are available as gratis RM, MP4 and MOV files as are the [https://web.law.duke.edu/cspd/contest/finalists/ finalists]"

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A collection of 100 pixelated camera illustrations for anybody to download and use in whatever way they see fit."
   main_url: "http://b.illbrown.com/cameracollection/"
 connections:

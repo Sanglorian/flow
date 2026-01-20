@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"From Creative Commons, Plays Well with Others is a podcast about the art and science of collaboration.\""
   year_of_publication: 2019
   main_url: "https://creativecommons.org/2019/02/21/plays-well-with-others/"

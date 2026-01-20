@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'The Queensland Government will release as much public data as possible, free to anyone who wishes to use it. This data has been gathered using public money and is the property of the people of Queensland and so, where suitable, we will release it.'"
   main_url: "https://www.data.qld.gov.au/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "'SEE programming includes one of Stanford’s most popular engineering sequences: the three-course Introduction to Computer Science taken by the majority of Stanford undergraduates, and seven more advanced courses in artificial intelligence and electrical engineering.'"
   main_url: "https://web.archive.org/web/20140728165908/http://see.stanford.edu/"
 genres:

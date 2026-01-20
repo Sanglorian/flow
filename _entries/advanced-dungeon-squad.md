@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Liam Brennan takes a shot at improving Dungeon Squad."
   main_url: "http://www.1km1kt.net/rpg/advanced-dungeon-squad"
 connections:

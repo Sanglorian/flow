@@ -8,7 +8,9 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Collection, Source
+  category:
+    - Collection
+    - Source
   short_description: "Josh Woodward writes and sings quirky acoustic rock."
   main_url: "http://www.joshwoodward.com/"
   main_description: "Also hosted on YouTube. https://www.youtube.com/joshwoodward"

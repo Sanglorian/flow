@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "''A Roleplaying Game of Sacrifice and Vengeance''"
   main_url: "http://www.sandandsteam.net/oneshot/"
 connections:

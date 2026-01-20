@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://www.1km1kt.net/rpg/how-i-learned-to-stop-worrying-and-love-the-bomb-shelter-24hr-edition"
 connections:
   - has_connection_to_entry: "1KM1KT"

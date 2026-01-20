@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://www.youtube.com/watch?v=H_aOHpn_vqQ"
 connections:
   - has_connection_to_entry: "YouTube"

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://www.csiro.au/en/news/All/News/2023/July/ScienceImage-Online"
 connections:
   - has_connection_to_entry: "CSIRO"

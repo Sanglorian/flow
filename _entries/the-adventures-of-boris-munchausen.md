@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A movie animated by 12-15 year olds."
   main_url: "https://munchausenproject.wordpress.com/"
   main_description: |-

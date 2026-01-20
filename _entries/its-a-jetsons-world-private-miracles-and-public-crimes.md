@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A book which contrasts extraordinary private innovation with government recalcitrance."
   main_url: "https://mises.org/library/book/its-jetsons-world-private-miracles-and-public-crimes?d7_alias_migrate=1"
   main_description: "Includes several chapters on copyright, common content and the like."

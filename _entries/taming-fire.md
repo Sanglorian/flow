@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   subtitle: "The Dragonprince's Legacy, #1"
   short_description: "The first book in an epic fantasy series."
   main_url: "https://www.aaronpogue.com/"

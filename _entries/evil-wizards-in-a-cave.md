@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''Evil Wizards in a Cave is a short adventure module compatible with both the Dungeon World and Labyrinth Lord fantasy role-playing games.''"
   main_url: "https://www.drivethrurpg.com/en/product/119066/rk2-evil-wizards-in-a-cave"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "An artist and game designer."
   main_url: "https://danielsolisblog.blogspot.com/"
   main_description: |-

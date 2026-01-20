@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A shady Chinese restaurant is the setting for a Fiasco playset."
   main_url: "https://web.archive.org/web/20140104124804/http://nickwedig.libraryofhighmoon.com/2011/03/dragon-2000-all-you-can-eat/"
   site_archived: 1

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A rules-light universal RPG."
   main_url: "https://web.archive.org/web/20110202094948/http://www.simplephrase.com/games/toast/toast.html"
 groupings:

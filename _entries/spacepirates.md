@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Space opera in what appears to be German."
   main_url: "https://spacepirates.jcgames.de/index.html"
 genres:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Was a Steam-like computer game platform."
   main_url: "https://en.wikipedia.org/wiki/Desura"
 groupings:

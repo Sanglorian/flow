@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "202.55.151.86"
 entry:
-  category_of_entry: "Person"
+  category: Person
   short_description: "Video blog"
   main_url: "https://www.youtube.com/user/vlogbrothers"
 languages:

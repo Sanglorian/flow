@@ -8,7 +8,9 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Collection, Person
+  category:
+    - Collection
+    - Person
   short_description: "CC-licensed music, 24/7"
   main_url: "http://rynothebearded.com/"
 groupings:

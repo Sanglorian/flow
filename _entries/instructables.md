@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Instructables is a place that lets you explore, document, and share your creations."
   main_url: "https://www.instructables.com/"
   main_description: |-

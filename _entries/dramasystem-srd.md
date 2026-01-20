@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "The basic system of the Hillfolk RPG."
   main_url: "https://pelgranepress.com/2013/09/19/dramasystem-srd/"
 connections:

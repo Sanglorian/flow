@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "A game company which publishes libre tabletop games and supplements."
   main_url: "https://www.drivethrurpg.com/en/publisher/3908/amagi-games"
 ---

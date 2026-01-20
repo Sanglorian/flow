@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A role-playing game designed for one of the most popular fantasy trilogies of all time."
   main_url: "http://ageofshadow.freehostia.com/"
 connections:

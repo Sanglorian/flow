@@ -8,7 +8,7 @@ contributors:
 - "115.187.248.102"
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   subtitle: "Welcome to the show"
   short_description: "Art from a perverted circus. Some nudity and violence."
   main_url: "https://commons.wikimedia.org/wiki/User:Circusdivas"

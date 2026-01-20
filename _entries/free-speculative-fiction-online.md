@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "This website has a number of Charles Stross works, some of which are under CC licenses."
   main_url: "https://www.freesfonline.net/authors/Charles_Stross.html"
 connections:

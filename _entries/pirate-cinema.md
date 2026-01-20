@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Pirate Cinema successfully follows the same pattern as his previous YA novels, mixing an adventurous, whip smart young main character with a relevant socio-political theme and wrapping all of it in a fast-paced, entertaining story."
   main_url: "https://craphound.com/category/pc/"
 connections:

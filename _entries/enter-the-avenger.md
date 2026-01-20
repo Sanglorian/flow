@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A short and simple swords & sorcery RPG."
   main_url: "https://web.archive.org/web/20140803195039/https://sites.google.com/site/sitodirafu/Home/i-miei-giochi/enter-the-avenger"
   main_description: "[http://fossilbank.wikidot.com/local--files/source:chris-sakkas/Enter%20the%20Avenger%20-%20Libre%20Edition.epub Libre Edition (EPUB)] from Chris Sakkas"

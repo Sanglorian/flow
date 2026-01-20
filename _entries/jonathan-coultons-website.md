@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A kooky and popular musician."
   main_url: "http://www.jonathancoulton.com/"
 groupings:

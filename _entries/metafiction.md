@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A short RPG about those who can travel through fiction."
   main_url: "https://www.drivethrurpg.com/en/product/23448/metafiction?products_id=23448&it=1"
 connections:

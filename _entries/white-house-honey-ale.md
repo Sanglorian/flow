@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Beer brewed on the White House grounds."
   main_url: "https://obamawhitehouse.archives.gov/blog/2012/09/01/ale-chief-white-house-beer-recipe"
 connections:

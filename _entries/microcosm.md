@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game from Amagi Games."
   main_url: "http://sites.google.com/site/amagigames/token-wagering"
 connections:

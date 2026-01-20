@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Why Creative Commons matters."
   main_url: "http://www.blendernation.com/2012/01/28/big-buck-bunny-loves-creative-commons/"
 connections:

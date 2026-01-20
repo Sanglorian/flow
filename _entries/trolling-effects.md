@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''Trolling Effects is a resource for those who have been targeted by patent trolls.''"
   main_url: "https://trollingeffects.org/"
 connections:

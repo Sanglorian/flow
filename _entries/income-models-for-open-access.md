@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Developing a business model for an open access journal."
   main_url: "https://www.sparcopen.org/wp-content/uploads/2016/01/incomemodels_v1.pdf"
 connections:

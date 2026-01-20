@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "''Oppia is a tool for creating interactive online activities that enable students to learn by doing.''"
   main_url: "https://www.oppia.org/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "About open source, crowdsourcing and community creation from Jono Bacon, the man who runs Wired."
   main_url: "https://web.archive.org/web/20120616135839/http://www.artofcommunityonline.org/get/"
 groupings:

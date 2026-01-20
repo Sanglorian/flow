@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "A role-playing game."
   main_url: "http://zzo38computer.cjb.net/icosahedral/html/main.html"
 genres:

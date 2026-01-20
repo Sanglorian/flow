@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Nine Inch Nails' album of 36 songs."
   main_url: "https://www.nin.com/music/ghosts/"
   main_description: |-

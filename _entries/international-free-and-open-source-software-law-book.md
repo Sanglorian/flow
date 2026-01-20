@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   alias: "IFOSS L. Rev."
   short_description: "The International Free and Open Source Software Law Review (IFOSS L. Rev.) is a collaborative legal publication aiming to increase knowledge and understanding among lawyers about Free and Open Source Software issues."
   main_url: "https://web.archive.org/web/20200217042850/https://ifosslawbook.org/"

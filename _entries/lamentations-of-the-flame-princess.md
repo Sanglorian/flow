@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Weird fantasy role-playing."
   main_url: "https://lotfp.substack.com/"
 connections:

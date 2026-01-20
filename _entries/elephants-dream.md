@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A short and surreal movie about an old man and his grandson."
   main_url: "https://orange.blender.org/"
   main_description: |-

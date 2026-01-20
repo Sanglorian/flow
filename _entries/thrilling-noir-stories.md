@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A rules-light RPG for the noir genre."
   main_url: "https://stargazersworld.com/2009/07/28/noir-is-now-thrilling-noir-stories/"
 groupings:

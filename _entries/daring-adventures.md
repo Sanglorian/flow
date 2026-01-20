@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Daring Adventures offers quick, no-prep superhero roleplaying, roughly in the style of golden age comics."
   main_url: "http://www.1km1kt.net/rpg/daring-adventures"
 connections:

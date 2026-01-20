@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: ""
   main_url: "https://opensource.com/life/12/11/top-ten-open-source-gifts-holidays"
 connections:

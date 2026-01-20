@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The story of a neo-Nazi looking after four old people waiting to die."
   main_url: "https://en.wikipedia.org/wiki/Nasty_Old_People"
 connections:

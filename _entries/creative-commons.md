@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "\"Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.\""
   main_url: "https://creativecommons.org/"
   main_description: |-

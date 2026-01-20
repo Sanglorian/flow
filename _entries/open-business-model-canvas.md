@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://web.archive.org/web/20100331084152/http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"

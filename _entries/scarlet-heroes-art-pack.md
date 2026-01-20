@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "South-East Asian-inspired fantasy art."
   main_url: "https://www.drivethrurpg.com/en/product/114894/scarlet-heroes-art-pack"
 connections:

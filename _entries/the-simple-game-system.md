@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A simple and generic rules-system based on d6s."
   main_url: "https://tsgs.atomicunicycle.com/"
   main_description: "The given website also has a number of supplements for the game."

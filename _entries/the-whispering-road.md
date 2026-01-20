@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"The Whispering Road is a storytelling game of cooperation and exploration, inspired by the films of Hayao Miyazaki and Studio Ghibli.\""
   main_url: "https://www.drivethrurpg.com/en/product/137996/the-whispering-road?filters=0_9999_100_44502_0_0"
 connections:

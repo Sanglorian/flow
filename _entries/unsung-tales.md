@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Unsung Tales is a card-based roleplaying game, in which you and your friends will work together to tell stories of mystery and adventure in a Sword and Sorcery world.'"
   main_url: "https://www.unsungtales.com/"
   main_description: "Part survives on Internet Archive: https://web.archive.org/web/20160824081515/http://peterborah.com/Unsung_Tales_Rules.pdf"

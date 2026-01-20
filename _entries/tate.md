@@ -7,7 +7,9 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Organisation"
+  category:
+    - Collection
+    - Organisation
   short_description: "An art gallery."
   main_url: "https://www.tate.org.uk/about-us/policies-and-procedures/creative-commons-licenses-tate"
 groupings:

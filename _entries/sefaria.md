@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Hebrew texts"
   main_url: "https://www.sefaria.org/"
   main_description: "Some, but apparently not all. For example: https://www.sefaria.org/sheets/431639?lang=bi"

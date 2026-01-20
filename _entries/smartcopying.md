@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "*The Official Guide to Copyright Issues for Australian Schools and TAFE*"
   main_url: "https://smartcopying.edu.au/"
 connections:

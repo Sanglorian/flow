@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An adventure for 5th edition Dungeons & Dragons."
   main_url: "https://www.froggodgames.com/en-au/products/17936"
 connections:

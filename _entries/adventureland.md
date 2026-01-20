@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "AdventureLand is a small, 4 pages RPG [written] in a hurry (about 6 hours) for advanced role-players."
   main_url: "http://www.1km1kt.net/rpg/adventureland"
   main_description: "([Locally-hosted backup](http://fossilbank.wikidot.com/local--files/entry:adventureland/AdventureLand.pdf))"

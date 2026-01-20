@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "WikiPremed's mission is to lower economic barriers to becoming a doctor and to improve the quality of MCAT review for everyone."
   main_url: "https://www.wikipremed.com/"
 groupings:

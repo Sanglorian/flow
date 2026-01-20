@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A journal that discusses resources that can be shared and used collectively."
   main_url: "https://thecommonsjournal.org/"
 genres:

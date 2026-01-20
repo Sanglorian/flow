@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   subtitle: "A game of colonial exploration."
   year_of_publication: 2005
   main_url: "https://boardgamegeek.com/boardgame/97187/city-of-brass-a-game-of-colonial-exploration"

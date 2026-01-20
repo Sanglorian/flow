@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "202.55.151.86"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A database of common building products and their risks."
   main_url: "https://web.archive.org/web/20190419053426/http://quartzproject.org/q"
 languages:

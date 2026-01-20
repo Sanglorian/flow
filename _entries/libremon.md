@@ -8,7 +8,7 @@ contributors:
 - "202.55.151.210"
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Mascots of free and open source movements as cartoon characters."
   main_url: "https://grisebouille.net/libremon/"
   year_of_publication: 2015

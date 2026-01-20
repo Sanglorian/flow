@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://archive.org/details/jamendo-039947"
   main_description: |-
     "Pondlife Fiasco is quite dark but some of the tracks have an positive upside. Drums are a lot rockier than the previous  Heifervescent albums and there's a bit more overdrive on tracks such as Deep Sea Diver. All the tracks have prominent melodies and are led my shimmering guitars, strings and subtle hints of brass and flutes.

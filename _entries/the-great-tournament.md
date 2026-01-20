@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play a martial artist attending the greatest tournament ever held."
   main_url: "https://rpggeek.com/rpgitem/215579/the-great-tournament"
 connections:

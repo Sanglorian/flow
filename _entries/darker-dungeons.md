@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A tabletop RPG based on a streamlined version of the Rules Cyclopedia."
   main_description: |-
     [Locally hosted source files](http://fossilbank.wikidot.com/local--files/work:darker-dungeons/Darker_Dungeons_Source_Files.zip) ([externally hosted]

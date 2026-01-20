@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''The Devil, John Moulton is a game about demon summoning outlaws in the American old west.''"
   main_url: "http://nickwedig.libraryofhighmoon.com/2014/04/the-devil-john-moulton/"
 connections:

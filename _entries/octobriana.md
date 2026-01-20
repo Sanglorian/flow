@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A public doman, communist-era superhero."
   main_description: |-
     While there is no official Octobriana website, these are worth checking out:

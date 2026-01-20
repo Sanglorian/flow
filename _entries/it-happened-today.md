@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A song from REM."
   main_url: "https://web.archive.org/web/20131105075749/http://soundcloud.com/groups/iht-remix"
   main_description: "This song was released as common content as part of a contest REM ran to remix their song."

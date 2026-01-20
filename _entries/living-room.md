@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"Living room is a musical stop-motion short film about the secret musical life of a group of chewing gums.\""
   main_url: "https://web.archive.org/web/20130805222422/http://www.nordicfilmfestival.cc/?page_id=290#living"
 connections:

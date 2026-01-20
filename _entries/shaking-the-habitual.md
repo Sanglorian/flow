@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"Performed, recorded and produced by The Knife in Stockholm and Berlin 2010-2012.\""
   main_url: "http://www.discogs.com/Kni%CF%86e-The-Shaking-The-Habitual/release/4458279"
 connections:

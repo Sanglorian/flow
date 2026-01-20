@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://responsibledata.io/wp-content/uploads/2014/10/responsible-development-data-book.pdf"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"

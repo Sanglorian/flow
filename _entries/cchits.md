@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Collection
+  category: Collection
   short_description: "Where you make the charts"
   main_url: "http://cchits.net/"
 groupings:

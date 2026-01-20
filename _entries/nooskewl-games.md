@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Source
+  category: Source
   main_url: "https://videogamegeek.com/videogamepublisher/28089/nooskewl"
   main_description: "The source for some games is licensed."
 ---

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'The Open Book is a crowdsourced publication that introduces the global movement for open knowledge in the words of those who are helping to build it today.'"
   main_url: "https://archive.org/details/TheOpenBook"
 connections:

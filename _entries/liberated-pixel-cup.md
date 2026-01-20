@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
   - Sanglorian
 entry:
-  category_of_entry: "Collection"
+  category: Collection
 ---
 "Liberated Pixel Cup is a two-part competition: make a bunch of awesome free culture licensed artwork, and then program a bunch of free software games that use it."
 

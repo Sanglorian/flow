@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''In this challenging and far-reaching study, Goyet looks at classic short stories in the context in which they were read at the time: cheap newspapers and higher-end periodicals.''"
   main_url: "https://unglue.it/work/136328/"
   main_description: "Gratis, DRM-free PDF, EPUB, MOBI from unglue.it - with an optional donation."

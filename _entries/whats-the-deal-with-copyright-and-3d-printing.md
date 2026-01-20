@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "What it says."
   main_url: "https://michaelweinberg.org/post/108174762940/whats-the-deal-with-copyright-and-3d-printing"
 connections:

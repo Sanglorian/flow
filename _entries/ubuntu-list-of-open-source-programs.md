@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "List of Open Source Programs for Windows"
   main_url: "https://help.ubuntu.com/community/ListOfOpenSourcePrograms"
   main_description: "A list of open source programs for Windows on the Ubuntu Wiki. Many of them can also run elsewhere."

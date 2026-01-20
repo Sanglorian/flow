@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A three-way game of shifting alliances."
   main_url: "https://glyphpress.com/talk/2011/kodrek-rules-version-1-0"
 groupings:

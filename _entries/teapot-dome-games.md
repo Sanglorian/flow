@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "A publisher of free role-playing games."
   main_url: "http://nickwedig.libraryofhighmoon.com/"
 ---

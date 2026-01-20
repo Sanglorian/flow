@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"670 free HD images for your web and design projects.\""
   main_url: "https://web.archive.org/web/20150331073519/http://www.resplashed.com/"
 connections:

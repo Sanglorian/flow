@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "About Sydney."
   main_description: |-
     Some entries are Creative Commons Attribution-ShareAlike licensed; there seems to be no way of generating a list of them.

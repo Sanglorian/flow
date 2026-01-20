@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: Work
+  category: Work
   short_description: "Anarchy reigns when an obsessive, talentless band reforms for one last tour, heedless of body count."
   main_url: "http://chthonic.150m.com/rpg/puttingthebandbacktogether.htm"
 connections:

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "\"Free silhouette images of animals, plants, and other life forms, available for reuse under a Public Domain or Creative Commons license.\""
   main_url: "https://www.phylopic.org/"
 groupings:

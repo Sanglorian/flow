@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Symbols from the album art of David Bowie's Blackstar."
   year_of_publication: 2016
   main_url: "http://www.bowieblackstar.net/"

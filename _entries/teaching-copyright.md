@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"EFF's Teaching Copyright curriculum was created to help teachers present the laws surrounding digital rights in a balanced way.\""
   main_url: "https://www.eff.org/teachingcopyright"
 connections:

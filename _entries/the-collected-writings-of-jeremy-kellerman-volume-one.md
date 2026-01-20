@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   short_description: "'\"The Jeremy Kellerman Blog!\" was created in February of 2011 as an outlet for the writings of Michigan-based creative genius and self-help guru Jeremy Kellerman and his associates.'"
   main_url: "https://archive.org/details/TheCollectedWritingsOfJeremyKellermanVolumeOne"
 connections:

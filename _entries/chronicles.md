@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A fantasy game."
   main_url: "https://web.archive.org/web/20200625201743/https://chroniclesgame.wordpress.com/"
 connections:

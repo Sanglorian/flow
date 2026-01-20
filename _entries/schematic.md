@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://archive.org/details/jamendo-045655"
 connections:
   - has_connection_to_entry: "Lorenzo's Music"

@@ -7,7 +7,7 @@ updated_at: 2026-05-01
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "http://alpha.libre.fm/"
   main_description: "Formerly hosted music. Now software that tracks what music you listen to."
 groupings:

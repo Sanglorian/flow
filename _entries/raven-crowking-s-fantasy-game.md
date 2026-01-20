@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Raven Crowking's reworking of Dungeons & Dragons"
   main_url: "https://www.enworld.org/threads/rcfg-rcfg-playtest-document-available.267563/page-3"
   main_description: |-

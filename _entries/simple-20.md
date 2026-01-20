@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A simple d20-based RPG."
   main_url: "https://web.archive.org/web/20070917013231/http://miscellaneousdebris.sitesled.com/games.html"
 connections:

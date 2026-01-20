@@ -7,7 +7,9 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Person"
+  category:
+    - Collection
+    - Person
   short_description: "voec is a programmer and game designer"
   main_url: "http://384400kilometers.tumblr.com/"
   main_description: "[https://twitter.com/notbanachtarski Twitter], [http://384400kilometers.tumblr.com/ Tumblr]"

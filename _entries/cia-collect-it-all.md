@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A competitive card game where players use intelligence collection techniques to solve international crises. On each turn, one player will try to defuse a crisis while their opponents interfere with reality checks."
   year_of_publication: 2018
   main_url: "https://diegeticgames.com/cia-collect-it-all/"

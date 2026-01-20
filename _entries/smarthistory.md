@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "*Smarthistory at Khan Academy is the leading open educational resource for art history. *"
   main_url: "https://smarthistory.org/"
 connections:

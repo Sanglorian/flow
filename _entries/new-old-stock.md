@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"Vintage photos from the public archives. Free of known copyright restrictions. Recapturing history.\""
   main_url: "http://nos.twnsnd.co/"
 connections:

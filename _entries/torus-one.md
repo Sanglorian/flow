@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Torus One RPG is a science fiction role-playing game, where all the action happens in a crowded ring-shaped space station with a circumference of 1609 meters."
   main_url: "http://www.1km1kt.net/rpg/torus-one"
 connections:

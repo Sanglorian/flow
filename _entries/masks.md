@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''Masks is a pen-and-paper role-playing game of super powered heroes, with addictive character generation and comic-book combat pacing.''"
   main_url: "https://gurbintrollgames.wordpress.com/masks/"
 connections:

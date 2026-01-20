@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Free high-resolution stock photos"
   main_url: "https://unsplash.com/"
   main_description: "Some are preserved on Wikimedia Commons: https://commons.wikimedia.org/wiki/Category:Images_from_Unsplash"

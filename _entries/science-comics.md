@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A comedic superheroes playset for Fiasco."
   main_url: "http://nickwedig.libraryofhighmoon.com/2010/12/science-comics/"
   main_description: "A supplement for the closed RPG Fiasco."

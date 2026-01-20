@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "RPG supplement for DSD6."
   main_url: "https://www.tauleadergames.com/tlwh"
 connections:

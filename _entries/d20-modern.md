@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Modern role-playing, from occult investigation to special ops and anything in between."
   main_url: "https://www.spellbooksoftware.com/d20mrsd/srdhome.html"
 connections:

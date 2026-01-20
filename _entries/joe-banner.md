@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Writes adventures for Dungeon World."
   main_url: "https://web.archive.org/web/20160527162209/http://joebanner.co.uk/category/adventures/"
 connections:

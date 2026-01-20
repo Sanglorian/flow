@@ -8,7 +8,7 @@ contributors:
 - "115.187.248.102"
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"On April 25th 2011, [8in8] entered Mad Oak Studios hoping to write and record eight songs in eight hours - webcasting the entire writing and recording process.\""
   year_of_publication: 2011
   main_url: "https://amandapalmer.bandcamp.com/album/nighty-night"

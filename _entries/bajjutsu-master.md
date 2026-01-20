@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "http://danielsolisblog.blogspot.com/2011/10/bajjutsu-master.html"
   main_description: |-
     a [http://danielsolisblog.blogspot.com/2011/10/bajjutsu-master-now-in-creative-commons.html Creative Commons declaration and a number of resources].

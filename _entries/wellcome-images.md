@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Thousands of years of visual culture made free through Wellcome Images"
   main_url: "https://wellcomecollection.org/search/works"
 connections:

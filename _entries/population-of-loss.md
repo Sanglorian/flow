@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Anthology of science fiction short stories."
   main_url: "https://unglue.it/work/144850/#"
   main_description: |-

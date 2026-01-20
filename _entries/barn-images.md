@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Barn Images offers you a collection of free high-resolution non-stock photography."
   main_url: "https://web.archive.org/web/20150908223553/http://barnimages.com/about/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A five-year-old girl named Rosalind tries to resolve the problems of her alien visitors."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/11/rosalind-wells-ambassador-to-space/"
 connections:

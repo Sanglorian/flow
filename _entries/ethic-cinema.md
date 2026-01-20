@@ -7,7 +7,9 @@ updated_at: 2026-01-09
 contributors:
 - "101.175.15.208"
 entry:
-  category_of_entry: "Collection, Organisation"
+  category:
+    - Collection
+    - Organisation
   short_description: "ETHIC CINEMA is non profit organization made by 2 French film makers and various artists, working together on making “libre” cinematographic art. The movies ("
   main_url: "http://ethiccinema.org/"
 groupings:

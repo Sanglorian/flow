@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An RPG once lost, but capable of preservation thanks to its open license."
   main_url: "http://livingfree.wikidot.com/sacred-steel"
 groupings:

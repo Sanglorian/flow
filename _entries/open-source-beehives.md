@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
   - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Sensor enhanced hive designs for bees"
   main_url: "https://github.com/opensourcebeehives"
 groupings:

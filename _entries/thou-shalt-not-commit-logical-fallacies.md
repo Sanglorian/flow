@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An engaging presentation of logical fallacies."
   main_url: "https://yourlogicalfallacyis.com/"
 groupings:

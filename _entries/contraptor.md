@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "open source DIY rapid hardware prototyping"
   main_url: "http://www.contraptor.org/about"
 groupings:

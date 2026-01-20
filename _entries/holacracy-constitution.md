@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This constitution compiles the rules of Holacracy. However it is not meant as learning material — you don’t learn a new game by reading the rules."
   main_url: "https://www.holacracy.org/constitution"
 genres:

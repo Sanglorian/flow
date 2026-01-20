@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "220.245.24.134"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"A nerdy, tactical fast paced hero combat game in a fantasy setting: Items, builds, abilities, fast to play, 1vs1, action points, scales for more players, with an ever evolving hero pool.\""
   main_url: "https://web.archive.org/web/20250315064637/http://saga.li/"
 connections:

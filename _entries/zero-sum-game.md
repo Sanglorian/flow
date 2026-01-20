@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''Deadly. Mercenary. Superhuman. Not your ordinary math geek.''"
   main_url: "https://unglue.it/work/139822/"
 groupings:

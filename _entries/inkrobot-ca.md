@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "I am the creator of Inkrobots: A line of Creative Commons 4.0 robot illustrations that are available for artists and designers (And anyone else) to remix, edit, copy and build upon."
   main_url: "https://commons.wikimedia.org/wiki/User:Inkrobot"
 connections:

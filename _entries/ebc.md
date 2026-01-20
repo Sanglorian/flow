@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "124.171.66.181"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Brazilian news site."
   main_url: "http://www.ebc.com.br/"
 licensing:

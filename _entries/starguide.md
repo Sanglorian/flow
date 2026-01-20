@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "http://www.1km1kt.net/rpg/starguide"
 connections:
   - has_connection_to_entry: "1KM1KT"

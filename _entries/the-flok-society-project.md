@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   alias: "FLOK Society Buon Conocer"
   short_description: "A document promoting a social commons."
   main_url: "https://book.floksociety.org/ec/"

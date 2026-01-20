@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A film project."
   main_url: "https://web.archive.org/web/20140517190940/http://littlesecretfilm.com/"
 groupings:

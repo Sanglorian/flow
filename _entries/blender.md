@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Blender is the free open source 3D content creation suite'"
   main_url: "https://www.blender.org/"
 connections:

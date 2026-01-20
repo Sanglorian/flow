@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A horror RPG."
   main_url: "http://nickwedig.libraryofhighmoon.com/2013/10/nameless-horror-version-0-2/"
 connections:

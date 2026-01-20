@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Open course frameworks: blueprints for teaching with OER"
   main_url: "https://lumenlearning.com/course-catalog/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A feature length documentary about street art in Barcelona"
   main_url: "https://onistfilm.wordpress.com/2013/03/23/las-calles-hablan-barcelona-street-art-documentary-release-information/"
 connections:

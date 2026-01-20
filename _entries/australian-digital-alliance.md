@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Organisation
+  category: Organisation
   short_description: "'We are Australia's peak body representing copyright users and innovators.'"
   main_url: "https://digital.org.au/"
 genres:

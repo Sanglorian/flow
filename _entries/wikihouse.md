@@ -8,7 +8,7 @@ contributors:
   - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "Build your own house."
   main_description: |-
     [http://www.wikihouse.cc/legal/terms License declaration]

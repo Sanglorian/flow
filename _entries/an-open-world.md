@@ -7,7 +7,7 @@ updated_at: 2026-10-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Learn more about open source and the growing open source movement with our comprehensive list of books below."
   main_url: "http://opensource.com/resources/ebooks"
 connections:

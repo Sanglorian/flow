@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A video-making competition."
   main_url: "https://web.archive.org/web/20150307120229/http://www.engage2012.org/"
 types:

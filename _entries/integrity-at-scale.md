@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A book proposing the Redesign Revolution."
   main_url: "https://web.archive.org/web/20140201114733/http://www.integrityatscaleblog.com/"
 connections:

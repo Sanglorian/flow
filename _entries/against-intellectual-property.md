@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Kinsella [argues] that the very existence of patents are contrary to a free market, and adds in here copyrights and trademarks too."
   main_url: "https://unglue.it/work/137084/"
 connections:

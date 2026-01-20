@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Data and photos of extinct animals and plants."
   main_url: "https://paleobiodb.org/"
 groupings:

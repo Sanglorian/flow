@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An Australian disaster awareness site."
   main_url: "https://web.archive.org/web/20161018072252/http://emergency20wiki.org/terms-of-use/copyright"
 groupings:

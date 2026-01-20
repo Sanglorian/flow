@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Understanding Changes in Poverty brings together different methods to decompose the contributions to poverty reduction."
   main_url: "https://unglue.it/work/139890/#"
 connections:

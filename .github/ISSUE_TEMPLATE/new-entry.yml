@@ -44,7 +44,7 @@ body:
       placeholder: "Optional details, context, and supporting links."
 
   - type: dropdown
-    id: category_of_entry
+    id: category
     attributes:
       label: Category of entry (Required)
       description: "Select the best fit (you may choose multiple)."

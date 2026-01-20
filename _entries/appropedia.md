@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A wiki to share designs of all sorts."
   main_url: "http://www.appropedia.org/Welcome_to_Appropedia"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'WFMU and the Free Music Archive challenged songwriters everywhere to unseat “Happy Birthday to You” from it’s cultural throne by composing possible replacements. Here are the winners.'"
   main_url: "https://freemusicarchive.org/music/Happy_Birthday_Song_Contest/The_New_Birthday_Song_Contest/"
 connections:

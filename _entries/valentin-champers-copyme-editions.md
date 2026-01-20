@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A poet."
   main_url: "http://tviblindi.legtux.org/blog/"
   main_description: "[http://thepiratebay.se/torrent/8311957 The Pirate Bay torrent]"

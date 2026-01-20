@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://www.disasteradio.org/"
   main_description: "[Pay-what-you-want album available at Bandcamp.](https://disasteradio.bandcamp.com/album/disasteradio)"
 groupings:

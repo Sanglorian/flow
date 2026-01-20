@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A miniatures game that uses plastic soldiers."
   main_url: "https://dominowriting.com/games/other-games/plasticattack/"
 connections:

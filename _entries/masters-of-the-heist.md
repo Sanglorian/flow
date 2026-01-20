@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "202.55.151.86"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://github.com/confidencegames/masters-of-the-heist-pnp"
 connections:
   - has_connection_to_entry: "Confidence Games"

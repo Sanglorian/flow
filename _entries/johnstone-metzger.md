@@ -7,7 +7,9 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Person, Collection"
+  category:
+    - Person
+    - Collection
   short_description: "A game designer."
   main_url: "https://redboxvancouver.wordpress.com/"
   main_description: "Specifically for Dungeon World"

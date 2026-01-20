@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A d20-based RPG."
   main_url: "https://blueroserpg.com/"
   main_description: "[A third-party SRD with only Open Game Content](http://www.darkshire.net/jhkim/rpg/srd/srd_true_romantic/index.html)"

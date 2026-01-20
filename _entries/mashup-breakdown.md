@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A visual demonstration of the samples used by Girl Talk."
   main_url: "https://web.archive.org/web/20130310100331/http://mashupbreakdown.com/"
   main_description: "A static video is preserved on [YouTube](https://www.youtube.com/watch?v=pnFisVo40nk)."

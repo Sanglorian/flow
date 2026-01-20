@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game of strategy and guess work played only with hands."
   main_url: "https://www.slideshare.net/slideshow/thousand-year-game-v5/9077062"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "The EoP card game helps clarify the details of threat modeling and examines possible threats to software and computer systems."
   main_url: "https://www.microsoft.com/en-us/download/details.aspx?id=20303"
 connections:

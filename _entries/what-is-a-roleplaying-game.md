@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: ""
   main_url: "https://dig1000holes.wordpress.com/2013/04/08/what-is-a-roleplaying-game/"
 connections:

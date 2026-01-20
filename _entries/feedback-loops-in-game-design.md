@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "An infographic by Daniel Solis."
   main_url: "https://danielsolisblog.blogspot.com/2012/05/feedback-loops-in-game-design.html"
 connections:

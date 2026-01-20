@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An informative YouTube video."
   main_url: "https://www.youtube.com/watch?v=QPKKQnijnsM"
 groupings:

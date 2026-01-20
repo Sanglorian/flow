@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Arcade gamers are recruited for a stellar war."
   main_url: "https://www.scribd.com/document/15893313/Star-Empire"
 connections:

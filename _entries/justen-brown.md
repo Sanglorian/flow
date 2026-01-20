@@ -7,7 +7,9 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Person"
+  category:
+    - Collection
+    - Person
   short_description: "An author of retroclones."
   main_url: "https://web.archive.org/web/20121026041815/http://feysquare.com/"
 genres:

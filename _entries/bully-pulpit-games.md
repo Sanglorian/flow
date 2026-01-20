@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "Game designer for Bully Pulpit Games."
   main_url: "http://www.bullypulpitgames.com/"
 ---

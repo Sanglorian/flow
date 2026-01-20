@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Person
+  category: Person
   short_description: "Author, some of whose works are CC licensed"
   main_url: "http://whitemarbleblock.blogspot.com/"
 languages:

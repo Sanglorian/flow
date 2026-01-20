@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Tables of treasures for dungeon-crawling fantasy."
   main_url: "http://satyrelite.blogspot.com/2013/11/unlikely-treasures-now-in-pdf-flavour.html"
 genres:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Try not to go murderously insane!"
   main_url: "https://rpggeek.com/rpgitem/169589/companies-and-carpools-storytelling-in-the-banal-w"
 connections:

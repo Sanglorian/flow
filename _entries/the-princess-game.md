@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This is a game about a little girl. The only little girl in the whole wide world. The only person there is, really."
   main_url: "https://www.drivethrurpg.com/en/product/28716/the-princess-game"
 connections:

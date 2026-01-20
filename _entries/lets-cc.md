@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A South Korean search engine for Creative Commons materials."
   main_description: "Search engine is down but the source code is available on [Github](https://github.com/neomparam/letscc)."
 languages:

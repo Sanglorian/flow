@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A diceless RPG for quick startup and rapid play."
   main_url: "http://www.1km1kt.net/rpg/quick-play-a-diceless-universal-quick-rpg"
 connections:

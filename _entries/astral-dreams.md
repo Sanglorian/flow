@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A space opera miniatures wargame."
   main_url: "https://web.archive.org/web/20140817225256/http://www.angelfire.com/games2/warpspawn/AstralDreams.htm"
 genres:

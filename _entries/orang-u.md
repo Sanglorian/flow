@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A feature film"
   subtitle: "An Ape Goes to College"
   year_of_publication: 2017

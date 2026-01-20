@@ -7,7 +7,9 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection, Organisation
+  category:
+    - Collection
+    - Organisation
   short_description: "The collection of illustrations in the Biodiversity Heritage Library."
   main_url: "https://www.flickr.com/photos/biodivlibrary/"
 connections:

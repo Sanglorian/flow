@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play a squid mechanic or a redneck father in this Hackbird."
   main_url: "https://theloneamigo.wordpress.com/wp-content/uploads/2009/09/my-darn-ex-wife1.pdf"
 connections:

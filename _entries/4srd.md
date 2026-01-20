@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A project to closely clone D&D 4E."
   main_url: "http://wiki.rpg.net/index.php/4SRD:Main_Page"
 connections:

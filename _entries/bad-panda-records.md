@@ -7,7 +7,9 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Organisation"
+  category:
+    - Collection
+    - Organisation
   short_description: "Weekly music."
   main_url: "https://badpandarecords.wordpress.com/take-the-mp3-and-run/"
 groupings:

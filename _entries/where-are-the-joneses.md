@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A British comedy about a woman seeking her long-lost siblings."
   main_url: "https://archive.org/details/where-are-the-joneses"
 groupings:

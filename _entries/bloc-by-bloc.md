@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "124.171.139.119"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fun and educational tabletop game inspired by contemporary urban insurrection."
   main_url: "http://outofordergames.com/blocbybloc/"
 languages:

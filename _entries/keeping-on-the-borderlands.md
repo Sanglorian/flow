@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Fiasco playset parodying Dungeons & Dragons."
   main_url: "http://nickwedig.libraryofhighmoon.com/2011/02/keeping-on-the-borderlands/"
   main_description: "A supplement for the closed RPG Fiasco."

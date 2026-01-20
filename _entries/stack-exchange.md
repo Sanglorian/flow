@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Stack Exchange is a network of 150+ Q&A communities"
   main_url: "https://stackexchange.com/"
 languages:

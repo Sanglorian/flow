@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Cities of You is a project that envisions people as imaginary places."
   main_url: "http://citiesofyou.com/"
 connections:

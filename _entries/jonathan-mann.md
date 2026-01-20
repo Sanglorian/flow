@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Wrote a song a day; now over 6,000."
   main_url: "https://songaday.world/"
   main_description: |-

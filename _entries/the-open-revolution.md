@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://openrevolution.net/"
   main_description: |-
     Will the digital revolution give us digital dictatorships or digital democracies? Forget everything you think you know about the digital age. It’s not about privacy, surveillance, AI or blockchain—it's about ownership. Because, in a digital age, who owns information controls the future.

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "''Rookvale is a [tabletop] game of cinematic tactical combat [with demons]''"
   main_url: "https://web.archive.org/web/20140120104608/http://buriedwithoutceremony.com/rookvale/"
 connections:

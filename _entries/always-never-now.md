@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Lady Blackbird-esque RPG."
   main_url: "https://www.drivethrurpg.com/en/product/114457/always-never-now"
 connections:

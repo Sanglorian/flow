@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A rules-light modular generic RPG."
   main_url: "https://www.drivethrurpg.com/en/product/29196/myriad-rpg-system?products_id=29196&it=1"
 groupings:

@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   short_description: "A whimsical movie where three rodents get their just deserts."
   main_url: "https://peach.blender.org/"
   main_description: |-

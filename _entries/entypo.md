@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'397 carefully crafted premium pictograms'"
   main_url: "https://github.com/chancancode/entypo-plus"
 groupings:

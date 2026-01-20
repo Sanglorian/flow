@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A short and sweet take on the d6 System."
   main_url: "http://www.antipaladingames.com/p/mini-six.html"
 connections:

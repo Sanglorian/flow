@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A tabletop RPG set in modern times."
   main_url: https://www.drivethrurpg.com/en/product/134520/d6pool-modern-roleplaying"
 groupings:

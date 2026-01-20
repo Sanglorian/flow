@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Awesome Turn Based Strategy. Master Your Beasts!"
   main_url: "http://AncientBeast.com"
   main_description: |-

@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Source
+  category: Source
   main_url: "http://www.onesevendesign.com/"
   main_description: "Patreon page: http://www.patreon.com/johnharper"
 ---

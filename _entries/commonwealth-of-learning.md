@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "An organisation which encourages the sharing of research, knowledge and technology."
   main_url: "https://www.col.org/"
 groupings:

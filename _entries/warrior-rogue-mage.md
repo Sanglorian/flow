@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A rules lite dungeoncrawl."
   main_url: "https://www.stargazergames.eu/warrior-rogue-mage/"
 groupings:

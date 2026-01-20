@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A swashbuckling space adventure for Basic Fantasy RPG."
   main_url: "https://basicfantasy.org/showcase.cgi"
 connections:

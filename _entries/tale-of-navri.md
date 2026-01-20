@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An adventure game set on a skyship."
   main_url: "http://www.1km1kt.net/rpg/tale-of-narvi-rpg"
 connections:

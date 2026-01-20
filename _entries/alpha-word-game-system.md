@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A comprehensive word game system."
   year_of_publication: 1997
   main_url: "https://boardgamegeek.com/boardgame/92678/alpha-word-game-system"

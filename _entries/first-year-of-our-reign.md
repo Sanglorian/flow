@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Supplements 1 to 6 for REIGN."
   main_url: "http://gregstolze.com/downloads.html"
   main_description: "REIGN is an all rights reserved game."

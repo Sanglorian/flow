@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "\"Free stock photos added every week.\""
   main_url: "http://negativespace.co/"
 connections:

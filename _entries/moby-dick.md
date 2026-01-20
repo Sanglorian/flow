@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work
+  category: Work
   subtitle: "or, The Whale"
   alias: "Moby Dick"
   short_description: "Classic novel of a sea captain on the hunt for a great white whale."

@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "New Brothers Whim picturebook."
   main_url: "https://web.archive.org/web/20140815022417/http://brotherswhim.com/sticks-adventure-free-childrens-book"
   main_description: |-

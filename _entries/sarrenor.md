@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fantasy campaign setting for Dungeon World."
   main_url: "https://web.archive.org/web/20140212202702/http://www.pyresofvam.com/sarrenor/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"Character-driven science-fiction series about the first settlers on the Moon\""
   main_url: "https://lunatics.tv/"
 groupings:

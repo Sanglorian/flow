@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A simple dungeon-crawl game."
   year_of_publication: 2005
   main_url: "http://www.1km1kt.net/rpg/dungeon-squad"

@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "The book features chapters by open data experts in a range of academic disciplines, covering practical information on licensing, ethics, and advice for data curators, alongside more theoretical issues surrounding the adoption of open data."
   main_url: "https://unglue.it/work/140086/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A multi-coloured font that can be displayed vertically."
   main_url: "https://djr.com/bungee/"
 connections:

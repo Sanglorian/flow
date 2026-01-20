@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "'A strategy card game set in the fictional world of Project Utopia.'"
   main_url: "https://boardgamegeek.com/boardgame/46945/project-utopia"
 groupings:

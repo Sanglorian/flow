@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"slash is a card-based party game in which players compete to create the best romantic fan fiction pairing.\""
   main_url: "https://www.patreon.com/posts/print-amp-play-135222"
 connections:

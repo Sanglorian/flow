@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "People from the real world are catapulted into a land of fairy tales."
   main_url: "https://www.drivethrurpg.com/en/product/996/the-undying-lands?products_id=996&it=1"
 connections:

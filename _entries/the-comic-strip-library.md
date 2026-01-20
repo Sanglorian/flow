@@ -7,7 +7,7 @@ updated_at: 2026-04-01
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "The Comic Strip Library is a digital library containing a collection of public domain comic strips."
   main_url: "http://comicstriplibrary.org/"
 groupings:

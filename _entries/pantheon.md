@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Pantheon is a storytelling game about a hero’s journey and the trials devised by the gods.'"
   main_url: "http://www.1km1kt.net/rpg/pantheon"
 connections:

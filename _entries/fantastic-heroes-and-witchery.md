@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An extensive tabletop RPG."
   main_url: "https://www.dragonsfoot.org/forums/viewtopic.php?f=48&t=63759"
 groupings:

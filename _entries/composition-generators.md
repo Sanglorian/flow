@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Generates collections of stripes or dots or blank canvases."
   main_url: "https://rhea.art/categories/generative-art/"
 connections:

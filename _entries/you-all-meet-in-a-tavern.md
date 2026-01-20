@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: ""
   main_url: "https://www.drivethrurpg.com/en/product/102112/critical-adventures-you-all-meet-in-a-tavern"
   main_description: "An adventure for [/work:critical-go-westerly Critical! Go Westerly]."

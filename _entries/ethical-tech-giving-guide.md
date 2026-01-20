@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "The gifts in the left column respect your freedom much more than those in the right column."
   main_url: "https://www.fsf.org/givingguide/v16/"
 connections:

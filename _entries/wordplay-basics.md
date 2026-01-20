@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A straightforward narrative role-playing game."
   main_url: "https://rpggeek.com/rpgitem/86370/wordplay-basics"
   main_description: "The [/entry:wordplay-core-rules Wordplay Core Rules] are still available."

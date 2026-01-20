@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A setting for Advanced Dungeons & Dragons."
   main_url: "https://tower.gonnerman.org/nevermore/"
   main_description: "For [/engine:advanced-dungeons-dragons Advanced Dungeons & Dragons]"

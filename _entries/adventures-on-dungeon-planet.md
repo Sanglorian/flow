@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Adventures on Dungeon Planet is a science fantasy supplement for the award-winning role-playing game Dungeon World."
   main_url: "http://redboxvancouver.wordpress.com/2013/03/29/adventures-on-dungeon-planet/"
 connections:

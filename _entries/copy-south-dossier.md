@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://archive.org/details/thecopysouthdoss22746gut"
   main_description: "[Download here](http://fossilbank.wikidot.com/local--files/work:copysouth-dossier/22746-r.rtf)"
 connections:

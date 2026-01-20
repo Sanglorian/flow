@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A Spanish language periodical."
   main_url: "https://web.archive.org/web/20140208005522/https://www.diagonalperiodico.net/"
 genres:

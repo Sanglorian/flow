@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A book on copyright, copyleft and everything else."
   main_url: "https://www.thepublicdomain.org/enclosing-the-commons-of-the-mind/download/"
 connections:

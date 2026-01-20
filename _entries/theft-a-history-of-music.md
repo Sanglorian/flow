@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A new comic book covering 2000 years of musical borrowing, from Plato to rap."
   year_of_publication: 2017
   main_url: "https://web.law.duke.edu/musiccomic/download/"

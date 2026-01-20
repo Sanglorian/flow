@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An RPG for couples, originally inspired by True Blood, Twilight, Let the Right One In, Buffy, and other tales of star-crossed vampire-human romances."
   main_url: "https://web.archive.org/web/20140817224459/https://www.gamedevblog.com/my-supernatural-romance.html"
   main_description: "[Ruthlessly edited, Archipelago II-inspired version](https://docs.google.com/document/d/1i8qFrBcK_N5vQOE5b9cgxQGNWdXsL86bGqsyWvh7f6s/edit?hl=en&tab=t.0#)"

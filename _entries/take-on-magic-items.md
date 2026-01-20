@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'\"Take On Magic Items\" is a collection of magic items for Dungeon World, though a clever game master could easily translate these items into the fantasy system of choice, especially systems that encourage rulings not rules.'"
   main_url: "https://www.drivethrurpg.com/en/product/106849/take-on-magic-items"
 connections:

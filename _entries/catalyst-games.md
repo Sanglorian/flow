@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Tabletop game designers."
   main_url: "https://www.catalystgamelabs.com/"
 groupings:

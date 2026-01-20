@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A now-finished project to create an album each month for three years."
   main_url: "https://learningmusicmonthly.com/archives/"
 groupings:

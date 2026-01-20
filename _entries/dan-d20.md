@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Quick and easy d20 role-playing."
   main_url: "https://web.archive.org/web/20090107052800/http://www.superdan.net/dimd20/"
 connections:

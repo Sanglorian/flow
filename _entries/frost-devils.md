@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An Alaskan take on Dust Devils."
   main_url: "https://archive.org/details/FrostDevils/FrostDevils/"
 connections:

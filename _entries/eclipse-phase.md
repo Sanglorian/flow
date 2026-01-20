@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Humanity stands on the cusp of a new age, with accelerated technological growth converging toward a singularity point, promising an undreamt-of future."
   main_url: "https://eclipsephase.com/"
   main_description: |-

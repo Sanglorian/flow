@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "What it says."
   main_url: "https://library.uniteddiversity.coop/Media_and_Free_Culture/Guide_to_Open_Content_Licenses.pdf"
 connections:

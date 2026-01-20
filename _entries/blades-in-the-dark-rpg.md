@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Tabletop RPG of heists."
   year_of_publication: 2017
   main_url: "https://bladesinthedark.com/licensing"

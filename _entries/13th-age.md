@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   main_url: "https://pelgranepress.com/2013/10/24/the-archmage-engine-13th-age-srd/"
   main_description: |-
     [3rd party HTML SRD](https://www.13thagesrd.com/)

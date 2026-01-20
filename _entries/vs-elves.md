@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A supplement for vs Monsters."
   main_url: "https://archive.org/details/vselves/mode/2up"
 connections:

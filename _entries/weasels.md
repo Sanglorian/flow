@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A simple system of intelligent weasels living in The Forest that must deal with a threat. Easy for kids."
   main_url: "https://web.archive.org/web/20130108030740/http://brentnewhall.com/rpg/doku.php?id=weasels"
 connections:

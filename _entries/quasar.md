@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Generic sci-fi game rules."
   main_url: "https://www.conroyhome.net/alan/quasar/index.html"
 groupings:

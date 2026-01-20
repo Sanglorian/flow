@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "The first CC licensed Academy Award winning film."
   main_url: "http://en.wikipedia.org/wiki/A_Story_of_Healing"
 groupings:

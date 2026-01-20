@@ -8,7 +8,9 @@ contributors:
   - Sanglorian
 entry:
   featured_entry: true
-  category_of_entry: Work, Collection
+  category:
+    - Work
+    - Collection
   short_description: "A set of pieces you can use to play many games."
   main_url: "http://www.piecepack.org/"
   thumbnail: "/thumbnails/piecepack.gif"

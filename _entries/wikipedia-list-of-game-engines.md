@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A list of game engines on Wikipedia."
   main_url: "https://en.wikipedia.org/wiki/List_of_open-source_video_games"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Person"
+  category: Person
   short_description: "Man who is involved in Ubuntu community, also in a band."
 groupings:
   - grouping: "Music"

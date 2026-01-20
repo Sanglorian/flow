@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "This work is a very simple method for the task resolution during RPG sessions."
   main_url: "http://www.1km1kt.net/rpg/stamtar"
 connections:

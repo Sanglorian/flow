@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Wretched & Alone games are solo journaling games about struggling in the face of insurmountable odds to survive, or to achieve something important."
   main_url: "https://sealedlibrary.itch.io/wretched-alone-srd"
 languages:

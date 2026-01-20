@@ -7,6 +7,6 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Organisation"
+  category: Organisation
   short_description: "The government of the Commonwealth of Australia."
 ---

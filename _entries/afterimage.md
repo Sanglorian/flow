@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A game where you try to prevent an apocalypse."
   main_url: "http://opengameart.org/content/afterimage"
   main_description: "[Download more recent version](http://opengameart.org/forumtopic/afterimage)"

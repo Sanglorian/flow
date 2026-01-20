@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "You are a little girl, and your ‘quest’ is to find some random letters."
   main_url: "https://opengameart.org/content/crosswordmaze-js-game"
 connections:

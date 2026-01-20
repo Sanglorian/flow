@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"OpenRelativity is an open-source toolkit to simulate effects of special relativity by varying the speed of light.\""
   main_url: "http://gamelab.mit.edu/research/openrelativity/"
 connections:

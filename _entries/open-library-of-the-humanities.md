@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "''Welcome to the initial ideas hub for the Open LIbrary of Humanities (OLH): a project exploring a PLOS-style model for the humanities and social sciences.''"
   main_url: "https://www.openlibhums.org/"
 groupings:

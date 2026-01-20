@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "public domain photos."
   main_url: "https://web.archive.org/web/20240602073952/https://cc0.photo/"
 connections:

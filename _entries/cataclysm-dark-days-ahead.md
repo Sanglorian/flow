@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Zombie survival rogue-like"
   main_url: "https://cataclysmdda.org/"
 genres:

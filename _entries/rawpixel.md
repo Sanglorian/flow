@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Stock photo website."
   main_url: "https://www.rawpixel.com/category/53/public-domain?filter=all&sort=trending"
   main_description: "Mostly proprietary photos and art, but one section is public domain."

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A fascist super replaces the US president during WWII."
   main_url: "https://sanglorian.github.io/bibliography/"
 connections:

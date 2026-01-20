@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "An RPG that has undergone considerable changes in recent versions."
   main_url: "http://www.1km1kt.net/rpg/mulrah"
 connections:

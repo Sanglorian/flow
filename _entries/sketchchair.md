@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Software allowing you to design and build your own wooden furniture."
   main_url: "https://www.sketchchair.cc/"
 connections:

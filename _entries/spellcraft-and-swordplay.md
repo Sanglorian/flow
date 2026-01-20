@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A retro role-playing game that combines Chainmail and Original Dungeons & Dragons."
   main_url: "https://boardgamegeek.com/rpg/1671/spellcraft-and-swordplay"
   main_description: "Bundle: https://www.drivethrurpg.com/en/product/108698/spellcraft-swordplay-bundle"

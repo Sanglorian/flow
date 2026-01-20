@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "This book is an introduction to intellectual property law, the set of private legal rights that allows individuals and corporations to control intangible creations and marks—from logos to novels to drug formulae—and the exceptions and limitations that define those rights."
   main_url: "http://www.thepublicdomain.org/2014/08/26/open-coursebook-in-intellectual-property/"
 connections:

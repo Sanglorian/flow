@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "One-page dungeons, part of an annual contest."
   main_url: "https://www.dungeoncontest.com/"
 groupings:

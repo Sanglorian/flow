@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Generate a random cat."
   main_url: "http://www.peppercarrot.com/extras/html/2016_cat-generator/"
 connections:

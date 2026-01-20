@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://archive.org/search.php?query=creator%3A%22Emily+C+O%27Leary%22"
   main_description: "On Internet Archive."
 connections:

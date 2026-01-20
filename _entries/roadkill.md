@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A short story by Leonard Kirke."
   main_url: "https://leonardkirke.wordpress.com/roadkill-a-short-story/"
 connections:

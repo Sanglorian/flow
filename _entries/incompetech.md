@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "Royalty-free music"
   main_url: "https://incompetech.com/music/royalty-free/licenses/"
 groupings:

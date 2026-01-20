@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Post-apocalyptic role-playing compatible with Labyrinth Lord."
   main_url: "https://goblinoidgames.com/"
 connections:

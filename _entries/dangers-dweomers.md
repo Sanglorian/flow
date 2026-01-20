@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A merger of Swords & Wizardry and Basic Fantasy."
   main_url: "https://rpggeek.com/rpg/6432/dangers-and-dweomers"
 connections:

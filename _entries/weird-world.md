@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'Weird World is a game about playing characters with unnatural powers in a dangerous, exciting world.'"
   main_url: "https://docs.google.com/document/d/1dK62F-kakCCLHhVwyjU2WVSxYELvdw-g16CgE8WkOMU/edit?tab=t.0"
 connections:

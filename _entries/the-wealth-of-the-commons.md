@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'A new collection of 73 essays that describe the enormous potential of the commons in conceptualizing and building a better future'"
   main_url: "https://www.wealthofthecommons.org/home"
 groupings:

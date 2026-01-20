@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: Work
+  category: Work
   short_description: "Teenagers struggle to discover the truth behind their mysterious sleep-walking."
   main_url: "http://chthonic.150m.com/rpg/somnambulance.htm"
 connections:

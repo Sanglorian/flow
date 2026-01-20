@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Play a viking hero on epic adventures."
   main_url: "http://web.archive.org/web/20121010000227/http://www.webjam.com/the_black_orifice"
   main_description: |-

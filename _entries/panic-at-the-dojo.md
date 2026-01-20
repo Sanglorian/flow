@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "\"Panic at the Dojo is a tabletop game for 3-5 players set in a modern world where martial arts reigns supreme, and magic exists a little bit.\""
   year_of_publication: 2018
   main_url: "https://www.drivethrurpg.com/product/247607/Panic-at-the-Dojo"

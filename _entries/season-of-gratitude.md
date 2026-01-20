@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Christmas songs from ccMixter."
   main_url: "http://ccmixter.org/playlist/browse/13565"
 connections:

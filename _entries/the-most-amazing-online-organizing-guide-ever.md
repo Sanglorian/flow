@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "\"[A] new FREE guide designed to help environmental and social change activists kick butt and break through on social media.\""
   main_url: "https://greenmemesteam.tumblr.com/guide/"
 groupings:

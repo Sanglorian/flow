@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A song by Nina Paley about attribution."
   main_url: "https://web.archive.org/web/20110703163312/http://blog.ninapaley.com/2011/06/27/credit-is-due/"
 connections:

@@ -7,7 +7,7 @@ updated_at: 2026-01-02T22:05:00+11:00
 contributors:
 - Sanglorian
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A wiki of superheroes and villains that have lapsed into the public domain."
   main_url: "https://pdsh.fandom.com/wiki/Public_Domain_Super_Heroes"
 groupings:

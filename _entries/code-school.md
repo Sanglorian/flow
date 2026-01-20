@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Learn to program."
   main_url: "https://web.archive.org/web/20180121135109/http://codeschool.org/"
 groupings:

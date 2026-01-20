@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A curious one-page RPG where you face off against dragons and sorcerers."
   main_url: "http://www.1km1kt.net/rpg/twenty-one-turn-hero-minigame"
 connections:

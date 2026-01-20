@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "How Geeks, Progressives, the Tea Party, Gamers, Anarchists and Suits Teamed Up to Defeat SOPA and Save the Internet"
   main_url: "https://www.orbooks.com/catalog/hacking-politics/"
 groupings:

@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Collections of public domain artworks by dead artists."
   main_url: "http://www.artpassions.net/"
 groupings:

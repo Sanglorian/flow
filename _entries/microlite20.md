@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A simplified version of the d20 System."
   main_url: "https://archive.org/details/microlite20"
   main_description: |-

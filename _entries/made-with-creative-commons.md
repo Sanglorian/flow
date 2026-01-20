@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A guide to sharing your knowledge and creativity with the world, and sustaining your operation while you do."
   main_url: "https://creativecommons.org/use-remix/made-with-cc/"
 connections:

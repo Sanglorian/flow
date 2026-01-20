@@ -7,7 +7,9 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection, Organisation"
+  category:
+    - Collection
+    - Organisation
   short_description: "CC-licensed, media-quality footage."
   main_url: "http://archive.org/details/aljazeeramedia"
 connections:

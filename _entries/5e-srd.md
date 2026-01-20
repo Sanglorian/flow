@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   alias: "5E System Reference Document"
   short_description: "The abridged but functional rules for the fifth edition of Dungeons & Dragons."
   year_of_publication: 2016

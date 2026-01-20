@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://twitter.github.io/twemoji/"
 licensing:
   - license: "Creative Commons Attribution"

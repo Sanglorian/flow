@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "An all rights reserved game, but that has been cloned by free and open games."
 groupings:
   - grouping: "Tabletop Roleplaying"

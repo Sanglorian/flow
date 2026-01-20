@@ -7,7 +7,7 @@ updated_at: 2026-01-12
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "'[A] 3-page micro-hack based on Apocalypse World, Dishonored, and Ghostbusters.'"
   main_url: "http://mightyatom.blogspot.com/2013/01/ghost-lines-mini-game-aw-hack-thing.html"
 connections:

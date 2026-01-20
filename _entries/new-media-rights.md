@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "'New Media Rights is a non-profit program that provides legal services, education, and advocacy for Internet users and creators.'"
   main_url: "https://newmediarights.org/"
 groupings:

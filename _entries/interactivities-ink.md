@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A creator of games you can print and play."
   main_url: "https://www.interactivitiesink.com/"
 groupings:

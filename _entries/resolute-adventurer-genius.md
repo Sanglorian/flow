@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A rules-light pulp game."
   main_url: "https://www.drivethrurpg.com/en/product/87653/resolute-adventurer-genius?products_id=87653"
 connections:

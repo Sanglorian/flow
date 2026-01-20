@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A pioneering RPG where characters are defined by their Keys and Secrets."
   main_url: "https://web.archive.org/web/20170521182641/http://crngames.com/the_shadow_of_yesterday/index"
   main_description: |-

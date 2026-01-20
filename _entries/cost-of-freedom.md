@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 - "124.171.143.219"
 entry:
-  category_of_entry: Collection
+  category: Collection
   short_description: "Essays on and from the free culture movement."
   main_url: "http://costoffreedom.cc/"
   year_of_publication: 2016

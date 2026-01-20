@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "A project to create a modern public domain translation of the Bible."
   main_url: "https://openenglishbible.org/"
 groupings:

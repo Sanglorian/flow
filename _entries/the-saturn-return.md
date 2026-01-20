@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   vapourware: true
-  category_of_entry: "Work"
+  category: Work
   main_url: "https://www.jamendo.com/en/list/a89614/the-saturn-return"
 connections:
   - has_connection_to_entry: "Zadkiel"

@@ -7,7 +7,7 @@ updated_at: 2026-01-16
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Collection"
+  category: Collection
   short_description: "A collection of photographs from NASA."
   main_url: "http://web.archive.org/web/20121022235837/http://www.nasaimages.org/"
   main_description: "See also: https://archive.org/details/nasa"

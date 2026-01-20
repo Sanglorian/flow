@@ -9,7 +9,7 @@ contributors:
 - Mike Linksvayer
 entry:
   featured_entry: true
-  category_of_entry: Person
+  category: Person
   short_description: "a one man band with no fans"
   main_url: "http://www.bradsucks.net/"
   main_description: "Brad Sucks makes the full source of his songs available for remixing, sampling and the like."

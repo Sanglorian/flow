@@ -7,7 +7,7 @@ updated_at: 2026-01-15
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Vacationing software engineers search for the Iliamna Monster."
   main_url: "https://www.emptygamebox.com/2008/06/02/iliamna-unknown/"
 genres:

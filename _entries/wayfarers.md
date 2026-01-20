@@ -7,7 +7,7 @@ updated_at: 2026-01-19
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   short_description: "Points-buy medieval fantasy role-playing."
   main_url: "http://yeoldegamingcompanye.com/wayfarersmain.htm"
 genres:

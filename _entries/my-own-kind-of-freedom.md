@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "124.171.66.181"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Firefly fan fiction."
   main_url: "http://dreamcafe.com/downloads/"
 connections:

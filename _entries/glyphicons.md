@@ -7,7 +7,7 @@ updated_at: 2026-01-14
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: "Work"
+  category: Work
   main_url: "http://glyphicons.com/"
   main_description: "Icons now under an ad hoc license."
 groupings:

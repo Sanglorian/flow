@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A project to empower people with data by distributing the load of data collection."
   main_url: "https://web.archive.org/web/20220212031116/https://safecast.org/"
 groupings:

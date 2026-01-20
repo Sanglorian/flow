@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Hard boiled pseudo-Lovecraftian space noir with squishy (and doomed, of course) romantic bits."
   main_url: "https://unglue.it/work/129511/#"
 connections:

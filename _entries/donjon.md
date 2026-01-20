@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "A fantasy dungeoncrawl game with significant player narrative control."
   main_url: "https://rpggeek.com/rpgitem/44979/donjon"
   main_description: |-

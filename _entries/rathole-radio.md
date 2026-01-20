@@ -7,7 +7,7 @@ updated_at: 2026-01-18
 contributors:
 - "Sanglorian"
 entry:
-  category_of_entry: Work
+  category: Work
   short_description: "Rathole Radio is a fortnightly Internet radio show featuring the best in new music from around the web, with occasional interviews and exclusive live performances to boot."
   main_url: "https://ratholeradio.org/"
 groupings:
