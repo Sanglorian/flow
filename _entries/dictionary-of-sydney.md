@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "About Sydney."
+  main_description: |-
+    Some entries are Creative Commons Attribution-ShareAlike licensed; there seems to be no way of generating a list of them.
   main_url: "https://dictionaryofsydney.org/copyright"
 groupings:
   - grouping: "Information"

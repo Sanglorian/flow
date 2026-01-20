@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A band."
+  main_description: |-
+    'Sleight of Hand'', ''Tramp'' and ''Don''t Want to Be Good'' are Creative Commons Attribution-ShareAlike; ''My Medicine'' is CC BY-NC-ND.
   main_url: "https://web.archive.org/web/20130330045626/http://www.jamendo.com/en/artist/421279/kassy-key-the-raindoggs"
 connections:
   - has_connection_to_entry: "Jamendo"

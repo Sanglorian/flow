@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "''LWN.net is a computing webzine with an emphasis on free software and software for Linux and other Unix-like operating systems.''"
+  main_description: |-
+    Material as of around May 2014 behind a paywall for a week, then FLO. ([http://gondwanaland.com/mlog/2014/05/01/lwn-bysa/ see Mike Linksvayer''s report]
   main_url: "https://lwn.net/"
 groupings:
   - grouping: "Information"

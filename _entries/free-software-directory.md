@@ -18,4 +18,4 @@ groupings:
 licensing:
   - license: "GNU Free Documentation License"
     explanation: "A variety of free software licences."
----
+---

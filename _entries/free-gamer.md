@@ -15,4 +15,4 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
     explanation: "The site itself"
----
+---

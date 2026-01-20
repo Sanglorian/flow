@@ -15,6 +15,8 @@ entry:
     - Blood & Bullets, a Wild West port of Swords & Wizardry
     - Ancient Mysteries and Lost Treasure, a modern action port of S&W
     - Sabres & Witchery, an 18th Century Europe port of S&W
+    
+    Entire text of each released under the OGL.
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

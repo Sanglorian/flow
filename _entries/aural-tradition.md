@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "An album created as part of a copyright course."
+  main_description: |-
+    The first three songs are CC0. The final one is a cover, still under copyright.
   main_url: "https://web.archive.org/web/20160321123036/http://www.ryanchiachiere.com/music/"
 groupings:
   - grouping: "Music"

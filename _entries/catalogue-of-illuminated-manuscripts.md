@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "35,000 scans of illuminated manuscripts."
+  main_description: |-
+    [http://www.bl.uk/catalogues/illuminatedmanuscripts/reuse.asp Reuse guidelines]
   main_url: "https://www.dhi.ac.uk/manuscriptsonline/resources/ci/"
 groupings:
   - grouping: "Art"

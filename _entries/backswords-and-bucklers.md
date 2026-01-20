@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: Work
   short_description: "Fantasy dungeoncrawling in Elizabethan England."
+  main_description: |-
+    What parts of the game are Open Game Content is not specified, as far as I can tell.
   main_url: "https://web.archive.org/web/20110531042524/http://tiedtoakite.com/backswords_bucklers"
 connections:
   - has_connection_to_entry: "Basic Dungeons & Dragons"

@@ -16,4 +16,4 @@ connections:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 2.5 (Unported)"
     licence_coverage: "part"
----
+---

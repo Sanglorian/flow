@@ -21,4 +21,4 @@ groupings:
   - grouping: "Hardware"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
----
+---

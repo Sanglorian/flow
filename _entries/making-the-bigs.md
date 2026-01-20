@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: "Work"
   short_description: "A baseball role-playing game remix"
+  main_description: |-
+    The creator confirmed it is under this licence.
   main_url: "https://web.archive.org/web/20140817224451/http://canonpuncture.geekyandgenki.com/wp-content/uploads/mtb_lady_b_style_081310_playtest.pdf"
 connections:
   - has_connection_to_entry: "Lady Blackbird"

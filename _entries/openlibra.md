@@ -9,6 +9,8 @@ contributors:
 entry:
   category_of_entry: Collection
   short_description: "OpenLibra \"La Biblioteca Libre online que estabas esperando\""
+  main_description: |-
+    This site itself is CC BY, I''m not sure about all of the content
   main_url: "https://web.archive.org/web/20111011095851/http://www.etnassoft.com/biblioteca/"
 groupings:
   - grouping: "Information"

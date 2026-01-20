@@ -48,4 +48,4 @@ versions:
     version_price: 0
     version_url: "http://nowoczesnapolska.org.pl/wp-content/uploads/2012/05/Future-of-Copyright-Anthology.zip"
     version_file: "Future-of-Copyright-Anthology.zip"
----
+---

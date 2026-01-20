@@ -12,6 +12,8 @@ entry:
   main_url: "http://nickwedig.libraryofhighmoon.com/2010/12/a-world-of-fire-and-sand/"
   main_description: |-
     ([Local backup of the cards](http://fossilbank.wikidot.com/local--files/work:a-world-of-fire-and-sand/19003377-Fire-and-Sand-Cards-2.pdf) and [the game itself](http://fossilbank.wikidot.com/local--files/work:a-world-of-fire-and-sand/19003349-A-World-of-Fire-and-Sand-2.pdf))
+    
+    Keep in mind that some of the material in this game was not created by Teapot Dome Games and is therefore not libre.
 connections:
   - has_connection_to_entry: "Teapot Dome Games"
 genres:

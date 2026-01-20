@@ -10,7 +10,10 @@ entry:
   category_of_entry: "Work"
   short_description: "An evil witch has taken over a small town."
   main_url: "https://bpglink.com/downloads"
-  main_description: "A supplement for [OSRIC](/osric/) and the [The Shadow of Yesterday](/the-shadow-of-yesterday/)"
+  main_description: |-
+    A supplement for [OSRIC](/osric/) and the [The Shadow of Yesterday](/the-shadow-of-yesterday/)
+    
+    Except for the OSRIC parts, which appear to be all rights reserved.
 connections:
   - has_connection_to_entry: "Jason Morningstar"
 genres:

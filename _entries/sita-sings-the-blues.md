@@ -14,6 +14,8 @@ entry:
     Some songs in this film are all rights reserved.
     
     [Now CC0 licensed](http://questioncopyright.org/sita-now-public-domain)
+    
+    Some songs in this film are all rights reserved.\n\n[http://questioncopyright.org/sita-now-public-domain Now CC0 licensed]
 connections:
   - has_connection_to_entry: "Nina Paley"
 groupings:

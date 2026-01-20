@@ -16,6 +16,8 @@ entry:
     The Arduino open-source library (often mistakenly named O/S) gives a level of abstraction which make learning and development easier and faster.
     
     Company like microchip are selling clone of the arduino platform named [ChipKit](http://chipkit.net/) based on their pic32 MIPS core.
+    
+    The site notice says the circuit board designs are all rights reserved, seemingly in contradiction of [/work:the-power-of-open The Power of Open]<br /><br />For the software: read [*https://github.com/arduino/Arduino/blob/master/license.txt license] for more details.
 groupings:
   - grouping: "Technology"
   - grouping: "Software"

@@ -10,6 +10,8 @@ entry:
   featured-entry: yes
   category_of_entry: Work
   short_description: "A libre encyclopedia that anyone can edit."
+  main_description: |-
+    The encyclopedia was at one stage licensed under the [/licence:fdl GNU Free Documentation License]. Some work remains under a range of libre licences.
   main_url: "http://www.wikipedia.org/"
 connections:
   - has_connection_to_entry: "Wikimedia Foundation"
