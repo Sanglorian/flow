@@ -1,0 +1,373 @@
+name: Issue to entry
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - labeled
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  issue-to-entry:
+    if: contains(github.event.issue.labels.*.name, 'new-entry')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Build entry from issue
+        id: build_entry
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const path = require("path");
+            const issue = context.payload.issue;
+            const body = issue?.body || "";
+
+            const requiredFields = ["title", "main_url", "short_description", "category"];
+            const fieldLabels = {
+              title: "Title (Required)",
+              main_url: "Main URL (Required)",
+              short_description: "Short description (Required)",
+              main_description: "Main description (Optional)",
+              category: "Category of entry (Required)",
+              year_of_publication: "Year of publication (Optional)",
+              new_thumbnail: "New thumbnail (Optional)",
+              wikidata_code: "Wikidata code (Optional)",
+              languages: "Languages (Optional)",
+              groupings: "Groupings (Optional)",
+              genres: "Genres (Optional)",
+              types: "Types (Optional)",
+              licensing: "Licensing (Optional)",
+              versions: "Versions (Optional)",
+              funding: "Funding (Optional)",
+              connections: "Connections (Optional)"
+            };
+
+            const valueForNone = (value) => {
+              const trimmed = value.trim();
+              if (!trimmed || trimmed === "_No response_") {
+                return "";
+              }
+              return trimmed;
+            };
+
+            const parseIssueForm = (text) => {
+              const fields = {};
+              const regex = /^###\s+(.+)\n([\s\S]*?)(?=\n###\s+|$)/gm;
+              let match;
+              while ((match = regex.exec(text)) !== null) {
+                const label = match[1].trim();
+                const value = valueForNone(match[2]);
+                fields[label] = value;
+              }
+              return fields;
+            };
+
+            const parseLines = (value) => {
+              if (!value) {
+                return [];
+              }
+              return value
+                .split("\n")
+                .map((line) => line.trim())
+                .filter((line) => line && line !== "_No response_");
+            };
+
+            const parseCheckboxSelections = (value) => {
+              const selections = [];
+              for (const line of parseLines(value)) {
+                const match = line.match(/^- \[(x|X)\] (.+)$/);
+                if (match) {
+                  selections.push(match[2].trim());
+                }
+              }
+              return selections.length ? selections : parseLines(value);
+            };
+
+            const parsePipeList = (value) => {
+              return parseLines(value).map((line) =>
+                line.split("|").map((segment) => segment.trim())
+              );
+            };
+
+            const issueFields = parseIssueForm(body);
+            const entryData = {};
+            for (const [key, label] of Object.entries(fieldLabels)) {
+              entryData[key] = issueFields[label] || "";
+            }
+            entryData.category = parseCheckboxSelections(entryData.category);
+
+            const missingFields = requiredFields.filter((field) => {
+              const value = entryData[field];
+              if (Array.isArray(value)) {
+                return value.length === 0;
+              }
+              return !value;
+            });
+
+            if (missingFields.length > 0) {
+              core.setFailed(`Missing required fields: ${missingFields.join(", ")}`);
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: [
+                  "⚠️ Unable to generate an entry because required fields are missing:",
+                  "",
+                  ...missingFields.map((field) => `- ${fieldLabels[field] || field}`),
+                  "",
+                  "Please edit the issue to include the required fields and try again."
+                ].join("\n")
+              });
+              return;
+            }
+
+            const today = new Date().toISOString().split("T")[0];
+            const slug = entryData.title
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, "-")
+              .replace(/(^-|-$)/g, "");
+            const entryFile = `${slug || "entry"}-${issue.number}.md`;
+            const entryPath = path.join("_entries", entryFile);
+
+            const yamlValue = (value, indentLevel = 0) => {
+              if (value === null || value === undefined) {
+                return "\"\"";
+              }
+              const text = String(value);
+              if (text.includes("\n")) {
+                const indent = " ".repeat(indentLevel + 2);
+                const lines = text.split("\n").map((line) => `${indent}${line}`);
+                return `|-\n${lines.join("\n")}`;
+              }
+              return `"${text.replace(/\\/g, "\\\\").replace(/"/g, "\\\"")}"`;
+            };
+
+            const yamlLines = [
+              "---",
+              "layout: entry",
+              `title: ${yamlValue(entryData.title)}`,
+              `permalink: /${slug || `entry-${issue.number}`}/`,
+              `created_at: ${today}`,
+              `updated_at: ${today}`,
+              "contributors:",
+              `- ${yamlValue(issue.user.login)}`
+            ];
+
+            yamlLines.push("entry:");
+            if (entryData.category.length > 1) {
+              yamlLines.push("  category:");
+              entryData.category.forEach((category) => {
+                yamlLines.push(`    - ${yamlValue(category, 4)}`);
+              });
+            } else {
+              yamlLines.push(`  category: ${yamlValue(entryData.category[0], 2)}`);
+            }
+            yamlLines.push(`  short_description: ${yamlValue(entryData.short_description, 2)}`);
+            yamlLines.push(`  main_url: ${yamlValue(entryData.main_url, 2)}`);
+
+            if (entryData.main_description) {
+              yamlLines.push(`  main_description: ${yamlValue(entryData.main_description, 2)}`);
+            }
+            if (entryData.year_of_publication) {
+              yamlLines.push(`  year_of_publication: ${yamlValue(entryData.year_of_publication, 2)}`);
+            }
+            if (entryData.new_thumbnail) {
+              yamlLines.push(`  thumbnail: ${yamlValue(entryData.new_thumbnail, 2)}`);
+            }
+            if (entryData.wikidata_code) {
+              yamlLines.push(`  wikidata_code: ${yamlValue(entryData.wikidata_code, 2)}`);
+            }
+
+            const genres = parseLines(entryData.genres);
+            if (genres.length > 0) {
+              yamlLines.push("genres:");
+              genres.forEach((genre) => {
+                yamlLines.push(`  - ${yamlValue(genre, 2)}`);
+              });
+            }
+
+            const languages = parsePipeList(entryData.languages);
+            if (languages.length > 0) {
+              yamlLines.push("languages:");
+              languages.forEach(([language, relationship, explanation]) => {
+                if (!language) {
+                  return;
+                }
+                yamlLines.push(`  - language: ${yamlValue(language, 2)}`);
+                if (relationship) {
+                  yamlLines.push(`    relationship_of_language: ${yamlValue(relationship, 4)}`);
+                }
+                if (explanation) {
+                  yamlLines.push(`    explanation: ${yamlValue(explanation, 4)}`);
+                }
+              });
+            }
+
+            const groupings = parsePipeList(entryData.groupings);
+            if (groupings.length > 0) {
+              yamlLines.push("groupings:");
+              groupings.forEach(([grouping]) => {
+                if (grouping) {
+                  yamlLines.push(`  - grouping: ${yamlValue(grouping, 2)}`);
+                }
+              });
+            }
+
+            const types = parsePipeList(entryData.types);
+            if (types.length > 0) {
+              yamlLines.push("types:");
+              types.forEach(([type, distribution, explanation]) => {
+                if (!type) {
+                  return;
+                }
+                yamlLines.push(`  - type: ${yamlValue(type, 2)}`);
+                if (distribution) {
+                  yamlLines.push(`    distribution: ${yamlValue(distribution, 4)}`);
+                }
+                if (explanation) {
+                  yamlLines.push(`    explanation: ${yamlValue(explanation, 4)}`);
+                }
+              });
+            }
+
+            const licensing = parsePipeList(entryData.licensing);
+            if (licensing.length > 0) {
+              yamlLines.push("licensing:");
+              licensing.forEach(([license, coverage, explanation]) => {
+                if (!license) {
+                  return;
+                }
+                yamlLines.push(`  - license: ${yamlValue(license, 2)}`);
+                if (coverage) {
+                  yamlLines.push(`    license_coverage: ${yamlValue(coverage, 4)}`);
+                }
+                if (explanation) {
+                  yamlLines.push(`    explanation: ${yamlValue(explanation, 4)}`);
+                }
+              });
+            }
+
+            const versions = parsePipeList(entryData.versions);
+            if (versions.length > 0) {
+              yamlLines.push("versions:");
+              versions.forEach(([title, format, price, url, explanation]) => {
+                if (!title) {
+                  return;
+                }
+                yamlLines.push(`  - version_title: ${yamlValue(title, 2)}`);
+                if (format) {
+                  yamlLines.push(`    version_format: ${yamlValue(format, 4)}`);
+                }
+                if (price) {
+                  yamlLines.push(`    version_price: ${yamlValue(price, 4)}`);
+                }
+                if (url) {
+                  yamlLines.push(`    version_url: ${yamlValue(url, 4)}`);
+                }
+                if (explanation) {
+                  yamlLines.push(`    explanation: ${yamlValue(explanation, 4)}`);
+                }
+              });
+            }
+
+            const funding = parsePipeList(entryData.funding);
+            if (funding.length > 0) {
+              yamlLines.push("funding:");
+              funding.forEach(([tool, fundingType, explanation]) => {
+                if (!tool) {
+                  return;
+                }
+                yamlLines.push(`  - funding_tool: ${yamlValue(tool, 2)}`);
+                if (fundingType) {
+                  yamlLines.push(`    funding_type: ${yamlValue(fundingType, 4)}`);
+                }
+                if (explanation) {
+                  yamlLines.push(`    explanation: ${yamlValue(explanation, 4)}`);
+                }
+              });
+            }
+
+            const connections = parsePipeList(entryData.connections);
+            if (connections.length > 0) {
+              yamlLines.push("connections:");
+              connections.forEach(([entry, details, explanation]) => {
+                if (!entry) {
+                  return;
+                }
+                yamlLines.push(`  - has_connection_to_entry: ${yamlValue(entry, 2)}`);
+                if (details) {
+                  yamlLines.push(`    details_of_connection: ${yamlValue(details, 4)}`);
+                }
+                if (explanation) {
+                  yamlLines.push(`    explanation: ${yamlValue(explanation, 4)}`);
+                }
+              });
+            }
+
+            yamlLines.push("---");
+            const entryMarkdown = `${yamlLines.join("\n")}\n`;
+            fs.writeFileSync(entryPath, entryMarkdown, "utf8");
+
+            core.setOutput("entry_path", entryPath);
+            core.setOutput("entry_markdown", entryMarkdown);
+            core.setOutput("entry_slug", slug || `entry-${issue.number}`);
+
+      - name: Create pull request
+        id: create_pr
+        uses: peter-evans/create-pull-request@v6
+        continue-on-error: true
+        with:
+          commit-message: "Add entry from issue #${{ github.event.issue.number }}"
+          title: "Add entry for #${{ github.event.issue.number }}"
+          branch: "automation/entry-${{ github.event.issue.number }}"
+          body: |
+            Generated from issue #${{ github.event.issue.number }}.
+          labels: |
+            new-entry
+
+      - name: Comment with generated entry
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const entryMarkdown = ${{ toJSON(steps.build_entry.outputs.entry_markdown) }};
+            const prUrl = ${{ toJSON(steps.create_pr.outputs.pull-request-url) }};
+            const fallbackNote = prUrl
+              ? `✅ Pull request created: ${prUrl}`
+              : "⚠️ Pull request creation was not permitted; using comment-only fallback.";
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: [
+                fallbackNote,
+                "",
+                "Generated entry markdown:",
+                "```markdown",
+                entryMarkdown,
+                "```"
+              ].join("\n")
+            });
+
+      - name: Summarize outcome
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prUrl = ${{ toJSON(steps.create_pr.outputs.pull-request-url) }};
+            core.summary.addHeading("Issue to entry summary");
+            if (prUrl) {
+              core.summary.addList([`Pull request created: ${prUrl}`]);
+            } else {
+              core.summary.addList(["Pull request not created; comment fallback used."]);
+            }
+            await core.summary.write();
