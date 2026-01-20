@@ -3,13 +3,13 @@ layout: entry
 title: "Zenhabits"
 permalink: /zenhabits/
 created_at: 2015-06-03
-updated_at: 2026-01-11
+updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: ""
-  main_url: "http://zenhabits.net/"
+  main_url: "https://web.archive.org/web/20241202170647/https://zenhabits.net/uncopyright/"
 groupings:
   - grouping: "Information"
 licensing:

@@ -3,13 +3,13 @@ layout: entry
 title: "Yo Frankie"
 permalink: /yo-frankie/
 created_at: 2015-05-29
-updated_at: 2026-01-11
+updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
   short_description: "A computer game where you control a rodent."
-  main_url: "http://www.yofrankie.org/"
+  main_url: "https://apricot.blender.org/"
   main_description: |-
     Created using the [/work:blender Blender] software.
 

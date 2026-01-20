@@ -3,7 +3,7 @@ layout: entry
 title: "Wings Keeton and The Airship of Doom"
 permalink: /wings-keeton-and-the-airship-of-doom/
 created_at: 2015-05-29
-updated_at: 2026-01-11
+updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
