@@ -38,7 +38,7 @@ jobs:
               main_description: "Main description (Optional)",
               category: "Category of entry (Required)",
               year_of_publication: "Year of publication (Optional)",
-              new_thumbnail: "New thumbnail (Optional)",
+              new_thumbnail: "Thumbnail path (Optional)",
               wikidata_code: "Wikidata code (Optional)",
               languages: "Languages (Optional)",
               groupings: "Groupings (Optional)",
@@ -60,7 +60,7 @@ jobs:
 
             const parseIssueForm = (text) => {
               const fields = {};
-              const regex = /^###\s+(.+)\n([\s\S]*?)(?=\n###\s+|$)/gm;
+              const regex = /###\s+(.+)\n([\s\S]*?)(?=\n###\s+|\s*$)/g;
               let match;
               while ((match = regex.exec(text)) !== null) {
                 const label = match[1].trim();
@@ -69,6 +69,7 @@ jobs:
               }
               return fields;
             };
+
 
             const parseLines = (value) => {
               if (!value) {
