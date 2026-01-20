@@ -4,10 +4,10 @@ title: "The Far Towers"
 permalink: /the-far-towers/
 created_at: 2015-05-30
 updated_at: 2015-10-06
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Work"
   short_description: "Play travelling enforcers and heroes putting wrongs to right."
   main_url: "http://sites.google.com/site/amagigames/danger-rolls"

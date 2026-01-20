@@ -4,10 +4,10 @@ title: "Phylopic"
 permalink: /phylopic/
 created_at: 2015-06-03
 updated_at: 2015-09-20
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Collection"
   short_description: "\"Free silhouette images of animals, plants, and other life forms, available for reuse under a Public Domain or Creative Commons license.\""
   main_url: "https://www.phylopic.org/"

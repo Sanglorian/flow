@@ -4,10 +4,10 @@ title: "Thetis"
 permalink: /thetis/
 created_at: 2015-05-29
 updated_at: 2015-09-23
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Work"
   short_description: "A world of nautical fantasy adventure."
   main_url: "http://burningzeppelinexperience.blogspot.com/2011/03/presenting-thetis.html"

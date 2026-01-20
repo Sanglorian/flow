@@ -4,10 +4,10 @@ title: "Night Of The Sevens"
 permalink: /night-of-the-sevens/
 created_at: 2015-05-29
 updated_at: 2015-09-23
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Work"
   short_description: "A supplement for Rivers and Lakes containing optional rules and a series of linked quests."
   main_url: "http://chthonic.150m.com/rpg/riversandlakes.htm"

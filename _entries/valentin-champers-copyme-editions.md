@@ -4,10 +4,10 @@ title: "Valentin Champer's COPYME Editions"
 permalink: /valentin-champers-copyme-editions/
 created_at: 2015-06-03
 updated_at: 2015-01-18
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Collection"
   short_description: "A poet."
   main_url: "http://tviblindi.legtux.org/blog/"

@@ -4,10 +4,10 @@ title: "Putting the Band Back Together"
 permalink: /putting-the-band-back-together/
 created_at: 2015-05-29
 updated_at: 2015-09-23
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: Work
   short_description: "Anarchy reigns when an obsessive, talentless band reforms for one last tour, heedless of body count."
   main_url: "http://chthonic.150m.com/rpg/puttingthebandbacktogether.htm"

@@ -4,10 +4,10 @@ title: "His Due"
 permalink: /his-due/
 created_at: 2015-05-29
 updated_at: 2015-09-23
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Work"
   short_description: "Ordinary people find some of their memories have been taken in exchange for deadly magical powers."
   main_url: "http://www.lulu.com/product/file-download/his-due/15904777"

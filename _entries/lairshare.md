@@ -4,10 +4,10 @@ title: "Lairshare"
 permalink: /lairshare/
 created_at: 2015-05-29
 updated_at: 2015-09-23
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Work"
   short_description: "A game about sharing a house with galactic dictators."
   main_url: "https://web.archive.org/web/20140818092503/http://chthonic.150m.com/rpg/lairshare.htm"

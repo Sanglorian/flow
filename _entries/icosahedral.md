@@ -4,10 +4,10 @@ title: "Icosahedral"
 permalink: /icosahedral/
 created_at: 2015-05-29
 updated_at: 2015-09-23
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Work"
   short_description: "A role-playing game."
   main_url: "http://zzo38computer.cjb.net/icosahedral/html/main.html"

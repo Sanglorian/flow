@@ -4,10 +4,10 @@ title: "Rivers & Lakes"
 permalink: /rivers-and-lakes/
 created_at: 2015-05-29
 updated_at: 2015-10-10
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: Work
   short_description: "A slimline historical wuxia game."
   main_url: "http://chthonic.150m.com/rpg/riversandlakes.htm"

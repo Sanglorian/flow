@@ -4,10 +4,10 @@ title: "Heroes Vs. Villains"
 permalink: /heroes-vs-villains/
 created_at: 2015-05-29
 updated_at: 2015-09-19
-vapourware: true
 contributors:
 - "Sanglorian"
 entry:
+  vapourware: true
   category_of_entry: "Work"
   main_url: "http://www.flickr.com/photos/samlavi/sets/72157622151078044/detail/"
 connections:
