@@ -4,6 +4,7 @@ title: "Heroes Vs. Villains"
 permalink: /heroes-vs-villains/
 created_at: 2015-05-29
 updated_at: 2015-09-19
+vapourware: true
 contributors:
 - "Sanglorian"
 entry:

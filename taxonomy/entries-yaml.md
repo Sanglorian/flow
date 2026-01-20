@@ -25,6 +25,7 @@ Entries live in `_entries/*.md` and are Markdown files with YAML front matter be
 - `licensing` (array of mappings).
 - `versions` (array of mappings).
 - `funding` (mapping or array of mappings).
+- `vapourware` (boolean): flag for entries considered vapourware.
 
 ## `entry` block
 

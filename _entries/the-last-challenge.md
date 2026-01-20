@@ -4,6 +4,7 @@ title: "The Last Challenge"
 permalink: /the-last-challenge/
 created_at: 2015-05-29
 updated_at: 2015-09-23
+vapourware: true
 contributors:
 - "Sanglorian"
 entry:

@@ -4,6 +4,7 @@ title: "Somnambulance"
 permalink: /somnambulance/
 created_at: 2015-05-29
 updated_at: 2015-01-18
+vapourware: true
 contributors:
 - "Sanglorian"
 entry:

@@ -4,6 +4,7 @@ title: "Valentin Champer's COPYME Editions"
 permalink: /valentin-champers-copyme-editions/
 created_at: 2015-06-03
 updated_at: 2015-01-18
+vapourware: true
 contributors:
 - "Sanglorian"
 entry:

@@ -4,6 +4,7 @@ title: "Sufficiently Advanced Technologies"
 permalink: /sufficiently-advanced-technologies/
 created_at: 2015-05-29
 updated_at: 2015-09-22
+vapourware: true
 contributors:
 - "Sanglorian"
 entry:

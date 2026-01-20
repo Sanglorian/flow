@@ -4,6 +4,7 @@ title: "Ostermark"
 permalink: /ostermark/
 created_at: 2015-05-29
 updated_at: 2015-01-11
+vapourware: true
 contributors:
 - "Sanglorian"
 entry:

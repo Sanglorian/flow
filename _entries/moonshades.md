@@ -4,6 +4,7 @@ title: "Moonshades"
 permalink: /moonshades/
 created_at: 2015-05-28
 updated_at: 2015-09-22
+vapourware: true
 contributors:
 - "Sanglorian"
 entry:
