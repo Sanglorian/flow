@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Organisation
   short_description: "Creators of the 3D graphics/video software Blender and films using Blender."
   main_url: "http://www.blender.org"

@@ -12,9 +12,9 @@ entry:
   main_description: "Formerly hosted music. Now software that tracks what music you listen to."
 groupings:
   - grouping: "Music"
-    is-about: "About"
+    is_or_about_grouping: "About"
   - grouping: Software
 licensing:
-  - licence: GNU Affero General Public License 3.0
+  - license: GNU Affero General Public License 3.0
   - explanation: "https://github.com/libre-fm/gnu-fm-changes"
 ---

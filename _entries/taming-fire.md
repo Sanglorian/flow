@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Work
   subtitle: "The Dragonprince's Legacy, #1"
   short_description: "The first book in an epic fantasy series."
@@ -35,7 +35,7 @@ types:
   - type: "Book"
     distribution: "hardcopy"
 funding:
-  - funding-model: "Amazon"
+  - funding_type: "Amazon"
   - explanation: https://www.amazon.com/Taming-Fire-Dragonprinces-Legacy-Book-ebook/dp/B07PV2VSRV
 licensing:
   - license: "CC0 1.0 Universal"

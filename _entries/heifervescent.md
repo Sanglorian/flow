@@ -11,7 +11,7 @@ entry:
   short_description: "A catchy one-man band."
   main_url: "http://www.heifervescent.com/"
 licensing:
-  licence: "Creative Commons Attribution-NonCommercial"
+  license: "Creative Commons Attribution-NonCommercial"
   coverage: "The majority (but not all) of Heifervescent tracks"
   explanation: "https://heifervescent.com/licensing/"
 ---

@@ -7,7 +7,7 @@ updated_at: 2026-01-03T22:05:00+11:00
 contributors:
   - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Work
   short_description: "A light version of the fractal role-playing game Fate."
   main_url: "https://fate-srd.com/"

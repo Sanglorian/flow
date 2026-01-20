@@ -7,7 +7,7 @@ updated_at: 2026-02-04T17:38:00+11:00
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Source, Collection
   short_description: "David Revoy is a fantasy artist who has worked on the Blender movie projects."
   main_url: "https://www.davidrevoy.com/tag/artworks"

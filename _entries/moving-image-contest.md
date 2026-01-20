@@ -20,8 +20,8 @@ groupings:
   - grouping: "Documentary"
   - grouping: "Information"
 licensing:
-  - licence: "Creative Commons Attribution"
-  - licence: "Creative Commons Attribution-NonCommercial"
-  - licence: "Creative Commons Attribution-NonCommercial-ShareAlike"
-  - licence: "Creative Commons Attribution-NonCommercial-NoDerivatives"
+  - license: "Creative Commons Attribution"
+  - license: "Creative Commons Attribution-NonCommercial"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
 ---

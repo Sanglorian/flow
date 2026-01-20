@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Collection
   short_description: "An organisation devoted to permanent access to digital collections."
   main_url: "http://www.archive.org/"

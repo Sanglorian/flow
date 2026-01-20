@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Work
   subtitle: "or, The Whale"
   alias: "Moby Dick"

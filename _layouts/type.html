@@ -56,7 +56,7 @@ layout: default
   {%- for entry in type_entries -%}
     {%- assign entry_detail = entry.entry | default: entry -%}
     {%- assign is_featured_entry = false -%}
-    {%- if entry_detail["featured-entry"] -%}
+    {%- if entry_detail["featured_entry"] or entry_detail["featured-entry"] -%}
       {%- assign is_featured_entry = true -%}
     {%- endif -%}
     {%- assign license_items = entry.licensing | default: entry.licenses -%}

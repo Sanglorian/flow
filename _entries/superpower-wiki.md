@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Work
   short_description: "A wiki that describes thousands of supernatural powers."
   main_url: "https://powerlisting.fandom.com/wiki/Superpower_Wiki"

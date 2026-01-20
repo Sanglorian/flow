@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
   - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Collection
   short_description: "Collection of free-to-publish genre illustrations."
   main_url: "http://ucag.jw-sheldon.com/"

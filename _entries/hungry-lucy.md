@@ -11,6 +11,6 @@ entry:
   short_description: "A band that blends pop, haunting vocals and other styles."
   main_url: "https://hungrylucy.bandcamp.com/"
 licensing:
-  licence: "Creative Commons Attribution-ShareAlike"
+  license: "Creative Commons Attribution-ShareAlike"
   coverage: "At least some albums."
 ---

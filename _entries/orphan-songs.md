@@ -12,5 +12,5 @@ entry:
   main_url: "https://orphansongs.bandcamp.com/"
   main_description: "Formerly at www.orphansongs.com. Archived at https://archive.org/details/jamendo-087930"
 licensing:
-  licence: "Creative Commons Attribution-ShareAlike"
+  license: "Creative Commons Attribution-ShareAlike"
 ---

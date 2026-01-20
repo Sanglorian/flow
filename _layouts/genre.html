@@ -87,7 +87,7 @@ layout: default
     {%- assign entry_detail = entry.entry | default: entry -%}
 
     {%- assign is_featured_entry = false -%}
-    {%- if entry_detail["featured-entry"] -%}
+    {%- if entry_detail["featured_entry"] -%}
       {%- assign is_featured_entry = true -%}
     {%- endif -%}
 

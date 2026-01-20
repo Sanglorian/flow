@@ -7,7 +7,7 @@ updated_at: 2026-01-10
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Organisation
   short_description: "The Authors Alliance embraces the unprecedented potential digital networks have for the creation and distribution of knowledge and culture. We represent the interests of authors who want to harness this potential to share their creations more broadly in order to serve the public good."
   main_url: "https://www.authorsalliance.org/"

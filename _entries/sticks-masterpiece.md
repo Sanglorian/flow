@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 - 69.171.154.34
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Work
   short_description: "A whimsical children's picturebook."
   year_of_publication: 2013

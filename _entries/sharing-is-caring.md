@@ -7,7 +7,7 @@ updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:
-  featured-entry: yes
+  featured_entry: yes
   category_of_entry: Work
   short_description: "A single - remixed multiple times - released by Dan Bull. #9 in the UK Independent chart."
   main_description: |-
