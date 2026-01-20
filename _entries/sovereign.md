@@ -15,6 +15,6 @@ groupings:
   - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "As specified here: https://web.archive.org/web/20111015044650/http://www.opensourceboardgame.org/index.php/creative-commons-license/"
 ---

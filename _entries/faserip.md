@@ -26,5 +26,5 @@ genres:
   - genre: "Superhero"
 licensing:
   - license: "Open Game License"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 ---

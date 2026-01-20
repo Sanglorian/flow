@@ -20,6 +20,6 @@ connections:
   - has_connection_to_entry: "Jamendo"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "At least some albums"
+    license_coverage: "At least some albums"
     explanation: "I Don't Know What I'm Doing: https://web.archive.org/web/20180325123845/http://www.bradsucks.net/albums/i_dont_know/, Guess Who's A Mess: https://web.archive.org/web/20180410224901/http://www.bradsucks.net/albums/guess-whos-a-mess/, with source: https://web.archive.org/web/20180404190713/http://www.bradsucks.net/music/source, and Out of It: https://web.archive.org/web/20161222204734/http://www.bradsucks.net/albums/out_of_it/"
 ---

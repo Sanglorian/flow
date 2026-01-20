@@ -29,10 +29,10 @@ groupings:
   - grouping: "Card Game"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Based on the CIA’s Collection Deck by David Clopper, which is public domain under 17 USC §105. Some card text from AH Game’s version of Collection Deck (www.ahgames.shop), licensed under Creative Commons CC-BY. All other content is by Techdirt & Diegetic Games and placed in the public domain using CC0. Resolution cards inspired by Archipelago/Itras By. Thanks to Jon Callas Oifrhs Eohlpn Hnteec Yirpto Cdnar."
   - license: "Creative Commons Attribution"
-    licence_coverage: "part"
+    license_coverage: "part"
 funding:
   funding_tool: "Kickstarter"
   funding_type: "ransom"

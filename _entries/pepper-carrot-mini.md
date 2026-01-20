@@ -29,7 +29,7 @@ groupings:
   - grouping: "Comics"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "See https://framagit.org/peppercarrot/derivations/peppercarrot_mini"
 versions:
   -

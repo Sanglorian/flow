@@ -35,10 +35,10 @@ languages:
   - language: "Polish"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 2.0 (Unported)"
-    licence_coverage: "part"
-    explanation: "Clinton R Nixon set up an HTML text-version of the game under this licence."
+    license_coverage: "part"
+    explanation: "Clinton R Nixon set up an HTML text-version of the game under this license."
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (Unported)"
-    explanation: "The wiki includes fan contributions and is under a more restrictive licence. The whole game was originally under the more restrictive license: https://downloads.darkon.info/pdf/tsoy.pdf"
+    explanation: "The wiki includes fan contributions and is under a more restrictive license. The whole game was originally under the more restrictive license: https://downloads.darkon.info/pdf/tsoy.pdf"
 types:
   - type: "Book"
     distribution: "electronic"
@@ -54,7 +54,7 @@ versions:
     version_format: "PDF"
     version_price: 14.99
     version_url: "https://www.indiepressrevolution.com/xcart/The-Shadow-of-Yesterday-PDF.html?page=1"
-    explanation: "Unknown licence - I haven't seen it."
+    explanation: "Unknown license - I haven't seen it."
   -
     version_title: "The Shadow of Yesterday: Main Rulebook"
     version_format: "HTML"

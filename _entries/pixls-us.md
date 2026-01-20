@@ -18,6 +18,6 @@ groupings:
   - grouping: "Nonfiction"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Unless otherwise mentioned"
 ---

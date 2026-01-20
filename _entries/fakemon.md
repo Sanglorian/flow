@@ -12,11 +12,11 @@ entry:
 groupings:
   - grouping: "Art"
 ---
-These **Fakemon** are under Creative Commons licences.
+These **Fakemon** are under Creative Commons licenses.
 
 My thinking behind this collection is that it would be great to put together a well-balanced list of 151 high-quality [Creative Commons Attribution-ShareAlike](/license/creative-commons-attribution-sharealike/)-licensed fakemon with their supporting data and excellent art (and other assets). People could - provided the legals were carefully worked out - therefore create free and open games, etc., without legal concern. 
 
-Most of these are not free and open, but my hope is that their use of the Creative Commons licence shows an openness to a project of this nature.
+Most of these are not free and open, but my hope is that their use of the Creative Commons license shows an openness to a project of this nature.
 
 ## GeoisEvil
 [Creative Commons Attribution-NonCommercial-NoDerivatives 3.0](/license/creative-commons-attribution-noncommercial-noderivatives-3-0/)
@@ -75,7 +75,7 @@ Ad-hoc statement
 * [Merlicun](http://princess-phoenix.deviantart.com/art/Merlicun-340144534?q=gallery%3Aprincess-phoenix%2F5592198&qo=21)
 
 ## TheGreatZeKro and Smiley-Fakemon
-Ad-hoc licence
+Ad-hoc license
 * [Baulder, etc](http://thegreatzekro.deviantart.com/art/Free-Fakemon-398892462)
 
 ## Manchacus

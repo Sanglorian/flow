@@ -23,7 +23,7 @@ languages:
     relationship_of_language: "original"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "\"The source files of the original artwork are released under the same Creative Commons license (BY-NC-SA) as the game itself.\""
 versions:
   - version_title: "Rules for Milky Way Express"

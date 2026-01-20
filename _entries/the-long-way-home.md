@@ -23,10 +23,10 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "The upload text on Boardgame Geek and its own website says CC BY, but the file itself says CC BY-SA."
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "The upload text on Boardgame Geek and its own website says CC BY, but the file itself says CC BY-SA."
 versions:
   - version_title: "Boardgame Geek version (1.2)"

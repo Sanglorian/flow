@@ -14,5 +14,5 @@ connections:
     details_of_connection: "a contributor to, a host of"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

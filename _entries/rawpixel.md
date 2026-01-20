@@ -19,6 +19,6 @@ groupings:
   - grouping: "Raster Art"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
-    explanation: "The public domain section is the only one covered by this licence."
+    license_coverage: "part"
+    explanation: "The public domain section is the only one covered by this license."
 ---

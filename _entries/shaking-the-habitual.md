@@ -20,7 +20,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   -
     funding_tool: "Online store"

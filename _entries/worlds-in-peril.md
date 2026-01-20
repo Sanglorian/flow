@@ -39,7 +39,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Common Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 funding:
   funding_type: "Sales"
 ---

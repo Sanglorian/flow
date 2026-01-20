@@ -20,7 +20,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
+    license_coverage: "part"
 ---

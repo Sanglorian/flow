@@ -18,7 +18,7 @@ genres:
   - "Textbook"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "All versions"
 funding:
   funding_type: "gratis"

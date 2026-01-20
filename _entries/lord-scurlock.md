@@ -88,7 +88,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   -
     funding_tool: "Patreon"

@@ -35,10 +35,10 @@ groupings:
   - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "The website and the project, as stated here: https://gooseberry.blender.org/about/"
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "The film itself."
 funding:
   - funding_tool: "Blender Cloud"

@@ -13,5 +13,5 @@ entry:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     explanation: "Listed on each file's page."
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

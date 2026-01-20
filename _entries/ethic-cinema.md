@@ -14,7 +14,7 @@ groupings:
   - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "'Framboise ou Chocolat ?' and 'Pepper & Carrot - Episode 6' (listed in credits)"
+    license_coverage: "'Framboise ou Chocolat ?' and 'Pepper & Carrot - Episode 6' (listed in credits)"
   - license: "Free Art License"
-    licence_coverage: "'Street Art Sessions'"
+    license_coverage: "'Street Art Sessions'"
 ---

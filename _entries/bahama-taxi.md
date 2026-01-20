@@ -19,5 +19,5 @@ groupings:
   - grouping: "Boardgame"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

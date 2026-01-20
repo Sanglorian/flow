@@ -15,12 +15,12 @@ groupings:
   - grouping: "Photography"
 licensing:
   - license: "Creative Commons Attribution 3.0 (US)"
-    licence_coverage: "All symbols (unless already public domain)."
+    license_coverage: "All symbols (unless already public domain)."
     explanation: "A royalty-free license is available to avoid the need for attribution. https://help.thenounproject.com/hc/en-us/articles/200509798-What-licenses-do-you-offer-for-icons"
   - license: "Public domain"
-    licence_coverage: "select icons and photos"
+    license_coverage: "select icons and photos"
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 2.0"
-    licence_coverage: "All photos (unless already public domain)."
+    license_coverage: "All photos (unless already public domain)."
 
 funding:
   - funding_tool: "Website"

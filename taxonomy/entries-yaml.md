@@ -87,7 +87,7 @@ Entries live in `_entries/*.md` and are Markdown files with YAML front matter be
 `licensing` is an array of mappings:
 
 - `license` (string, required in practice): license name.
-- `licence_coverage` (string, optional): describes scope of the license (e.g., `"entirety"`, `"part"`, or a more detailed sentence).
+- `license_coverage` (string, optional): describes scope of the license (e.g., `"entirety"`, `"part"`, or a more detailed sentence).
 - `explanation` (string, optional): citation URL or note.
 
 ## `versions`

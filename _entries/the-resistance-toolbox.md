@@ -17,6 +17,6 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
-    explanation: "Although the sales blurb refers to the Rowan, Rook and Decard Community Licence, the PDF still references CC BY."
+    license_coverage: "entirety"
+    explanation: "Although the sales blurb refers to the Rowan, Rook and Decard Community License, the PDF still references CC BY."
 ---

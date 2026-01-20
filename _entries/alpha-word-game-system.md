@@ -12,7 +12,7 @@ entry:
   year_of_publication: 1997
   main_url: "https://boardgamegeek.com/boardgame/92678/alpha-word-game-system"
   main_description: |-
-    The games (not necessarily under free and open licences: http://alphagames.org/alphawiki/Games
+    The games (not necessarily under free and open licenses: http://alphagames.org/alphawiki/Games
 
     "The Alpha Word Game System is a comprehensive word game system made up of three components; a deck of Alpha Playing Cards, a set of Alpha Tiles and a double set of Alpha Dice. All three components are by themselves a game system, so having any one component allows you to play several different games, having all three allows you to play even more games.
 
@@ -23,9 +23,9 @@ groupings:
   - grouping: "Tabletop Game System"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "The wiki"
   - license: "Creative Commons Attribution-ShareAlike 3.0 (US)"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "The game itself"
 ---

@@ -8,12 +8,12 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Collection"
-  short_description: "This website has a number of Charles Stross works, some of which are under CC licences."
+  short_description: "This website has a number of Charles Stross works, some of which are under CC licenses."
   main_url: "https://www.freesfonline.net/authors/Charles_Stross.html"
 connections:
   - has_connection_to_entry: "Charles Stross"
     details_of_connection: "a contributor to"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 2.5 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
 ---

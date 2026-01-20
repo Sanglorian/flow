@@ -20,7 +20,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "Creative Commons Attribution-NonCommercial"
   - license: "Creative Commons Attribution-NoDerivatives"

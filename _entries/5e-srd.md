@@ -26,10 +26,10 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Open Game License"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 versions:
   - version_title: "5srd"
     version_format: "HTML"

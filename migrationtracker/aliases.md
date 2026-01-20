@@ -276,13 +276,13 @@ MediaWiki redirect pages grouped by their target title.
 
 - Cern
 
-## CERN Open Hardware Licence (1)
+## CERN Open Hardware License (1)
 
 - CERN OHL
 
-## Choosealicence.com (1)
+## Choosealicense.com (1)
 
-- Choosealicence Com
+- Choosealicense Com
 
 ## CIA World Factbook (1)
 
@@ -575,10 +575,10 @@ MediaWiki redirect pages grouped by their target title.
 
 - Fcaf
 
-## Free, libre and open licences (2)
+## Free, libre and open licenses (2)
 
-- Free and open licence
-- free and open licence
+- Free and open license
+- free and open license
 
 ## FreeLab (1)
 
@@ -831,7 +831,7 @@ MediaWiki redirect pages grouped by their target title.
 
 ## Making your work free and open (1)
 
-- Which free and open licence
+- Which free and open license
 
 ## Man & Ubermensch (1)
 

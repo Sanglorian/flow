@@ -28,7 +28,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "Jason Morningstar’s The Plant version 1.0"
     version_format: "PDF"

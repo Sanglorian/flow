@@ -17,8 +17,8 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
-    explanation: "If the CC0 licence is invalid for any reason."
+    license_coverage: "entirety"
+    explanation: "If the CC0 license is invalid for any reason."
 ---

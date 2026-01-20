@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   main_url: "http://libregraphicsmag.com/"
   main_description: |-
-    Particular articles in the magazine are under different licence.
+    Particular articles in the magazine are under different license.
 genres:
   - "IP Minimalism"
 groupings:

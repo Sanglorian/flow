@@ -22,6 +22,6 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "text only"
-    explanation: "It appears that art is not covered by the licence."
+    license_coverage: "text only"
+    explanation: "It appears that art is not covered by the license."
 ---

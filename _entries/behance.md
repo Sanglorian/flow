@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "A site that hosts artists portfolios."
   main_url: "http://www.behance.net/"
-  main_description: "There is no way to search by licence. I manually checked dozens of pieces, and found no uses of FLO licences."
+  main_description: "There is no way to search by license. I manually checked dozens of pieces, and found no uses of FLO licenses."
 connections:
   - has_connection_to_entry: "Adobe"
     nature_of_connection: "a host of"

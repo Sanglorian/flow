@@ -17,8 +17,8 @@ groupings:
   - grouping: "Pixel Art"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "unclear"
-    explanation: "Each asset has a licence listed; for the ones I checked, it was this one."
+    license_coverage: "unclear"
+    explanation: "Each asset has a license listed; for the ones I checked, it was this one."
 funding:
   - funding_tool: "itch.io"
     funding_type: "sales"

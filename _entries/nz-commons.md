@@ -12,6 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20160304110930/http://nzcommons.org.nz/"
 licensing:
   - license: "Creative Commons Attribution 3.0 (New Zealand)"
-    explanation: "\"Except where otherwise noted, copyright content on this site is licensed under a Creative Commons Attribution 3.0 New Zealand Licence.\""
-    licence_coverage: "entirety"
+    explanation: "\"Except where otherwise noted, copyright content on this site is licensed under a Creative Commons Attribution 3.0 New Zealand License.\""
+    license_coverage: "entirety"
 ---

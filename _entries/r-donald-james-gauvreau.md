@@ -17,7 +17,7 @@ groupings:
   - grouping: "Literature"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Some stories, such as: [http://whitemarbleblock.blogspot.com/2015/04/fiction-redeeming-blood.html Redeeming Blood], [https://www.kickstarter.com/projects/825176040/the-wrong-ship-a-sci-fi-short-story/posts/1848858 The Wrong Ship] and [https://heroessavetheworld.wordpress.com/ Heroes Save the World]"
 funding:
   -

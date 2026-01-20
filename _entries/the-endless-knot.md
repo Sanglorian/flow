@@ -21,7 +21,7 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   funding_tool: "Patreon"
   funding_type: "sponsored"

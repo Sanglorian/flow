@@ -16,5 +16,5 @@ genres:
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
     coverage: "Some articles."
-    explanation: "Unfortunately there is no way to sort articles by licence. You will have to check each one manually."
+    explanation: "Unfortunately there is no way to sort articles by license. You will have to check each one manually."
 ---

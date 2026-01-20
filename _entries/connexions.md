@@ -14,5 +14,5 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution"
-    explanation: "There may be works under other licences; I only saw CC BY."
+    explanation: "There may be works under other licenses; I only saw CC BY."
 ---

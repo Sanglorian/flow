@@ -18,5 +18,5 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 ---

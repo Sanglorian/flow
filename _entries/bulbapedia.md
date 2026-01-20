@@ -21,6 +21,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 2.5"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Copyrights"
 ---

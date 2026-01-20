@@ -22,7 +22,7 @@ groupings:
   - grouping: "Nonfiction"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_format: "PDF"
     version_price: 0

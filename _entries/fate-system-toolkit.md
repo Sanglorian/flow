@@ -20,9 +20,9 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
-    explanation: "There is also an exception to the normal attribution requirements of CC BY that makes some Evil Hat Productions content under that licence interoperable with OGL."
+    explanation: "There is also an exception to the normal attribution requirements of CC BY that makes some Evil Hat Productions content under that license interoperable with OGL."
   - license: "Open Game License"
-    explanation: "There is also an exception to the normal attribution requirements of CC BY that makes some Evil Hat Productions content under that licence interoperable with OGL."
+    explanation: "There is also an exception to the normal attribution requirements of CC BY that makes some Evil Hat Productions content under that license interoperable with OGL."
 versions:
   - version_title: "SRD (archived)"
     version_format: "HTML"

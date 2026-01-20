@@ -20,7 +20,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "https://github.com/outofordergames/blocbybloc"
 funding:
   funding_tool: "Kickstarter"

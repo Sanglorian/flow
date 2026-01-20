@@ -20,6 +20,6 @@ groupings:
   - grouping: "Literature"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "text only"
+    license_coverage: "text only"
     explanation: "All stories are licensed under a Creative Commons Attribution-Share Alike 3.0 License."
 ---

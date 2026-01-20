@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|FSF free documentation licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
+  {%- assign flo_certifications = "Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|Open Source Definition compliant license|GPL-compatible free software license" | split: "|" -%}
   {%- assign has_flo_certification = false -%}
   {%- if page.license_certification and page.license_certification.size > 0 -%}
     {%- for cert in page.license_certification -%}
@@ -172,13 +172,13 @@ layout: default
         {%- endif -%}
         {%- if license_items and license_items.size > 0 -%}
           {%- for license_item in license_items -%}
-            {%- assign license_title = license_item.license | default: license_item.licence -%}
+            {%- assign license_title = license_item.license | default: license_item.license -%}
             {%- if license_titles contains license_title -%}
               {%- assign found = true -%}
               <li>
                 <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
-                {%- if license_item.licence_coverage or license_item.license_coverage -%}
-                  <span> — {{ license_item.licence_coverage | default: license_item.license_coverage }}</span>
+                {%- if license_item.license_coverage or license_item.license_coverage -%}
+                  <span> — {{ license_item.license_coverage | default: license_item.license_coverage }}</span>
                 {%- endif -%}
 			                {%- if license_item.explanation -%}
                   <span class="explanation"> — {{ license_item.explanation }}</span>

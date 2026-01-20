@@ -35,6 +35,6 @@ groupings:
   - grouping: "Miniatures Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "According to the PDF itself. Boardgame Geek says it's CC BY-NC-SA."
 ---

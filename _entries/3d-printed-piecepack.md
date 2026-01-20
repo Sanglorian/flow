@@ -15,5 +15,5 @@ groupings:
   - grouping: "Design"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

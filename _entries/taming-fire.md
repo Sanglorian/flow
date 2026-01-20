@@ -39,6 +39,6 @@ funding:
   - explanation: https://www.amazon.com/Taming-Fire-Dragonprinces-Legacy-Book-ebook/dp/B07PV2VSRV
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "To the extent possible under law, Aaron Pogue has waived all copyright and related or neighboring rights to Taming Fire (The Dragonprince Trilogy, #1). This work is published from: United States. See: https://web.archive.org/web/20140818091924/http://www.consortiumokc.com/books/taming-fire/"
 ---

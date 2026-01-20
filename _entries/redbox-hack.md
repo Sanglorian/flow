@@ -21,9 +21,9 @@ genres:
   - "Fantasy"
 licensing:
   - license: "Public domain"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: |-
-      On 11 May 2016, Eric Provost made his position clear: "I've given it all away - I don't have any rights to it anymore. I'm not sure I would even have the right to change my mind and make RBH into a CC licence. And if I did have that right, it would totally feel like a dick move. I've been pretty clear in the past that I have waived all my rights to this thing. 
+      On 11 May 2016, Eric Provost made his position clear: "I've given it all away - I don't have any rights to it anymore. I'm not sure I would even have the right to change my mind and make RBH into a CC license. And if I did have that right, it would totally feel like a dick move. I've been pretty clear in the past that I have waived all my rights to this thing. 
       
       I do not own it anymore.
       

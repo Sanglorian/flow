@@ -13,6 +13,6 @@ license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)
 license_certification:
-  - Open Source Definition compliant licence
-  - GPL-compatible free software licence
+  - Open Source Definition compliant license
+  - GPL-compatible free software license
 ---

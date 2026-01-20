@@ -30,7 +30,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 2.5"
-    licence_coverage: "unclear"
+    license_coverage: "unclear"
     explanation: "Mentioned obliquely here: http://www.1km1kt.net/forum/viewtopic.php?t=415"
 funding:
   -

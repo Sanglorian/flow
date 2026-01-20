@@ -12,9 +12,9 @@ badge: "/thumbnails/cc0-badge.png"
 small_badge: "/thumbnails/cc0-small-badge.png"
 wikidata: Q6938433
 license_certification:
-  - GPL-compatible free software licence
-  - Open Definition recommended conformant licence
-  - Definition of Free Cultural Works conformant licence
+  - GPL-compatible free software license
+  - Open Definition recommended conformant license
+  - Definition of Free Cultural Works conformant license
 notes: >-
   [Why CC0 is not approved by the Open Source Initiative](http://opensource.org/faq#cc-zero).
 ---

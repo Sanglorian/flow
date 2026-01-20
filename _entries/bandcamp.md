@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "Creative Commons-licensed albums."
   main_url: "https://bandcamp.com/tag/creative-commons"
-  main_description: "Unfortunately, no way to sort by licence."
+  main_description: "Unfortunately, no way to sort by license."
 groupings:
   - grouping: "Music"
 ---

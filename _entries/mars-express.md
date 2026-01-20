@@ -9,7 +9,7 @@ contributors:
 entry:
   category_of_entry: "Collection"
   short_description: "Images from the Mars Express mission."
-  main_url: "https://blogs.esa.int/communication/2014/12/18/esa-mars-express-high-resolution-stereo-camera-hrsc-images-now-available-under-a-creative-commons-licence/"
+  main_url: "https://blogs.esa.int/communication/2014/12/18/esa-mars-express-high-resolution-stereo-camera-hrsc-images-now-available-under-a-creative-commons-license/"
 groupings:
   - grouping: "Photography"
 types:
@@ -17,5 +17,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (IGO)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

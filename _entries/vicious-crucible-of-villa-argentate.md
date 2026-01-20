@@ -26,7 +26,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   funding_tool: "Kickstarter"
   explanation: "https://www.kickstarter.com/projects/viciouscrucible/vicious-crucible-3-argentate-drift"

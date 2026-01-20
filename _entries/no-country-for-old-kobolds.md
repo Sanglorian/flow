@@ -25,7 +25,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 funding:
   -
     funding_tool: "Kickstarter"

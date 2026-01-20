@@ -9,5 +9,5 @@ contributors:
 short_description: "The Unlicense is a template for disclaiming copyright monopoly interest in software you've written; in other words, it is a template for dedicating your software to the public domain."
 main_url: http://unlicense.org/
 license_certification:
-  - GPL-compatible free software licence
+  - GPL-compatible free software license
 ---

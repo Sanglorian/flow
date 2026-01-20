@@ -31,7 +31,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "GNU General Public License 3.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "Datapack"
     version_format: "git"

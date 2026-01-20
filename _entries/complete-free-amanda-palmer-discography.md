@@ -23,6 +23,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "I also release all of my music and writing using the Creative Commons 'Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)' license.  https://amandapalmer.net/mission/"
 ---

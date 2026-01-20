@@ -19,5 +19,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution"
-    licence_coverage: "Some works, on an opt-in basis."
+    license_coverage: "Some works, on an opt-in basis."
 ---

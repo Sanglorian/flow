@@ -24,6 +24,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "As of about 2016"
+    license_coverage: "As of about 2016"
     explanation: "\"It's hard to understand complex licenses that is why all photos on Pexels are licensed under the Creative Commons Zero (CC0) license.\" https://web.archive.org/web/20160912205607/https://www.pexels.com/photo-license/"
 ---

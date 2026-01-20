@@ -19,7 +19,7 @@ groupings:
   - grouping: "Raster Art"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "Drawings"
     version_format: "JPG"

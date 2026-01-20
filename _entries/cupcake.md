@@ -23,6 +23,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "All photos here on www.cupcake.nilssonlee.se are licensed under the Creative Commons license CC0, which means that you are free to use the images without any costs. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking for permission. Although, you’re more than welcome to let me know if you use images for a website, illustration or whatever, it’s inspiring to see the results."
 ---

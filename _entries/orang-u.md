@@ -21,7 +21,7 @@ types:
   - type: "Video"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "In credits."
 funding:
   - funding_tool: "IndieGoGo"

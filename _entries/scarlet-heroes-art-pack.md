@@ -24,7 +24,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Public domain"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "DriveThruRPG"
     version_price: 0

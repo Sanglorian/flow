@@ -11,4 +11,4 @@ On the 13th of August, the world celebrates Jenny Everywhere Day!
 
 http://www.jennyeverywhereday.com/
 
-Jenny Everywhere is the first superhero released under a libre licence (other superheroes lapsed into the public domain, but weren't consciously placed there).
+Jenny Everywhere is the first superhero released under a libre license (other superheroes lapsed into the public domain, but weren't consciously placed there).

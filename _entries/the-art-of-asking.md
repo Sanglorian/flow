@@ -31,7 +31,7 @@ types:
     distribution: "hardcopy"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
-    licence_coverage: "text only"
+    license_coverage: "text only"
     explanation: "\"I also release all of my music and writing using the Creative Commons “Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)” license. If you want to understand what this means, google Creative Commons.\" http://shop.amandapalmer.net/"
 funding:
   funding_tool: "Online store"

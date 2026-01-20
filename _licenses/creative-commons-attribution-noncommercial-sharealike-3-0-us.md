@@ -6,7 +6,7 @@ created_at: 2015-05-27T09:30:57Z
 updated_at: 2015-05-27T09:31:10Z
 contributors:
   - Sanglorian
-short_description: A proprietary licence.
+short_description: A proprietary license.
 created_by: Creative Commons
 main_url: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
 badge: "/thumbnails/cc-by-nc-sa-badge.png"

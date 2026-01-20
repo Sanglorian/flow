@@ -18,9 +18,9 @@ languages:
   - language: "English"
 licensing:
   - license: "Creative Commons Attribution"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "http://radgeek.com/about/anticopyright/"
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "http://radgeek.com/about/anticopyright/"
 ---

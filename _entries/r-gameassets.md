@@ -11,5 +11,5 @@ entry:
   short_description: "A sub-reddit with game assets."
   main_url: "https://www.reddit.com/r/GameAssets"
   main_description: |-
-    A variety of licences, and sometimes none. The /freegameassets sub-reddit is a bot-compiled list of all the /GameAssets assets that the bot thinks are free and open: https://www.reddit.com/r/freegameassets
+    A variety of licenses, and sometimes none. The /freegameassets sub-reddit is a bot-compiled list of all the /GameAssets assets that the bot thinks are free and open: https://www.reddit.com/r/freegameassets
 ---

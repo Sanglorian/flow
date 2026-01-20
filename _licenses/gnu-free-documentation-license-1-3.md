@@ -14,8 +14,8 @@ license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)
 license_certification:
-  - Open Source Definition compliant licence
-  - FSF free documentation licence
-  - Open Definition other conformant licence
-  - Definition of Free Cultural Works conformant licence
+  - Open Source Definition compliant license
+  - FSF free documentation license
+  - Open Definition other conformant license
+  - Definition of Free Cultural Works conformant license
 ---

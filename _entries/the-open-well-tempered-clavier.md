@@ -15,7 +15,7 @@ genres:
   - "Classical"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach"

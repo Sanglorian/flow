@@ -68,7 +68,7 @@ layout: default
   <p class="post-meta">Browse {{ genre_entries.size }} entries in the catalog.</p>
 
 
-  {%- assign flo_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant licence' or item.license_certification contains 'Open Definition other conformant licence' or item.license_certification contains 'Definition of Free Cultural Works conformant licence' or item.license_certification contains 'Open Source Definition compliant licence' or item.license_certification contains 'GPL-compatible free software licence'" -%}
+  {%- assign flo_licenses = site.licenses | where_exp: "item", "item.license_certification contains 'Open Definition recommended conformant license' or item.license_certification contains 'Open Definition other conformant license' or item.license_certification contains 'Definition of Free Cultural Works conformant license' or item.license_certification contains 'Open Source Definition compliant license' or item.license_certification contains 'GPL-compatible free software license'" -%}
   {%- assign flo_license_titles = flo_licenses | map: "title" -%}
   
 <section style="margin-top:1.5rem;">
@@ -100,7 +100,7 @@ layout: default
     {%- assign is_flo_entry = false -%}
     {%- if license_items and license_items.size > 0 -%}
       {%- for license_item in license_items -%}
-        {%- assign license_title = license_item.license | default: license_item.licence | default: license_item -%}
+        {%- assign license_title = license_item.license | default: license_item.license | default: license_item -%}
         {%- if license_title == "Public domain" or flo_license_titles contains license_title -%}
           {%- assign is_flo_entry = true -%}
         {%- endif -%}
@@ -152,7 +152,7 @@ layout: default
               <span class="featured-licenses">
                 {%- assign seen_license_parents = "" | split: "" -%}
                 {%- for license_item in license_items -%}
-                  {%- assign license_title = license_item.license | default: license_item.licence | default: license_item -%}
+                  {%- assign license_title = license_item.license | default: license_item.license | default: license_item -%}
                   {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
                   {%- assign license_parent = license_title -%}
                   {%- if license_doc and license_doc.parent_license -%}

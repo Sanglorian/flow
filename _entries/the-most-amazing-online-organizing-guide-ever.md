@@ -18,7 +18,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/896010241/help-launch-the-most-amazing-online-organizing-gui/"

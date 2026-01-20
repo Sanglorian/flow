@@ -18,5 +18,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    explanation: "Couldn't find which CC licence specified on site, but Qomun lists it as BY-SA."
+    explanation: "Couldn't find which CC license specified on site, but Qomun lists it as BY-SA."
 ---

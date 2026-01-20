@@ -27,9 +27,9 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
+    license_coverage: "part"
 ---

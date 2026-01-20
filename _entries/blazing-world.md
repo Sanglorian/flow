@@ -22,6 +22,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Version not specified."
 ---

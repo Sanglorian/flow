@@ -16,7 +16,7 @@ groupings:
   - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution"
-    licence_coverage: "As of 2025, all of Josh Woodward's music was CC BY licensed."
+    license_coverage: "As of 2025, all of Josh Woodward's music was CC BY licensed."
     explanation: https://web.archive.org/web/20250620134556mp_/https://www.joshwoodward.com/faq
 funding:
   - funding_tool: "Kickstarter"

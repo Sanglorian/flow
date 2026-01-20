@@ -26,7 +26,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "PDF version (zipped)"
 ---

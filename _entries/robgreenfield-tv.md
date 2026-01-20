@@ -12,6 +12,6 @@ entry:
   main_url: "http://robgreenfield.tv/"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "http://robgreenfield.tv/creativecommons/"
 ---

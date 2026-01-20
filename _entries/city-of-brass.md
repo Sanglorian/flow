@@ -23,5 +23,5 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

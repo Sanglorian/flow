@@ -14,7 +14,7 @@ grouping:
     explanation: "Formerly, more art was hosted on Flickr."
 licensing:
   - license: "Creative Commons Attribution 2.5 (Scotland)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   - funding_tool: "Patreon"
     funding_type: "ransom"

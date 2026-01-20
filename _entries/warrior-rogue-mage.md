@@ -14,10 +14,10 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "The original game."
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "The SRD."
 versions:
   - version_title: "SRD"

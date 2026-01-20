@@ -48,7 +48,7 @@ entry:
     * Palazzo (FDL)
     * PackKub (FDL)
     * Nine Ball (FDL)
-    * Plans of Action (informal copyleft licence)
+    * Plans of Action (informal copyleft license)
     * Mathrix (FDL)
     * Martian Treasure Hunt (FDL)
     * MAGISTRATVM (FDL)

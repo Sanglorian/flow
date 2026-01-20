@@ -15,6 +15,6 @@ is_superseded_by: Creative Commons Attribution 4.0
 license_aspect:
   - Attribution required
 license_certification:
-  - Open Definition other conformant licence
-  - Definition of Free Cultural Works conformant licence
+  - Open Definition other conformant license
+  - Definition of Free Cultural Works conformant license
 ---

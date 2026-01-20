@@ -11,7 +11,7 @@ entry:
   category_of_entry: Work
   short_description: "A libre encyclopedia that anyone can edit."
   main_description: |-
-    The encyclopedia was at one stage licensed under the [/licence:fdl GNU Free Documentation License]. Some work remains under a range of libre licences.
+    The encyclopedia was at one stage licensed under the [/license:fdl GNU Free Documentation License]. Some work remains under a range of libre licenses.
   main_url: "http://www.wikipedia.org/"
 connections:
   - has_connection_to_entry: "Wikimedia Foundation"
@@ -24,9 +24,9 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "With the exception of some content that is used under fair use."
   - license: "GNU Free Documentation License"
-    licence_coverage: "part"
-    explanation: "The encyclopedia was at one stage licensed under this licence."
+    license_coverage: "part"
+    explanation: "The encyclopedia was at one stage licensed under this license."
 ---

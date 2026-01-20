@@ -12,7 +12,7 @@ Some works aren't libre yet, but their creators have promised that they will be.
 
 * Cerebus the Aardvark is supposed to enter the public domain when the creator dies. [(1)](http://www.cerebusfangirl.com/artists/0304talk.php), [(2)](http://www.villagevoice.com/2004-03-23/books/readers-of-the-last-aardvark/)
 * The Spark RPG is, according to this blog post, destined to be CC BY. [(1)](http://www.genesisoflegend.com/2013/04/kickstarter-complete/)
-* The Pirate Bay - Away from Keyboard was advertised as to be released as CC BY-SA on its Kickstarter, but was in fact released under a non-free licence. [(1)](https://www.kickstarter.com/projects/tpbafk/tpb-afk-the-pirate-bay-away-from-keyboard), [(2)](http://www.tpbafk.tv/2013/01/why-i-chose-creative-commons-for-tpb-afk/)
+* The Pirate Bay - Away from Keyboard was advertised as to be released as CC BY-SA on its Kickstarter, but was in fact released under a non-free license. [(1)](https://www.kickstarter.com/projects/tpbafk/tpb-afk-the-pirate-bay-away-from-keyboard), [(2)](http://www.tpbafk.tv/2013/01/why-i-chose-creative-commons-for-tpb-afk/)
 * Card at Work, by Daniel Solis (https://www.youtube.com/playlist?list=PLqRXiQslycmZhvt_4vWyn07OHpX4y_J_f) will be CC BY when he remembers to update it
 * [Strays](https://www.kickstarter.com/projects/1382542560/strays-a-friendly-fuzzy-fate-accelerated-rpg) will be CC BY licensed once the Kickstarter fulfillment is sorted. 
 
@@ -27,7 +27,7 @@ Other works aren't completed yet, but should be libre when they are.
 * [Perilous Journeys](https://www.kickstarter.com/projects/1735046512/perilous-journeys) ("Yes, the text of the book will be under a Creative Commons license, just like [Dungeon World](/dungeon-world/).")
 * [Fellowship: A Tabletop Adventure Game](https://www.kickstarter.com/projects/1552912590/fellowship-a-tabletop-adventure-game) ("I am publishing the book under this license: https://creativecommons.org/licenses/by-sa/4.0/")
 * [Wrath of the Autarch](https://www.kickstarter.com/projects/295104591/wrath-of-the-autarch-a-kingdom-building-game?ref=thanks) ("CC-BY: The conflict mini-games (diplomacy, infiltration, skirmish, warfare), the trading rules, as well as the challenge phase rules will all be released under an SRD using the CC-BY license.")
-* [Malandros](https://www.kickstarter.com/projects/1690011586/malandros-tales-from-the-streets-of-old-rio?ref=hero_thanks) ("Yes, that's the plan. It will be either a BY or BY-SA licence, probably the latter.", ETA Feb 2016)
+* [Malandros](https://www.kickstarter.com/projects/1690011586/malandros-tales-from-the-streets-of-old-rio?ref=hero_thanks) ("Yes, that's the plan. It will be either a BY or BY-SA license, probably the latter.", ETA Feb 2016)
 
-## Other public copyright licences
+## Other public copyright licenses
 * [Revolution D100](http://www.ulule.com/revolution-d100/) ([Open Game License](/license/open-game-license/), ETA Spring 2016)

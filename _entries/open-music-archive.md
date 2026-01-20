@@ -17,7 +17,7 @@ groupings:
   - grouping: "Music"
 licensing:
   - license: "Public domain"
-    licence_coverage: "Public domain or CC BY-SA unless otherwise mentioned."
+    license_coverage: "Public domain or CC BY-SA unless otherwise mentioned."
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "CC BY-SA or public domain unless otherwise mentioned."
+    license_coverage: "CC BY-SA or public domain unless otherwise mentioned."
 ---

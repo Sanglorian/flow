@@ -18,9 +18,9 @@ permalink: /licenses/
   <h2>Free, libre and open licenses</h2>
   <p>
 
-<p><strong>Free, libre and open licences</strong>, <strong>free and open licences</strong> or <strong>FLO licences</strong> are copyright licences that have only free and open terms.</p>
-<p>Four different bodies maintain lists of approved FLO licences: the Open Source Initiative, the Free Software Foundation, the Open Knowledge Foundation and the Free Culture Foundation. There are subtle differences in how these bodies determine whether a work is free/libre/open, but essentially agreement on whether a licence is free/libre/open.</p>
-<p>Licences on this wiki that are approved by one of the four bodies are:</p>
+<p><strong>Free, libre and open licenses</strong>, <strong>free and open licenses</strong> or <strong>FLO licenses</strong> are copyright licenses that have only free and open terms.</p>
+<p>Four different bodies maintain lists of approved FLO licenses: the Open Source Initiative, the Free Software Foundation, the Open Knowledge Foundation and the Free Culture Foundation. There are subtle differences in how these bodies determine whether a work is free/libre/open, but essentially agreement on whether a license is free/libre/open.</p>
+<p>Licenses on this wiki that are approved by one of the four bodies are:</p>
 
   <ul>
     {%- for license in flo_licenses -%}
@@ -40,7 +40,7 @@ permalink: /licenses/
         {%- assign matches_license = false -%}
         {%- if license_items and license_items.size > 0 -%}
           {%- for license_item in license_items -%}
-            {%- assign license_title = license_item.license | default: license_item.licence -%}
+            {%- assign license_title = license_item.license | default: license_item.license -%}
             {%- if license_titles contains license_title -%}
               {%- assign matches_license = true -%}
               {%- break -%}
@@ -75,7 +75,7 @@ permalink: /licenses/
         {%- assign matches_license = false -%}
         {%- if license_items and license_items.size > 0 -%}
           {%- for license_item in license_items -%}
-            {%- assign license_title = license_item.license | default: license_item.licence -%}
+            {%- assign license_title = license_item.license | default: license_item.license -%}
             {%- if license_titles contains license_title -%}
               {%- assign matches_license = true -%}
               {%- break -%}

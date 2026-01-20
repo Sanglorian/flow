@@ -12,6 +12,6 @@ entry:
   main_url: "https://musical-artifacts.com"
 licensing:
   - license: "Creative Commons Attribution"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Among others, including all rights reserved."
 ---

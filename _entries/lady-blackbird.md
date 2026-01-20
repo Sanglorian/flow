@@ -105,7 +105,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "Revised and original versions"
     version_format: "PDF"

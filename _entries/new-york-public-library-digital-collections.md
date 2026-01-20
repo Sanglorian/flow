@@ -20,7 +20,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Public domain"
-    licence_coverage: "part"
+    license_coverage: "part"
 versions:
   -
     version_title: "A visualiser of the public domain works in the collection, including by century, genre, collection and colour."

@@ -15,10 +15,10 @@ entry:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Own licence"
-    licence-coverage: "The Midian game and setting."
+  - license: "Own license"
+    license-coverage: "The Midian game and setting."
     explanation: "https://web.archive.org/web/20110202084624/http://lostsouls.damnserver.com/Copywrong.htm"
   - license: "Public domain"
-    licence-coverage: "The Fark Fantasy Core Set."
+    license-coverage: "The Fark Fantasy Core Set."
     explanation: "https://web.archive.org/web/20110202084624/http://lostsouls.damnserver.com/Copywrong.htm"
 ---

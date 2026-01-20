@@ -18,7 +18,7 @@ permalink: /defining-freedom/
 * [Open Education Week]({{ "/free-culture/open-education-week/" | relative_url }})
 * [Press release 2015-10-17]({{ "/free-culture/press-release-2015-10-17/" | relative_url }})
 * [Promised libre works]({{ "/free-culture/promised-libre-works/" | relative_url }})
-* [Public Copyright Licence]({{ "/free-culture/public-copyright-licence/" | relative_url }})
+* [Public Copyright License]({{ "/free-culture/public-copyright-license/" | relative_url }})
 * [Public Domain Day]({{ "/free-culture/public-domain-day/" | relative_url }})
 * [Public Domain Manifesto]({{ "/free-culture/public-domain-manifesto/" | relative_url }})
 * [Who needs access?]({{ "/free-culture/who-needs-access/" | relative_url }})
@@ -28,7 +28,7 @@ permalink: /defining-freedom/
 | --- | --- | --- |
 | Day Against DRM | 4 May | Campaign against Digital Rights Management. |
 | Document Freedom Day | 30 March | Celebrates open document formats and their importance. |
-| Jenny Everywhere Day | 13 August | Celebrates the first superhero released under a libre licence. |
+| Jenny Everywhere Day | 13 August | Celebrates the first superhero released under a libre license. |
 | Open Access Week | Not specified | See the Open Access Week site for the current schedule. |
 | Open Education Week | Not specified | Raises awareness of the open education movement and its impact on teaching and learning worldwide. |
 | Public Domain Day | 1 January | Marks when new works enter the public domain. |
@@ -80,29 +80,29 @@ Some people want others to copy their works. They can do this through exclusive 
 
 However, some people want to give broader permission than that, for a number of reasons. Maybe they’re sick of expressly giving permission to everyone. Maybe they know that many people would like to use their work but never bother to ask. Maybe they want to grant permission even after they die. 
 
-Shareable resources licences like Creative Commons are a way of avoiding these problems. By releasing a work under a shareable resource licence, the creator gives everyone permission to copy the work under some circumstances. As long as they follow those conditions, they don’t need to pay royalties and they don’t violate copyright law.
+Shareable resources licenses like Creative Commons are a way of avoiding these problems. By releasing a work under a shareable resource license, the creator gives everyone permission to copy the work under some circumstances. As long as they follow those conditions, they don’t need to pay royalties and they don’t violate copyright law.
 
-But what conditions are imposed? That depends on the particular shareable resource licence chosen.
+But what conditions are imposed? That depends on the particular shareable resource license chosen.
 
 ### What are acceptable conditions?
-According to the [Definition of Free Cultural Works](/free-culture/definition-of-free-cultural-works/), there are three restrictions that can be placed on a libre licence without it becoming proprietary.
+According to the [Definition of Free Cultural Works](/free-culture/definition-of-free-cultural-works/), there are three restrictions that can be placed on a libre license without it becoming proprietary.
 
 #### Attribution of authors and no endorsement
-A libre licence can require that the original work and its creator are recognised in some way, and also that it be made clear that the author does not endorse the adaptation. Use of trademarks may also be limited by the licence.
+A libre license can require that the original work and its creator are recognised in some way, and also that it be made clear that the author does not endorse the adaptation. Use of trademarks may also be limited by the license.
 
 #### Transmission of freedoms
-Libre licences sometimes require that all derivative works are themselves licensed under the same licence as the original work. Otherwise, someone could adapt a libre work but not make that adaptation available for others to share and adapt.
+Libre licenses sometimes require that all derivative works are themselves licensed under the same license as the original work. Otherwise, someone could adapt a libre work but not make that adaptation available for others to share and adapt.
 
-Other terms for this condition include ‘reciprocal’, ‘share alike’, ‘viral’ or ‘copyleft’. The first three terms can describe proprietary works where adaptations must be kept under the same (proprietary) licence. The final term, ‘copyleft’, can only describe libre works.
+Other terms for this condition include ‘reciprocal’, ‘share alike’, ‘viral’ or ‘copyleft’. The first three terms can describe proprietary works where adaptations must be kept under the same (proprietary) license. The final term, ‘copyleft’, can only describe libre works.
 
 There are two forms of copyleft. Strong copyleft works can only be distributed with other libre works. Weak copyleft works can be distributed with proprietary works, as long as the work itself is still copyleft.
 
-A licence without a reciprocal condition is called a ‘permissive’ or ‘copyfree’ licence.
+A license without a reciprocal condition is called a ‘permissive’ or ‘copyfree’ license.
 
 #### Protection of freedoms
 These are a set of conditions which require the work to be friendly to the end user. For example, there’s not much use giving me the legal right to edit a program if the program cannot be edited. 
 
-As with the other conditions listed above, these are only present in some libre licences.
+As with the other conditions listed above, these are only present in some libre licenses.
 
 * **Availability of source data:** The information and files behind a work must also be made available. For example, the code of a program or the 3D models used in a movie must be made available as well. 
 * **Use of a free format:** The work is available in (and perhaps only available in) a file format that is not protected by intellectual property law. Otherwise, a work could be made impossible to open if the owners of that format banned its use in software.

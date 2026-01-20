@@ -14,5 +14,5 @@ groupings:
   - grouping: "Data"
 licensing:
   - license: "Creative Commons Attribution 3.0 (New Zealand)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

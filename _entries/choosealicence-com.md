@@ -1,14 +1,14 @@
 ---
 layout: entry
-title: "Choosealicence.com"
-permalink: /choosealicence-com/
+title: "Choosealicense.com"
+permalink: /choosealicense-com/
 created_at: 2015-05-28
 updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  short_description: "A guide to choosing a licence."
+  short_description: "A guide to choosing a license."
   main_url: "https://choosealicense.com/"
 connections:
   - has_connection_to_entry: "Github"

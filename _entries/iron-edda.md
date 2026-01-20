@@ -26,7 +26,7 @@ languages:
     relationship_of_language: "original"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Later versions have been released under an ad hoc license."
 funding:
   - funding_tool: "Kickstarter"

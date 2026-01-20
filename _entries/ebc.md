@@ -12,5 +12,5 @@ entry:
   main_url: "http://www.ebc.com.br/"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Brazil)"
-    licence_coverage: "formerly the entirety of the site, now seemingly not listed"
+    license_coverage: "formerly the entirety of the site, now seemingly not listed"
 ---

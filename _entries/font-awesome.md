@@ -12,13 +12,13 @@ entry:
   main_url: "https://web.archive.org/web/20180111012319/http://fontawesome.io/"
 licensing:
   - license: "SIL Open Font License"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "The product."
   - license: "MIT License"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "The code."
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "The documentation."
 funding:
   funding_tool: "Kickstarter"

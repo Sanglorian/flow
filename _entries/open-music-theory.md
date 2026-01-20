@@ -16,7 +16,7 @@ groupings:
   - grouping: "Nonfiction"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   - funding_tool: "IndieGoGo"
     explanation: "https://www.indiegogo.com/projects/open-interactive-music-theory-textbook"

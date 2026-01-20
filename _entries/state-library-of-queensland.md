@@ -15,9 +15,9 @@ groupings:
   - grouping: "Photographs"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "text only"
+    license_coverage: "text only"
     explanation: "https://www.slq.qld.gov.au/understanding-copyright"
   - license: "Public domain"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "most of the photos"
 ---

@@ -17,6 +17,6 @@ groupings:
   - grouping: "Art"
 licensing:
   - license: "Public domain"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "\"All images tagged with ”Public Domain” are free of rights and can be downloaded. These images can be used without restrictions for private, scientific, creative and commercial purposes.\""
 ---

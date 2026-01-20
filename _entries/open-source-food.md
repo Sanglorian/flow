@@ -14,5 +14,5 @@ groupings:
   - grouping: "Recipes"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    explanation: "Licences are page-by-page, but the three I checked were Creative Commons Attribution-ShareAlike."
+    explanation: "Licenses are page-by-page, but the three I checked were Creative Commons Attribution-ShareAlike."
 ---

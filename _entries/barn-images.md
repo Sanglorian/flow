@@ -23,6 +23,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "Photos from early 2015 before the site changed license"
+    license_coverage: "Photos from early 2015 before the site changed license"
     explanation: "https://web.archive.org/web/20150908223553/http://barnimages.com/about/"
 ---

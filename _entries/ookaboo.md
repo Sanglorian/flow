@@ -14,5 +14,5 @@ groupings:
   - grouping: "Photography"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    explanation: "The works themselves are under a range of libre licences, but the metadata is BY-SA."
+    explanation: "The works themselves are under a range of libre licenses, but the metadata is BY-SA."
 ---

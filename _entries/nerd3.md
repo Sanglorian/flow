@@ -16,5 +16,5 @@ groupings:
   - grouping: "Comics"
 licensing:
   - license: "Creative Commons Attribution-Noncommercial"
-    licence_coverage: "Earlier versions of the site, before and around 2012: https://web.archive.org/web/20120112150626/http://nerdcubed.co.uk/"
+    license_coverage: "Earlier versions of the site, before and around 2012: https://web.archive.org/web/20120112150626/http://nerdcubed.co.uk/"
 ---

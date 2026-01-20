@@ -14,6 +14,6 @@ license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)
 license_certification:
-  - Open Definition other conformant licence
-  - Definition of Free Cultural Works conformant licence
+  - Open Definition other conformant license
+  - Definition of Free Cultural Works conformant license
 ---

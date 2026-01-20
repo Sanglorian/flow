@@ -23,6 +23,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "http://realisticshots.com/terms - \"All photos published on Realistic Shots are licensed under Creative Commons Zero which means you can copy, modify, distribute and use the photos, even for commercial purposes. Attribution is not required, but appreciated.\""
 ---

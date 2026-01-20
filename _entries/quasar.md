@@ -15,5 +15,5 @@ groupings:
 genres:
   - "Science Fiction"
 licensing:
-  - license: "Own licence"
+  - license: "Own license"
 ---

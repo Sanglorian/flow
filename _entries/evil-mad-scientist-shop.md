@@ -15,7 +15,7 @@ groupings:
 licensing:
   - license: "GNU General Public License"
     explanation: |-
-      The TAPR OHL is the main hardware licence they use; the GNU GPL is the main software licence they use.
+      The TAPR OHL is the main hardware license they use; the GNU GPL is the main software license they use.
       
       * Eggbot (chassis and hardware design: TAPR OHL, driver circuitry: CC-BY 3.0, firmware & driver code: GPL v3)
       * Octolively: TAPR OHL/ GPL

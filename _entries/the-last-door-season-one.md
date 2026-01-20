@@ -13,6 +13,6 @@ entry:
   main-description: "Hosted on Open Game Art: https://opengameart.org/content/the-last-door-season-one-complete-assets-pack"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "art only"
+    license_coverage: "art only"
     explanation: "The assets from the first four episodes."
 ---

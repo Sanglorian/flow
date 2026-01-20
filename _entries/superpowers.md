@@ -21,7 +21,7 @@ groupings:
     about: true
 licensing:
   - license: "ISC License"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   funding_tool: "Patreon"
   explanation: "https://www.patreon.com/SparklinLabs"

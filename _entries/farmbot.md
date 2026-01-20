@@ -16,9 +16,9 @@ groupings:
   - grouping: "Software"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "Hardware, documentation"
+    license_coverage: "Hardware, documentation"
   - license: "MIT License"
-    licence_coverage: "Software"
+    license_coverage: "Software"
   - license: "Creative Commons Attribution-NonCommercial 4.0"
-    licence_coverage: "Non-functional (marketing materials, brand assets, etc.)"
+    license_coverage: "Non-functional (marketing materials, brand assets, etc.)"
 ---

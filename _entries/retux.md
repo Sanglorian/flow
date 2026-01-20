@@ -27,11 +27,11 @@ licensing:
   - license: "GNU General Public License 3.0"
     explanation: "Code"
   - license: "CC0 1.0 Universal"
-    explanation: "All assets are free and open, but under a range of licences."
+    explanation: "All assets are free and open, but under a range of licenses."
   - license: "Creative Commons Attribution"
-    explanation: "All assets are free and open, but under a range of licences."
+    explanation: "All assets are free and open, but under a range of licenses."
   - license: "Creative Commons Attribution-ShareAlike"
-    explanation: "All assets are free and open, but under a range of licences."
+    explanation: "All assets are free and open, but under a range of licenses."
 funding:
   -
     funding_tool: "https://www.indiegogo.com/projects/retux"

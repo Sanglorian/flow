@@ -14,7 +14,7 @@ entry:
     The source code is yet to be published.
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "https://datadealer.com/imprint"
 funding:
   -

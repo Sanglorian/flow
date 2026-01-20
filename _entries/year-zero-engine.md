@@ -13,7 +13,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "Year Zero Engine Free Tabletop License SRD"
     version_format: "PDF"

@@ -14,5 +14,5 @@ groupings:
   - grouping: "Music (Radio)"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    explanation: "The actual songs played are potentially under other licences or no licence."
+    explanation: "The actual songs played are potentially under other licenses or no license."
 ---

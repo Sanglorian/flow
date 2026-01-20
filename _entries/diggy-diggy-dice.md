@@ -14,6 +14,6 @@ groupings:
   - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Although the print-and-play dice image appears to use Minecraft art which is all rights reserved."
 ---

@@ -15,5 +15,5 @@ license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)
 license_certification:
-  - Open Definition other conformant licence
+  - Open Definition other conformant license
 ---

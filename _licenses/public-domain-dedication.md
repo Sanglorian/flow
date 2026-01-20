@@ -11,5 +11,5 @@ badge: "/thumbnails/pd-badge.png"
 small_badge: "/thumbnails/public-domain-small-badge.png"
 is_superseded_by: CC0 1.0 Universal
 license_certification:
-  - Definition of Free Cultural Works conformant licence
+  - Definition of Free Cultural Works conformant license
 ---

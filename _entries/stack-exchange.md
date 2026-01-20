@@ -20,6 +20,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "https://stackexchange.com/legal"
 ---

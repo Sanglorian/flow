@@ -21,5 +21,5 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

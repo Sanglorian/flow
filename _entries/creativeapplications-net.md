@@ -11,6 +11,6 @@ entry:
   main_url: "http://www.creativeapplications.net/"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "https://www.creativeapplications.net/about/"
 ---

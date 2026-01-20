@@ -23,5 +23,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "MIT License"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

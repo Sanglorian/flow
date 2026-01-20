@@ -16,7 +16,7 @@ groupings:
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-NoDerivatives 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   funding_tool: "unglue.it"
   funding_type: "ransom"

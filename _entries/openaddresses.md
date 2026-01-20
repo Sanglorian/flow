@@ -17,6 +17,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
-    explanation: "\"Released under a CC0 License. Individual datasets carry respective licence.\""
+    license_coverage: "part"
+    explanation: "\"Released under a CC0 License. Individual datasets carry respective license.\""
 ---

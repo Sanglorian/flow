@@ -15,6 +15,6 @@ groupings:
   - grouping: "Symbols"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "License is included in each zip download."
 ---

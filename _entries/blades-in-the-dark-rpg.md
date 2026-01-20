@@ -29,6 +29,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "part"
-    explanation: "The SRD is entirely under the licence, but the full game (and translations, expansions, etc) are not."
+    license_coverage: "part"
+    explanation: "The SRD is entirely under the license, but the full game (and translations, expansions, etc) are not."
 ---

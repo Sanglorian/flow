@@ -20,5 +20,5 @@ groupings:
   - grouping: "Clone"
 licensing:
   - license: "Public domain"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 ---

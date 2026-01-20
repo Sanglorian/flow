@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Collection"
   short_description: "News."
   main_url: "http://www.independentaustralia.net/"
-  main_description: "Couldn't find a site-wide licence, but at least some articles are under CC BY-NC-ND."
+  main_description: "Couldn't find a site-wide license, but at least some articles are under CC BY-NC-ND."
 groupings:
   - grouping: "News"
 licensing:

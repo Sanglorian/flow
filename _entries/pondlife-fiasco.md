@@ -23,5 +23,5 @@ languages:
     relationship_of_language: "original"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

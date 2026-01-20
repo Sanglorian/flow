@@ -19,7 +19,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   -
     funding_tool: "itch.io"

@@ -15,5 +15,5 @@ groupings:
   - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

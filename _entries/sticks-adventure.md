@@ -32,5 +32,5 @@ groupings:
     explanation: "The pictures without text are also available."
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

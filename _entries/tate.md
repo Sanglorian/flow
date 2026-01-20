@@ -9,10 +9,10 @@ contributors:
 entry:
   category_of_entry: "Collection, Organisation"
   short_description: "An art gallery."
-  main_url: "https://www.tate.org.uk/about-us/policies-and-procedures/creative-commons-licences-tate"
+  main_url: "https://www.tate.org.uk/about-us/policies-and-procedures/creative-commons-licenses-tate"
 groupings:
   - grouping: "Art"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
 ---

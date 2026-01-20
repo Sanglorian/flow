@@ -29,10 +29,10 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "the metadata"
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "Public domain"
-    licence_coverage: "part"
+    license_coverage: "part"
 ---

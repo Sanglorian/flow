@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  short_description: "A step-by-step guide to the world of CC licences."
+  short_description: "A step-by-step guide to the world of CC licenses."
   main_url: "https://aliprandi.org/books/cc-user-guide/"
 connections:
   - has_connection_to_entry: "Simone Aliprandi"

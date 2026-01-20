@@ -24,5 +24,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

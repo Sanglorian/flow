@@ -15,6 +15,6 @@ groupings:
   - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "part"
-    explanation: "The show, but the songs themselves are a variety of free and non-free Creative Commons licences."
+    license_coverage: "part"
+    explanation: "The show, but the songs themselves are a variety of free and non-free Creative Commons licenses."
 ---

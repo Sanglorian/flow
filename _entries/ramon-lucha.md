@@ -14,5 +14,5 @@ groupings:
   - grouping: "Painting"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "Art on archived site."
+    license_coverage: "Art on archived site."
 ---

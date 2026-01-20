@@ -28,7 +28,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "GNU General Public License 3.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Except for some artworks, which are public domain, CC BY-SA or GNU FDL."
 funding:
   funding_tool: "The Game Crafter"

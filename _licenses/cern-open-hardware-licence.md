@@ -1,6 +1,6 @@
 ---
 layout: license
-title: CERN Open Hardware Licence
+title: CERN Open Hardware License
 abbreviation: CERN OHL
 created_at: 2015-10-11T00:52:34Z
 updated_at: 2015-10-11T00:52:34Z
@@ -12,5 +12,5 @@ license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)
 license_certification:
-  - Definition of Free Cultural Works conformant licence
+  - Definition of Free Cultural Works conformant license
 ---

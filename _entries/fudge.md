@@ -19,7 +19,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Open Game License"
-    explanation: "Also published under its own licence."
+    explanation: "Also published under its own license."
 versions:
   -
     version_format: "PDF, HTML, LaTeX"

@@ -27,5 +27,5 @@ groupings:
     explanation: "https://www.davidrevoy.com/article712/spring-open-movie-character-design-and-concept-art"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

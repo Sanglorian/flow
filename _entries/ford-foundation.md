@@ -16,6 +16,6 @@ genres:
   - "Activism"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Unless otherwise designated, written content within the “Learning” and “News & Stories” sections of the Website are licensed to the public through the Creative Commons Attribution 4.0 International license."
 ---

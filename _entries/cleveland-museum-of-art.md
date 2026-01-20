@@ -16,6 +16,6 @@ groupings:
   - grouping: "Photography"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Collection search can be limited to open access only"
 ---

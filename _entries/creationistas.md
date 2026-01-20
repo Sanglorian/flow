@@ -22,5 +22,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution"
-    explanation: "The videos are libre; the site has no licence listed."
+    explanation: "The videos are libre; the site has no license listed."
 ---

@@ -25,7 +25,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   - version_title: "Download the assets"
     version_format: "PNG"

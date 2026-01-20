@@ -37,4 +37,4 @@ Some works have their source code available, but normal copyright restrictions a
 
 ## See also
 * [A Free, Libre and Open Glossary](https://livinglibre1.wordpress.com/2014/09/08/a-free-libre-and-open-glossary-now-in-xml/)
-* [Free, libre and open licences](/free-libre-and-open-licences/)
+* [Free, libre and open licenses](/free-libre-and-open-licenses/)

@@ -19,7 +19,7 @@ groupings:
   - grouping: "Nonfiction"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Note that Holacracy is a trademark, and its usage is limited."
 versions:
   - version_title: "Github page"

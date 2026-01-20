@@ -12,5 +12,5 @@ entry:
   main_url: "https://web.archive.org/web/20150420111740/https://opentechco.co/"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

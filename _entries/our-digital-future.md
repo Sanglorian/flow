@@ -19,6 +19,6 @@ languages:
     relationship_of_language: "original"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "\"This site is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License\""
 ---

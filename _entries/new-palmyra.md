@@ -19,5 +19,5 @@ connections:
     details_of_connection: "a contributor to"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

@@ -22,6 +22,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Although note the terms of use: http://startupstockphotos.com/terms-of-use"
 ---

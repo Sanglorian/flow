@@ -18,9 +18,9 @@ groupings:
   - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Some assets"
   - license: "GNU General Public License 3.0"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Code"
 ---

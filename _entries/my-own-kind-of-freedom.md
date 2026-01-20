@@ -17,5 +17,5 @@ groupings:
   - grouping: "Novel"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (US)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

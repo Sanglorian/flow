@@ -17,5 +17,5 @@ groupings:
   - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
-    explanation: "Most remixing contests use a Creative Commons licence which allows remixing. Instead, Paul Simon has given limited permission to remix his song for the purposes of the contest, on the condition that all entries are BY-NC-ND."
+    explanation: "Most remixing contests use a Creative Commons license which allows remixing. Instead, Paul Simon has given limited permission to remix his song for the purposes of the contest, on the condition that all entries are BY-NC-ND."
 ---

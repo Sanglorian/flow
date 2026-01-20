@@ -24,7 +24,7 @@ groupings:
   - grouping: "Video Game"
 licensing:
   - license: "Unlicense"
-    licence_coverage: "part"
+    license_coverage: "part"
 funding:
   funding_tool: "Abe's Curated Micro Grant"
   funding_type: "gratis"

@@ -42,9 +42,9 @@ groupings:
   - grouping: "Literature"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "\"Unless otherwise stated, the content of this page is licensed under Creative Commons Attribution-ShareAlike 3.0 License\""
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
-    explanation: "The entire Russian wiki is under the NonCommercial licence. Some of the other language ports may also be under a non-free and open licence. Chris Sakkas has confirmed that this is a deliberate difference to the original site."
+    license_coverage: "entirety"
+    explanation: "The entire Russian wiki is under the NonCommercial license. Some of the other language ports may also be under a non-free and open license. Chris Sakkas has confirmed that this is a deliberate difference to the original site."
 ---

@@ -20,7 +20,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
-    licence_coverage: "comics before a certain date"
+    license_coverage: "comics before a certain date"
     explanation: "Formerly appeared on website: https://web.archive.org/web/20150116013633/http://www.dieselsweeties.com/archive/4000, removed some time after 2015"
 funding:
   funding_tool: "Amazon.com"

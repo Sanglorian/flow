@@ -23,7 +23,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "text only"
+    license_coverage: "text only"
     explanation: "The content in this book is under the Creative Commons CC-BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/
 
 All artwork belongs to their original artists and is used with permission."

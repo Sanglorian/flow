@@ -17,5 +17,5 @@ languages:
     relationship_of_language: "original"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 2.0 (French)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

@@ -15,7 +15,7 @@ This page is for listing works that are eligible to be added to the wiki, but ha
 * [Wonder Core Rules](http://www.wargamevault.com/product/129723/Wonder-Core-Rules), CC BY-SA 4.0
 
 ## All Media
-* **[CC Wiki](https://wiki.creativecommons.org/Main_Page):** Creative Commons' wiki has case studies and content directories for Creative Commons-licensed works in particular. There are 404 case studies (as of October 2014) and many entries in the content directories, but it is not regularly updated, the metadata for most projects and organisations is fairly limited and it focuses on Creative Commons licences rather than free and open licences specifically.
+* **[CC Wiki](https://wiki.creativecommons.org/Main_Page):** Creative Commons' wiki has case studies and content directories for Creative Commons-licensed works in particular. There are 404 case studies (as of October 2014) and many entries in the content directories, but it is not regularly updated, the metadata for most projects and organisations is fairly limited and it focuses on Creative Commons licenses rather than free and open licenses specifically.
 
 ## Specific Media
 * **[Google Fonts](https://www.google.com/fonts):** A collection of web-enabled free and open fonts.

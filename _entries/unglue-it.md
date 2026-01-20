@@ -14,11 +14,11 @@ entry:
   main_description: |-
     Projects take three forms:
 
-    * A ransom, where the work is released gratis and under a Creative Commons licence once a funding threshold is met
+    * A ransom, where the work is released gratis and under a Creative Commons license once a funding threshold is met
     * A thank you system, where a work is released gratis and under Creative Commons, then donations requested.
-    * A quasi-ransom method, where paying for the gratis ebook gets you a copy - and reduces the time until the ebook will be released under a Creative Commons licence.
+    * A quasi-ransom method, where paying for the gratis ebook gets you a copy - and reduces the time until the ebook will be released under a Creative Commons license.
 
-    Has the option to sort by licence:
+    Has the option to sort by license:
 
     * [CC BY-SA](https://unglue.it/free/all/by-sa/?order_by=newest)
     * [CC BY](https://unglue.it/free/all/by/?order_by=newest)
@@ -39,11 +39,11 @@ groupings:
   - grouping: "Literature"
 licensing:
   - license: "Creative Commons Attribution"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "CC0 1.0 Universal"
-    licence_coverage: "part"
+    license_coverage: "part"
 funding:
   - funding_tool: "Website"
     funding_type: "ransom"

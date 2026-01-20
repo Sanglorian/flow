@@ -14,9 +14,9 @@ groupings:
   - grouping: "Font"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "unclear"
+    license_coverage: "unclear"
   - license: "SIL Open Font License"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/805738475/comic-neue"

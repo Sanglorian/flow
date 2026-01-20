@@ -32,7 +32,7 @@ languages:
     relationship_of_language: "original"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "\"The Whispering Road is released under a Creative Commons Attribution-ShareAlike license (CC BY-SA 3.0).\" (on the DriveThruRPG page)"
 funding:
   - funding_tool: "DriveThruRPG"

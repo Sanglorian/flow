@@ -19,10 +19,10 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "Text only"
+    license_coverage: "Text only"
     explanation: "Dual-licensed with OGL to give users more options."
   - license: "Open Game License"
-    licence_coverage: "Text only."
+    license_coverage: "Text only."
 versions:
   - version_title: "Offical FATE SRDs"
     version_format: "HTML"

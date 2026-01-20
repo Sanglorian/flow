@@ -18,6 +18,6 @@ groupings:
   - grouping: "Nonfiction"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "part"
-    explanation: "Some articles have the text: \"All texts created by the Clean Energy Wire are available under a “Creative Commons Attribution 4.0 International Licence (CC BY 4.0)” . They can be copied, shared and made publicly accessible by users so long as they give appropriate credit, provide a link to the license, and indicate if changes were made.\""
+    license_coverage: "part"
+    explanation: "Some articles have the text: \"All texts created by the Clean Energy Wire are available under a “Creative Commons Attribution 4.0 International License (CC BY 4.0)” . They can be copied, shared and made publicly accessible by users so long as they give appropriate credit, provide a link to the license, and indicate if changes were made.\""
 ---

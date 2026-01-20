@@ -34,6 +34,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "The version number, 3.0, is mentioned, but not the location."
 ---

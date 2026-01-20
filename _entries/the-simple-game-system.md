@@ -15,5 +15,5 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (US)"
-    explanation: "The supplements are also under this copyleft licence."
+    explanation: "The supplements are also under this copyleft license."
 ---

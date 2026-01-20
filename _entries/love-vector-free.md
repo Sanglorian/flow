@@ -14,5 +14,5 @@ groupings:
   - grouping: "Vector Art"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
-    licence-coverage: "Some."
+    license-coverage: "Some."
 ---

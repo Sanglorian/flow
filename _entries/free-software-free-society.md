@@ -22,5 +22,5 @@ groupings:
   - grouping: "Biography"
 licensing:
   - license: "Creative Commons Attribution-NoDerivatives 4.0"
-    licence_coverage: "3rd edition"
+    license_coverage: "3rd edition"
 ---

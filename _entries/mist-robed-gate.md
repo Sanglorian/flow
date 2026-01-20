@@ -18,7 +18,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "text only"
+    license_coverage: "text only"
 versions:
   - version_title: "EPUB"
     version_format: "EPUB"

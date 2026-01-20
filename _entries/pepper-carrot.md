@@ -76,7 +76,7 @@ groupings:
   - grouping: "Comics"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "https://www.peppercarrot.com/en/about/index.html#credits"
 funding:
   funding_tool: "Patreon"

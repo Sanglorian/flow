@@ -24,7 +24,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "text only"
+    license_coverage: "text only"
     explanation: |-
       The whole Trophy RPG is not CC BY, but the whole SRD is.
 

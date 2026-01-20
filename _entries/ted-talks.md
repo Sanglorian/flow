@@ -18,6 +18,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Except for TED-Ed. https://help.ted.com/hc/en-us/articles/360004233294-How-do-I-license-TED-or-TEDx-content"
 ---

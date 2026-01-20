@@ -23,6 +23,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Public domain"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "These are to the best of my knowledge available in the public domain based on the institutions participation in the Flickr Commons and the rules of Flickr Commons. http://nos.twnsnd.co/rights-and-usage"
 ---

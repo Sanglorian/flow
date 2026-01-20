@@ -17,7 +17,7 @@ entry:
   main_url: "https://davidcollinsrivera.com/"
 licensing:
   - license: "Creative Commons Attribution Share-Alike Unported 3.0"
-    licence_coverage: "RPG, at least some audiobooks"
+    license_coverage: "RPG, at least some audiobooks"
     explanation: "RPG has license in front piece. Older website applies it to at least some of the audiobooks: https://web.archive.org/web/20190807184342/http://downloads.cavalcadeaudio.com/stardrifter-novels/02-street-candles/?p=home"
 groupings:
   - grouping: "Tabletop Roleplaying"

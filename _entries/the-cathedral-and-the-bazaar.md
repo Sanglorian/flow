@@ -16,5 +16,5 @@ genres:
   - genre: "IP Minimalism"
 licensing:
   - license: "Open Publication License 2.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

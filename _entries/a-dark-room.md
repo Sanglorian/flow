@@ -66,6 +66,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Mozilla Public License 2.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "https://github.com/doublespeakgames/adarkroom"
 ---

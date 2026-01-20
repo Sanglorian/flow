@@ -19,11 +19,11 @@ types:
   - type: "Video"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: |-
       "Except where otherwise noted, content on this site
       is licensed under a Creative Commons Attribution 3.0 License."
-      Confusingly, the licence linked to is actually CC BY-NC-SA.
+      Confusingly, the license linked to is actually CC BY-NC-SA.
 funding:
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/lulacruza/vincent-moon-and-lulacruza-in-colombia"

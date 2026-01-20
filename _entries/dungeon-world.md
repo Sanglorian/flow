@@ -36,7 +36,7 @@ types:
     distribution: "hardcopy"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "text only"
+    license_coverage: "text only"
   - license: "Open Game License"
     explanation: "Former and only partial - due to some D&D-specific terms being used."
 funding:

@@ -21,7 +21,7 @@ groupings:
   - grouping: "Card Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 versions:
   -
     version_title: "Source on Github"

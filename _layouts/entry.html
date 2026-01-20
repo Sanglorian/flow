@@ -15,12 +15,12 @@ layout: default
     {%- assign funding_items = "" | split: "" -%}
     {%- assign funding_items = funding_items | push: page.funding -%}
   {%- endif -%}
-  {%- assign flo_certifications = "Open Definition recommended conformant licence|Open Definition other conformant licence|Definition of Free Cultural Works conformant licence|FSF free documentation licence|Open Source Definition compliant licence|GPL-compatible free software licence" | split: "|" -%}
+  {%- assign flo_certifications = "Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|Open Source Definition compliant license|GPL-compatible free software license" | split: "|" -%}
   {%- assign has_flo_license = false -%}
   {%- assign has_public_domain_license = false -%}
   {%- if license_items and license_items.size > 0 -%}
     {%- for license_item in license_items -%}
-      {%- assign license_title = license_item.license | default: license_item.licence -%}
+      {%- assign license_title = license_item.license | default: license_item.license -%}
       {%- assign license_title_downcase = license_title | downcase -%}
       {%- if license_title_downcase contains "public domain" -%}
         {%- assign has_public_domain_license = true -%}
@@ -123,9 +123,9 @@ layout: default
   {%- if license_items and license_items.size > 0 -%}
     {%- assign licensing_text = "" -%}
     {%- for license_item in license_items -%}
-      {%- assign license_title = license_item.license | default: license_item.licence -%}
+      {%- assign license_title = license_item.license | default: license_item.license -%}
       {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
-      {%- assign license_coverage = license_item.licence_coverage | default: license_item.license_coverage -%}
+      {%- assign license_coverage = license_item.license_coverage | default: license_item.license_coverage -%}
       {%- capture license_entry -%}
         {%- if license_doc -%}
           <a href="{{ license_doc.url | relative_url }}">{{ license_title }}</a>

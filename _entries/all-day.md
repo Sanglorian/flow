@@ -19,5 +19,5 @@ types:
   - distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 3.0 (US)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

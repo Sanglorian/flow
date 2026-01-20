@@ -13,5 +13,5 @@ groupings:
   - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
-    explanation: "Some of the works are under other CC licences."
+    explanation: "Some of the works are under other CC licenses."
 ---

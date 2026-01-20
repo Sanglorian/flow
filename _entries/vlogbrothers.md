@@ -20,6 +20,6 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "https://www.reddit.com/r/nerdfighters/comments/49f5r1/vlogbrothers_went_ccby/d0ssbod"
 ---

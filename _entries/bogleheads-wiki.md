@@ -15,7 +15,7 @@ groupings:
   - grouping: "Nonfiction"
 licensing:
   - license: "GNU Free Documentation License 1.3"
-    licence_coverage: "previous"
+    license_coverage: "previous"
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "current"
+    license_coverage: "current"
 ---

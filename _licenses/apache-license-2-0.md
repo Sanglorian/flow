@@ -11,6 +11,6 @@ main_url: http://opensource.org/licenses/Apache-2.0
 license_aspect:
   - Attribution required
 license_certification:
-  - Open Source Definition compliant licence
-  - GPL-compatible free software licence
+  - Open Source Definition compliant license
+  - GPL-compatible free software license
 ---

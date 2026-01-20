@@ -17,5 +17,5 @@ groupings:
   - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

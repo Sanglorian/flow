@@ -21,6 +21,6 @@ groupings:
   - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
-    licence_coverage: "part"
-    explanation: "At least part of the film, although I cannot find the licence declaration."
+    license_coverage: "part"
+    explanation: "At least part of the film, although I cannot find the license declaration."
 ---

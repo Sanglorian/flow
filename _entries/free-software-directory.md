@@ -17,5 +17,5 @@ groupings:
   - grouping: "Video Game"
 licensing:
   - license: "GNU Free Documentation License"
-    explanation: "A variety of free software licences."
+    explanation: "A variety of free software licenses."
 ---

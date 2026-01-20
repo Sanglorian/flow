@@ -16,5 +16,5 @@ license_aspect:
   - Noncommercial only
   - Verbatim copying only
 license_certification:
-  - Open Definition other conformant licence
+  - Open Definition other conformant license
 ---

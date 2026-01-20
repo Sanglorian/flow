@@ -10,7 +10,7 @@ entry:
   category_of_entry: "Work"
   short_description: "An anthology arguing for freeing up works from copyright."
   main_description: |-
-    Originally released under an obscure licence which seemingly released the work into the public domain.
+    Originally released under an obscure license which seemingly released the work into the public domain.
   main_url: "https://monoskop.org/File:Berry_David_M_Moss_Giles_eds_Libre_Culture_Meditations_on_Free_Culture_2nd_ed_2008.pdf"
 connections:
   - has_connection_to_entry: "David M. Berry and Giles Moss"

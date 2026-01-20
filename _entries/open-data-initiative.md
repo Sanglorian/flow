@@ -11,5 +11,5 @@ entry:
   main_url: "https://theodi.org/"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 2.0 (UK)"
-    licence_coverage: "formerly?"
+    license_coverage: "formerly?"
 ---

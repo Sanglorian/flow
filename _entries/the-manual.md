@@ -16,7 +16,7 @@ genres:
   - genre: "Design"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/goodonpaper/the-manual/"

@@ -26,7 +26,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   funding_tool: "Crowd Supply"
   funding_type: "sales"

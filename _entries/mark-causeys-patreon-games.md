@@ -13,7 +13,7 @@ groupings:
   - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "Unless noted otherwise, all works released here are CC BY-SA 4.0."
 funding:
   - funding_tool: "Patreon"

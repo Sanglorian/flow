@@ -20,7 +20,7 @@ groupings:
   - grouping: "Nonfiction"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
 ---

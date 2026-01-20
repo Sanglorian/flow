@@ -26,12 +26,12 @@ types:
     distribution: "electronic"
 licensing:
   - license: "CC0 1.0 Universal"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "It's not clear which CC BY or CC BY-SA version applies."
   - license: "Creative Commons Attribution"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "It's not clear which CC BY or CC BY-SA version applies."
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
     explanation: "It's not clear which CC BY or CC BY-SA version applies."
 ---

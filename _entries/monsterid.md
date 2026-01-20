@@ -23,5 +23,5 @@ groupings:
   - grouping: "Software"
 licensing:
   - license: "Creative Commons Attribution 2.5 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

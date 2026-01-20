@@ -19,6 +19,6 @@ groupings:
   - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "A print-and-play version (the main game is all rights reserved)"
 ---

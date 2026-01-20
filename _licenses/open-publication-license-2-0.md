@@ -12,5 +12,5 @@ main_url: http://www.opencontent.org/openpub/
 license_aspect:
   - Attribution required
 license_certification:
-  - Open Definition other conformant licence
+  - Open Definition other conformant license
 ---

@@ -26,5 +26,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Public domain"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

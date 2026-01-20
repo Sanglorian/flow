@@ -27,19 +27,19 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: |-
       “Business as Usual” © 2014 by Pat Cadigan
       “Nanolaw with Daughter” © 2011 by Paul Ford
       “I’ve Got the Music In Me” © 2003 by Charlie Jane Anders
   - license: "Creative Commons Attribution-NonCommercial 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: |-
       “Scroogled” © 2007 by Cory Doctorow
       “Declaration” © 2012 by James Patrick Kelly
       “Unclaimed” © 2014 by Annalee Newitz
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: |-
       “Be Seeing You” © 2016 by Madeline Ashby
       “The Gambler” © 2008 by Paolo Bacigalupi

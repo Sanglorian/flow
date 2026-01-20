@@ -14,6 +14,6 @@ groupings:
   - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (Unported)"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Some, but not all, of the games."
 ---

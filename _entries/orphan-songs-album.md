@@ -27,8 +27,8 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "unclear"
+    license_coverage: "unclear"
     explanation: "according to the album's description on Jamendo"
 ---

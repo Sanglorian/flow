@@ -14,7 +14,7 @@ groupings:
   - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   -
     funding_tool: "Patreon"

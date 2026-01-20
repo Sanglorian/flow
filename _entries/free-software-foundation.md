@@ -8,6 +8,6 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Organisation"
-  short_description: "A foundation to encourage the use of free software licences."
+  short_description: "A foundation to encourage the use of free software licenses."
   main_url: "http://fsf.org/"
 ---

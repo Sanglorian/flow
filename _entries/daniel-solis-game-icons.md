@@ -18,7 +18,7 @@ groupings:
     about: true
 licensing:
   - license: "Creative Commons Attribution"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   -
     funding_tool: "Patreon"

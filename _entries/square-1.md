@@ -15,6 +15,6 @@ connections:
     details_of_connection: "band"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "It looks as if the paid version of the Square 1 album has songs that aren’t available from Jamendo."
 ---

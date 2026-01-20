@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category_of_entry: "Work"
-  short_description: "Problems with using the NonCommercial Creative Commons licence term."
+  short_description: "Problems with using the NonCommercial Creative Commons license term."
   main_url: "https://vlaamse-erfgoedbibliotheken.be/en/node/2725"
 genres:
   - "IP Minimalism"

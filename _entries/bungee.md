@@ -23,5 +23,5 @@ types:
     distribution: "electronic"
 licensing:
   - license: "SIL Open Font License"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

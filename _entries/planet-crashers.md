@@ -11,5 +11,5 @@ entry:
   main_url: "http://www.1km1kt.net/rpg/planet-crashers"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-    explanation: "The document doesn't provide details about the licence."
+    explanation: "The document doesn't provide details about the license."
 ---

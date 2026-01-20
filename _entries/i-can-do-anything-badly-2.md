@@ -22,7 +22,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
   - license: "Creative Commons Attribution-ShareAlike 3.0 (France)"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 ---

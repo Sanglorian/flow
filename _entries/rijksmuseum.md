@@ -24,6 +24,6 @@ groupings:
   - grouping: "Raster Art"
 licensing:
   - license: "Public domain"
-    licence_coverage: "part"
+    license_coverage: "part"
     explanation: "Part of the collection is public domain."
 ---

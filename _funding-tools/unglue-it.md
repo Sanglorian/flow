@@ -9,11 +9,11 @@ short_description: "A platform that funds the release of Creative Commons-licens
 main_url: "https://unglue.it/"
 main_description: |-
   Projects take three forms:
-  * A ransom, where the work is released gratis and under a Creative Commons licence once a funding threshold is met
+  * A ransom, where the work is released gratis and under a Creative Commons license once a funding threshold is met
   * A thank you system, where a work is released gratis and under Creative Commons, then donations requested.
-  * A quasi-ransom method, where paying for the gratis ebook gets you a copy - and reduces the time until the ebook will be released under a Creative Commons licence.
+  * A quasi-ransom method, where paying for the gratis ebook gets you a copy - and reduces the time until the ebook will be released under a Creative Commons license.
 
-  Has the option to sort by licence:
+  Has the option to sort by license:
   * https://unglue.it/creativecommons/by-sa CC BY-SA
   * https://unglue.it/creativecommons/by CC BY
   * https://unglue.it/creativecommons/cc0 CC0

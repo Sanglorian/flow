@@ -17,6 +17,6 @@ groupings:
   - grouping: "Miniatures Game"
 licensing:
   - license: "Open Game License"
-    licence_coverage: "text only"
+    license_coverage: "text only"
     explanation: "There is some Product Identity, but it is sparse."
 ---

@@ -12,5 +12,5 @@ license_aspect:
   - Attribution required
   - Share-alike required (reciprocal)
 license_certification:
-  - Open Source Definition compliant licence
+  - Open Source Definition compliant license
 ---

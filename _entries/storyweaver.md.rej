@@ -1,5 +1,5 @@
 diff a/_entries/storyweaver.md b/_entries/storyweaver.md	(rejected hunks)
-@@ -1,38 +1,37 @@
+@@ -1,38 +1,38 @@
  ---
  layout: entry
  title: "StoryWeaver"
@@ -19,13 +19,15 @@ diff a/_entries/storyweaver.md b/_entries/storyweaver.md	(rejected hunks)
      details_of_connection: "a contributor to, a host of"
  groupings:
    - grouping: "Literature"
--    is_or_about_grouping: "is"
+     is_or_about_grouping: "is"
  licensing:
    - license: "Creative Commons Attribution 4.0"
-     licence_coverage: "Books"
+-    licence_coverage: "Books"
++    license_coverage: "Books"
      explanation: "https://storyweaver.org.in/en/open-content"
    - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0"
-     licence_coverage: "Readalongs and videos."
+-    licence_coverage: "Readalongs and videos."
++    license_coverage: "Readalongs and videos."
  languages:
    - language: "English"
    - language: "Hindi"

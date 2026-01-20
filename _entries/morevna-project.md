@@ -12,7 +12,7 @@ entry:
   main_url: "http://morevnaproject.org/"
 licensing:
   - license: "Creative Commons Attribution 4.0"
-    licence_coverage: "entirety"
+    license_coverage: "entirety"
 funding:
   - funding_tool: "Patreon"
     funding_type: "sponsored"
