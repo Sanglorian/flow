@@ -343,8 +343,26 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `Entry content for \`${entryPath}\`:\n\n\`\`\`markdown\n${entryContent}\n\`\`\`\n\nCopy this into a new file in _entries/ and open a PR.`,
+              body: `Here is the generated entry content for \`${entryPath}\` (also available in the Actions run summary):\n\n\`\`\`markdown\n${entryContent}\n\`\`\`\n\nCopy this into a new file in _entries/ and open a PR.`,
             });
+        env:
+          ENTRY_PATH: ${{ steps.build-entry.outputs.entry_path }}
+          ENTRY_CONTENT: ${{ steps.build-entry.outputs.entry_content }}
+
+      - name: Add entry to run summary
+        if: ${{ steps.build-entry.outcome == 'success' }}
+        run: |
+          {
+            echo "### Generated entry"
+            echo
+            echo "Path: \`${ENTRY_PATH}\`"
+            echo
+            echo '```markdown'
+            echo "$ENTRY_CONTENT"
+            echo '```'
+            echo
+            echo "Copy this into a new file in _entries/ and open a PR."
+          } >> "$GITHUB_STEP_SUMMARY"
         env:
           ENTRY_PATH: ${{ steps.build-entry.outputs.entry_path }}
           ENTRY_CONTENT: ${{ steps.build-entry.outputs.entry_content }}
