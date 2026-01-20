@@ -7,6 +7,6 @@ updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
-  category: Source
+  category: Organisation
   main_url: "http://okfn.org/"
 ---

@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category: Work
+  category: Collection
   short_description: "The Wikinews project is a free content news source of the Wikimedia Foundation that seeks to provide content, free of charge, where everyone is invited to contribute reports about events large and small, either from direct experience, or summarized from elsewhere."
   main_url: "https://en.wikinews.org/wiki/Main_Page"
 connections:

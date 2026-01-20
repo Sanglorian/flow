@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   featured_entry: true
-  category: Work
+  category: Collection
   short_description: "A libre encyclopedia that anyone can edit."
   main_description: |-
     The encyclopedia was at one stage licensed under the [/license:fdl GNU Free Documentation License]. Some work remains under a range of libre licenses.

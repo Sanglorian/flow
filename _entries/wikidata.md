@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category: Work
+  category: Collection
   short_description: ""
   main_url: "https://www.wikidata.org/wiki/Wikidata%3AMain_Page"
 connections:

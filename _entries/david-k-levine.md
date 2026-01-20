@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Person
+  category: Source
   short_description: "An author."
   main_url: "http://www.dklevine.com/"
 ---

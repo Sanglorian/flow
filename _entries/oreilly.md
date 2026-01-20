@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Source
+  category: Organisation
   short_description: "A publishing company."
   main_url: "http://www.oreilly.com"
 ---

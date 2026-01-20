@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category: Work
+  category: Organisation
   short_description: "The website of the President of the United States."
   main_url: "https://www.whitehouse.gov/copyright/"
 connections:

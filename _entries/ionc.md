@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Source
+  category: Organisation
   short_description: "An institute which studies media, networks and the Internet."
   main_url: "http://networkcultures.org/"
 ---

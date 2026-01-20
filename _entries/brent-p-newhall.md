@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Person
+  category: Source
   short_description: "A NASA web developer and game designer."
   main_url: "http://brentnewhall.com/"
 ---

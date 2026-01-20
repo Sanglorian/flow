@@ -7,7 +7,7 @@ updated_at: 2026-01-20
 contributors:
 - "Sanglorian"
 entry:
-  category: Work
+  category: Collection
   short_description: "A variety of journals published by Wiley."
   main_url: "https://www.wiley.com/en-us/publish/article/open-access/"
 groupings:

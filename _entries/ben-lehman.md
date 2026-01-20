@@ -7,6 +7,6 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Person
+  category: Source
   main_url: "http://www.tao-games.com/"
 ---

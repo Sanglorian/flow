@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Person
+  category: Source
   short_description: "A designer of common content tabletop games."
   main_url: "https://www.lulu.com/search?contributor=Ben+Wright&page=1&pageSize=10&adult_audience_rating=00&sortBy=PRODUCT_SALES_90_DAYS"
 ---

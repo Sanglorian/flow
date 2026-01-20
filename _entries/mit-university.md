@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Source
+  category: Organisation
   short_description: "Massachusetts Institute of Technology."
   main_url: "http://mit.edu/"
 ---

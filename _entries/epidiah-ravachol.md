@@ -7,6 +7,6 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category: Person
+  category: Source
   short_description: "A game designer."
 ---

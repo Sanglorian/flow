@@ -7,7 +7,7 @@ updated_at: 2026-01-09
 contributors:
 - "Sanglorian"
 entry:
-  category: Person
+  category: Source
   short_description: "An indie tabletop RPG designer."
   main_url: "http://mightyatom.blogspot.com.au/"
   main_description: "[Patreon page](https://www.patreon.com/johnharper?ty=c)"

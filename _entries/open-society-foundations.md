@@ -7,7 +7,7 @@ updated_at: 2026-01-11
 contributors:
 - "Sanglorian"
 entry:
-  category: Collection
+  category: Organisation
   main_url: "https://www.opensocietyfoundations.org/"
 groupings:
   - grouping: "Information"
