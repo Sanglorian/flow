@@ -85,6 +85,11 @@ layout: default
       <p class="main-url" style="margin:.5rem 0 0;">
         <strong>        <a href="{{ e.main_url }}" rel="nofollow">{{ e.main_url }}</a></strong>
       </p>
+      {%- if e.vapourware -%}
+        <p class="vapourware-warning" style="margin:.25rem 0 0;">
+          Possible vapourware -- files could not be found
+        </p>
+      {%- endif -%}
     {%- endif -%}
   </header>
 
