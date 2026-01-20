@@ -339,11 +339,13 @@ layout: default
           {%- assign funding_name = funding_item.funding_tool -%}
           {%- assign funding_slug = funding_name | slugify -%}
           <a href="{{ '/funding/' | append: funding_slug | append: '/' | relative_url }}">{{ funding_name }}</a>
+          {%- if funding_item.funding_type -%}
+            <span> ({{ funding_item.funding_type }})</span>
+          {%- endif -%}
+        {%- elsif funding_item.funding_type -%}
+          {{ funding_item.funding_type }}
         {%- else -%}
           —
-        {%- endif -%}
-        {%- if funding_item.funding_type -%}
-          <span> ({{ funding_item.funding_type }})</span>
         {%- endif -%}
         {%- if funding_item.explanation -%}
           {%- assign explanation_text = funding_item.explanation | strip -%}
