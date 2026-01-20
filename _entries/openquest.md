@@ -16,7 +16,6 @@ connections:
   - has_connection_to_entry: "d100 System"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Fantasy"
 licensing:

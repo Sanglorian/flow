@@ -15,7 +15,6 @@ connections:
     details_of_connection: "band"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     licence_coverage: "entirety"

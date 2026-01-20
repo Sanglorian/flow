@@ -12,9 +12,7 @@ entry:
   main_url: "https://web.archive.org/web/20090801200505/http://www.designhistory.org/"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
   - grouping: "Information"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
     coverage: "Not mentioned on current site, but earlier version from 2009 has the license."

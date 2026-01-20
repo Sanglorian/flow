@@ -12,7 +12,6 @@ entry:
   main_url: "https://openaddresses.io/"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "is"
 types:
   - type: "Database"
     distribution: "electronic"

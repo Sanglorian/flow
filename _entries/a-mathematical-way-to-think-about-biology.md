@@ -13,7 +13,6 @@ entry:
     [Backup](http://qbio.lookatphysics.com/)
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

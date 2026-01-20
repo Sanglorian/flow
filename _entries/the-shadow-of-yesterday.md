@@ -25,7 +25,6 @@ connections:
     details_of_connection: "distributor,"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Fantasy"
 languages:

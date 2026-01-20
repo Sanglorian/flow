@@ -16,9 +16,7 @@ languages:
     explanation: "Mostly."
 groupings:
   - grouping: "Literature"
-    is_or_about_grouping: "is"
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

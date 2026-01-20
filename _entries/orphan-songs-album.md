@@ -22,7 +22,6 @@ connections:
     details_of_connection: "band"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 types:
   - type: "Audio"
     distribution: "electronic"

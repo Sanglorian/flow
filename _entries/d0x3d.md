@@ -12,7 +12,6 @@ entry:
   main_url: "https://boardgamegeek.com/boardgame/134274/d0x3d"
 groupings:
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

@@ -12,9 +12,7 @@ entry:
   main_url: "https://www.growstuff.org/"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "is"
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Website"
     distribution: "electronic"

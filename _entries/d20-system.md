@@ -11,7 +11,6 @@ entry:
   short_description: "The game engine behind Dungeons & Dragons third edition."
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Open Game License"
     licence_coverage: "part"

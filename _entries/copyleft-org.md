@@ -17,7 +17,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 types:
   - type: "Website"
     distribution: "electronic"

@@ -11,7 +11,6 @@ entry:
   main_url: "https://obrary.com/products/mini-wood-purse"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"

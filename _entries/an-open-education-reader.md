@@ -19,7 +19,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "about"
+    about: true
 types:
   - type: "Book"
     distribution: "electronic"

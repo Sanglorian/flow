@@ -78,7 +78,6 @@ connections:
     explanation: "same universe, but a different time, perhaps"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Fantasy"
   - "Steampunk"

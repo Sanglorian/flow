@@ -13,13 +13,9 @@ entry:
   main_url: "http://opengameart.org/"
 groupings:
   - grouping: "3D Art"
-    is_or_about_grouping: "is"
   - grouping: "Raster Art"
-    is_or_about_grouping: "is"
   - grouping: "Vector Art"
-    is_or_about_grouping: "is"
   - grouping: "Electronic Game"
-    is_or_about_grouping: "is"
 funding:
   funding_tool: "Patreon"
   funding_type: "sponsored"

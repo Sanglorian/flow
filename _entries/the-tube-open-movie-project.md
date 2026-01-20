@@ -13,7 +13,6 @@ entry:
   main_description: "Formerly called 'The Tube Open Movie Project'."
 groupings:
   - grouping: "Movie"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license-coverage: "Images"

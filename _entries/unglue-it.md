@@ -36,9 +36,7 @@ entry:
 
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
   - grouping: "Literature"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
     licence_coverage: "part"

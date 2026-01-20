@@ -11,5 +11,5 @@ entry:
   short_description: "A tabletop roleplaying game engine."
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "about"
+    about: true
 ---

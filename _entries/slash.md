@@ -20,7 +20,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Card Game"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     licence_coverage: "Print and play version"

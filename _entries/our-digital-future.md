@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20150117021402/https://openmedia.org/DigitalFuture"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - genre: "IP Minimalism"
 languages:

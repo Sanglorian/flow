@@ -12,7 +12,7 @@ entry:
   main_url: "https://greenmemesteam.tumblr.com/guide/"
 groupings:
   - grouping: "Activism"
-    is_or_about_grouping: "about"
+    about: true
 types:
   - type: "Book"
     distribution: "electronic"

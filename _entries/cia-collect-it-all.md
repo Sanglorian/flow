@@ -27,7 +27,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Card Game"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "part"

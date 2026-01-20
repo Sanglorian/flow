@@ -18,7 +18,6 @@ connections:
   - has_connection_to_entry: "Jamendo"
 groupings:
   - grouping: "Album"
-    is_or_about_grouping: "is"
 languages:
   - language: "English"
     relationship_of_language: "original"

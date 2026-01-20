@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20100209111404/http://www.ibiblio.org/oscookbook/"
 groupings:
   - grouping: "Recipes"
-    is_or_about_grouping: "is"
 licensing:
   - license: "GNU Free Documentation License"
 ---

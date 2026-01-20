@@ -15,7 +15,6 @@ languages:
   - language: "English"
 groupings:
   - grouping: "Short Stories"
-    is_or_about_grouping: "is"
 types:
   - type: "Blog"
     distribution: "electronic"

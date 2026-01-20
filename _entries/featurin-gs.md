@@ -11,7 +11,6 @@ entry:
   main_url: "https://web.archive.org/web/20130117051359/http://www.featurin.gs/"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
   - license: "Creative Commons Attribution-NonCommercial"

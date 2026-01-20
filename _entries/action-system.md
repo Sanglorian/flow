@@ -12,7 +12,6 @@ entry:
   main_url: "http://www.darkshire.net/jhkim/rpg/srd/srd_action/index.html"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Open Game License"
 ---

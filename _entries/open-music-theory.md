@@ -12,9 +12,8 @@ entry:
   main_url: "http://elliotthauser.com/openmusictheory/"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"

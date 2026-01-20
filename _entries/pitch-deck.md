@@ -17,7 +17,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     licence_coverage: "part"

@@ -13,7 +13,6 @@ connections:
   - has_connection_to_entry: "Teapot Dome Games"
 groupings:
   - grouping: "LARP"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
 ---

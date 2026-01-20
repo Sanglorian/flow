@@ -12,7 +12,6 @@ entry:
   main_url: "https://horndude77.github.io/horn-solos/"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 types:
   - type: "Score"
 licensing:

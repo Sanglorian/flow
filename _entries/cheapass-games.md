@@ -12,7 +12,6 @@ entry:
   main_url: "https://boardgamegeek.com/thread/2884622/does-anybody-have-the-old-zip-files"
 groupings:
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (Unported)"
     licence_coverage: "part"

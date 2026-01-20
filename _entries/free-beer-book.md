@@ -16,7 +16,6 @@ connections:
     explanation: "The title is a reference to Free Beer, an open beer recipe."
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - "IP Minimalism"
 licensing:

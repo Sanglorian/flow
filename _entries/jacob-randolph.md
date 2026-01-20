@@ -17,7 +17,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "is"
 funding:
   funding_tool: "DriveThruRPG.com"
   funding_type: "sales"

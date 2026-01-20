@@ -13,7 +13,6 @@ entry:
   thumbnail: "/thumbnails/Ted1f.png"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

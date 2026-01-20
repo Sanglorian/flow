@@ -23,7 +23,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Literature"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

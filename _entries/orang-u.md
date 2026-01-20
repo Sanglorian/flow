@@ -17,7 +17,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
 licensing:

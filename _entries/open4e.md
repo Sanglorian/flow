@@ -14,9 +14,7 @@ connections:
   - has_connection_to_entry: "Dungeons & Dragons 4E"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
   - grouping: "Clone"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Open Game License"
 ---

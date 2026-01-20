@@ -15,7 +15,6 @@ connections:
     details_of_connection: "designer"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Fantasy"
 languages:

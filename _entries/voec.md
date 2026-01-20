@@ -22,7 +22,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Electronic Game"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Unlicense"
     licence_coverage: "part"

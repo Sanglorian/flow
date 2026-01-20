@@ -14,9 +14,8 @@ connections:
   - has_connection_to_entry: "Nordic Creative Commons Film Festival"
 groupings:
   - grouping: "Documentary"
-    is_or_about_grouping: "is"
   - grouping: "Software"
-    is_or_about_grouping: "about"
+    about: true
 types:
   - type: "Video"
     distribution: "electronic"

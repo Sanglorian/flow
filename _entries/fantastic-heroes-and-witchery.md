@@ -12,9 +12,7 @@ entry:
   main_url: "https://www.dragonsfoot.org/forums/viewtopic.php?f=48&t=63759"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
   - grouping: "Clone"
-    is_or_about_grouping: "is"
 genres:
   - genre: "Dungeon"
 licensing:

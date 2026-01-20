@@ -281,7 +281,8 @@ layout: default
       {%- assign grouping_name = g.grouping | default: g -%}
       {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
       {%- capture grouping_entry -%}
-        {%- if g.is_or_about_grouping == "About" -%}
+        {%- comment -%}Set about: true on a grouping to render the "About" label.{%- endcomment -%}
+        {%- if g.about == true -%}
           About<span> </span>
         {%- endif -%}
         {%- if grouping_doc -%}

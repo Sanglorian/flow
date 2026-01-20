@@ -15,7 +15,6 @@ connections:
     details_of_connection: "a contributor to, a host of"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
     licence_coverage: "part"

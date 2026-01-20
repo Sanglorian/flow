@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "MIT"
 groupings:
   - grouping: "Electronic Game"
-    is_or_about_grouping: "is"
 licensing:
   - license: "MIT License"
 ---

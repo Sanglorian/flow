@@ -77,7 +77,6 @@ connections:
     details_of_connection: "sequel/prequel"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Fantasy"
   - "Steampunk"

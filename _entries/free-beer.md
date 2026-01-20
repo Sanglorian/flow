@@ -12,7 +12,6 @@ entry:
   main_url: "https://freebeer.org/blog/"
 groupings:
   - grouping: "Recipes"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 2.5"
 ---

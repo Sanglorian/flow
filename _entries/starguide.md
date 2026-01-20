@@ -14,7 +14,6 @@ connections:
     nature_of_connection: "a host of"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "unclear"

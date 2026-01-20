@@ -12,7 +12,6 @@ entry:
   main_url: "https://mathispower4u.com/"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

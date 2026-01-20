@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.youtube.com/watch?v=t22xZh5JQvs"
 groupings:
   - grouping: "Boardgame"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
 ---

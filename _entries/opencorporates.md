@@ -12,7 +12,6 @@ entry:
   main_url: "https://opencorporates.com/"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Open Database License"
     explanation: "https://opencorporates.com/terms-of-use-2/"

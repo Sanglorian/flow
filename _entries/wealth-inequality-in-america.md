@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.youtube.com/watch?v=QPKKQnijnsM"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

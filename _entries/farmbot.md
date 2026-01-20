@@ -13,9 +13,7 @@ entry:
   main_url: "https://farm.bot/"
 groupings:
   - grouping: "Technology"
-    is_or_about_grouping: "is"
   - grouping: "Software"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "Hardware, documentation"

@@ -12,11 +12,8 @@ entry:
   main_url: "https://web.archive.org/web/20120610030014/http://www.esperando.cc/?lang=en"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
   - grouping: "Music Video"
-    is_or_about_grouping: "is"
   - grouping: "Documentary"
-    is_or_about_grouping: "is"
 types:
   - type: "Audio"
   - type: "Video"

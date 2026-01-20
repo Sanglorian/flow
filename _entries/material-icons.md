@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "Google"
 groupings:
   - grouping: "Symbols"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"

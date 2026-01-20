@@ -11,7 +11,6 @@ entry:
   main_url: "https://www.opendemocracy.net/en/about/"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - "News"
 licensing:

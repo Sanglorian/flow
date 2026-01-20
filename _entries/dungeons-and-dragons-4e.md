@@ -11,5 +11,4 @@ entry:
   short_description: "Not free and open itself, but cloned by free and open projects."
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 ---

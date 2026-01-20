@@ -14,7 +14,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Photography"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "part"

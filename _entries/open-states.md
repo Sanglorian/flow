@@ -12,7 +12,6 @@ entry:
   main_url: "http://openstates.org/"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "Former license: https://web.archive.org/web/20170313191547/https://openstates.org/"

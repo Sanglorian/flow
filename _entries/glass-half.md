@@ -31,7 +31,6 @@ genres:
   - "Comedy"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

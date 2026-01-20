@@ -14,7 +14,6 @@ entry:
   main_description: "https://boardgamegeek.com/boardgame/167284/fight"
 groupings:
   - grouping: "Card Game"
-    is_or_about_grouping: "is"
 languages:
   - language: "English"
     relationship_of_language: "original"

@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20161108133133/http://www.openthefuture.com/"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - "Futurism"
 licensing:

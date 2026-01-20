@@ -12,7 +12,6 @@ entry:
   main_url: "https://en.wikipedia.org/wiki/OpenCola_(drink)"
 groupings:
   - grouping: "Recipes"
-    is_or_about_grouping: "is"
 licensing:
   - license: "GNU General Public License"
 ---

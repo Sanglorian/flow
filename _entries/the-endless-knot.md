@@ -18,7 +18,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Podcasting"
-    is_or_about_grouping: "is"
   - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"

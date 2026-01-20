@@ -15,7 +15,6 @@ connections:
   - has_connection_to_entry: "Center for the Study of the Public Domain"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 genres:
   - "IP Minimalism"
 types:

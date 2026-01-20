@@ -21,7 +21,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Podcasting"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"

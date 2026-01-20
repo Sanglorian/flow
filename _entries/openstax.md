@@ -12,7 +12,6 @@ entry:
   main_url: "https://openstax.org/"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
 ---

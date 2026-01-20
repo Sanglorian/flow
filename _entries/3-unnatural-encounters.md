@@ -16,7 +16,6 @@ genres:
   - "Horror"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-Noncommercial"
 ---

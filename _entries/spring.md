@@ -23,9 +23,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
   - grouping: "Concept Art"
-    is_or_about_grouping: "is"
     explanation: "https://www.davidrevoy.com/article712/spring-open-movie-character-design-and-concept-art"
 licensing:
   - license: "Creative Commons Attribution 4.0"

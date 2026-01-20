@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "Creative Commons"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - "IP Minimalism"
 languages:

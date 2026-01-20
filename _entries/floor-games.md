@@ -15,9 +15,7 @@ connections:
   - has_connection_to_entry: "Project Gutenberg"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
   - grouping: "Miniatures Game"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
 ---

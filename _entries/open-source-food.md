@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20130530234908/http://www.opensourcefood.com/"
 groupings:
   - grouping: "Recipes"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     explanation: "Licences are page-by-page, but the three I checked were Creative Commons Attribution-ShareAlike."

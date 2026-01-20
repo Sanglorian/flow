@@ -13,11 +13,8 @@ entry:
   main_description: "Also hosted on Open Game Art. https://opengameart.org/users/kenney"
 groupings:
   - grouping: "3D Art"
-    is_or_about_grouping: "is"
   - grouping: "Art"
-    is_or_about_grouping: "is"
   - grouping: "Pixel Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "unclear"

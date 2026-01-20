@@ -15,9 +15,8 @@ connections:
     details_of_connection: "a host of"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 genres:
   - genre: "IP Minimalism"
 types:

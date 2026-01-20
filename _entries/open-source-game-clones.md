@@ -12,5 +12,4 @@ entry:
   main_url: "https://osgameclones.com/"
 groupings:
   - grouping: "Electronic Game"
-    is_or_about_grouping: "is"
 ---

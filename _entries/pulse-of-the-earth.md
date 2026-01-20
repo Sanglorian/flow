@@ -13,7 +13,6 @@ connections:
   - has_connection_to_entry: "Hungry Lucy"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 types:
   - type: "Audio"
     distribution: "electronic"

@@ -11,7 +11,6 @@ entry:
   short_description: "Defunct."
 groupings:
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"

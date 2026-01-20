@@ -11,7 +11,6 @@ entry:
   main_url: "https://glyphish.com/"
 groupings:
   - grouping: "Symbols"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 3.0 (US)"
     explanation: "In a text file in the download."

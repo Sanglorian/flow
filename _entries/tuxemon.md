@@ -21,9 +21,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Electronic Game"
-    is_or_about_grouping: "is"
   - grouping: "Pixel Art"
-    is_or_about_grouping: "is"
 types:
   - type: "Audio"
     distribution: "electronic"

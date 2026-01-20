@@ -24,7 +24,6 @@ genres:
     explanation: "USA, pre-War of Independence."
 groupings:
   - grouping: "LARP"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

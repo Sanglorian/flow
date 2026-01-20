@@ -12,7 +12,6 @@ entry:
   main_url: "http://www.toxies.com/"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     explanation: "On each file."

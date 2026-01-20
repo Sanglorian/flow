@@ -63,7 +63,7 @@ Entries live in `_entries/*.md` and are Markdown files with YAML front matter be
 `groupings` is an array of mappings; `grouping` is a legacy alias with the same shape.
 
 - `grouping` (string, required): category label (e.g., `"Film"`, `"Music"`).
-- `is_or_about_grouping` (string, optional): relationship to the grouping, usually `"is"` or `"about"` (case varies).
+- `about` (boolean, optional): when `true`, the grouping should render as an “About” relationship; omit or `false` implies it is the entry’s grouping.
 - `explanation` (string, optional): clarifying note.
 
 ## `languages`

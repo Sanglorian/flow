@@ -17,9 +17,8 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Software"
-    is_or_about_grouping: "is"
   - grouping: "Electronic Game"
-    is_or_about_grouping: "about"
+    about: true
 licensing:
   - license: "ISC License"
     licence_coverage: "entirety"

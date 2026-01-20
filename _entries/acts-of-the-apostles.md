@@ -17,7 +17,6 @@ genres:
   - "Science Fiction"
 groupings:
   - grouping: "Novel"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 1.0"
 ---

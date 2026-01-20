@@ -20,7 +20,6 @@ languages:
     relationship_of_language: "official translation"
 groupings:
   - grouping: "MMORPG"
-    is_or_about_grouping: "is"
 types:
   - type: "Code"
     distribution: "electronic"

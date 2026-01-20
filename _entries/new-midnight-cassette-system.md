@@ -12,7 +12,6 @@ entry:
   main_url: "https://archive.org/details/New_Midnight_Cassette_System"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"

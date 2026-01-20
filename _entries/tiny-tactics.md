@@ -20,7 +20,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Boardgame"
-    is_or_about_grouping: "is"
 licensing:
   - license: "GNU General Public License 3.0"
     licence_coverage: "entirety"

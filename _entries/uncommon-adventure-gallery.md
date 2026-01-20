@@ -13,7 +13,6 @@ entry:
   main_url: "http://ucag.jw-sheldon.com/"
 groupings:
   - grouping: "Painting"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
 funding:

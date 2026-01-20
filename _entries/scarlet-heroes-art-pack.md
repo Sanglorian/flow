@@ -19,7 +19,6 @@ genres:
   - "Fantasy"
 groupings:
   - grouping: "Painting, Illustrations"
-    is_or_about_grouping: "is"
 types:
   - type: "Graphic"
     distribution: "electronic"

@@ -11,7 +11,6 @@ entry:
   main_url: "https://openclipart.org/"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"

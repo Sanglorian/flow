@@ -12,7 +12,6 @@ entry:
   main_url: "http://www.foodista.com/"
 groupings:
   - grouping: "Recipes"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 3.0"
 ---

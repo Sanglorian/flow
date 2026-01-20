@@ -15,7 +15,6 @@ connections:
     details_of_connection: "a contributor to, a host of"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"

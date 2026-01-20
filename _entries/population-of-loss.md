@@ -24,7 +24,6 @@ entry:
     The Lights Go Out: As a new Dark Age descends, the Void Knights rise to ensure man's survival" -- unglue.it
 groupings:
   - grouping: "Short Stories"
-    is_or_about_grouping: "is"
 genres:
   - genre: "Science Fiction"
 languages:

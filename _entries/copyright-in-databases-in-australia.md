@@ -16,7 +16,6 @@ genres:
   - "IP Minimalism"
 groupings:
   - grouping: "Journal"
-    is_or_about_grouping: "is"
     explanation: "An article in a journal."
 licensing:
   - license: "Creative Commons Attribution 3.0 (Australia)"

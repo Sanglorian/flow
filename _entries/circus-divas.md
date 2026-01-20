@@ -26,7 +26,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Painting"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     licence_coverage: "part"

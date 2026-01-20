@@ -13,7 +13,6 @@ entry:
   main_url: "http://www.bowieblackstar.net/"
 groupings:
   - grouping: "Symbols"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     licence_coverage: "entirety"

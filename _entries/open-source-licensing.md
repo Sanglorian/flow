@@ -18,7 +18,6 @@ connections:
     details_of_connection: "author"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - "IP Minimalism"
 licensing:

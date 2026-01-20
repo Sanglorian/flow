@@ -21,7 +21,5 @@ licensing:
     explanation: "RPG has license in front piece. Older website applies it to at least some of the audiobooks: https://web.archive.org/web/20190807184342/http://downloads.cavalcadeaudio.com/stardrifter-novels/02-street-candles/?p=home"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
   - grouping: "Audiobook"
-    is_or_about_grouping: "is"
 ---

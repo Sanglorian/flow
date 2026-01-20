@@ -15,7 +15,6 @@ connections:
   - has_connection_to_entry: "Dungeon Squad"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
 ---

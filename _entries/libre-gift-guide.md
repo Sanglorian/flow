@@ -12,7 +12,6 @@ entry:
   main_url: "https://vtluug.org/wiki/Libre_gift_guide"
 groupings:
   - grouping: "Gift Guide"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "Public domain"

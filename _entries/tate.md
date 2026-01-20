@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.tate.org.uk/about-us/policies-and-procedures/creative-commons-licences-tate"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (Unported)"
     licence_coverage: "part"

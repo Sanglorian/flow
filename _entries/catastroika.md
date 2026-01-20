@@ -13,7 +13,6 @@ entry:
   main_url: "https://www.youtube.com/watch?v=xZLOUkvtgEM"
 groupings:
   - grouping: "Documentary"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

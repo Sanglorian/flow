@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "Valent Games"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
 ---

@@ -13,9 +13,7 @@ entry:
   main_description: "Several books have been uploaded under a variety of free and non-free licences."
 groupings:
   - grouping: "Novel"
-    is_or_about_grouping: "is"
   - grouping: "Short Stories"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
     licence_coverage: "The website itself and some works."

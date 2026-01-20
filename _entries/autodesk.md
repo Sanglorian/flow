@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.autodesk.com/company/creative-commons"
 groupings:
   - grouping: "Tech Support"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"

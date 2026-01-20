@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20140517190940/http://littlesecretfilm.com/"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 languages:
   - language: "Spanish"
 types:

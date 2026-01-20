@@ -12,7 +12,6 @@ entry:
   main_url: "https://oer.opendeved.net/wiki/ORBIT"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 4.0, Creative Commons Attribution-ShareAlike 4.0"
 ---

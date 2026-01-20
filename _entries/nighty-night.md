@@ -30,7 +30,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 3.0 (Unported)"
     licence_coverage: "entirety"

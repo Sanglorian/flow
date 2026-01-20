@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20151002082405/http://www.adapt.edu.au/about"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

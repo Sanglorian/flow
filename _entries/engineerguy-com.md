@@ -12,7 +12,6 @@ entry:
   main_url: "https://engineerguy.com/"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 genres:
   - genre: "Engineering"
 types:

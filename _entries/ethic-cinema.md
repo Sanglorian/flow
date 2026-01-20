@@ -12,7 +12,6 @@ entry:
   main_url: "http://ethiccinema.org/"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "'Framboise ou Chocolat ?' and 'Pepper & Carrot - Episode 6' (listed in credits)"

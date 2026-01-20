@@ -14,7 +14,6 @@ entry:
 groupings:
   - grouping: "Tabletop Roleplaying"
   - grouping: "Art"
-    is_or_about_grouping: "is"
 genres:
   - genre: "Science fiction"
 licensing:

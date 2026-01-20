@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20160309142507/http://ramonlucha.com/"
 groupings:
   - grouping: "Painting"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "Art on archived site."

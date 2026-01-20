@@ -25,7 +25,6 @@ connections:
     details_of_connection: "sequel/prequel"
 groupings:
   - grouping: "Literature"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

@@ -12,7 +12,6 @@ entry:
   main_url: "http://entropy.tuxfamily.org/?La-chambre-de-Schrodinger"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

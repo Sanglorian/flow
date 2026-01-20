@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.fordfoundation.org/terms-and-conditions-of-use/"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 genres:
   - "Activism"
 licensing:

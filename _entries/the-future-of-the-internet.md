@@ -18,7 +18,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

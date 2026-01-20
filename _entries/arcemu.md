@@ -15,7 +15,7 @@ connections:
   - has_connection_to_entry: "Arcemu team"
 groupings:
   - grouping: "MMORPG"
-    is_or_about_grouping: "about"
+    about: true
 licensing:
   - license: "GNU Affero General Public License 3.0"
 ---

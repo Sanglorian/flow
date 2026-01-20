@@ -15,7 +15,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "is"
 types:
   - type: "Database"
     distribution: "electronic"

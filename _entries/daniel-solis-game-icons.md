@@ -14,9 +14,8 @@ connections:
     nature_of_connection: "a contributor to"
 groupings:
   - grouping: "Symbols"
-    is_or_about_grouping: "is"
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "about"
+    about: true
 licensing:
   - license: "Creative Commons Attribution"
     licence_coverage: "entirety"

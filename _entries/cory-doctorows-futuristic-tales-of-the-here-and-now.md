@@ -17,7 +17,6 @@ connections:
     details_of_connection: "source"
 groupings:
   - grouping: "Comics"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
 versions:

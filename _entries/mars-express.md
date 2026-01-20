@@ -12,7 +12,6 @@ entry:
   main_url: "https://blogs.esa.int/communication/2014/12/18/esa-mars-express-high-resolution-stereo-camera-hrsc-images-now-available-under-a-creative-commons-licence/"
 groupings:
   - grouping: "Photography"
-    is_or_about_grouping: "is"
 types:
   - type: "Graphic"
     distribution: "electronic"

@@ -12,7 +12,6 @@ entry:
   main_url: "https://lunatics.tv/"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     licence_coverage: "entirety"

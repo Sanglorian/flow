@@ -20,9 +20,7 @@ connections:
     explanation: "Wrote an introduction."
 groupings:
   - grouping: "Comics"
-    is_or_about_grouping: "is"
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - "IP Minimalism"
 languages:

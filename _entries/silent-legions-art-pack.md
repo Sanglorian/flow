@@ -20,9 +20,7 @@ genres:
   - "Horror"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
   - grouping: "Painting"
-    is_or_about_grouping: "is"
 types:
   - type: "Graphic"
     distribution: "electronic"

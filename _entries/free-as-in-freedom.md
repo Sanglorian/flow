@@ -18,7 +18,6 @@ connections:
   - has_connection_to_entry: "Free Software Foundation"
 groupings:
   - grouping: "Biography"
-    is_or_about_grouping: "is"
 genres:
   - "IP Minimalism"
 licensing:

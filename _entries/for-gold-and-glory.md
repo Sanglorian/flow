@@ -16,9 +16,7 @@ connections:
   - has_connection_to_entry: "Advanced Dungeons & Dragons"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
   - grouping: "Clone"
-    is_or_about_grouping: "is"
 genres:
   - "Dungeon"
 licensing:

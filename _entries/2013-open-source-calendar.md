@@ -14,7 +14,6 @@ entry:
     Donate $25 to get a PDF of the calendar; $60 to get a hardcopy.
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

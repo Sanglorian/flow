@@ -33,7 +33,6 @@ languages:
     explanation: "https://boardgamegeek.com/filepage/76468/polish-translation"
 groupings:
   - grouping: "Miniatures Game"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial 3.0 (Unported)"
     licence_coverage: "entirety"

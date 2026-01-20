@@ -14,7 +14,6 @@ entry:
   main_url: "https://web.archive.org/web/20111011095851/http://www.etnassoft.com/biblioteca/"
 groupings:
   - grouping: "Information"
-    is_or_about_grouping: "is"
 genres:
   - "Spanish"
 languages:

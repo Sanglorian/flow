@@ -12,7 +12,6 @@ entry:
   main_url: "http://en.wikipedia.org/wiki/A_Story_of_Healing"
 groupings:
   - grouping: "Documentary"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

@@ -15,7 +15,6 @@ connections:
     details_of_connection: "a host of"
 groupings:
   - grouping: "Pixel Art"
-    is_or_about_grouping: "is"
 types:
   - type: "Graphic"
     distribution: "electronic"

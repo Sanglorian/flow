@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "Nordic Creative Commons Film Festival"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

@@ -11,7 +11,6 @@ entry:
   short_description: "Purchase ready-made furniture or download the source files and make your own."
 groupings:
   - grouping: "Technology"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
     licence_coverage: "part"

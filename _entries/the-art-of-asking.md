@@ -26,7 +26,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Biography"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "hardcopy"

@@ -12,7 +12,6 @@ entry:
   main_url: "https://openphoto.net/about/"
 groupings:
   - grouping: "Software"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Apache 2.0"
 ---

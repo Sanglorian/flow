@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20180121135109/http://codeschool.org/"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

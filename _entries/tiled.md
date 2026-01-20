@@ -15,7 +15,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Software"
-    is_or_about_grouping: "is"
 types:
   - type: "Code"
     distribution: "electronic"

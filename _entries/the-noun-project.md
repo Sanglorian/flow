@@ -12,9 +12,7 @@ entry:
   main_url: "https://thenounproject.com/"
 groupings:
   - grouping: "Vector Images"
-    is_or_about_grouping: "is"
   - grouping: "Photography"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 3.0 (US)"
     licence_coverage: "All symbols (unless already public domain)."

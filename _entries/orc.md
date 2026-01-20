@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20130117004902/http://www.fatesworsethandeath.com/ORC/index.htm"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
 ---

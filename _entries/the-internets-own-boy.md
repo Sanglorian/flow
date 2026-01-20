@@ -12,7 +12,6 @@ entry:
   main_url: "https://boingboing.net/2014/06/19/aaron-swartz-documentary-the.html"
 groupings:
   - grouping: "Documentary"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

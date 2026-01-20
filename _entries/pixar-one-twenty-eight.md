@@ -16,7 +16,6 @@ connections:
     details_of_connection: "a contributor to"
 groupings:
   - grouping: "Raster Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "entirety"

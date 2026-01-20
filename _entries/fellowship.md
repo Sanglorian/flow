@@ -20,7 +20,6 @@ connections:
     explanation: "The game is Powered by the Apocalypse."
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "text only"

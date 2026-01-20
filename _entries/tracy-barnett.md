@@ -13,7 +13,6 @@ entry:
   main_description: "Creative Commons-licensed versions of some games still available, such as [Iron Edda](https://www.scribd.com/document/349547764/Iron-Edda-pdf), [You Are the Dungeon](https://theothertracy.itch.io/you-are-the-dungeon) and [You are the Wilds](https://www.patreon.com/posts/you-are-wilds-138278686)"
 groupings:
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     explanation: "Still present on some works but not present on others, even those that previously carried it."

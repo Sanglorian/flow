@@ -64,7 +64,6 @@ languages:
     relationship_of_language: "official translation"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Website"
     distribution: "electronic"

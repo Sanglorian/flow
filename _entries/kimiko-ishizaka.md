@@ -13,5 +13,4 @@ genres:
   - "Classical"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 ---

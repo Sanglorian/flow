@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.geonet.org.nz/"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 3.0 (New Zealand)"
     licence_coverage: "entirety"

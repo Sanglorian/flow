@@ -14,7 +14,6 @@ entry:
   main_url: "https://web.archive.org/web/20150225202305/http://web.mit.edu/lilybui/www/"
 groupings:
   - grouping: "Music, Sound Effects"
-    is_or_about_grouping: "is"
 types:
   - type: "Audio"
     distribution: "electronic"

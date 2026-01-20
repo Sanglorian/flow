@@ -14,9 +14,8 @@ connections:
   - has_connection_to_entry: "d20 System"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Software"
-    is_or_about_grouping: "is"
 licensing:
   - license: "GNU Lesser General Public License"
 ---

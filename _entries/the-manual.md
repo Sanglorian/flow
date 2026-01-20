@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20150315074609/https://themanual.org/read"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 genres:
   - genre: "Design"
 licensing:

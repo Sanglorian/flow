@@ -17,7 +17,6 @@ connections:
     details_of_connection: "a host of"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"

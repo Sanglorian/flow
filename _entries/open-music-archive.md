@@ -15,7 +15,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
     licence_coverage: "Public domain or CC BY-SA unless otherwise mentioned."

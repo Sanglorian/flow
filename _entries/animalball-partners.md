@@ -17,7 +17,6 @@ entry:
     - [Animalball Melee](http://fossilbank.wikidot.com/local--files/entry:animalball-partners/AnimalballMelee.pdf)
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Open Game License"
 ---

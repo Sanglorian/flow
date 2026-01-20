@@ -86,7 +86,6 @@ entry:
     * The Assassination Game Le (FDL)
 groupings:
   - grouping: "Tabletop Game System"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
 ---

@@ -20,9 +20,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
   - grouping: "Software"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 2.5 (Unported)"
     licence_coverage: "entirety"

@@ -13,7 +13,6 @@ entry:
   main_url: "http://docs.google.com/View?docID=dcm4sxp6_2868pr5rdd&revision=_latest"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
 ---

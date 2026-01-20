@@ -12,7 +12,6 @@ entry:
   main_url: "https://web.archive.org/web/20170310050826/http://www.streetfilms.org/about/"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
 ---

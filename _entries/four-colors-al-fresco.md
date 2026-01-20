@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "The Impossible Dream"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Superhero"
 licensing:

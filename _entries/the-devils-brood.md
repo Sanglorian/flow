@@ -25,7 +25,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "LARP"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
     explanation: "For the avoidance of doubt, the author grants a waiver from the non-commercial use clause for charging reasonable fees to cover expenses of running the game (e.g. venue-hire, snacks, props etc), and for running it at conventions (whether for-profit or otherwise)."

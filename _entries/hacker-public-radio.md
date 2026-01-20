@@ -12,7 +12,6 @@ entry:
   main_url: "http://hackerpublicradio.org/"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Audio"
     distribution: "electronic"

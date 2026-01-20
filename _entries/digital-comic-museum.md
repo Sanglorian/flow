@@ -12,7 +12,6 @@ entry:
   main_url: "http://digitalcomicmuseum.com/index.php?cid=265"
 groupings:
   - grouping: "Comics"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
 ---

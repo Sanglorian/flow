@@ -12,7 +12,6 @@ entry:
   main_url: "http://www.logodust.com/"
 groupings:
   - grouping: "Symbols"
-    is_or_about_grouping: "is"
 types:
   - type: "Graphic"
     distribution: "electronic"

@@ -28,9 +28,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Picturebook"
-    is_or_about_grouping: "is"
   - grouping: "Pictures"
-    is_or_about_grouping: "is"
     explanation: "The pictures without text are also available."
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"

@@ -21,7 +21,6 @@ languages:
     relationship_of_language: "official translation"
 groupings:
   - grouping: "Tabletop Gaming"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

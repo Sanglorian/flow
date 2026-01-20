@@ -14,7 +14,6 @@ languages:
   - language: "English"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 types:
   - type: "Webpage"
     distribution: "electronic"

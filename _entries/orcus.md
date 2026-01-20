@@ -15,7 +15,6 @@ connections:
   - has_connection_to_entry: "Chris Sakkas"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Dungeon"
 licensing:

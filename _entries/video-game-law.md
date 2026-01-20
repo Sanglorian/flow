@@ -15,7 +15,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Education"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     explanation: "https://copyright.ubc.ca/"

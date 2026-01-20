@@ -11,7 +11,6 @@ entry:
   main_url: "http://welltemperedclavier.org/"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 genres:
   - "Classical"
 licensing:

@@ -17,7 +17,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Boardgame"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 3.0 (Unported)"
     licence_coverage: "entirety"

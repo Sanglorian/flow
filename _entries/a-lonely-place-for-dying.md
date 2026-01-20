@@ -19,7 +19,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Film"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
     licence_coverage: "part"

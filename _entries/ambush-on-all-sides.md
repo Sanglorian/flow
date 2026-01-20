@@ -16,7 +16,6 @@ connections:
     details_of_connection: "host"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     licence_coverage: "entirety"

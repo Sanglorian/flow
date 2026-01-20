@@ -11,5 +11,4 @@ entry:
   short_description: "An all rights reserved game, but that has been cloned by free and open games."
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 ---

@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.opensourceecology.org/"
 groupings:
   - grouping: "Technology"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

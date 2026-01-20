@@ -12,11 +12,10 @@ entry:
   main_url: "https://pixls.us/"
 groupings:
   - grouping: "Photography"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Software"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     licence_coverage: "entirety"

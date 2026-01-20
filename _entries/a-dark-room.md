@@ -61,7 +61,6 @@ languages:
     relationship_of_language: "translation"
 groupings:
   - grouping: "Electronic Game"
-    is_or_about_grouping: "is"
 types:
   - type: "Code"
     distribution: "electronic"

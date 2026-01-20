@@ -29,7 +29,6 @@ connections:
     details_of_connection: "based on"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 genres:
   - "Superheroes"
 languages:

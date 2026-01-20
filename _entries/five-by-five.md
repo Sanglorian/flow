@@ -15,7 +15,6 @@ connections:
   - has_connection_to_entry: "Jeff Moore"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "The first edition has all rights reserved."

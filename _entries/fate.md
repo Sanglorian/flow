@@ -14,5 +14,4 @@ connections:
     details_of_connection: "a contributor to"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 ---

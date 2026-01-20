@@ -23,5 +23,4 @@ licensing:
     explanation: "And all other Creative Commons licenses."
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
 ---

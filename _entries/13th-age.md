@@ -15,7 +15,6 @@ connections:
   - has_connection_to_entry: "Pelgrane Press"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Open Game License"
 ---

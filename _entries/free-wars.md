@@ -15,7 +15,6 @@ connections:
     details_of_connection: "a contributor to"
 groupings:
   - grouping: "Miniatures Game"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Open Game License"
     licence_coverage: "text only"

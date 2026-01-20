@@ -12,7 +12,6 @@ entry:
   main_url: "https://6d6rpg.com/"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

@@ -13,7 +13,6 @@ entry:
   main_description: "Over 1,000 FLO licensed."
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

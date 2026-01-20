@@ -18,7 +18,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "part"

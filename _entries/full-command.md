@@ -15,7 +15,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Miniatures Game"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

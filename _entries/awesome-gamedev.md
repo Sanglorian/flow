@@ -12,11 +12,11 @@ entry:
   main_url: "https://notabug.org/koz.ross/awesome-gamedev"
 groupings:
   - grouping: "Electronic Game"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Art"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Music"
-    is_or_about_grouping: "about"
+    about: true
   - grouping: "Sound Effects"
-    is_or_about_grouping: "about"
+    about: true
 ---

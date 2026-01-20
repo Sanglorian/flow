@@ -25,7 +25,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

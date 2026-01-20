@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "Internet Archive"
 groupings:
   - grouping: "News"
-    is_or_about_grouping: "is"
 types:
   - type: "Video"
     distribution: "electronic"

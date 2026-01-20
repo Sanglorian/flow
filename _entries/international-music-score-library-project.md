@@ -11,7 +11,6 @@ entry:
   main_url: "http://imslp.org/"
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 types:
   - type: "Score"
 licensing:

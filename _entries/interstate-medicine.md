@@ -15,7 +15,6 @@ connections:
     explanation: "Was then called 'Slim'."
 groupings:
   - grouping: "Music"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

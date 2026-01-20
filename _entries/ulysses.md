@@ -21,7 +21,6 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Novel"
-    is_or_about_grouping: "is"
 types:
   - type: "Audio"
     distribution: "electronic"

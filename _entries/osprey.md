@@ -12,7 +12,6 @@ entry:
   main_url: "https://www.ludism.org/rpg/osprey.pdf"
 groupings:
   - grouping: "Tabletop Roleplaying"
-    is_or_about_grouping: "is"
 licensing:
   - license: "GNU General Public License"
 ---

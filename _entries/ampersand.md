@@ -12,7 +12,6 @@ entry:
   main_url: "http://leftycartoons.com/"
 groupings:
   - grouping: "Comics"
-    is_or_about_grouping: "is"
 genres:
   - "Politics"
 licensing:

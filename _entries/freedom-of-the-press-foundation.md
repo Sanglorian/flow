@@ -12,7 +12,7 @@ entry:
   main_url: "https://freedom.press/"
 groupings:
   - grouping: "News"
-    is_or_about_grouping: "about"
+    about: true
 types:
   - type: "Website"
     distribution: "electronic"

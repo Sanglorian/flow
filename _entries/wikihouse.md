@@ -15,7 +15,6 @@ entry:
   main_url: "http://www.wikihouse.cc/"
 groupings:
   - grouping: "Technology"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     explanation: "https://www.wikihouse.cc/assembly/before-you-start"

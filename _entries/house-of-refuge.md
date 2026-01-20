@@ -14,7 +14,6 @@ connections:
     details_of_connection: "host of"
 groupings:
   - grouping: "Short Stories"
-    is_or_about_grouping: "is"
 types:
   - type: "Book"
     distribution: "electronic"

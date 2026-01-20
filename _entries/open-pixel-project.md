@@ -12,7 +12,6 @@ entry:
   main_url: "http://www.openpixelproject.com/"
 groupings:
   - grouping: "Pixel Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "CC0 1.0 Universal"
     licence_coverage: "entirety"

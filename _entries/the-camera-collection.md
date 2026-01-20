@@ -14,7 +14,6 @@ connections:
   - has_connection_to_entry: "Bill Brown"
 groupings:
   - grouping: "Pixel Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"
 ---

@@ -13,7 +13,6 @@ genres:
   - "Financial Advice"
 groupings:
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
 licensing:
   - license: "GNU Free Documentation License 1.3"
     licence_coverage: "previous"

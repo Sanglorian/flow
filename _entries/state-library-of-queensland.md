@@ -11,11 +11,8 @@ entry:
   main_url: "https://www.slq.qld.gov.au/"
 groupings:
   - grouping: "Data"
-    is_or_about_grouping: "is"
   - grouping: "Nonfiction"
-    is_or_about_grouping: "is"
   - grouping: "Photographs"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     licence_coverage: "text only"

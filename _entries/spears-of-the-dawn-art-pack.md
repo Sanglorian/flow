@@ -22,7 +22,6 @@ genres:
   - "Fantasy"
 groupings:
   - grouping: "Art"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Public domain"
 ---

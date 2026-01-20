@@ -15,7 +15,6 @@ connections:
   - has_connection_to_entry: "Greg Stolze"
 groupings:
   - grouping: "Short Stories"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

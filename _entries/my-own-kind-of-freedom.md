@@ -15,7 +15,6 @@ connections:
     details_of_connection: "a contributor to, author"
 groupings:
   - grouping: "Novel"
-    is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (US)"
     licence_coverage: "entirety"
