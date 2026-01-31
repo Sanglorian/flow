@@ -2,6 +2,7 @@
 layout: default
 title: Orphaned groupings
 permalink: /orphaned-groupings/
+nav_exclude: true
 ---
 
 <article class="post">

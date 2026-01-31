@@ -2,6 +2,7 @@
 layout: default
 title: Orphaned facets
 permalink: /orphaned-facets/
+nav_exclude: true
 ---
 
 <article class="post">

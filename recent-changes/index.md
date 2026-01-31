@@ -2,6 +2,7 @@
 layout: default
 title: Recent changes
 permalink: /recent-changes/
+nav_exclude: true
 ---
 
 <article class="post">

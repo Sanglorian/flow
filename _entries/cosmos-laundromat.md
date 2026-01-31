@@ -12,7 +12,7 @@ entry:
   alias: "The Gooseberry Open Movie Project"
   main_url: "http://gooseberry.blender.org/"
   main_description: |-
-    On a desolate island, suicidal sheep Franck meets his fate in a quirky salesman, who offers him the gift of a lifetime. Little does he know that he can only handle so much lifetime...
+    'On a desolate island, suicidal sheep Franck meets his fate in a quirky salesman, who offers him the gift of a lifetime. Little does he know that he can only handle so much lifetime...
 
     "Cosmos Laundromat" started in 2014 as an experimental feature film, in which an adventurous and absurdist love story is being told by multiple teams - each working in their own unique style. The opening of the film, the 10 minutes pilot "First Cycle", has been made in the Netherlands by the studio of Blender Institute in Amsterdam.
 
@@ -20,7 +20,7 @@ entry:
 
     Want to see more? Subscribe to the Blender Cloud, our Open Production platform. https://cloud.blender.org/join
 
-    Or consider to donate, using PayPal to institute@blender.org
+    Or consider to donate, using PayPal to institute@blender.org'
 connections:
   - has_connection_to_entry: "Blender Foundation"
   - has_connection_to_entry: "David Revoy"

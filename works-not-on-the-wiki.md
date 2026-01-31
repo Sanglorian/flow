@@ -6,6 +6,7 @@ created_at: 2015-08-12T12:38:39Z
 updated_at: 2015-08-12T12:38:39Z
 contributors:
   - Sanglorian
+nav_exclude: true
 ---
 This page is for listing works that are eligible to be added to the wiki, but haven't been yet. 
 * Wreck Age, CC BY-NC-SA
