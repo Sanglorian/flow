@@ -12,11 +12,13 @@ entry:
   main_url: "https://norte.olimaia.net/#/"
   main_description: |-
     Source repository is available at https://codeberg.org/oli/norte.
+
+    Review: https://john.colagioia.net/blog/2026/01/20/norte.html
 languages:
   - language: "Portuguese"
     relationship_of_language: "original"
 groupings:
   - grouping: "Novel"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike 4.0 International"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
 ---
