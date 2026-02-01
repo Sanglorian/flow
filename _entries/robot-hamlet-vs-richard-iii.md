@@ -3,7 +3,7 @@ layout: entry
 title: "Robot Hamlet vs Richard III"
 permalink: /robot-hamlet-vs-richard-iii/
 created_at: 2015-05-29
-updated_at: 2015-09-23
+updated_at: 2026-02-01
 contributors:
 - "Sanglorian"
 entry:
@@ -21,5 +21,9 @@ versions:
   - version_title: "Locally hosted"
     version_format: "ZIP"
     version_price: 0
-    version_file: "RvR.zip"
+    version_file: "/assets/files/RvR.pdf"
+  - version_title: "Locally hosted, revised version"
+    version_format: "ZIP"
+    version_price: 0
+    version_file: "/assets/files/RvRv2-0-1.pdf"
 ---
