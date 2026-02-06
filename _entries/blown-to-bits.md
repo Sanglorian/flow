@@ -22,7 +22,7 @@ licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
     license_coverage: "entirety"
 funding:
-  funding_tool: "Amazon.com"
+  funding_tool: "Amazon"
   funding_type: "sales"
   explanation: "http://www.amazon.com/Blown-Bits-Liberty-Happiness-Explosion/dp/0137135599/"
 ---

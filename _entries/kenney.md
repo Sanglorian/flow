@@ -22,7 +22,7 @@ licensing:
     license_coverage: "unclear"
     explanation: "Each asset has a license listed; for the ones I checked, it was this one."
 funding:
-  - funding_tool: "itch.io"
+  - funding_tool: "Itch.io"
     funding_type: "sales"
     explanation: "https://kenney.itch.io/kenney-game-assets"
   - funding_tool: "Patreon"

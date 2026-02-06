@@ -14,7 +14,7 @@ licensing:
 funding:
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/1549920133/legacy-life-among-the-ruins-world-rebuilding-rolep"
-  - funding_tool: "DriveThruRPG"
+  - funding_tool: "DriveThru"
     funding_type: "sales"
     explanation: "https://www.drivethrurpg.com/en/publisher/6097/ufo-press/category/29868/legacy-life-among-the-ruins"
 ---

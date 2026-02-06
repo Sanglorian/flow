@@ -22,6 +22,6 @@ licensing:
     license_coverage: "entirety"
 funding:
   -
-    funding_tool: "itch.io"
+    funding_tool: "Itch.io"
     funding_type: "sales"
 ---

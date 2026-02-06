@@ -20,7 +20,7 @@ funding:
   - funding_tool: "Patreon"
     funding_type: "ransom"
     explanation: "https://www.patreon.com/TheOtherTracy"
-  - funding_tool: "itch.io"
+  - funding_tool: "Itch.io"
     funding_type: "sales"
     explanation: "Generous number of free copies also available: https://theothertracy.itch.io/"
 ---

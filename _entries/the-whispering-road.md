@@ -35,7 +35,7 @@ licensing:
     license_coverage: "entirety"
     explanation: "\"The Whispering Road is released under a Creative Commons Attribution-ShareAlike license (CC BY-SA 3.0).\" (on the DriveThruRPG page)"
 funding:
-  - funding_tool: "DriveThruRPG"
+  - funding_tool: "DriveThru"
   - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/brentnewhall/the-whispering-road-a-miyazaki-inspired-tabletop-r"
 types:

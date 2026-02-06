@@ -31,6 +31,6 @@ funding:
     funding_tool: "Kickstarter"
     funding_type: "sales"
   -
-    funding_tool: "DriveThruRPG"
+    funding_tool: "DriveThru"
     funding_type: "sales"
 ---

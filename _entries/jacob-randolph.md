@@ -18,7 +18,7 @@ languages:
 groupings:
   - grouping: "Tabletop Gaming"
 funding:
-  funding_tool: "DriveThruRPG.com"
+  funding_tool: "DriveThru"
   funding_type: "sales"
   explanation: "https://www.drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games"
 ---

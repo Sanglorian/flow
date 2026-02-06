@@ -28,7 +28,7 @@ licensing:
 
 All artwork belongs to their original artists and is used with permission."
 funding:
-  - funding_tool: "DriveThruRPG.com"
+  - funding_tool: "DriveThru"
     funding_type: "sales"
     explanation: "https://www.drivethrurpg.com/product/264853/Final-Bid"
   - funding_tool: "Itch.io"
