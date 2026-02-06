@@ -15,7 +15,7 @@ genres:
 languages:
   - language: "English"
     relationship_of_language: "original"
-  - language: "Chinese (Simplified)"
+  - language: "Simplified Chinese"
     relationship_of_language: "translation"
   - language: "Chinese (Traditional)"
     relationship_of_language: "translation"
@@ -39,7 +39,7 @@ languages:
     relationship_of_language: "translation"
   - language: "Portuguese"
     relationship_of_language: "translation"
-  - language: "Portuguese (Brazil)"
+  - language: "Brazilian Portuguese"
     relationship_of_language: "translation"
   - language: "Russian"
     relationship_of_language: "translation"

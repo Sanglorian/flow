@@ -24,7 +24,7 @@ languages:
   - language: "Czech"
   - language: "German"
   - language: "Italian"
-  - language: "Argentinian Spanish"
+  - language: "Argentine Spanish"
   - language: "Greek"
   - language: "Spanish"
   - language: "Russian"

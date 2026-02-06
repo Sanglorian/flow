@@ -31,7 +31,7 @@ languages:
   - language: "Marathi"
   - language: "Urdu"
   - language: "Kannada"
-  - language: "Bahasa Indonesia"
+  - language: "Indonesian"
   - language: "French"
   - language: "Bodo"
   - language: "Acholi"
