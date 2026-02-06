@@ -1,5 +1,6 @@
 name: "New entry submission"
 description: "Submit a new entry for inclusion in the catalog."
+title: "New entry"
 labels:
   - "new-entry"
 body:
