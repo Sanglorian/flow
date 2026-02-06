@@ -3,7 +3,7 @@ title: Free, Libre and Open Works
 email: sanglorian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This wiki celebrates culture and knowledge that you can copy and share without breaking the law, with a particular focus on free, libre and open works that can be shared and adapted by any person for any purpose, commercial or otherwise.
-baseurl: "/flow" 
+baseurl: "/flow"
 url: "https://sanglorian.github.io"
 github_username:  sanglorian
 repo_url: "https://github.com/sanglorian/flow"
@@ -12,6 +12,7 @@ repo_url: "https://github.com/sanglorian/flow"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 feed:
   collections:
@@ -27,7 +28,8 @@ feed:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - Free+and+Open+Works!-20200811084450.xml
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
@@ -56,7 +58,7 @@ collections:
     permalink: /license/:name/
   funding-tools:
     output: true
-    permalink: /funding/:name/ 
+    permalink: /funding/:name/
   free_culture:
     output: true
     permalink: /free-culture/:name/
