@@ -12,6 +12,6 @@ entry:
   main_url: "https://wiki.ubuntu.com/UbuntuFreeCultureShowcase"
 groupings:
   - grouping: "Art"
-  - grouping: "Video"
+  - grouping: "Film"
   - grouping: "Music"
 ---

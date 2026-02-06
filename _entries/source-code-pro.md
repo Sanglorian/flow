@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Adobe"
 groupings:
-  - grouping: "Font (Monospaced)"
+  - grouping: "Font"
 licensing:
   - license: "SIL Open Font License"
 ---

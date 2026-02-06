@@ -14,7 +14,7 @@ entry:
 connections:
   - has_connection_to_entry: "Blender Foundation"
 groupings:
-  - grouping: "Movie"
+  - grouping: "Film"
   - grouping: "Concept Art"
 genres:
   - genre: "Science Fiction"

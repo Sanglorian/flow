@@ -15,7 +15,7 @@ entry:
     
     The animation was created with a purpose to demonstrate what young generation can do with open-source tools utilizing the technologies developed by Morevna Project. In 2011 the animation was translated into English and released to the public together with its sources under Creative Commons BY-SA license."
 groupings:
-  - grouping: "TV Series"
+  - grouping: "Film"
 genres:
   - genre: "For Children"
 languages:

@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "John Gay"
 groupings:
-  - grouping: "Literature (Play)"
+  - grouping: "Literature"
 licensing:
   - license: "Public domain"
 ---

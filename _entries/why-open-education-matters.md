@@ -15,7 +15,7 @@ connections:
   - has_connection_to_entry: "Open Society Foundations"
   - has_connection_to_entry: "US Department of Education"
 groupings:
-  - grouping: "Video"
+  - grouping: "Film"
   - grouping: "Information"
 genres:
   - "IP Minimalism"

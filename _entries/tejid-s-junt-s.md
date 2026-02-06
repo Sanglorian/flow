@@ -12,7 +12,7 @@ entry:
   main_url: "https://commons.wikimedia.org/wiki/File:TejidXs_JuntXs.ogv"
   main_description: "[Older site](https://web.archive.org/web/20140818093532/http://vodo.net/tejidxs)"
 groupings:
-  - grouping: "Video (Documentary)"
+  - grouping: "Documentary"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 funding:

@@ -11,7 +11,7 @@ entry:
   short_description: "Rathole Radio is a fortnightly Internet radio show featuring the best in new music from around the web, with occasional interviews and exclusive live performances to boot."
   main_url: "https://ratholeradio.org/"
 groupings:
-  - grouping: "Music (Radio)"
+  - grouping: "Music"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     explanation: "The actual songs played are potentially under other licenses or no license."

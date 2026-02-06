@@ -12,7 +12,7 @@ entry:
   main_url: "http://recedingrules.blogspot.com/"
   main_description: "[Public Domain Art](http://recedingrules.blogspot.com/p/public-domain-images.html)"
 groupings:
-  - grouping: "Art (Silhouettes)"
+  - grouping: "Art"
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Public domain"

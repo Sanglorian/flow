@@ -12,7 +12,7 @@ entry:
   main_url: "http://www.trueelena.org/fantastic/feelies/3d_printed_piecepack.html"
 groupings:
   - grouping: "Tabletop Game System"
-  - grouping: "Design"
+  - grouping: "Hardware"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     license_coverage: "entirety"

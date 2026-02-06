@@ -11,7 +11,7 @@ entry:
   short_description: "A mash-up of the locations of open access repositories."
   main_url: "https://web.archive.org/web/20180311030136/http://maps.repository66.org/"
 groupings:
-  - grouping: "Information (Map)"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

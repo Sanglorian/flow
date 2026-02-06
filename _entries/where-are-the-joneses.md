@@ -11,7 +11,7 @@ entry:
   short_description: "A British comedy about a woman seeking her long-lost siblings."
   main_url: "https://archive.org/details/where-are-the-joneses"
 groupings:
-  - grouping: "Video (Series)"
+  - grouping: "Film"
 genres:
   - "Humour"
 licensing:

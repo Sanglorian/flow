@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Doug Whitfield"
 groupings:
-  - grouping: "Audio"
+  - grouping: "Podcasting"
   - grouping: "Information"
 genres:
   - "Sports"

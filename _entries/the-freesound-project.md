@@ -11,7 +11,7 @@ entry:
   short_description: "A database of sounds (not songs)."
   main_url: "https://freesound.org/"
 groupings:
-  - grouping: "Music (Sound Effects)"
+  - grouping: "Sound Effects"
 licensing:
   - license: "Creative Commons Attribution"
   - license: "CC0 1.0 Universal"

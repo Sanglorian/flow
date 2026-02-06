@@ -12,7 +12,7 @@ entry:
   main_url: "https://wiresforempathy.org/"
   main_description: "Formerly called 'The Tube Open Movie Project'."
 groupings:
-  - grouping: "Movie"
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license-coverage: "Images"

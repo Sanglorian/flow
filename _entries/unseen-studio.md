@@ -13,7 +13,7 @@ entry:
   short_description: "A podcast network."
   main_url: "https://otherside.network/shows/"
 groupings:
-  - grouping: "Music (Podcasts)"
+  - grouping: "Podcasting"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     coverage: "At least CChits, Crivins and Tuxjam."

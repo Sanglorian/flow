@@ -15,8 +15,7 @@ connections:
   - has_connection_to_entry: "Fate Accelerated Edition"
   - has_connection_to_entry: "Fate Core System"
 groupings:
-  - grouping: "Tabletop Game (RPG)"
-  - grouping: "RPG Supplement"
+  - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "Art and layout all rights reserved."

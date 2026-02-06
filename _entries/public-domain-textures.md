@@ -11,7 +11,7 @@ entry:
   short_description: "What it says."
   main_url: "http://pdtextures.blogspot.com/"
 groupings:
-  - grouping: "Art (Textures)"
+  - grouping: "Raster Art"
 licensing:
   - license: "Public domain"
 ---

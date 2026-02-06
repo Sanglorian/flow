@@ -14,9 +14,10 @@ connections:
   - has_connection_to_entry: "1KM1KT"
 groupings:
   - grouping: "Tabletop Roleplaying"
-  - grouping: "Solitaire Game"
+  - grouping: "Tabletop Gaming"
 genres:
   - "Fantasy"
+  - "Solitaire"
 licensing:
   - license: "Creative Commons Attribution"
 ---

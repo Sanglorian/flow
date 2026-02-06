@@ -14,8 +14,8 @@ entry:
 connections:
   - has_connection_to_entry: "James Hutchings"
 groupings:
-  - grouping: "Literature (Short Stories)"
-  - grouping: "Poems"
+  - grouping: "Short Stories"
+  - grouping: "Poetry"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
 ---

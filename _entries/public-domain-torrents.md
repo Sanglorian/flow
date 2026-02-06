@@ -11,7 +11,7 @@ entry:
   short_description: "Torrents for public domain movies."
   main_url: "http://www.publicdomaintorrents.info/"
 groupings:
-  - grouping: "Video (Movies)"
+  - grouping: "Film"
 licensing:
   - license: "Public domain"
 ---

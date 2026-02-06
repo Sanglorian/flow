@@ -14,7 +14,7 @@ entry:
   main_url: "https://www.youtube.com/c/Thehillproductions/videos"
   main_description: "Internet Archive backup: https://web.archive.org/web/20171126202031/http://www.thehillproductions.com/"
 groupings:
-  - grouping: "Video (Film)"
+  - grouping: "Film"
 licensing:
   - license: "Creative Commons Attribution"
 ---

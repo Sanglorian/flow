@@ -11,8 +11,9 @@ entry:
   short_description: "\"[A] new FREE guide designed to help environmental and social change activists kick butt and break through on social media.\""
   main_url: "https://greenmemesteam.tumblr.com/guide/"
 groupings:
-  - grouping: "Activism"
-    about: true
+  - grouping: "Information"
+genres:
+  - "Activism"
 types:
   - type: "Book"
     distribution: "electronic"

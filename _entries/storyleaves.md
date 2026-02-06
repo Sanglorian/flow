@@ -13,9 +13,11 @@ entry:
   site_archived: 1
 connections:
   - has_connection_to_entry: "Jamie Fristrom"
+genres:
+  - "Solitaire"
 groupings:
   - grouping: "Tabletop Roleplaying"
-  - grouping: "Solitaire Game"
+  - grouping: "Tabletop Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0"
 ---

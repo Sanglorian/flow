@@ -16,7 +16,6 @@ connections:
   - has_connection_to_entry: "REIGN"
 groupings:
   - grouping: "Tabletop Roleplaying"
-  - grouping: "RPG Supplement"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0"
 ---

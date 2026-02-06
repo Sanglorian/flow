@@ -11,7 +11,7 @@ entry:
   short_description: "A documentary about a court case against The Pirate Bay"
   main_url: "https://en.wikipedia.org/wiki/TPB_AFK"
 groupings:
-  - grouping: "Video (Documentary)"
+  - grouping: "Documentary"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"

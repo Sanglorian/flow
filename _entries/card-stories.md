@@ -13,7 +13,7 @@ entry:
   main_url: "https://opengameart.org/content/card-stories-creativity-card-game"
   main_description: "Assets available via OpenGameArt. Code still available on GitHub: https://github.com/farsides/cardstories"
 groupings:
-  - grouping: "Electronic Game"
+  - grouping: "Video Game"
     is_or_about_grouping: "is"
   - grouping: "Art"
     is_or_about_grouping: "is"

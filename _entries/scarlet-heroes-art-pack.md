@@ -19,7 +19,7 @@ genres:
   - "Fantasy"
 groupings:
   - grouping: "Painting"
-  - grouping: "Illustrations"
+  - grouping: "Raster Art"
 types:
   - type: "Graphic"
     distribution: "electronic"

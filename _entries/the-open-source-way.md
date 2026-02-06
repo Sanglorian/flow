@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Red Hat"
 groupings:
-  - grouping: "Information (Book)"
+  - grouping: "Nonfiction"
 genres:
   - "IP Minimalism"
 licensing:

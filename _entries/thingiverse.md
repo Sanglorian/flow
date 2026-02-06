@@ -11,5 +11,5 @@ entry:
   short_description: "Designs for 3D printers."
   main_url: "https://www.thingiverse.com/"
 groupings:
-  - grouping: "Hardware (Designs)"
+  - grouping: "Hardware"
 ---

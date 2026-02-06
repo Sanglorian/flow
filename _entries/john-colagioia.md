@@ -18,7 +18,7 @@ languages:
 groupings:
   - grouping: "Literature"
   - grouping: "Information"
-  - grouping: "Video Gaming"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     license_coverage: "entirety"

@@ -14,7 +14,7 @@ entry:
 groupings:
   - grouping: "Short Stories"
   - grouping: "Art"
-  - grouping: "Video Game (Online)"
+  - grouping: "Video Game"
 genres:
   - genre: "Fantasy"
 licensing:

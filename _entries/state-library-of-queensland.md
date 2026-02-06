@@ -14,7 +14,7 @@ entry:
 groupings:
   - grouping: "Data"
   - grouping: "Nonfiction"
-  - grouping: "Photographs"
+  - grouping: "Photography"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license_coverage: "text only"
