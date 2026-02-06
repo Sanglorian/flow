@@ -27,7 +27,6 @@ types:
 licensing:
   - license: "Open Game License"
     license_coverage: "text only"
-licensing:
   - license: "Creative Commons Attribution 4.0"
     license_coverage: "text only"
 versions:
