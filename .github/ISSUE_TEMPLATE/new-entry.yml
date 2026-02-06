@@ -44,7 +44,6 @@ body:
         - Work
         - Collection
         - Source
-        - Person
         - Organisation
     validations:
       required: true
