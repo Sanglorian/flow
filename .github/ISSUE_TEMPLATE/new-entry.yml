@@ -10,15 +10,6 @@ body:
         Thanks for submitting a new entry! Please fill out the fields below. All fields marked **Required** must be completed.
 
   - type: input
-    id: title
-    attributes:
-      label: Title (Required)
-      description: "Human-readable title for the entry."
-      placeholder: "Example: A Dark Room"
-    validations:
-      required: true
-
-  - type: input
     id: main_url
     attributes:
       label: Main URL (Required)
