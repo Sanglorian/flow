@@ -7,7 +7,6 @@ updated_at: 2026-02-01
 contributors:
 - "Sanglorian"
 entry:
-  vapourware: true
   category: Work
   short_description: "Robot Hamlet and his companions have been abandoned on the terrifying Ghost Asteroid by the villainous robot Richard III."
   main_url: "http://story-games.com/forums/comments.php?DiscussionID=14720&page=alternative-game-chef#Comment_338421"
