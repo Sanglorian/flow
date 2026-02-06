@@ -3,7 +3,7 @@ layout: entry
 title: "Libre.fm"
 permalink: /libre-fm/
 created_at: 2015-06-03
-updated_at: 2026-05-01
+updated_at: 2026-01-05
 contributors:
 - Sanglorian
 entry:

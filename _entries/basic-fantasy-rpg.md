@@ -3,7 +3,7 @@ layout: entry
 title: "Basic Fantasy RPG"
 permalink: /basic-fantasy-rpg/
 created_at: 2015-05-29
-updated_at: 2026-01-10
+updated_at: 2026-02-06
 contributors:
 - "Sanglorian"
 entry:
@@ -20,5 +20,7 @@ groupings:
   - grouping: "Clone"
 licensing:
   - license: "Open Game License"
+    license_coverage: "Earlier editions."
   - license: "Creative Commons Attribution-ShareAlike 4.0"
+    license_coverage: "From fourth edition onwards."
 ---

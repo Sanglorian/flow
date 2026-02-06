@@ -1,9 +1,9 @@
 ---
 layout: entry
 title: "Open source books"
-permalink: /an-open-world/
+permalink: /open-source-books/
 created_at: 2015-05-29
-updated_at: 2026-10-10
+updated_at: 2026-01-10
 contributors:
 - "Sanglorian"
 entry:
