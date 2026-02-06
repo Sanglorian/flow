@@ -10,7 +10,7 @@ entry:
   featured_entry: true
   category:
     - Collection
-    - Person
+    - Source
   short_description: "CC-licensed music, 24/7"
   main_url: "http://rynothebearded.com/"
 groupings:

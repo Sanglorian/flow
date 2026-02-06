@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category:
-    - Person
+    - Source
     - Collection
   short_description: "A game designer."
   main_url: "https://redboxvancouver.wordpress.com/"

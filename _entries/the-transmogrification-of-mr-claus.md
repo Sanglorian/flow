@@ -23,7 +23,7 @@ licensing:
 versions:
   - version_title: "Digital release"
     version_format: "MP3, FLAC"
-	version_price: 5
+    version_price: 5
     version_url: "https://rickweaver.bandcamp.com/album/the-transmogrification-of-mr-claus"
 connections:
   - has_connection_to_entry: "Rick Weaver"

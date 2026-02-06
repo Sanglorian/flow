@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "A mashup musician."
   main_url: "https://web.archive.org/web/20130406125246/http://www.nichecom.com/songs/"
 genres:

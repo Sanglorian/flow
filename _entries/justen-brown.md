@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "An author of retroclones."
   main_url: "https://web.archive.org/web/20121026041815/http://feysquare.com/"
 genres:

@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "Free pixel art for games."
   main_url: "http://opengameart.org/users/buch"
 connections:

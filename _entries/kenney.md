@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "An artist and maker of game assets (2D and 3D)"
   main_url: "http://www.kenney.nl/assets"
   main_description: "Also hosted on Open Game Art. https://opengameart.org/users/kenney"

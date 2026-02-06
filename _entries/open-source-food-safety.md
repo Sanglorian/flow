@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category:
-    - Person
+    - Source
     - Organisation
   short_description: "\"The safety of our food supply is in everyone's interest. Our goal is to make food safety more transparent for producers, farmers and consumers.\""
   main_url: "https://medium.com/public-works/introducing-open-source-food-safety-f46144b00f1f"

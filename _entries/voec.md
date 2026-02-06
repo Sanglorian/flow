@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "voec is a programmer and game designer"
   main_url: "http://384400kilometers.tumblr.com/"
   main_description: "[Twitter](https://twitter.com/notbanachtarski), [Tumblr](http://384400kilometers.tumblr.com/)"

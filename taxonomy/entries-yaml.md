@@ -29,7 +29,7 @@ Entries live in `_entries/*.md` and are Markdown files with YAML front matter be
 
 **Required:**
 
-- `category` (string or array): primary category. Most entries use a single string (`Work`, `Collection`, `Source`, `Person`, `Organisation`). Entries with multiple categories should use an array (e.g., `- Work`, `- Collection`).
+- `category` (string or array): primary category. Most entries use a single string (`Work`, `Collection`, `Source`, `Organisation`). Entries with multiple categories should use an array (e.g., `- Work`, `- Collection`).
 
 **Optional:**
 

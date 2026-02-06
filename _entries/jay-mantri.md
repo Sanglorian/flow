@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "free pics. do anything (CC0). make magic."
   main_url: "http://jaymantri.com/"
 connections:

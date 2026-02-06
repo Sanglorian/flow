@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "A video creator."
   main_url: "https://vimeo.com/dankwon"
 types:

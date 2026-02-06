@@ -3,8 +3,6 @@ name: Issue to entry
 on:
   issues:
     types:
-      - opened
-      - edited
       - labeled
 
 permissions:
@@ -32,13 +30,13 @@ jobs:
 
             const requiredFields = ["title", "main_url", "short_description", "category"];
             const fieldLabels = {
-              title: "Title (Required)",
+              title: "Issue title",
               main_url: "Main URL (Required)",
               short_description: "Short description (Required)",
               main_description: "Main description (Optional)",
               category: "Category of entry (Required)",
               year_of_publication: "Year of publication (Optional)",
-              new_thumbnail: "Thumbnail path (Optional)",
+              new_thumbnail: "New thumbnail (Optional)",
               wikidata_code: "Wikidata code (Optional)",
               languages: "Languages (Optional)",
               groupings: "Groupings (Optional)",
@@ -103,6 +101,7 @@ jobs:
             for (const [key, label] of Object.entries(fieldLabels)) {
               entryData[key] = issueFields[label] || "";
             }
+            entryData.title = (issue?.title || "").trim();
             entryData.category = parseCheckboxSelections(entryData.category);
 
             const missingFields = requiredFields.filter((field) => {

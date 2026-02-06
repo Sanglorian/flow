@@ -9,7 +9,7 @@ contributors:
 entry:
   category:
     - Collection
-    - Person
+    - Source
   short_description: "Composer"
   main_url: "https://anttinorthwest.wixsite.com/anttiluode"
 languages:
