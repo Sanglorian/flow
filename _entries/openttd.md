@@ -11,7 +11,7 @@ entry:
   short_description: "A clone of Transport Tycoon Deluxe."
   main_url: "https://www.openttd.org/"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "GNU General Public License"
 ---

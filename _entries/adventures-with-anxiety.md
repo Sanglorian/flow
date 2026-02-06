@@ -13,7 +13,7 @@ connections:
   - has_connection_to_entry: "Nicky Case"
     details_of_connection: "a contributor to"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "CC0 1.0 Universal"
     license_coverage: "entirety"

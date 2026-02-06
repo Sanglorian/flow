@@ -17,7 +17,7 @@ entry:
     Itch.io page: https://bicken-bones.itch.io/little-dig-game
     Source repository: https://github.com/alecgdouglas/littlediggame
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "MIT"
 ---

@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Jason Rohrer"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
   - license: "GNU General Public License"

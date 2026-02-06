@@ -46,6 +46,7 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
       <li><a href="{{ '/nonfiction/' | relative_url }}">Nonfiction</a></li>
       <li><a href="{{ '/art/' | relative_url }}">Art</a></li>
       <li><a href="{{ '/film/' | relative_url }}">Film</a></li>
+      <li><a href="{{ '/video-gaming/' | relative_url }}">Video Gaming</a></li>
       <li><a href="{{ '/technology/' | relative_url }}">Technology</a></li>
       <li><a href="{{ '/software/' | relative_url }}">Software</a></li>
     </ul>

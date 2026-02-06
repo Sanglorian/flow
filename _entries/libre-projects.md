@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Information"
   - grouping: "Software"
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 ---

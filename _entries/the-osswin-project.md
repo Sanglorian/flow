@@ -12,5 +12,5 @@ entry:
   main_url: "https://bartvandewoestyne.github.io/osswin/"
 groupings:
   - grouping: "Software"
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 ---

@@ -15,7 +15,7 @@ connections:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
 ---

@@ -11,7 +11,7 @@ entry:
 genres:
   - "IP Minimalism"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 ---
 The LibrePlanet Gaming Collective is a group of free software activists organized around their enthusiasm for video games.
 

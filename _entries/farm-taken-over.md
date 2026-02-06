@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Liberated Pixel Cup Content"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 genres:
   - genre: "Fantasy"
 licensing:

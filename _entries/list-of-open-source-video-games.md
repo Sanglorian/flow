@@ -14,7 +14,7 @@ connections:
   - has_connection_to_entry: "Wikipedia"
     details_of_connection: "part of"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     license_coverage: "entirety"

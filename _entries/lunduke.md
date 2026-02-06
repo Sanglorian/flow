@@ -18,7 +18,7 @@ connections:
   - has_connection_to_entry: "HTML5"
     details_of_connection: "supplemented by"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
   - grouping: "Software"
   - grouping: "Comics"
 genres:

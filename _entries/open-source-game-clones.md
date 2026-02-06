@@ -11,5 +11,5 @@ entry:
   short_description: "''This site tries to gather open-source reimplementations of great old games in one place.''"
   main_url: "https://osgameclones.com/"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 ---

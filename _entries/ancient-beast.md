@@ -21,7 +21,7 @@ entry:
 connections:
   - has_connection_to_entry: "Freezing Moon"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
   - grouping: "Painting"
   - grouping: "3D Art"
   - grouping: "Music"

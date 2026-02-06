@@ -15,7 +15,7 @@ entry:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "Mentioned on https://opengameart.org/forumtopic/moonshades-an-old-school-dungeon-crawler-in-webgl"

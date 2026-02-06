@@ -60,7 +60,7 @@ languages:
   - language: "Galician"
     relationship_of_language: "translation"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 types:
   - type: "Code"
     distribution: "electronic"

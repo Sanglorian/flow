@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "SuperTux Development Team"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "GNU General Public License"
 ---

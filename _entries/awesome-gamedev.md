@@ -11,7 +11,7 @@ entry:
   short_description: "A curated list of good stuff related to the development of games. This list contains only free software for code, sellers who aren't evil for physical resources, and free cultural works for assets."
   main_url: "https://notabug.org/koz.ross/awesome-gamedev"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
     about: true
   - grouping: "Art"
     about: true

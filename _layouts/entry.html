@@ -11,7 +11,7 @@ layout: default
   {%- endif -%}
   {%- assign license_items = page.licensing -%}
   {%- assign funding_items = page.funding -%}
-  {%- if funding_items and funding_items.funding_tool -%}
+  {%- if funding_items and (funding_items.funding_tool or funding_items.funding_type or funding_items.explanation) -%}
     {%- assign funding_items = "" | split: "" -%}
     {%- assign funding_items = funding_items | push: page.funding -%}
   {%- endif -%}

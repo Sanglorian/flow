@@ -11,5 +11,5 @@ entry:
   main_url: "https://osalt.com/"
 groupings:
   - grouping: "Software"
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 ---

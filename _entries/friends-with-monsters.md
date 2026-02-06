@@ -16,7 +16,7 @@ connections:
 genres:
   - "JRPG"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
   - grouping: "Pixel Art"
 types:
   - type: "Code"

@@ -13,7 +13,7 @@ entry:
   main_description: "Archived wiki site: https://web.archive.org/web/20150207005812/http://thepythongamebook.com/en:start"
 groupings:
   - grouping: "Information"
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

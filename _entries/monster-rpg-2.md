@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Nooskewl Games"
 groupings:
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "Give It Your Own License, License"
 ---

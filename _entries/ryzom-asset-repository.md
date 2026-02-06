@@ -14,7 +14,7 @@ genres:
   - "Fantasy"
 groupings:
   - grouping: "3D Art"
-  - grouping: "Video Game"
+  - grouping: "Video Gaming"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---
