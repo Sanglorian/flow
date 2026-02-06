@@ -11,7 +11,7 @@ entry:
   short_description: "'a free, open gaming system that enables anyone to play and create fantasy tabletop worlds, adventures, and sourcebooks'"
   main_url: "https://koboldpress.com/black-flag-roleplaying/"
   year_of_publication: "2024"
-  thumbnail: "black-flag.avif"
+  thumbnail: "/thumbnails/black-flag.avif"
   main_description: "The game that the Black Flag Roleplaying SRD is based on, Tales of the Valiant, is not under any license."
 genres:
   - "Dungeon"

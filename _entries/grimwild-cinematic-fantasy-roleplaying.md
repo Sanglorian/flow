@@ -11,7 +11,7 @@ entry:
   short_description: "'Grimwild is a streamlined, character-driven, cinematic fantasy RPG.'"
   main_url: "https://www.drivethrurpg.com/en/product/508618/grimwild-cinematic-fantasy-roleplaying"
   main_description: "[Free, abridged version](https://www.drivethrurpg.com/en/product/507201/grimwild-free-edition) also available."
-  thumbnail: "grimwild.webp"
+  thumbnail: "/thumbnails/grimwild.webp"
 genres:
   - "Dungeon"
 languages:

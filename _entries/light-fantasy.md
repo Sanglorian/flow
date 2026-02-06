@@ -11,7 +11,7 @@ entry:
   short_description: "'a solid re-implementation of the classic B/X rules, but reinterpreted with an eye to the needs of the modern gamer'"
   main_url: "https://www.drivethrurpg.com/en/product/467272/light-fantasy"
   year_of_publication: "2024"
-  thumbnail: "light-fantasy.webp"
+  thumbnail: "/thumbnails/light-fantasy.webp"
 genres:
   - "Dungeon"
   - "Clone"

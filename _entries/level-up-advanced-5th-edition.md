@@ -11,7 +11,7 @@ entry:
   short_description: "'Level Up is a standalone 5E fantasy tabletop RPG. Developed from the start to be compatible with original 5E (O5E), it is a fully-featured ‘advanced’ 5E ruleset which has been written from the ground up.'"
   main_url: "https://a5esrd.com/a5esrd"
   year_of_publication: "2021"
-  thumbnail: "level-up.webp"
+  thumbnail: "/thumbnails/level-up.webp"
 genres:
   - "Dungeon"
 languages:

@@ -11,7 +11,7 @@ entry:
   short_description: "'CthulhuTech is science fantasy role playing game, set in a high-tech near-future Earth, with magic and monsters blended in.'"
   main_url: "https://www.drivethrurpg.com/en/product/530468/cthulhutech-the-shadow-war-player-s-handbook"
   year_of_publication: "2025"
-  thumbnail: "cthulhutech.webp"
+  thumbnail: "/thumbnails/cthulhutech.webp"
 genres:
   - "Science Fiction"
   - "Fantasy"

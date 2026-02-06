@@ -11,7 +11,7 @@ entry:
   short_description: "'What's OLD is NEW uses a flexible d6 dice pool system and lifepath character creation rules.'"
   main_url: "https://www.woinrules.com/"
   main_description: "The SRD, Bestiary and [Starter Set](https://enpublishingrpg.com/products/whats-old-is-new-starter-box-set) are open-licensed."
-  thumbnail: "woin.png"
+  thumbnail: "/thumbnails/woin.png"
 genres:
   - "Fantasy"
   - "Science Fiction"

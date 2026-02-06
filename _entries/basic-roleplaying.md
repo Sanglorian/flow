@@ -9,7 +9,7 @@ contributors:
 entry:
   category: "Work"
   short_description: "'a system of core rules for tabletop roleplaying'"
-  thumbnail: "brp-classic.jpg"
+  thumbnail: "/thumbnails/brp-classic.jpg"
   main_url: "https://www.chaosium.com/basic-roleplaying/"
   main_description: |-
     [HTML SRD](https://brpugesrd.xyz/#/).

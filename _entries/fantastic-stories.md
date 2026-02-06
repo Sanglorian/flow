@@ -10,7 +10,7 @@ entry:
   category: "Work"
   short_description: "'Fantastic Stories is a fun-filled accessible micro tabletop role-playing game about brave heroes embarking on grand quests, all conveniently designed to fit on a drink coaster!'"
   main_url: "https://farirpgs.itch.io/fantastic-stories"
-  thumbnail: "fantastic-stories.png"
+  thumbnail: "/thumbnails/fantastic-stories.png"
 genres:
   - "Fantasy"
   - "Dungeon"

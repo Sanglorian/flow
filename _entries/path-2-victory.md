@@ -11,7 +11,7 @@ entry:
   short_description: "'Path 2 Victory is a tabletop roleplaying and skirmish game. It simplifies the PF2e rules so monster and hero profiles fit on a single playing card, but keeps them rich and detailed enough to provide tactical and imaginative gameplay.'"
   main_url: "https://sepulchralverdigris.itch.io/path-2-victory"
   year_of_publication: "2024"
-  thumbnail: "p2v.png"
+  thumbnail: "/thumbnails/p2v.png"
 genres:
   - "Dungeon"
 languages:

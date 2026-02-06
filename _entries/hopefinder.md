@@ -11,7 +11,7 @@ entry:
   short_description: "'a Modern Zombie Apocalypse Survival Hack of Pathfinder Second Edition'"
   main_url: "https://www.drivethrurpg.com/en/product/414367/hopefinder-survivor-s-guide"
   year_of_publication: "2022"
-  thumbnail: "hopefinder.webp"
+  thumbnail: "/thumbnails/hopefinder.webp"
 genres:
   - "Horror"
   - "Zombie"

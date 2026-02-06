@@ -11,7 +11,7 @@ entry:
   short_description: "A fantasy tabletop roleplaying game."
   main_url: "https://store.paizo.com/pathfinder/"
   main_description: "[Approved third-party HTML site of most content](https://2e.aonprd.com/)."
-  thumbnail: pathfinder-second-edition.jpg
+  thumbnail: "/thumbnails/pathfinder-second-edition.jpg"
 genres:
   - "Dungeon"
 connections:
