@@ -11,7 +11,7 @@ entry:
   short_description: "Reviews and catalogues of works in the public domain."
   main_url: "https://publicdomainreview.org/"
   main_description: |-
-    [https://publicdomainreview.org/sources/ Sources]
+    [Sources](https://publicdomainreview.org/sources/)
 groupings:
   - grouping: "Information"
   - grouping: "Literature"

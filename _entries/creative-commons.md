@@ -11,9 +11,9 @@ entry:
   short_description: "\"Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.\""
   main_url: "https://creativecommons.org/"
   main_description: |-
-    [http://creativecommons.org/weblog/entry/33757 Great CC Resources from the Community]
+    [Great CC Resources from the Community](http://creativecommons.org/weblog/entry/33757)
     
-    [http://ccthing.tumblr.com/ Creative Commons Thing of the Day]
+    [Creative Commons Thing of the Day](http://ccthing.tumblr.com/)
     "What is Creative Commons?
     
     Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.

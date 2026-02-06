@@ -13,7 +13,7 @@ entry:
   main_description: |-
     The first Creative Commons music to be nominated for a Grammy Award.
     
-    Available for free download at the [http://www.archive.org/details/nineinchnails_ghosts_I_IV Internet Archive].
+    Available for free download at the [Internet Archive](http://www.archive.org/details/nineinchnails_ghosts_I_IV).
 connections:
   - has_connection_to_entry: "Nine Inch Nails"
 groupings:

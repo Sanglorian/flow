@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "Your fantasy city is under siege. Play both the living and the dead."
   main_url: "http://www.bullypulpitgames.com/projects/games/ghosts/"
-  main_description: "The link above is now broken; the game is [http://fossilbank.wikidot.com/local--files/work:ghosts/ghosts_01.pdf locally hosted]."
+  main_description: "The link above is now broken; the game is [locally hosted](http://fossilbank.wikidot.com/local--files/work:ghosts/ghosts_01.pdf)."
 connections:
   - has_connection_to_entry: "Jason Morningstar"
 genres:

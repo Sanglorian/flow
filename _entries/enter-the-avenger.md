@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "A short and simple swords & sorcery RPG."
   main_url: "https://web.archive.org/web/20140803195039/https://sites.google.com/site/sitodirafu/Home/i-miei-giochi/enter-the-avenger"
-  main_description: "[http://fossilbank.wikidot.com/local--files/source:chris-sakkas/Enter%20the%20Avenger%20-%20Libre%20Edition.epub Libre Edition (EPUB)] from Chris Sakkas"
+  main_description: "[Libre Edition (EPUB)](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/Enter%20the%20Avenger%20-%20Libre%20Edition.epub) from Chris Sakkas"
 connections:
   - has_connection_to_entry: "Raffaele Manzo"
     details_of_connection: "author"

@@ -18,10 +18,10 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     license_coverage: "part"
-    explanation: "Some stories, such as: [http://whitemarbleblock.blogspot.com/2015/04/fiction-redeeming-blood.html Redeeming Blood], [https://www.kickstarter.com/projects/825176040/the-wrong-ship-a-sci-fi-short-story/posts/1848858 The Wrong Ship] and [https://heroessavetheworld.wordpress.com/ Heroes Save the World]"
+    explanation: "Some stories, such as: [Redeeming Blood](http://whitemarbleblock.blogspot.com/2015/04/fiction-redeeming-blood.html), [The Wrong Ship](https://www.kickstarter.com/projects/825176040/the-wrong-ship-a-sci-fi-short-story/posts/1848858) and [Heroes Save the World](https://heroessavetheworld.wordpress.com/)"
 funding:
   -
     funding_tool: "Kickstarter"
     funding_type: "ransom"
-    explanation: "For [https://www.kickstarter.com/projects/825176040/the-wrong-ship-a-sci-fi-short-story The Wrong Ship] and [https://www.kickstarter.com/projects/825176040/already-dead-a-scifi-short-story Already Dead]"
+    explanation: "For [The Wrong Ship](https://www.kickstarter.com/projects/825176040/the-wrong-ship-a-sci-fi-short-story) and [Already Dead](https://www.kickstarter.com/projects/825176040/already-dead-a-scifi-short-story)"
 ---

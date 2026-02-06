@@ -13,9 +13,9 @@ entry:
   main_description: |-
     About libre and open access more broadly as well as the public domain specifically.
     
-    Available in PDF for no charge, and [https://www.openbookpublishers.com/books/10.11647/obp.0019 also for charge in a number of print formats.]
+    Available in PDF for no charge, and [also for charge in a number of print formats.](https://www.openbookpublishers.com/books/10.11647/obp.0019)
     
-    Now on unglue.it in DRM-free PDF and EPUB form, with an option to donate ([https://unglue.it/work/136338/ link]).
+    Now on unglue.it in DRM-free PDF and EPUB form, with an option to donate ([link](https://unglue.it/work/136338/)).
 connections:
   - has_connection_to_entry: "Melanie Dulong de Rosnay"
   - has_connection_to_entry: "Juan Carlos De Martin"

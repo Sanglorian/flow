@@ -11,7 +11,7 @@ entry:
   short_description: "An intricate and lengthy RPG of dark fantasy."
   main_url: "https://web.archive.org/web/20110406034721/http://lostsouls.damnserver.com/Midian.htm"
   main_description: |-
-    [https://web.archive.org/web/20110131160621if_/http://lost-souls.co.nr:80/Dark_Fantasy_Core_Set.txt Dark Fantasy Core Set], the rules without the flavour.
+    [Dark Fantasy Core Set](https://web.archive.org/web/20110131160621if_/http://lost-souls.co.nr:80/Dark_Fantasy_Core_Set.txt), the rules without the flavour.
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

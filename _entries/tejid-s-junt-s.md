@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "'(A) fun and active documentary film exploring the relationship and shared story of Workers and Students in the anti-sweatshop movement.'"
   main_url: "https://commons.wikimedia.org/wiki/File:TejidXs_JuntXs.ogv"
-  main_description: "[https://web.archive.org/web/20140818093532/http://vodo.net/tejidxs Older site]"
+  main_description: "[Older site](https://web.archive.org/web/20140818093532/http://vodo.net/tejidxs)"
 groupings:
   - grouping: "Video (Documentary)"
 licensing:

@@ -11,7 +11,7 @@ entry:
   short_description: "Ryan St's rewriting of original D&D in the style of Apocalypse World."
   main_url: "https://web.archive.org/web/20140818093353/http://story-games.com/forums/discussion/comment/335481#Comment_335481"
   main_description: |-
-    a [https://www.box.com/s/239bf954f4e463bf0be6 Direct link to download] (gratis TXTs)
+    a [Direct link to download](https://www.box.com/s/239bf954f4e463bf0be6) (gratis TXTs)
 
     Re-written from [/work:swords-wizardry Swords & Wizardry]
 connections:

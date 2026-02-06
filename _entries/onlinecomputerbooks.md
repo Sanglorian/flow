@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "A website with many free ebooks, some of which are open."
   main_url: "https://www.onlineprogrammingbooks.com/"
-  main_description: "[https://www.onlineprogrammingbooks.com/free-open-source-books/ Free Open Source Books] have their own page."
+  main_description: "[Free Open Source Books](https://www.onlineprogrammingbooks.com/free-open-source-books/) have their own page."
 groupings:
   - grouping: "Information"
   - grouping: "Software"

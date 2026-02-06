@@ -19,5 +19,5 @@ license_certification:
   - Open Definition other conformant license
   - Definition of Free Cultural Works conformant license
 notes: >-
-  This license is not recommended by the Open Definition because it has been superseded by [[Creative Commons Attribution 4.0]].
+  This license is not recommended by the Open Definition because it has been superseded by [Creative Commons Attribution 4.0](/license/creative-commons-attribution-4-0/).
 ---

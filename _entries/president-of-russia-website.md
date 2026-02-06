@@ -15,5 +15,5 @@ groupings:
   - grouping: "Photography"
 licensing:
   - license: "Creative Commons Attribution"
-    explanation: "[https://wiki.creativecommons.org/wiki/Official_website_of_President_of_the_Russian_Federation More details at the CC Wiki]"
+    explanation: "[More details at the CC Wiki](https://wiki.creativecommons.org/wiki/Official_website_of_President_of_the_Russian_Federation)"
 ---

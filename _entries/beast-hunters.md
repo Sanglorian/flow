@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "Tattooed hunters of beasts use their fiendish blood for sorcery."
   main_description: |-
-    Some parts of this work remain closed. The libre parts can be found in the [http://www.berengad.com/bh15srd/ System Reference Document].
+    Some parts of this work remain closed. The libre parts can be found in the [System Reference Document](http://www.berengad.com/bh15srd/).
   main_url: "https://berengad.com/site/index.php?id=beast-hunters"
 connections:
   - has_connection_to_entry: "Berengad Games"

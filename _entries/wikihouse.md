@@ -11,7 +11,7 @@ entry:
   category: Work
   short_description: "Build your own house."
   main_description: |-
-    [http://www.wikihouse.cc/legal/terms License declaration]
+    [License declaration](http://www.wikihouse.cc/legal/terms)
   main_url: "http://www.wikihouse.cc/"
 groupings:
   - grouping: "Technology"

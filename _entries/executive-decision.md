@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "Compete for the trust of the President of the United States."
   main_url: "https://www.gregstolze.com/downloads.html"
-  main_description: "The game was [http://nickwedig.libraryofhighmoon.com/2010/12/executive-decision/ revised] by Teapot Dome Games."
+  main_description: "The game was [revised](http://nickwedig.libraryofhighmoon.com/2010/12/executive-decision/) by Teapot Dome Games."
 connections:
   - has_connection_to_entry: "Greg Stolze"
   - has_connection_to_entry: "Teapot Dome Games"

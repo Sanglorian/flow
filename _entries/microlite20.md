@@ -11,9 +11,9 @@ entry:
   short_description: "A simplified version of the d20 System."
   main_url: "https://archive.org/details/microlite20"
   main_description: |-
-    [http://livingfree.wikidot.com/microlite20 Many remixes listed here].
-    [http://www.systemreferencedocuments.org/resources/systems/pennpaper/microlite20/microlite20.html HTML SRD]
-    [http://www.enworld.org/forum/general-rpg-discussion/318312-microlite20-rpg-collection-2012-edition-available-free-download.html 2012 collection of over a thousand pages here]
+    [Many remixes listed here](http://livingfree.wikidot.com/microlite20).
+    [HTML SRD](http://www.systemreferencedocuments.org/resources/systems/pennpaper/microlite20/microlite20.html)
+    [2012 collection of over a thousand pages here](http://www.enworld.org/forum/general-rpg-discussion/318312-microlite20-rpg-collection-2012-edition-available-free-download.html)
 connections:
   - has_connection_to_entry: "d20 System"
 groupings:

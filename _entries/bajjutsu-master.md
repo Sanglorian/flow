@@ -10,7 +10,7 @@ entry:
   category: Work
   main_url: "http://danielsolisblog.blogspot.com/2011/10/bajjutsu-master.html"
   main_description: |-
-    a [http://danielsolisblog.blogspot.com/2011/10/bajjutsu-master-now-in-creative-commons.html Creative Commons declaration and a number of resources].
+    a [Creative Commons declaration and a number of resources](http://danielsolisblog.blogspot.com/2011/10/bajjutsu-master-now-in-creative-commons.html).
 connections:
   - has_connection_to_entry: "Daniel Solis"
 groupings:

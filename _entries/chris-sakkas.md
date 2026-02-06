@@ -11,7 +11,7 @@ entry:
   short_description: "A fan of free culture."
   main_url: "http://sanglorian.github.io/"
   main_description: |-
-    [http://sanglorian.github.io/bibliography/ My online offerings], a collection of works, mostly tabletop RPGs and supplements.
-    [https://archive.org/details/sharethisbook_finished Share The Love]
+    [My online offerings](http://sanglorian.github.io/bibliography/), a collection of works, mostly tabletop RPGs and supplements.
+    [Share The Love](https://archive.org/details/sharethisbook_finished)
   alias: "Sanglorian"
 ---

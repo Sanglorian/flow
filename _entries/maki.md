@@ -13,7 +13,7 @@ entry:
   main_description: |-
     Each symbol comes in three forms, from least to most detail.
     
-    The most-detailed symbols are also hosed on The Noun Project ([https://thenounproject.com/samanbb/collection/maki-map-icons/ link]).
+    The most-detailed symbols are also hosed on The Noun Project ([link](https://thenounproject.com/samanbb/collection/maki-map-icons/)).
 connections:
   - has_connection_to_entry: "The Noun Project"
     details_of_connection: "host"

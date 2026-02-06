@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "A complete and easy to play fantasy roleplaying game, with monsters, magic and exotic locales. OpenQuest uses the classic D100 rules mechanic, which uses percentages to express the chance of success or failure."
   main_url: "https://d101games.com/product-category/openquest-2/"
-  main_description: "[http://d101games.com/downloads/ PDF]"
+  main_description: "[PDF](http://d101games.com/downloads/)"
 connections:
   - has_connection_to_entry: "D101 Games, Newt Newport"
   - has_connection_to_entry: "d100 System"

@@ -12,7 +12,7 @@ entry:
     - Person
   short_description: "voec is a programmer and game designer"
   main_url: "http://384400kilometers.tumblr.com/"
-  main_description: "[https://twitter.com/notbanachtarski Twitter], [http://384400kilometers.tumblr.com/ Tumblr]"
+  main_description: "[Twitter](https://twitter.com/notbanachtarski), [Tumblr](http://384400kilometers.tumblr.com/)"
 connections:
   - has_connection_to_entry: "Twine"
     details_of_connection: "supplemented by"

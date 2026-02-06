@@ -11,7 +11,7 @@ entry:
   short_description: "Raven Crowking's reworking of Dungeons & Dragons"
   main_url: "https://www.enworld.org/threads/rcfg-rcfg-playtest-document-available.267563/page-3"
   main_description: |-
-    [https://web.archive.org/web/20100328091924/http://www.danieljbishop.ca/index_files/Page443.htm Previews of the game here].
+    [Previews of the game here](https://web.archive.org/web/20100328091924/http://www.danieljbishop.ca/index_files/Page443.htm).
 connections:
   - has_connection_to_entry: "Raven Crowking"
   - has_connection_to_entry: "d20 System"

@@ -14,5 +14,5 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-NoDerivatives"
-    explanation: "[http://www.genesisoflegend.com/about/code-of-conduct/ Code of conduct] talks about open source and Creative Commons."
+    explanation: "[Code of conduct](http://www.genesisoflegend.com/about/code-of-conduct/) talks about open source and Creative Commons."
 ---

@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "A blog of stories, games and public domain art."
   main_url: "https://web.archive.org/web/20200203083440/http://apolitical.info/teleleli/"
-  main_description: "[http://teleleli.blogspot.com/search/label/art public domain art] too."
+  main_description: "[public domain art](http://teleleli.blogspot.com/search/label/art) too."
 groupings:
   - grouping: "Short Stories"
   - grouping: "Art"

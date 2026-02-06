@@ -11,9 +11,9 @@ entry:
   short_description: "A tabletop RPG."
   main_url: "https://www.drivethrurpg.com/en/product/91058/the-modern-path-heroes-of-the-modern-world-2-0-pfrpg"
   main_description: |-
-    [http://grandwiki.wikidot.com/main SRD on Grand OGL Wiki]
+    [SRD on Grand OGL Wiki](http://grandwiki.wikidot.com/main)
     
-    [https://web.archive.org/web/20180224030419/https://www.d20modernpf.com/ HTML SRD]
+    [HTML SRD](https://web.archive.org/web/20180224030419/https://www.d20modernpf.com/)
 connections:
   - has_connection_to_entry: "Pathfinder"
     details_of_connection: "a source of material for"

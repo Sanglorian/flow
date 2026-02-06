@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "A role-playing game without any elves."
   main_description: |-
-    [http://talislanta.com/?page_id=2 The declaration of the license]
+    [The declaration of the license](http://talislanta.com/?page_id=2)
   main_url: "http://talislanta.com/talislanta-library"
 groupings:
   - grouping: "Tabletop Roleplaying"

@@ -9,7 +9,7 @@ contributors:
 entry:
   category: Collection
   short_description: "An RPG publisher."
-  main_description: "[https://web.archive.org/web/20190706181824/http://www.pelgranepress.com/wiki/index.php?title=Main_Page Pelgrane Press SRDs Wiki]"
+  main_description: "[Pelgrane Press SRDs Wiki](https://web.archive.org/web/20190706181824/http://www.pelgranepress.com/wiki/index.php?title=Main_Page)"
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "A gratis ebook site."
   main_url: "https://manybooks.net/"
-  main_description: "Has a category for [https://manybooks.net/categories/CCL Creative Commons licensed books]."
+  main_description: "Has a category for [Creative Commons licensed books](https://manybooks.net/categories/CCL)."
 groupings:
   - grouping: "Literature"
 ---

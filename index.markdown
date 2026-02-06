@@ -55,7 +55,8 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
     <h3>How to contribute</h3>
     <ul>
       <li><a href="{{ '/contribute/' | relative_url }}">Contribution guide</a></li>
-    </ul>
+    <li><a href="https://github.com/Sanglorian/flow/issues">Suggest a new entry by logging an issue.</a></li>
+	</ul>	
   </section>
 
   <section>

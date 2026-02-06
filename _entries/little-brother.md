@@ -11,10 +11,10 @@ entry:
   short_description: "A hacker, wrongly imprisoned, tries to take down the police state."
   main_url: "https://craphound.com/category/littlebrother/"
   main_description: |-
-    [https://craphound.com/littlebrother/download/ Gratis TXT, HTML, PDF, EPUB, TEX and many others].
+    [Gratis TXT, HTML, PDF, EPUB, TEX and many others](https://craphound.com/littlebrother/download/).
     
-    It can also be bought as a [https://craphound.com/littlebrother/buy/ hardcopy or DRM-free audiobook].
-    Also available as an [https://craphound.com/littlebrother/2008/12/13/computer-voiced-mp3-read-aloud/ audiobook MP3].
+    It can also be bought as a [hardcopy or DRM-free audiobook](https://craphound.com/littlebrother/buy/).
+    Also available as an [audiobook MP3](https://craphound.com/littlebrother/2008/12/13/computer-voiced-mp3-read-aloud/).
 connections:
   - has_connection_to_entry: "Cory Doctorow"
 groupings:

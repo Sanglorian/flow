@@ -12,9 +12,9 @@ entry:
   main_url: "http://web.archive.org/web/20121010000227/http://www.webjam.com/the_black_orifice"
   main_description: |-
     Hosted here
-    [http://fossilbank.wikidot.com/local--files/work:midgard/Midgard%20Viking%20Legends.pdf Core book]
-    [http://fossilbank.wikidot.com/local--files/work:midgard/Midgard%20Viking%20Legends%20-%20Character%20Sheet.pdf Character sheet]
-    [http://fossilbank.wikidot.com/local--files/work:midgard/Midgard%20Viking%20Legends%20-%20Rune%20Casting.pdf Rune Casting]
+    [Core book](http://fossilbank.wikidot.com/local--files/work:midgard/Midgard%20Viking%20Legends.pdf)
+    [Character sheet](http://fossilbank.wikidot.com/local--files/work:midgard/Midgard%20Viking%20Legends%20-%20Character%20Sheet.pdf)
+    [Rune Casting](http://fossilbank.wikidot.com/local--files/work:midgard/Midgard%20Viking%20Legends%20-%20Rune%20Casting.pdf)
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:

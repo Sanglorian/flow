@@ -11,11 +11,11 @@ entry:
   short_description: "A universal game based on the FATE engine."
   main_url: "http://www.faterpg.com/"
   main_description: |-
-    [https://zork.net/~nick/loyhargil/fate-srd-rest/Fate-SRD-2005-03-31.html HTML SRD].
-    [https://web.archive.org/web/20151105060039/http://www.faterpg.com/dl/Fate-SRD-2005-03-31.rtf RTF SRD].
-    [https://www.darkshire.net/jhkim/rpg/srd/fate/index.html HTML SRD].
+    [HTML SRD](https://zork.net/~nick/loyhargil/fate-srd-rest/Fate-SRD-2005-03-31.html).
+    [RTF SRD](https://web.archive.org/web/20151105060039/http://www.faterpg.com/dl/Fate-SRD-2005-03-31.rtf).
+    [HTML SRD](https://www.darkshire.net/jhkim/rpg/srd/fate/index.html).
     
-    [https://web.archive.org/web/20140222050233/http://www.systemreferencedocuments.org/resources/systems/pennpaper/fate2/fatesrd.html HTML SRD]
+    [HTML SRD](https://web.archive.org/web/20140222050233/http://www.systemreferencedocuments.org/resources/systems/pennpaper/fate2/fatesrd.html)
 connections:
   - has_connection_to_entry: "Evil Hat Productions"
   - has_connection_to_entry: "Fate"

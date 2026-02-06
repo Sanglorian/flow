@@ -20,5 +20,5 @@ groupings:
   - grouping: "Comics"
 licensing:
   - license: "Public domain"
-    explanation: "[http://en.wikipedia.org/wiki/Octobriana Octobriana is not copyright]. Note that works based on Octobriana may still be copyright. NOTE: The legal status of Octobriana is unclear. Consult a lawyer."
+    explanation: "[Octobriana is not copyright](http://en.wikipedia.org/wiki/Octobriana). Note that works based on Octobriana may still be copyright. NOTE: The legal status of Octobriana is unclear. Consult a lawyer."
 ---

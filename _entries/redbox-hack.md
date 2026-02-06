@@ -11,7 +11,7 @@ entry:
   short_description: "A clever reinterpretation of fantasy gaming."
   main_url: "http://redboxhack.blogspot.com/"
   main_description: |-
-    Download the files from [https://web.archive.org/web/20130125034205/http://www.oldschoolhack.net/redboxhack/ here].
+    Download the files from [here](https://web.archive.org/web/20130125034205/http://www.oldschoolhack.net/redboxhack/).
 connections:
   - has_connection_to_entry: "Eric Provost"
   - has_connection_to_entry: "Chris Sakkas"

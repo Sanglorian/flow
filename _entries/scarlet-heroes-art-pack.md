@@ -30,7 +30,7 @@ versions:
     version_price: 0
     version_url: "https://www.drivethrurpg.com/en/product/114894/scarlet-heroes-art-pack"
     explanation: "a ZIP of images"
-  - version_title: "Hosted on [[Open Game Art]]"
+  - version_title: "Hosted on [Open Game Art](/open-game-art/)"
     version_price: 0
     version_url: "https://opengameart.org/content/scarlet-heroes"
     explanation: "the images unzipped, and tagged"

@@ -10,7 +10,7 @@ entry:
   category: Collection
   short_description: "The results of a contest to explain the tension between culture and copyright."
   main_url: "https://web.law.duke.edu/cspd/contest/"
-  main_description: "The [https://web.law.duke.edu/cspd/contest/winners/ winners] are available as gratis RM, MP4 and MOV files as are the [https://web.law.duke.edu/cspd/contest/finalists/ finalists]"
+  main_description: "The [winners](https://web.law.duke.edu/cspd/contest/winners/) are available as gratis RM, MP4 and MOV files as are the [finalists](https://web.law.duke.edu/cspd/contest/finalists/)"
 connections:
   - has_connection_to_entry: "Center for the Study of the Public Domain"
     details_of_connection: "a contributor to, a host of"

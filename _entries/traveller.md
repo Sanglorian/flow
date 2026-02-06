@@ -11,9 +11,9 @@ entry:
   short_description: "A long-lived role-playing game with some setting details."
   main_url: "https://www.mongoosepublishing.com/collections/traveller-rpgs"
   main_description: |-
-    a [http://www.mongoosepublishing.com/pdf/travdevpack.zip Developer's Pack].
+    a [Developer's Pack](http://www.mongoosepublishing.com/pdf/travdevpack.zip).
     
-    [https://www.traveller-srd.com/ SRD]
+    [SRD](https://www.traveller-srd.com/)
 connections:
   - has_connection_to_entry: "Mongoose Publishing"
 groupings:

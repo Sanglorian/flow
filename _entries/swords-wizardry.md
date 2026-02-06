@@ -11,8 +11,8 @@ entry:
   short_description: "A retroclone of original and whitebox Dungeons & Dragons."
   main_url: "https://www.mythmeregames.com/en-au/collections/swords-wizardry"
   main_description: |-
-    Swords & Wizardry is a retroclone of original D&D; Swords & Wizardry Whitebox is a retroclone of whitebox D&D. [http://www.highprogrammer.com/alan/gaming/swords-and-wizardry/rules/index.html Reformatted version]
-    [https://web.archive.org/web/20161103093357/http://www.d20swsrd.com/swords-and-wizardry-srd S&W SRD]
+    Swords & Wizardry is a retroclone of original D&D; Swords & Wizardry Whitebox is a retroclone of whitebox D&D. [Reformatted version](http://www.highprogrammer.com/alan/gaming/swords-and-wizardry/rules/index.html)
+    [S&W SRD](https://web.archive.org/web/20161103093357/http://www.d20swsrd.com/swords-and-wizardry-srd)
 connections:
   - has_connection_to_entry: "Pathfinder SRD"
   - has_connection_to_entry: "Basic Dungeons & Dragons"

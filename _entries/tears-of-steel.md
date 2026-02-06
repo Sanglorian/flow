@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "The results of the Blender Foundation's Mango Project: a sci-fi romance."
   main_url: "https://mango.blender.org/production/tears-of-steel-download-watch/"
-  main_description: "[https://mango.blender.org/gallery/ Tears of Steel gallery]<br /><br />[https://mango.blender.org/production/4-tb-original-4k-footage-available-as-cc-by/ Original 4k footage]"
+  main_description: "[Tears of Steel gallery](https://mango.blender.org/gallery/)<br /><br />[Original 4k footage](https://mango.blender.org/production/4-tb-original-4k-footage-available-as-cc-by/)"
 connections:
   - has_connection_to_entry: "Blender Foundation"
 groupings:

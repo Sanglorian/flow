@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "Ready an army from your old toys!"
   main_url: "N/A"
-  main_description: "The designer has removed the game from his website, but the [http://livingfree.wikidot.com/tbw-srd SRD] is available here."
+  main_description: "The designer has removed the game from his website, but the [SRD](http://livingfree.wikidot.com/tbw-srd) is available here."
 connections:
   - has_connection_to_entry: "Berin Kinsman"
 groupings:

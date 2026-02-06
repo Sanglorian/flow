@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "Humans after civilisation - a tabletop roleplaying game that has been extensively revised."
   main_url: "https://thefifthworld.com/"
-  main_description: "This URL now shows the current version of the game. Previous versions, one of them powered by the [[Fate]] Engine, may be available via the Wayback Machine"
+  main_description: "This URL now shows the current version of the game. Previous versions, one of them powered by the [Fate](/fate/) Engine, may be available via the Wayback Machine"
 groupings:
   - grouping: "Tabletop Roleplaying"
   - grouping: "Art"

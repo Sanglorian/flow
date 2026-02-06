@@ -11,7 +11,7 @@ entry:
   short_description: "The RuneQuest core rules."
   main_url: "https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html"
   main_description: |-
-    [https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html HTML of the Runic System Reference Document]
+    [HTML of the Runic System Reference Document](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html)
 connections:
   - has_connection_to_entry: "Mongoose Publishing"
   - has_connection_to_entry: "d100 System"

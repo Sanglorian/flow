@@ -10,7 +10,7 @@ entry:
   category: Work
   short_description: "A d20-based RPG."
   main_url: "https://greenroninstore.com/collections/true20"
-  main_description: "a [https://www.darkshire.net/jhkim/rpg/srd/srd_true_generic/index.html A third-party SRD with only Open Game Content]"
+  main_description: "a [A third-party SRD with only Open Game Content](https://www.darkshire.net/jhkim/rpg/srd/srd_true_generic/index.html)"
 connections:
   - has_connection_to_entry: "Green Ronin Publishing"
   - has_connection_to_entry: "d20 System"

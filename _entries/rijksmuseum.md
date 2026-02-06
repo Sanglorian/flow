@@ -15,7 +15,7 @@ entry:
 connections:
   - has_connection_to_entry: "rawpixel"
     details_of_connection: "a host of"
-    explanation: "[https://www.rawpixel.com/board/458513/rijksmuseum-plates The Rijksmuseum plates]"
+    explanation: "[The Rijksmuseum plates](https://www.rawpixel.com/board/458513/rijksmuseum-plates)"
 languages:
   - language: "Dutch"
     relationship_of_language: "original"

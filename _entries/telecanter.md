@@ -10,7 +10,7 @@ entry:
   category: Collection
   short_description: "A tabletop RPG website."
   main_url: "http://recedingrules.blogspot.com/"
-  main_description: "[http://recedingrules.blogspot.com/p/public-domain-images.html Public Domain Art]"
+  main_description: "[Public Domain Art](http://recedingrules.blogspot.com/p/public-domain-images.html)"
 groupings:
   - grouping: "Art (Silhouettes)"
   - grouping: "Tabletop Roleplaying"

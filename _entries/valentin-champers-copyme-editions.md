@@ -11,7 +11,7 @@ entry:
   category: Collection
   short_description: "A poet."
   main_url: "http://tviblindi.legtux.org/blog/"
-  main_description: "[http://thepiratebay.se/torrent/8311957 The Pirate Bay torrent]"
+  main_description: "[The Pirate Bay torrent](http://thepiratebay.se/torrent/8311957)"
 languages:
   - language: "French"
 groupings:
