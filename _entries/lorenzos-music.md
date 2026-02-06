@@ -14,12 +14,11 @@ entry:
   main_description: "Remix kit: https://lorenzosmusic.blocsonic.com/; Ardour sessions on GitHub: https://github.com/lorenzosmusic"
 groupings:
   - grouping: "Music"
-licensing: 
-  - license: Creative Commons Attribution-ShareAlike 4.0  
+licensing:
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
 funding:
-  funding_tool: "Bandcamp"
-  explanation: "https://faircamp.lorenzosmusic.com/"
-funding:
-  funding_tool: "ko-fi"
-  explanation: "https://ko-fi.com/lorenzosmusic"
+  - funding_tool: "Bandcamp"
+    explanation: "https://faircamp.lorenzosmusic.com/"
+  - funding_tool: "ko-fi"
+    explanation: "https://ko-fi.com/lorenzosmusic"
 ---

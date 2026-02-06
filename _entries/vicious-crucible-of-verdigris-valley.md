@@ -11,7 +11,7 @@ entry:
   main_url: "https://miriamrobern.itch.io/verdigris"
   main_description:" "Archive backup: https://web.archive.org/web/20150214171426/http://joshroby.com/node/340"
 connections:
-  - has_connection_to_entry: "Josh Roby"
+  - has_connection_to_entry: "Miriam Rebern"
 genres:
   - "Fantasy"
 groupings:

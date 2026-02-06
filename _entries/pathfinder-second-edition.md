@@ -27,8 +27,8 @@ types:
 licensing:
   - license: "ORC License"
     coverage: "Rules"
-	explanation: "Later books during the edition."
+    explanation: "Later books during the edition."
   - license: "Open Game License"
     coverage: "Rules"
-	explanation: "Earlier books during the edition."
+    explanation: "Earlier books during the edition."
 ---

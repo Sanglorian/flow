@@ -15,7 +15,7 @@ entry:
     [HTML SRD](https://brpugesrd.xyz/#/).
     [HTML SRD for the fantasy rules](https://srd.mythras.net/#/).
     [HTML SRD for classic fantasy dungeon crawling](https://cfi-srd.mythras.net/#/).
-	[Handouts and character sheets](https://chaosium.itch.io/basic-roleplaying)
+    [Handouts and character sheets](https://chaosium.itch.io/basic-roleplaying)
 genres:
   - "Fantasy"
   - "Dungeon"

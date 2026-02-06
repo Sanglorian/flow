@@ -11,7 +11,7 @@ entry:
   main_url: "https://web.archive.org/web/20150206174137/http://joshroby.com/node/345"
   main_description: "See also: https://joshroby.livejournal.com/64781.html"
 connections:
-  - has_connection_to_entry: "Josh Roby"
+  - has_connection_to_entry: "Miriam Rebern"
 genres:
   - "Fantasy"
 groupings:
