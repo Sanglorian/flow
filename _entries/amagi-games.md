@@ -10,4 +10,7 @@ entry:
   category: Organisation
   short_description: "A game company which publishes libre tabletop games and supplements."
   main_url: "https://www.drivethrurpg.com/en/publisher/3908/amagi-games"
+  main_description: "Archive of Levi K's games: https://web.archive.org/web/20120910235527/http://members.shaw.ca/LeviK/"
+licensing:
+  license: "Public domain"
 ---
