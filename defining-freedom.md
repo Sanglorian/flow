@@ -9,29 +9,56 @@ permalink: /defining-freedom/
 * [A free, libre and open reader]({{ "/free-culture/a-free-libre-and-open-reader/" | relative_url }})
 * [Creator-endorsed mark]({{ "/free-culture/creator-endorsed-mark/" | relative_url }})
 * [CC Pro]({{ "/free-culture/cc-pro/" | relative_url }})
-* [Day Against DRM]({{ "/free-culture/day-against-drm/" | relative_url }})
 * [Definition of free cultural works]({{ "/free-culture/definition-of-free-cultural-works/" | relative_url }})
-* [Document Freedom Day]({{ "/free-culture/document-freedom-day/" | relative_url }})
-* [Jenny Everywhere Day]({{ "/free-culture/jenny-everywhere-day/" | relative_url }})
 * [Making your work free and open]({{ "/free-culture/making-your-work-free-and-open/" | relative_url }})
-* [Open Access Week]({{ "/free-culture/open-access-week/" | relative_url }})
-* [Open Education Week]({{ "/free-culture/open-education-week/" | relative_url }})
 * [Press release 2015-10-17]({{ "/free-culture/press-release-2015-10-17/" | relative_url }})
 * [Promised libre works]({{ "/free-culture/promised-libre-works/" | relative_url }})
 * [Public Copyright License]({{ "/free-culture/public-copyright-license/" | relative_url }})
-* [Public Domain Day]({{ "/free-culture/public-domain-day/" | relative_url }})
 * [Public Domain Manifesto]({{ "/free-culture/public-domain-manifesto/" | relative_url }})
 * [Who needs access?]({{ "/free-culture/who-needs-access/" | relative_url }})
 
 ## Special days
-| Name of the day | Date | Notes |
-| --- | --- | --- |
-| Day Against DRM | 4 May | Campaign against Digital Rights Management. |
-| Document Freedom Day | 30 March | Celebrates open document formats and their importance. |
-| Jenny Everywhere Day | 13 August | Celebrates the first superhero released under a libre license. |
-| Open Access Week | Not specified | See the Open Access Week site for the current schedule. |
-| Open Education Week | Not specified | Raises awareness of the open education movement and its impact on teaching and learning worldwide. |
-| Public Domain Day | 1 January | Marks when new works enter the public domain. |
+<table>
+  <thead>
+    <tr>
+      <th>Name of the day</th>
+      <th>Date</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="{{ "/free-culture/day-against-drm/" | relative_url }}">Day Against DRM</a></td>
+      <td>4 May</td>
+      <td>Campaign against Digital Rights Management.</td>
+    </tr>
+    <tr>
+      <td><a href="{{ "/free-culture/document-freedom-day/" | relative_url }}">Document Freedom Day</a></td>
+      <td>30 March</td>
+      <td>Celebrates open document formats and their importance.</td>
+    </tr>
+    <tr>
+      <td><a href="{{ "/free-culture/jenny-everywhere-day/" | relative_url }}">Jenny Everywhere Day</a></td>
+      <td>13 August</td>
+      <td>Celebrates the first superhero released under a libre license.</td>
+    </tr>
+    <tr>
+      <td><a href="{{ "/free-culture/open-access-week/" | relative_url }}">Open Access Week</a></td>
+      <td>Not specified</td>
+      <td>See the Open Access Week site for the current schedule.</td>
+    </tr>
+    <tr>
+      <td><a href="{{ "/free-culture/open-education-week/" | relative_url }}">Open Education Week</a></td>
+      <td>Not specified</td>
+      <td>Raises awareness of the open education movement and its impact on teaching and learning worldwide.</td>
+    </tr>
+    <tr>
+      <td><a href="{{ "/free-culture/public-domain-day/" | relative_url }}">Public Domain Day</a></td>
+      <td>1 January</td>
+      <td>Marks when new works enter the public domain.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## What is freedom?
 What are "free, libre and open" works? Why are some films, books and artworks on this site marked as "free, libre and open", but others are not?
@@ -100,11 +127,11 @@ There are two forms of copyleft. Strong copyleft works can only be distributed w
 A license without a reciprocal condition is called a ‘permissive’ or ‘copyfree’ license.
 
 #### Protection of freedoms
-These are a set of conditions which require the work to be friendly to the end user. For example, there’s not much use giving me the legal right to edit a program if the program cannot be edited. 
+These are a set of conditions which require the work to be friendly to the end user. For example, there’s not much use giving me the legal right to edit a program if the program cannot be edited.
 
 As with the other conditions listed above, these are only present in some libre licenses.
 
-* **Availability of source data:** The information and files behind a work must also be made available. For example, the code of a program or the 3D models used in a movie must be made available as well. 
+* **Availability of source data:** The information and files behind a work must also be made available. For example, the code of a program or the 3D models used in a movie must be made available as well.
 * **Use of a free format:** The work is available in (and perhaps only available in) a file format that is not protected by intellectual property law. Otherwise, a work could be made impossible to open if the owners of that format banned its use in software.
-* **No technical restrictions:** The work cannot have its freedoms locked away by technology like DRM (Digital Rights Management, which stops files from being opened and copied in certain ways). 
-* **No other restrictions or limitations:** Other legal restrictions like contracts, patents and so on, cannot be imposed on the work. 
+* **No technical restrictions:** The work cannot have its freedoms locked away by technology like DRM (Digital Rights Management, which stops files from being opened and copied in certain ways).
+* **No other restrictions or limitations:** Other legal restrictions like contracts, patents and so on, cannot be imposed on the work.

@@ -15,5 +15,5 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution"
-    explanation: "License listed for the website: https://web.archive.org/web/20140818093151/http://nickwedig.libraryofhighmoon.com/2012/12/baba-yagas-dancing-hut/"
+    explanation: "License listed for the website but unclear if it applies to the PDF as well: https://web.archive.org/web/20140818093151/http://nickwedig.libraryofhighmoon.com/2012/12/baba-yagas-dancing-hut/"
 ---
