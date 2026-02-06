@@ -33,7 +33,7 @@ funding:
     funding_type: "sales"
 connections:
   - has_connection_to_entry: "Pathfinder Second Edition"
-    details_of_connection: "adapted from"
+    details_of_connection: "adaptation"
   - has_connection_to_entry: "Jason Bulmahn"
     details_of_connection: "author"
 ---

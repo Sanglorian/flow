@@ -32,5 +32,5 @@ versions:
     version_url: "https://www.lulu.com/shop/sepulchral-verdigris/path-2-victory/paperback/product-p69qg4r.html"
 connections:
   - has_connection_to_entry: "Pathfinder Second Edition"
-    details_of_connection: "adapted from"
+    details_of_connection: "adaptation"
 ---
