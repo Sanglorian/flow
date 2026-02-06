@@ -17,6 +17,8 @@ entry:
 
     Happy Gaming!'
     Archive: https://web.archive.org/web/20150206174143/http://joshroby.com/node/347
+connections:
+  - has_connection_to_entry: "Miriam Rebern"
 genres:
   - "Fantasy"
 languages:

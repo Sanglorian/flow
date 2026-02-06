@@ -8,8 +8,9 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
+  short_description: "There is a whole lot happening in Verdigris Valley, the borderlands between the Kingdom of Kotalia and the high steppes of the Pashuan tribes."
   main_url: "https://miriamrobern.itch.io/verdigris"
-  main_description:" "Archive backup: https://web.archive.org/web/20150214171426/http://joshroby.com/node/340"
+  main_description: "Archive backup: https://web.archive.org/web/20150214171426/http://joshroby.com/node/340"
 connections:
   - has_connection_to_entry: "Miriam Rebern"
 genres:
