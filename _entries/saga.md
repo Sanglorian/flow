@@ -12,7 +12,8 @@ entry:
   main_url: "https://yggdrasildistro.wordpress.com/free-diy-roleplaying-material/"
   main_description: "A supplement also allows for miniatures gaming."
 groupings:
-  - grouping: "Tabletop Game (RPG), Miniatures Game"
+  - grouping: "Tabletop Game (RPG)"
+  - grouping: "Miniatures Game"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
 ---

@@ -13,7 +13,8 @@ entry:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Art (3D Art), Video Game"
+  - grouping: "Art (3D Art)"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

@@ -13,7 +13,8 @@ entry:
 connections:
   - has_connection_to_entry: "Thomas More, Stephen Duncombe"
 groupings:
-  - grouping: "Literature, Information"
+  - grouping: "Literature"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

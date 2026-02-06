@@ -13,7 +13,9 @@ entry:
 connections:
   - has_connection_to_entry: "Commonly"
 groupings:
-  - grouping: "Art, Music, Software"
+  - grouping: "Art"
+  - grouping: "Music"
+  - grouping: "Software"
 licensing:
   - license: "CC0 1.0 Universal"
 ---

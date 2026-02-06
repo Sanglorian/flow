@@ -13,7 +13,8 @@ entry:
     Flying with it is the Golden Record, a documentation of the sounds of Earth. Listen."
   main_url: "https://web.archive.org/web/20150225202305/http://web.mit.edu/lilybui/www/"
 groupings:
-  - grouping: "Music, Sound Effects"
+  - grouping: "Music"
+  - grouping: "Sound Effects"
 types:
   - type: "Audio"
     distribution: "electronic"

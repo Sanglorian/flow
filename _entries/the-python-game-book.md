@@ -12,7 +12,8 @@ entry:
   main_url: "https://github.com/horstjens/ThePythonGameBook"
   main_description: "Archived wiki site: https://web.archive.org/web/20150207005812/http://thepythongamebook.com/en:start"
 groupings:
-  - grouping: "Information, Video Game"
+  - grouping: "Information"
+  - grouping: "Video Game"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

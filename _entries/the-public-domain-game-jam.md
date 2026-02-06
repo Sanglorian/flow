@@ -13,7 +13,8 @@ entry:
 connections:
   - has_connection_to_entry: "Nicky Case"
 groupings:
-  - grouping: "Video Game, Art"
+  - grouping: "Video Game"
+  - grouping: "Art"
 licensing:
   - license: "CC0 1.0 Universal"
 ---

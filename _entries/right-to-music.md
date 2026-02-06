@@ -13,7 +13,8 @@ entry:
 genres:
   - "IP Minimalism"
 groupings:
-  - grouping: "Music, Information"
+  - grouping: "Music"
+  - grouping: "Information"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
 ---

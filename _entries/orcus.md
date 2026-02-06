@@ -20,6 +20,7 @@ genres:
   - "Dungeon"
 licensing:
   - license: "Open Game License"
+    explanation: "The Heroes' Handbook and Game Master's Guide."
   - license: "Creative Commons Attribution 4.0"
     explanation: "A 'basic' version."
 ---
