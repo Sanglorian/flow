@@ -7,6 +7,7 @@ updated_at: 2026-02-06
 contributors:
 - "Sanglorian"
 entry:
+  featured_entry: true
   category: "Work"
   short_description: "'Sahipkıran is a fast and easy-to-learn, mini-agnostic tabletop wargame which you can use your miniature figures to fight battles with.'"
   main_url: "https://hexhunt.itch.io/sahipkiran2"
