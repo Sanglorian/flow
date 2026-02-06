@@ -34,6 +34,6 @@ licensing:
     explanation: "All assets are free and open, but under a range of licenses."
 funding:
   -
-    funding_tool: "https://www.indiegogo.com/projects/retux"
+    funding_tool: "IndieGoGo"
     explanation: "Failed to meet its target; had flexible funding."
 ---

@@ -36,5 +36,5 @@ licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     license_coverage: "entirety"
 funding:
-  - funding_tool: "unglue.it"
+  - funding_tool: "Unglue.it"
 ---

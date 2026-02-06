@@ -26,6 +26,6 @@ licensing:
   - license: "Public Domain Dedication 1.0"
     license_coverage: "part"
 funding:
-  - funding-tool: "Patreon"
+  - funding_tool: "Patreon"
     explanation: "https://www.patreon.com/cw/tmkeesey?fan_landing=true"
 ---

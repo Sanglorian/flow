@@ -16,6 +16,6 @@ licensing:
   - license: "Creative Commons Attribution-ShareAlike"
     explanation: "Only the samples, stems and instruments are so licensed."
 funding:
-  - funding-tool: "Kickstarter"
+  - funding_tool: "Kickstarter"
     explanation: "https://www.kickstarter.com/projects/cotec/subaqueous-usb-splash-drive-and-remix-album"
 ---

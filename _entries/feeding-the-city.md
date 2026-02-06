@@ -18,6 +18,6 @@ licensing:
   - license: "Creative Commons Attribution-NoDerivatives 4.0"
     license_coverage: "entirety"
 funding:
-  funding_tool: "unglue.it"
+  funding_tool: "Unglue.it"
   funding_type: "ransom"
 ---
