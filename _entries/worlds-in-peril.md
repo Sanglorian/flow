@@ -38,7 +38,7 @@ types:
   - type: "Book"
     distribution: "electronic"
 licensing:
-  - license: "Creative Common Attribution-ShareAlike 3.0 (Unported)"
+  - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     license_coverage: "text only"
 funding:
   funding_type: "Sales"

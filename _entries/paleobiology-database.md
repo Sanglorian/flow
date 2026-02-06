@@ -16,6 +16,6 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution"
     explanation: "Former license."
-  - license: "CC0 1.0"
+  - license: "CC0 1.0 Universal"
     explanation: "https://docs.google.com/document/d/e/2PACX-1vQPrlNL2sUTFbZAzZFs2Jhs4j-1h3RfAIFNl54JstnHfxhhRcjMGImGU4VRk89C9Er_kNEWj7NTAqaR/pub"
 ---

@@ -31,5 +31,5 @@ types:
   - type: "Book"
     distribution: "hardcopy"
 licensing:
-  - license: "CC 1.0 Universal"
+  - license: "CC0 1.0 Universal"
 ---

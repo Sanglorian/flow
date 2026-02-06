@@ -14,5 +14,5 @@ entry:
 groupings:
   - grouping: "Art"
 licensing:
-  - license: "CC licenses"
+  - license: "Creative Commons Licenses"
 ---

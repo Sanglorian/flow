@@ -16,6 +16,6 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0"
     explanation: "https://web.archive.org/web/20210926024924/https://www.isitopendata.org/about/#license"
-  - license: "Affero General Public License 3.0"
+  - license: "GNU Affero General Public License 3.0"
     explanation: "https://web.archive.org/web/20210926024924/https://www.isitopendata.org/about/#license"
 ---

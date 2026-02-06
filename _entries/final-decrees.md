@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Card Game"
 licensing:
-  - license: "Creative Commons Attribution 3.0 (NZ)"
+  - license: "Creative Commons Attribution 3.0 (New Zealand)"
 ---

@@ -16,5 +16,5 @@ genres:
 groupings:
   - grouping: "Information"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (United States)"
+  - license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (US)"
 ---

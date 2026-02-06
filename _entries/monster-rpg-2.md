@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Video Gaming"
 licensing:
-  - license: "Give It Your Own License, License"
+  - license: "Give It Your Own License"
 ---

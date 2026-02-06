@@ -15,6 +15,6 @@ connections:
 groupings:
   - grouping: "Music"
 licensing:
-  - license: "CC Sampling+"
-  - license: "CC NC-Sampling+"
+  - license: "Creative Commons Sampling Plus"
+  - license: "Creative Commons NonCommercial Sampling Plus"
 ---

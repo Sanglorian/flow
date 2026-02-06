@@ -13,5 +13,5 @@ entry:
 groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
-  - license: "Creative Commons Attribution-Noncommercial 4.0"
+  - license: "Creative Commons Attribution-NonCommercial 4.0"
 ---

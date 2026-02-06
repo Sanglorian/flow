@@ -23,7 +23,7 @@ licensing:
     explanation: "The software itself."
   - license: "Creative Commons Attribution 3.0 (Unported)"
     license_coverage: "part"
-  - license: "Public Domain Dedication 1.0"
+  - license: "Public Domain Dedication"
     license_coverage: "part"
 funding:
   - funding_tool: "Patreon"

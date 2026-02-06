@@ -31,7 +31,7 @@ types:
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     license_coverage: "part"
-  - license: "Public Domain Declaration"
+  - license: "Public Domain Dedication"
     license_coverage: "part"
   - license: "Creative Commons Attribution 3.0 (Unported)"
     license_coverage: "part"

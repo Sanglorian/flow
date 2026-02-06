@@ -31,7 +31,7 @@ types:
   - type: "Book"
     distribution: "electronic"
 licensing:
-  - license: "Creative Commons Attribution-ShareAlike 4.0 International"
+  - license: "Creative Commons Attribution-ShareAlike 4.0"
 funding:
   - funding_tool: "DriveThru"
     funding_type: "sales"

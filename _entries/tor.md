@@ -16,5 +16,5 @@ groupings:
   - grouping: "Software"
 licensing:
   - license: "Creative Commons Attribution"
-  - license: "BSD"
+  - license: "BSD License"
 ---

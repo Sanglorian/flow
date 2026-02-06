@@ -16,7 +16,7 @@ groupings:
   - grouping: "Technology"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike"
-  - license: "GPL"
+  - license: "GNU General Public License"
 versions:
   - version_title: "Database repository"
     version_format: "SQL"

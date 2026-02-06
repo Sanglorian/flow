@@ -15,7 +15,7 @@ connections:
 groupings:
   - grouping: "Card Game"
 licensing:
-  - license: "Creative Commons Attribution 3.0 (United States)"
+  - license: "Creative Commons Attribution 3.0 (US)"
 versions:
   - version_title: "Print-on-demand deck"
     version_format: "POD"

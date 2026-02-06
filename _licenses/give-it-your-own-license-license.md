@@ -1,6 +1,6 @@
 ---
 layout: license
-title: Give It Your Own License, License
+title: Give It Your Own License
 abbreviation: GIYO
 created_at: 2015-10-11T01:29:02Z
 updated_at: 2015-10-11T01:29:02Z

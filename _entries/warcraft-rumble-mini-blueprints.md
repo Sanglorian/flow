@@ -15,7 +15,7 @@ genres:
 groupings:
   - grouping: "3D Art"
 licensing:
-  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International"
+  - license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0"
 connections:
   - has_connection_to_entry: "Blizzard"
     details_of_connection: "publisher"

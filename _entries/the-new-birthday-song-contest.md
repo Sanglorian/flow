@@ -15,5 +15,5 @@ connections:
 groupings:
   - grouping: "Music"
 licensing:
-  - license: "Creative Commons Attribution 3.0 (International)"
+  - license: "Creative Commons Attribution 3.0 (Unported)"
 ---

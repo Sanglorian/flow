@@ -21,10 +21,10 @@ types:
   - type: "Website"
     distribution: "electronic"
 licensing:
-  - license: "BSD"
+  - license: "BSD License"
     license_coverage: "entirety"
     explanation: "https://github.com/bjorn/tiled"
-  - license: "Apache"
+  - license: "Apache License 2.0"
     license_coverage: "entirety"
     explanation: "https://github.com/bjorn/tiled"
   - license: "GNU General Public License 2.0"

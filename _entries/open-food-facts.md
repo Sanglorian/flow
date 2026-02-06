@@ -12,7 +12,7 @@ entry:
 groupings:
   - grouping: "Data"
 licensing:
-  - license: "ODBL"
+  - license: "Open Data Commons Open Database License"
   - license: "Creative Commons Attribution-ShareAlike"
-  - license: "DBLC"
+  - license: "Open Data Commons Database Contents License"
 ---

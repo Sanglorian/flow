@@ -14,5 +14,5 @@ groupings:
 licensing:
   - license: "Creative Commons Attribution"
   - license: "Creative Commons Attribution-ShareAlike"
-  - license: "OWFa"
+  - license: "Open Web Foundation Agreement"
 ---

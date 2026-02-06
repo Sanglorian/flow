@@ -19,5 +19,5 @@ entry:
 groupings:
   - grouping: "Video Gaming"
 licensing:
-  - license: "MIT"
+  - license: "MIT License"
 ---
