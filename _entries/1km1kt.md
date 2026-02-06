@@ -9,4 +9,5 @@ contributors:
 entry:
   category: Collection
   main_url: "http://www.1km1kt.net/"
+  thumbnail: "/thumbnails/1km1kt.jpg"
 ---

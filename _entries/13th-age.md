@@ -11,6 +11,7 @@ entry:
   main_url: "https://pelgranepress.com/2013/10/24/the-archmage-engine-13th-age-srd/"
   main_description: |-
     [3rd party HTML SRD](https://www.13thagesrd.com/)
+  thumbnail: "/thumbnails/13th-age.png"
 connections:
   - has_connection_to_entry: "Pelgrane Press"
 groupings:

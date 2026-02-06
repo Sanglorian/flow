@@ -10,6 +10,7 @@ entry:
   category: Collection
   short_description: "Royalty free music."
   main_url: "https://www.youtube.com/user/MMMontageMusic"
+  thumbnail: "/thumbnails/argofox.jpg"
 connections:
   - has_connection_to_entry: "YouTube"
 groupings:

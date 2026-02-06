@@ -11,6 +11,7 @@ entry:
   category: Work
   short_description: "A performance of Bach's Goldberg Variations."
   main_url: "http://www.opengoldbergvariations.org/"
+  thumbnail: "/thumbnails/open-goldberg-variations.jpg"
 connections:
   - has_connection_to_entry: "MuseScore"
   - has_connection_to_entry: "Kimiko Ishizaka"

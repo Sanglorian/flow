@@ -10,6 +10,7 @@ entry:
   category: Work
   short_description: "\"Secret Hitler is a social deduction game for 5–10 people about finding and stopping the Secret Hitler.\""
   main_url: "http://www.secrethitler.com/"
+  thumbnail: "/thumbnails/secret-hitler.webp"
 languages:
   - language: "English"
     relationship_of_language: "original"

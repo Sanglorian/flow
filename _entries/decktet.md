@@ -11,6 +11,7 @@ entry:
   category: Work
   main_url: "https://www.decktet.com/index.php"
   main_description: "Most of the decks are all rights reserved, but the [print & play version](https://www.decktet.com/getit.php) is licensed."
+  thumbnail: "/thumbnails/decktet.jpg"
 groupings:
   - grouping: "Card Game"
 licensing:

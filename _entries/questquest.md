@@ -9,6 +9,7 @@ contributors:
 entry:
   category: Collection
   main_url: "https://github.com/JustinNichol/questquest"
+  thumbnail: "/thumbnails/questquest.png"
 connections:
   - has_connection_to_entry: "Justin Nichols"
     details_of_connection: "a contributor to"
