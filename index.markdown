@@ -77,8 +77,6 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
   <h2>Orphans</h2>
   <ul>
     <li><a href="{{ "/orphaned-facets/" | relative_url }}">Orphaned facets</a></li>
-    <li><a href="{{ "/orphaned-groupings/" | relative_url }}">Orphaned groupings</a></li>
-    <li><a href="{{ "/orphaned-licenses/" | relative_url }}">Orphaned licenses</a></li>
     <li><a href="{{ "/works-not-on-the-wiki/" | relative_url }}">Works not on the wiki</a></li>
   </ul>
 </section>
