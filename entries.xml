@@ -15,13 +15,14 @@ permalink: /entries.xml
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ site.url }}{{ site.baseurl }}/</id>
   {% for entry in entries %}
-    {% assign created_seconds = entry.created_at | date: "%s" | plus: 0 %}
+    {% assign created_at_iso = entry.created_at | date: "%Y-%m-%dT%H:%M:%SZ" %}
+    {% assign created_seconds = created_at_iso | date: "%s" | plus: 0 %}
     {% if created_seconds >= cutoff_seconds %}
   <entry>
     <title>{{ entry.title | xml_escape }}</title>
     <link href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}"/>
     <id>{{ site.url }}{{ site.baseurl }}{{ entry.url }}</id>
-    <updated>{{ entry.created_at | date_to_xmlschema }}</updated>
+    <updated>{{ created_at_iso | date_to_xmlschema }}</updated>
     {% if entry.entry.short_description %}
     <summary>{{ entry.entry.short_description | xml_escape }}</summary>
     {% endif %}
