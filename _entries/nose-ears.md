@@ -20,7 +20,7 @@ groupings:
   - grouping: "Comics"
   - grouping: "Font"
 licensing:
-  - license: "Creative Commons Attribution Share-Alike 3.0 Unported"
+  - license: "Creative Commons Attribution Share-Alike 3.0 (Unported)"
     explanation: "https://wuzzy.neocities.org/meta/credits/"
 connections:
   - has_connection_to_entry: "Mimi & Eunice"

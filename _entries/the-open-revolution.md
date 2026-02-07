@@ -37,5 +37,5 @@ licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     license_coverage: "entirety"
 funding:
-  funding_type: "sales"
+  - funding_type: "sales"
 ---

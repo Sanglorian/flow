@@ -30,6 +30,5 @@ licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
     license_coverage: "entirety"
 funding:
-  -
-    funding_type: "gratis"
+  - funding_type: "gratis"
 ---

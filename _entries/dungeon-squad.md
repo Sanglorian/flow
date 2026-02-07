@@ -32,8 +32,4 @@ licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 2.5"
     license_coverage: "unclear"
     explanation: "Mentioned obliquely here: http://www.1km1kt.net/forum/viewtopic.php?t=415"
-funding:
-  -
-    funding_tool: "website"
-    funding_type: "free"
 ---

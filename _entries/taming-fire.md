@@ -36,7 +36,7 @@ types:
     distribution: "hardcopy"
 funding:
   - funding_type: "Amazon"
-  - explanation: https://www.amazon.com/Taming-Fire-Dragonprinces-Legacy-Book-ebook/dp/B07PV2VSRV
+    explanation: https://www.amazon.com/Taming-Fire-Dragonprinces-Legacy-Book-ebook/dp/B07PV2VSRV
 licensing:
   - license: "CC0 1.0 Universal"
     license_coverage: "entirety"

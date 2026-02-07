@@ -16,5 +16,5 @@ groupings:
   - grouping: Software
 licensing:
   - license: GNU Affero General Public License 3.0
-  - explanation: "https://github.com/libre-fm/gnu-fm-changes"
+    explanation: "https://github.com/libre-fm/gnu-fm-changes"
 ---

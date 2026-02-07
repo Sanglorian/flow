@@ -28,7 +28,7 @@ types:
     distribution: "electronic"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 4.0"
-  - explanation: "https://itch.io/blog/1286128/sahipkran-is-now-fully-open-cc-by-sa"
+    explanation: "https://itch.io/blog/1286128/sahipkran-is-now-fully-open-cc-by-sa"
 connections:
   - has_connection_to_entry: "Utku Tönel"
     details_of_connection: "author"

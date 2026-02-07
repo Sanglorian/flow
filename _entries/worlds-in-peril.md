@@ -41,5 +41,5 @@ licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     license_coverage: "text only"
 funding:
-  funding_type: "Sales"
+  - funding_type: "sales"
 ---

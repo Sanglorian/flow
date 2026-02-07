@@ -21,5 +21,5 @@ licensing:
     license_coverage: "entirety"
     explanation: "All versions"
 funding:
-  funding_type: "gratis"
+  - funding_type: "gratis"
 ---
