@@ -111,6 +111,29 @@ jobs:
               return path.extname(cleaned).replace(".", "").toLowerCase();
             };
 
+            const resolveThumbnailPath = (value, fallbackSlug) => {
+              const lines = parseLines(value);
+              if (lines.length === 0) {
+                return "";
+              }
+              const line = lines[0];
+              const markdownMatch = line.match(/\(([^)]+)\)/);
+              const candidate = (markdownMatch ? markdownMatch[1] : line).trim();
+              if (!candidate) {
+                return "";
+              }
+              const cleaned = candidate.split("?")[0].split("#")[0];
+              const isUrl = /^https?:\/\//i.test(cleaned);
+              if (!isUrl && !cleaned.includes("/")) {
+                return `thumbnails/${cleaned}`;
+              }
+              if (!isUrl) {
+                return cleaned.startsWith("/") ? cleaned.slice(1) : cleaned;
+              }
+              const extension = extractThumbnailExtension(value) || "png";
+              return `thumbnails/${fallbackSlug}.${extension}`;
+            };
+
             const issueFields = parseIssueForm(body);
             const entryData = {};
             for (const [key, label] of Object.entries(fieldLabels)) {
@@ -195,9 +218,11 @@ jobs:
               yamlLines.push(`  year_of_publication: ${yamlValue(entryData.year_of_publication, 2)}`);
             }
             if (entryData.new_thumbnail) {
-              const thumbnailExtension = extractThumbnailExtension(entryData.new_thumbnail) || "png";
-              const thumbnailName = `${slug || `entry-${issue.number}`}.${thumbnailExtension}`;
-              yamlLines.push(`  thumbnail: ${yamlValue(`thumbnails/${thumbnailName}`, 2)}`);
+              const fallbackSlug = slug || `entry-${issue.number}`;
+              const thumbnailPath = resolveThumbnailPath(entryData.new_thumbnail, fallbackSlug);
+              if (thumbnailPath) {
+                yamlLines.push(`  thumbnail: ${yamlValue(thumbnailPath, 2)}`);
+              }
             }
             if (entryData.wikidata_code) {
               yamlLines.push(`  wikidata_code: ${yamlValue(entryData.wikidata_code, 2)}`);
