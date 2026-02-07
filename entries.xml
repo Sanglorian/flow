@@ -8,7 +8,7 @@ permalink: /entries.xml
 {%- assign cutoff_seconds = now_seconds | minus: window_seconds -%}
 {%- assign entries = site.entries | where_exp: "entry", "entry.created_at" | sort: "created_at" | reverse -%}
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>{{ site.title | xml_escape }}</title>
   <link href="{{ site.url }}{{ site.baseurl }}/entries.xml" rel="self"/>
   <link href="{{ site.url }}{{ site.baseurl }}/"/>
@@ -23,6 +23,41 @@ permalink: /entries.xml
     <link href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}"/>
     <id>{{ site.url }}{{ site.baseurl }}{{ entry.url }}</id>
     <updated>{{ created_at_iso | date_to_xmlschema }}</updated>
+    {% if entry.entry.thumbnail %}
+      {% assign thumbnail_path = entry.entry.thumbnail %}
+      {% assign thumbnail_prefix = thumbnail_path | slice: 0, 4 %}
+      {% assign thumbnail_slash = thumbnail_path | slice: 0, 1 %}
+      {% unless thumbnail_slash == "/" or thumbnail_prefix == "http" %}
+        {% assign thumbnail_path = "/" | append: thumbnail_path %}
+      {% endunless %}
+      {% if thumbnail_prefix == "http" %}
+        {% assign thumbnail_url = thumbnail_path %}
+      {% else %}
+        {% assign thumbnail_url = thumbnail_path | prepend: site.baseurl | prepend: site.url %}
+      {% endif %}
+    <media:thumbnail url="{{ thumbnail_url | xml_escape }}"/>
+    {% endif %}
+    {% if entry.entry.category == "Work" %}
+      {% if entry.groupings %}
+        {% for grouping in entry.groupings %}
+    <category term="{{ grouping.grouping | xml_escape }}" scheme="{{ site.url }}{{ site.baseurl }}/grouping/" label="Grouping"/>
+        {% endfor %}
+      {% endif %}
+      {% if entry.genres %}
+        {% for genre in entry.genres %}
+    <category term="{{ genre | xml_escape }}" scheme="{{ site.url }}{{ site.baseurl }}/genre/" label="Genre"/>
+        {% endfor %}
+      {% endif %}
+      {% if entry.licensing %}
+        {% for license_item in entry.licensing %}
+    <category term="{{ license_item.license | xml_escape }}" scheme="{{ site.url }}{{ site.baseurl }}/license/" label="License"/>
+          {% assign license_record = site.licenses | where: "title", license_item.license | first %}
+          {% if license_record and license_record.main_url %}
+    <link rel="license" href="{{ license_record.main_url | xml_escape }}" title="{{ license_item.license | xml_escape }}"/>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
     {% if entry.entry.short_description %}
     <summary>{{ entry.entry.short_description | xml_escape }}</summary>
     {% endif %}
