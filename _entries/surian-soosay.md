@@ -10,7 +10,7 @@ entry:
   category: Collection
   main_url: "https://commons.wikimedia.org/w/index.php?search=Surian+Soosay&title=Special%3AMediaSearch&type=image"
 groupings:
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
     explanation: "Formerly, more art was hosted on Flickr."
 licensing:
   - license: "Creative Commons Attribution 2.5 (Scotland)"

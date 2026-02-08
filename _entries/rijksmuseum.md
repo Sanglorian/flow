@@ -23,7 +23,7 @@ languages:
     relationship_of_language: "official translation"
 groupings:
   - grouping: "Photography"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Public domain"
     license_coverage: "part"

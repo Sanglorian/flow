@@ -28,7 +28,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Picturebooks"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
     explanation: "The pictures without text are also available."
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"

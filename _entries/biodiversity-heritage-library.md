@@ -22,7 +22,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Nonfiction"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Public domain"
 ---

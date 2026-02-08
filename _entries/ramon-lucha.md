@@ -11,7 +11,7 @@ entry:
   short_description: "An artist."
   main_url: "https://web.archive.org/web/20160309142507/http://ramonlucha.com/"
 groupings:
-  - grouping: "Painting"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license_coverage: "Art on archived site."

@@ -16,7 +16,7 @@ connections:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license_coverage: "entirety"

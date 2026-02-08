@@ -13,7 +13,7 @@ entry:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     explanation: "with request 'that you use the assets only for what they are intended for - generating your own Gloomhaven content'"

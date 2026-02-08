@@ -20,7 +20,7 @@ connections:
 groupings:
   - grouping: "Tabletop Gaming"
   - grouping: "Vector Art and Symbols"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
   - grouping: "Art"
   - grouping: "Font"
 licensing:

@@ -22,7 +22,7 @@ connections:
   - has_connection_to_entry: "Freezing Moon"
 groupings:
   - grouping: "Video Gaming"
-  - grouping: "Painting"
+  - grouping: "Illustration"
   - grouping: "3D Art"
   - grouping: "Music"
 licensing:

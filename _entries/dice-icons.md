@@ -12,7 +12,7 @@ entry:
   main_url: "https://itomi.itch.io/rpg-dice-icons"
 groupings:
   - grouping: "Vector Art and Symbols"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution 4.0"
 ---

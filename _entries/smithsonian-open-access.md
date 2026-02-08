@@ -16,7 +16,7 @@ languages:
 groupings:
   - grouping: "Nonfiction"
   - grouping: "Photography"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
   - grouping: "3D Art"
 licensing:
   - license: "CC0 1.0 Universal"

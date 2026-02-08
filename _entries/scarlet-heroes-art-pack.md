@@ -18,8 +18,8 @@ connections:
 genres:
   - "Fantasy"
 groupings:
-  - grouping: "Painting"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
+  - grouping: "Illustration"
 types:
   - type: "Graphic"
     distribution: "electronic"

@@ -13,7 +13,7 @@ entry:
   main_url: "http://opengameart.org/"
 groupings:
   - grouping: "3D Art"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
   - grouping: "Vector Art and Symbols"
   - grouping: "Video Gaming"
 funding:

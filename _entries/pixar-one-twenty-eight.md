@@ -15,7 +15,7 @@ connections:
   - has_connection_to_entry: "Pixar"
     details_of_connection: "a contributor to"
 groupings:
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license_coverage: "entirety"

@@ -12,7 +12,7 @@ entry:
   short_description: "Collection of free-to-publish genre illustrations."
   main_url: "http://ucag.jw-sheldon.com/"
 groupings:
-  - grouping: "Painting"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution"
 funding:

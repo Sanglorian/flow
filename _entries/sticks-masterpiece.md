@@ -29,7 +29,7 @@ languages:
     relationship_of_language: "official translation"
 groupings:
   - grouping: "Picturebooks"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
     explanation: "The pictures without text are also available. https://www.flickr.com/photos/98925832@N05/albums/72157634658067470/"
   - grouping: "Literature"
 types:

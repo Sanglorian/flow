@@ -14,7 +14,7 @@ entry:
   main_description: "[Wikimedia Commons page](https://commons.wikimedia.org/wiki/Category:Free_art_by_Kim_Diaz_Holm)."
   thumbnail: "thumbnails/kim-diaz-holm.jpg"
 groupings:
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
   - grouping: "Comics"
 licensing:
   - license: "Creative Commons Attribution 4.0"

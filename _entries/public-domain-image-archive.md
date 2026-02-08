@@ -14,7 +14,7 @@ entry:
 languages:
   - language: "English"
 groupings:
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Public domain"
 connections:

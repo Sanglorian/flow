@@ -18,7 +18,7 @@ genres:
 groupings:
   - grouping: "Concept Art"
     is_or_about_grouping: "is"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
     is_or_about_grouping: "is"
 licensing:
   - license: "Creative Commons Attribution"

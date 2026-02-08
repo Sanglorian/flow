@@ -16,7 +16,7 @@ languages:
     relationship_of_language: "original"
 groupings:
   - grouping: "Photography"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "CC0 1.0 Universal"
     license_coverage: "part"

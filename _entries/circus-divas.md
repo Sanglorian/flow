@@ -25,7 +25,7 @@ languages:
   - language: "English"
     relationship_of_language: "original"
 groupings:
-  - grouping: "Painting"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution-ShareAlike 3.0 (Unported)"
     license_coverage: "part"

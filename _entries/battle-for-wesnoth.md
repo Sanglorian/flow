@@ -15,7 +15,7 @@ genres:
 groupings:
   - grouping: "Video Gaming"
   - grouping: "Pixel Art"
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
   - grouping: "Music"
 licensing:
   - license: "GNU General Public License"

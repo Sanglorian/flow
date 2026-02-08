@@ -15,7 +15,7 @@ genres:
   - "Fantasy"
   - "Dungeon"
 groupings:
-  - grouping: "Raster Art"
+  - grouping: "Illustration"
 licensing:
   - license: "Creative Commons Attribution 4.0"
 funding:
