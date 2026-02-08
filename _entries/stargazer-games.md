@@ -9,7 +9,7 @@ contributors:
 entry:
   category: 
     - "Organisation"
-	- "Collection"
+    - "Collection"
   short_description: "Publisher of free-of-charge roleplaying games."
   main_url: "https://www.stargazergames.eu/other-games/"
 genres:

@@ -40,6 +40,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - migrationtracker
+  - taxonomy
 
 collections:
   facets:

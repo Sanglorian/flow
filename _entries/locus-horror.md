@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "Locus"
-permalink: /locus/
+permalink: /locus-horror/
 created_at: 2026-02-07
 updated_at: 2026-02-07
 contributors:

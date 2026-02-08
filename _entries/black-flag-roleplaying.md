@@ -34,5 +34,5 @@ connections:
   - has_connection_to_entry: "Kobold Publishing"
     details_of_connection: "publisher"
   - has_connection_to_entry: "5E SRD"
-    details_of_connection: "adapted from"
+    details_of_connection: "adapted by"
 ---
