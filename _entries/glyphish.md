@@ -10,7 +10,7 @@ entry:
   category: Work
   main_url: "https://glyphish.com/"
 groupings:
-  - grouping: "Symbols"
+  - grouping: "Vector Art and Symbols"
 licensing:
   - license: "Creative Commons Attribution 3.0 (US)"
     explanation: "In a text file in the download."

@@ -7,6 +7,7 @@ updated_at: 2026-02-07
 contributors:
 - "Sanglorian"
 entry:
+  featured_entry: true
   category: "Source"
   short_description: "Fantasy illustrator."
   main_url: "https://www.patreon.com/c/emielboven/posts"

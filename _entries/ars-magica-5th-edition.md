@@ -7,6 +7,7 @@ updated_at: 2026-02-06
 contributors:
 - "Sanglorian"
 entry:
+  featured_entry: true
   category: "Collection"
   short_description: "'Play magi and their loyal companions and grogs in the fantastical world of medieval Mythic Europe.'"
   main_url: "https://atlas-games.com/arsmagica/openars"

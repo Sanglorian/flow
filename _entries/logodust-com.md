@@ -11,7 +11,7 @@ entry:
   short_description: "Vector logos."
   main_url: "http://www.logodust.com/"
 groupings:
-  - grouping: "Symbols"
+  - grouping: "Vector Art and Symbols"
 types:
   - type: "Graphic"
     distribution: "electronic"

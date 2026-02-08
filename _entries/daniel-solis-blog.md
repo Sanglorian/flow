@@ -19,7 +19,7 @@ connections:
     nature_of_connection: "a contributor to"
 groupings:
   - grouping: "Tabletop Gaming"
-  - grouping: "Vector Art"
+  - grouping: "Vector Art and Symbols"
   - grouping: "Raster Art"
   - grouping: "Art"
   - grouping: "Font"

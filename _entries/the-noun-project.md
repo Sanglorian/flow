@@ -11,7 +11,7 @@ entry:
   subtitle: "Thousands of vector symbols."
   main_url: "https://thenounproject.com/"
 groupings:
-  - grouping: "Vector Images"
+  - grouping: "Vector Art and Symbols"
   - grouping: "Photography"
 licensing:
   - license: "Creative Commons Attribution 3.0 (US)"

@@ -14,7 +14,7 @@ entry:
 groupings:
   - grouping: "3D Art"
   - grouping: "Raster Art"
-  - grouping: "Vector Art"
+  - grouping: "Vector Art and Symbols"
   - grouping: "Video Gaming"
 funding:
   funding_tool: "Patreon"

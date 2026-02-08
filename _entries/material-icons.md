@@ -13,7 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Google"
 groupings:
-  - grouping: "Symbols"
+  - grouping: "Vector Art and Symbols"
 licensing:
   - license: "Creative Commons Attribution 4.0"
     license_coverage: "entirety"

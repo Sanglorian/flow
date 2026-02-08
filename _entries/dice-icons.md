@@ -11,7 +11,7 @@ entry:
   short_description: "Dice icons."
   main_url: "https://itomi.itch.io/rpg-dice-icons"
 groupings:
-  - grouping: "Vector Art"
+  - grouping: "Vector Art and Symbols"
   - grouping: "Raster Art"
 licensing:
   - license: "Creative Commons Attribution 4.0"

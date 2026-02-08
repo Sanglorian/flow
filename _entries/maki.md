@@ -18,7 +18,7 @@ connections:
   - has_connection_to_entry: "The Noun Project"
     details_of_connection: "host"
 groupings:
-  - grouping: "Symbols"
+  - grouping: "Vector Art and Symbols"
 licensing:
   - license: "CC0 1.0 Universal"
 ---

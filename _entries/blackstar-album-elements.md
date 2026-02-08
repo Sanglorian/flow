@@ -12,7 +12,7 @@ entry:
   year_of_publication: 2016
   main_url: "http://www.bowieblackstar.net/"
 groupings:
-  - grouping: "Symbols"
+  - grouping: "Vector Art and Symbols"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
     license_coverage: "entirety"

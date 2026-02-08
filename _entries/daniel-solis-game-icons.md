@@ -13,7 +13,7 @@ connections:
   - has_connection_to_entry: "Daniel Solis"
     nature_of_connection: "a contributor to"
 groupings:
-  - grouping: "Symbols"
+  - grouping: "Vector Art and Symbols"
   - grouping: "Tabletop Gaming"
     about: true
 licensing:

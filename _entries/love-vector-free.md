@@ -11,7 +11,7 @@ entry:
   short_description: "A repository of vector art."
   main_url: "http://www.lovevectorfree.com/"
 groupings:
-  - grouping: "Vector Art"
+  - grouping: "Vector Art and Symbols"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial"
     license-coverage: "Some."
