@@ -11,7 +11,7 @@ entry:
   short_description: "The second SMBC compilation, featuring comics from the entire archive, but focused on 2011."
   main_url: "https://smbc-store.myshopify.com/products/smbc-collection-the-most-dangerous-game-ebook"
 connections:
-  - has_connection_to_entry: "Zach Weiner"
+  - has_connection_to_entry: "Zach Weinersmith"
 groupings:
   - grouping: "Comics"
 licensing:
