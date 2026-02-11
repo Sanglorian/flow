@@ -5,6 +5,8 @@ title: Home
 
 Welcome to the Free, Libre and Open Works collection. Browse the catalog, or head over to the blog for updates.
 
+{%- assign free_license_certifications = "Open Source Definition compliant license|Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|GPL-compatible free software license|GPL-incompatible free software license" | split: "|" -%}
+
 <section class="search-page">
   <h2>Search the catalog</h2>
   <p>Search across all entries, categories, and pages in the Free, Libre and Open Works catalog.</p>
@@ -28,65 +30,133 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 <section>
   <h2>Preview five random entries</h2>
   <p>Showing five random entries with free/open or public domain licensing. Refresh the page for a new set.</p>
-  <ul id="random-entry-preview"></ul>
-</section>
+  {%- assign random_preview_entries = "" | split: "" -%}
+  {%- for entry in site.entries -%}
+    {%- assign entry_is_free = false -%}
+    {%- for entry_license in entry.licensing -%}
+      {%- assign license_name = entry_license.license | default: "" -%}
+      {%- assign license_name_downcase = license_name | downcase -%}
+      {%- if license_name_downcase contains "public domain" -%}
+        {%- assign entry_is_free = true -%}
+        {%- break -%}
+      {%- endif -%}
 
-{%- assign free_license_certifications = "Open Source Definition compliant license|Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|GPL-compatible free software license|GPL-incompatible free software license" | split: "|" -%}
-{%- capture preview_entries_json -%}
-[
-{%- assign is_first_preview_entry = true -%}
-{%- for entry in site.entries -%}
-  {%- assign entry_is_free = false -%}
-  {%- for entry_license in entry.licensing -%}
-    {%- assign license_name = entry_license.license | default: "" -%}
-    {%- assign license_name_downcase = license_name | downcase -%}
-    {%- if license_name_downcase contains "public domain" -%}
-      {%- assign entry_is_free = true -%}
-      {%- break -%}
-    {%- endif -%}
+      {%- assign matched_license = site.licenses | where: "title", license_name | first -%}
+      {%- if matched_license and matched_license.license_certification -%}
+        {%- for certification in matched_license.license_certification -%}
+          {%- if free_license_certifications contains certification -%}
+            {%- assign entry_is_free = true -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
 
-    {%- assign matched_license = site.licenses | where: "title", license_name | first -%}
-    {%- if matched_license and matched_license.license_certification -%}
-      {%- for certification in matched_license.license_certification -%}
-        {%- if free_license_certifications contains certification -%}
-          {%- assign entry_is_free = true -%}
-          {%- break -%}
-        {%- endif -%}
-      {%- endfor -%}
-    {%- endif -%}
+      {%- if entry_is_free -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
 
     {%- if entry_is_free -%}
-      {%- break -%}
+      {%- assign random_preview_entries = random_preview_entries | push: entry -%}
     {%- endif -%}
   {%- endfor -%}
 
-  {%- if entry_is_free -%}
-    {%- unless is_first_preview_entry -%},{%- endunless -%}
-    {"title": {{ entry.title | jsonify }}, "url": {{ entry.url | relative_url | jsonify }}}
-    {%- assign is_first_preview_entry = false -%}
-  {%- endif -%}
-{%- endfor -%}
-]
-{%- endcapture -%}
+  {%- assign sampled_entries = random_preview_entries | sample: 5 -%}
+  <div class="featured-grid">
+    {%- for entry in sampled_entries -%}
+      {%- assign entry_detail = entry.entry | default: entry -%}
+      {%- assign license_items = entry.licensing | default: entry.licenses -%}
+      {%- if license_items == nil and entry.license -%}
+        {%- assign license_items = "" | split: "" -%}
+        {%- assign license_items = license_items | push: entry.license -%}
+      {%- endif -%}
+      <article class="featured-card">
+        {%- if entry_detail.thumbnail -%}
+          {%- if entry_detail.thumbnail contains "/" -%}
+            <img
+              class="featured-thumbnail"
+              src="{{ entry_detail.thumbnail | relative_url }}"
+              alt="{{ entry.title }} thumbnail"
+              loading="lazy"
+            />
+          {%- else -%}
+            {{ entry_detail.thumbnail }}
+          {%- endif -%}
+        {%- endif -%}
+        <h4 class="featured-title">
+          <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+        </h4>
+        <div class="featured-groupings">
+          {%- if entry.groupings -%}
+            {%- for grouping in entry.groupings -%}
+              {%- assign grouping_name = grouping.grouping | default: grouping -%}
+              {%- assign grouping_doc = site.groupings | where: "title", grouping_name | first -%}
+              {%- if grouping_doc -%}
+                <a href="{{ grouping_doc.url | relative_url }}">
+                  <span class="text-button-grouping">{{ grouping_name }}</span>
+                </a>
+              {%- else -%}
+                <span class="text-button-grouping-nolink">{{ grouping_name }}</span>
+              {%- endif -%}
+            {%- endfor -%}
+          {%- else -%}
+            —
+          {%- endif -%}
+        </div>
 
-<script>
-  (() => {
-    const entries = {{ preview_entries_json | strip_newlines }};
-    const list = document.getElementById('random-entry-preview');
-    const selectedEntries = [...entries]
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 5);
-
-    selectedEntries.forEach((entry) => {
-      const item = document.createElement('li');
-      const link = document.createElement('a');
-      link.href = entry.url;
-      link.textContent = entry.title;
-      item.appendChild(link);
-      list.appendChild(item);
-    });
-  })();
-</script>
+        <div class="featured-description">
+          <p>
+            {{ entry_detail.short_description | default: "—" }}
+            {%- if license_items and license_items.size > 0 -%}
+              <span class="featured-licenses">
+                {%- assign seen_license_parents = "" | split: "" -%}
+                {%- for license_item in license_items -%}
+                  {%- assign license_title = license_item.license | default: license_item.license -%}
+                  {%- assign license_doc = site.licenses | where: "title", license_title | first -%}
+                  {%- assign license_parent = license_title -%}
+                  {%- if license_doc and license_doc.parent_license -%}
+                    {%- assign license_parent = license_doc.parent_license -%}
+                  {%- endif -%}
+                  {%- unless seen_license_parents contains license_parent -%}
+                    {%- assign seen_license_parents = seen_license_parents | push: license_parent -%}
+                    {%- if license_doc -%}
+                      {%- if license_doc.small_badge -%}
+                        {%- if license_doc.small_badge contains "/" -%}
+                          <a href="{{ license_doc.url | relative_url }}">
+                            <img
+                              src="{{ license_doc.small_badge | relative_url }}"
+                              alt="{{ license_title }} badge"
+                              loading="lazy"
+                              style="width:88px; height:auto;"
+                            />
+                          </a>
+                        {%- else -%}
+                          <a href="{{ license_doc.url | relative_url }}">
+                            <span class="text-button-license">{{ license_doc.small_badge }}</span>
+                          </a>
+                        {%- endif -%}
+                      {%- elsif license_doc.abbreviation -%}
+                        <a href="{{ license_doc.url | relative_url }}">
+                          <span class="text-button-license">{{ license_doc.abbreviation }}</span>
+                        </a>
+                      {%- else -%}
+                        <a href="{{ license_doc.url | relative_url }}">
+                          <span class="text-button-license">{{ license_title }}</span>
+                        </a>
+                      {%- endif -%}
+                    {%- else -%}
+                      <span class="text-button-license-nolink">{{ license_title }}</span>
+                    {%- endif -%}
+                  {%- endunless -%}
+                {%- endfor -%}
+              </span>
+            {%- endif -%}
+          </p>
+        </div>
+      </article>
+    {%- endfor -%}
+  </div>
+</section>
 
 
 <aside class="site-sidebar">
