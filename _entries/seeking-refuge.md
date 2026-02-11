@@ -3,9 +3,10 @@ layout: entry
 title: "Seeking Refuge"
 permalink: /seeking-refuge/
 created_at: 2020-01-13
-updated_at: 2026-01-09
+updated_at: 2026-02-11
 contributors:
 - "Jcolag"
+- "Sanglorian"
 entry:
   category: Work
   short_description: "A modern take on the Scarlet Pimpernel with a mild superhero flair."
@@ -13,6 +14,9 @@ entry:
   year_of_publication: 2019
   main_url: "https://archive.org/details/seekingrefuge/page/n1"
   main_description: "This novel introduces a not-quite-superhero (drawing inspiration from public domain sources) learning the ropes, which tells a complete story while still establishing enough of the world to allow for contributors expanding the franchise."
+connections:
+  - has_connection_to_entry: "John Colagioia"
+    details_of_connection: "author"
 genres:
   - genre: "Politics"
     explanation: "The characters take strong stances with political implications"
