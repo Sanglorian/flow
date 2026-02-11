@@ -8,7 +8,7 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 {%- assign free_license_certifications = "Open Source Definition compliant license|Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|GPL-compatible free software license|GPL-incompatible free software license" | split: "|" -%}
 
 <section class="search-page">
-  <h2>Search the catalog</h2>
+  <h3>Search the catalog</h3>
   <p>Search across all entries, categories, and pages in the Free, Libre and Open Works catalog.</p>
 
   <label class="search-label" for="search-input">Search terms</label>
@@ -28,7 +28,7 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 </script>
 
 <section>
-  <h2>Random entries</h2>
+  <h3>Random entries</h3>
   <p>Refresh the page for a new set.</p>
   {%- assign random_preview_entries = "" | split: "" -%}
   {%- for entry in site.entries -%}
@@ -61,7 +61,7 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
     {%- endif -%}
   {%- endfor -%}
 
-  {%- assign sampled_entries = random_preview_entries | sample: 5 -%}
+  {%- assign sampled_entries = random_preview_entries | sample: 6 -%}
   <div class="featured-grid">
     {%- for entry in sampled_entries -%}
       {%- assign entry_detail = entry.entry | default: entry -%}
@@ -206,7 +206,7 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 </aside>
 
 <section>
-  <h2>Orphans</h2>
+  <h3>Orphans</h3>
   <ul>
     <li><a href="{{ "/orphaned-facets/" | relative_url }}">Orphaned facets</a></li>
     <li><a href="{{ "/works-not-on-the-wiki/" | relative_url }}">Works not on the wiki</a></li>
