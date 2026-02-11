@@ -25,6 +25,69 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
   };
 </script>
 
+<section>
+  <h2>Preview five random entries</h2>
+  <p>Showing five random entries with free/open or public domain licensing. Refresh the page for a new set.</p>
+  <ul id="random-entry-preview"></ul>
+</section>
+
+{%- assign free_license_certifications = "Open Source Definition compliant license|Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|GPL-compatible free software license|GPL-incompatible free software license" | split: "|" -%}
+{%- capture preview_entries_json -%}
+[
+{%- assign is_first_preview_entry = true -%}
+{%- for entry in site.entries -%}
+  {%- assign entry_is_free = false -%}
+  {%- for entry_license in entry.licensing -%}
+    {%- assign license_name = entry_license.license | default: "" -%}
+    {%- assign license_name_downcase = license_name | downcase -%}
+    {%- if license_name_downcase contains "public domain" -%}
+      {%- assign entry_is_free = true -%}
+      {%- break -%}
+    {%- endif -%}
+
+    {%- assign matched_license = site.licenses | where: "title", license_name | first -%}
+    {%- if matched_license and matched_license.license_certification -%}
+      {%- for certification in matched_license.license_certification -%}
+        {%- if free_license_certifications contains certification -%}
+          {%- assign entry_is_free = true -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+
+    {%- if entry_is_free -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- if entry_is_free -%}
+    {%- unless is_first_preview_entry -%},{%- endunless -%}
+    {"title": {{ entry.title | jsonify }}, "url": {{ entry.url | relative_url | jsonify }}}
+    {%- assign is_first_preview_entry = false -%}
+  {%- endif -%}
+{%- endfor -%}
+]
+{%- endcapture -%}
+
+<script>
+  (() => {
+    const entries = {{ preview_entries_json | strip_newlines }};
+    const list = document.getElementById('random-entry-preview');
+    const selectedEntries = [...entries]
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 5);
+
+    selectedEntries.forEach((entry) => {
+      const item = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = entry.url;
+      link.textContent = entry.title;
+      item.appendChild(link);
+      list.appendChild(item);
+    });
+  })();
+</script>
+
 
 <aside class="site-sidebar">
   <section>

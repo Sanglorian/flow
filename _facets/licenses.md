@@ -16,8 +16,6 @@ permalink: /licenses/
   {%- assign non_flo_licenses = parent_licenses | where_exp: "license", "license.license_certification == nil or license.license_certification == empty" -%}
 
   <h2>Free, libre and open licenses</h2>
-  <p>
-
 <p><strong>Free, libre and open licenses</strong>, <strong>free and open licenses</strong> or <strong>FLO licenses</strong> are copyright licenses that have only free and open terms.</p>
 <p>Four different bodies maintain lists of approved FLO licenses: the Open Source Initiative, the Free Software Foundation, the Open Knowledge Foundation and the Free Culture Foundation. There are subtle differences in how these bodies determine whether a work is free/libre/open, but essentially agreement on whether a license is free/libre/open.</p>
 <p>Licenses on this wiki that are approved by one of the four bodies are:</p>
