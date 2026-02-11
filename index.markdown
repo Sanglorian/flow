@@ -28,8 +28,8 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 </script>
 
 <section>
-  <h2>Preview five random entries</h2>
-  <p>Showing five random entries with free/open or public domain licensing. Refresh the page for a new set.</p>
+  <h2>Random entries</h2>
+  <p>Refresh the page for a new set.</p>
   {%- assign random_preview_entries = "" | split: "" -%}
   {%- for entry in site.entries -%}
     {%- assign entry_is_free = false -%}
@@ -161,8 +161,8 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 
 <aside class="site-sidebar">
   <section>
+      <h3>Navigation</h3>
     <ul>
-      <li><a href="{{ "/search/" | relative_url }}">Search</a></li>
       <li><a href="{{ "/recent-changes/" | relative_url }}">Recent changes</a></li>
       <li><a href="{{ "/random/" | relative_url }}">Random page</a></li>
       <li><a href="{{ "/entries.xml" | relative_url }}">RSS feed (new entries)</a></li>
