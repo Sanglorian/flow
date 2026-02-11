@@ -17,7 +17,6 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
   <p id="search-status" class="search-status" aria-live="polite"></p>
 
   <ul id="search-results" class="search-results"></ul>
-</section>
 
 <script src="{{ "/assets/search.js" | relative_url }}" defer></script>
 <script>
