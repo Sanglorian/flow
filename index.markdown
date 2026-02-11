@@ -30,6 +30,10 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 <section>
   <h3>Random entries</h3>
   <p>Refresh the page for a new set.</p>
+  <div id="random-entries" class="featured-grid" aria-live="polite"></div>
+
+  <script id="random-entries-data" type="application/json">
+  [
   {%- assign random_preview_entries = "" | split: "" -%}
   {%- for entry in site.entries -%}
     {%- assign entry_is_free = false -%}
@@ -61,9 +65,25 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
     {%- endif -%}
   {%- endfor -%}
 
-  {%- assign sampled_entries = random_preview_entries | sample: 6 -%}
-  <div class="featured-grid">
-    {%- for entry in sampled_entries -%}
+  {%- for entry in random_preview_entries -%}
+    {%- assign preview_thumbnail = entry.entry.thumbnail | default: entry.thumbnail -%}
+    {%- if preview_thumbnail and preview_thumbnail contains "/" -%}
+      {%- assign preview_thumbnail = preview_thumbnail | relative_url -%}
+    {%- endif -%}
+    {
+      "title": {{ entry.title | jsonify }},
+      "url": {{ entry.url | relative_url | jsonify }},
+      "short_description": {{ entry.entry.short_description | default: entry.short_description | default: "—" | jsonify }},
+      "thumbnail": {{ preview_thumbnail | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {%- endfor -%}
+  ]
+  </script>
+
+  <noscript>
+    {%- assign sampled_entries = random_preview_entries | sample: 6 -%}
+    <div class="featured-grid">
+      {%- for entry in sampled_entries -%}
       {%- assign entry_detail = entry.entry | default: entry -%}
       {%- assign license_items = entry.licensing | default: entry.licenses -%}
       {%- if license_items == nil and entry.license -%}
@@ -154,8 +174,57 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
           </p>
         </div>
       </article>
-    {%- endfor -%}
-  </div>
+      {%- endfor -%}
+    </div>
+  </noscript>
+
+  <script>
+    (function () {
+      const container = document.getElementById('random-entries');
+      const payload = document.getElementById('random-entries-data');
+
+      if (!container || !payload) {
+        return;
+      }
+
+      let entries = [];
+      try {
+        entries = JSON.parse(payload.textContent || '[]');
+      } catch (error) {
+        return;
+      }
+
+      if (!Array.isArray(entries) || entries.length === 0) {
+        return;
+      }
+
+      const sampleCount = 6;
+      const shuffled = entries
+        .map((entry) => ({ entry, sort: Math.random() }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(({ entry }) => entry)
+        .slice(0, sampleCount);
+
+      const escapeHtml = (value) =>
+        String(value ?? '')
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;')
+          .replaceAll('"', '&quot;')
+          .replaceAll("'", '&#39;');
+
+      container.innerHTML = shuffled
+        .map(({ title, url, short_description, thumbnail }) => {
+          const thumbnailMarkup =
+            typeof thumbnail === 'string' && thumbnail.includes('/')
+              ? `<img class="featured-thumbnail" src="${escapeHtml(thumbnail)}" alt="${escapeHtml(title)} thumbnail" loading="lazy" />`
+              : '';
+
+          return `<article class="featured-card">${thumbnailMarkup}<h4 class="featured-title"><a href="${escapeHtml(url)}">${escapeHtml(title)}</a></h4><div class="featured-description"><p>${escapeHtml(short_description || '—')}</p></div></article>`;
+        })
+        .join('');
+    })();
+  </script>
 </section>
 
 
