@@ -7,7 +7,6 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
 
 {%- assign free_license_certifications = "Open Source Definition compliant license|Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|GPL-compatible free software license|GPL-incompatible free software license" | split: "|" -%}
 
-<section class="search-page">
   <h3>Search the catalog</h3>
   <p>Search across all entries, categories, and pages in the Free, Libre and Open Works catalog.</p>
 
@@ -25,7 +24,6 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
     baseUrl: "{{ "/" | relative_url }}"
   };
 </script>
-</section>
 <section>
   <h3>Random entries</h3>
   <p>Refresh the page for a new set.</p>
