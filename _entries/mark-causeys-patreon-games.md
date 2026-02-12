@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   category: Collection
-  short_description: "Defunct."
+  main_url: "https://drive.google.com/drive/folders/0B77iZpUI2F_hVWpTdTczenY1WFU?resourcekey=0-P4a11dSsZm1-y6fi-DUm5g&usp=drive_link"
 groupings:
   - grouping: "Tabletop Gaming"
 licensing:
