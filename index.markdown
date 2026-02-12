@@ -25,7 +25,7 @@ Welcome to the Free, Libre and Open Works collection. Browse the catalog, or hea
     baseUrl: "{{ "/" | relative_url }}"
   };
 </script>
-</secton>
+</section>
 <section>
   <h3>Random entries</h3>
   <p>Refresh the page for a new set.</p>
