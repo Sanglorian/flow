@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Watt explores the economic, technology, culture, and health issues facing musicians."
+  short_description: '"Watt explores the economic, technology, culture, and health issues facing musicians."'
   main_url: "http://web.archive.org/web/20200804015114/https://watt.cashmusic.org/"
 connections:
   - has_connection_to_entry: "CASH Music"

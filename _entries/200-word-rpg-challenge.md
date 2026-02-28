@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Create a role-playing game in 200 words or less."
+  short_description: '"Create a role-playing game in 200 words or less."'
   main_url: "https://200wordrpg.github.io/"
 languages:
   - language: "English"

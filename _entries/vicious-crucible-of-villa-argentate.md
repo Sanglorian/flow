@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "The Vicious Crucible of Villa Argentate is game for up to six players and a GM. It plays in three to five sessions, or a pulse-pouding single session of jump cuts and action sequences. Best of all, it's free."
+  short_description: '"The Vicious Crucible of Villa Argentate is game for up to six players and a GM. It plays in three to five sessions, or a pulse-pouding single session of jump cuts and action sequences. Best of all, it''s free."'
   main_url: "https://miriamrobern.itch.io/argentate"
   main_description: |-
     'Villa Argentate, home of schemers and scoundrels, nexus of trade, and thorn in the side of the nobility, has a problem. The city's tribute, which keeps it and its residents free of the Duke's interference, has gone missing. The city trembles with fear and doubt; will Villa Argentate's movers and shakers find a way to solve the city's problem, or will they collapse in social maneuvering, back-biting, and treachery? Six figures rise to prominence in the chaos in the city, standing on the precipice of The Vicious Crucible of Villa Argentate. The only way out is through, and the only way through requires a painful transformation into something new.

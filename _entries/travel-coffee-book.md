@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Sharing beautiful travel moments."
+  short_description: '"Sharing beautiful travel moments."'
   main_url: "http://travelcoffeebook.com/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"

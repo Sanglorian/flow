@@ -8,7 +8,7 @@ contributors:
 - "202.55.151.86"
 entry:
   category: Work
-  short_description: "In this resource-driven card game for 1-4 players, you're an optimistic, scrappy adventurer set in a paradoxically lush wasteland of junk. You need to be the first to build one of the many super cool things you can make with the scrap you collect."
+  short_description: '"In this resource-driven card game for 1-4 players, you''re an optimistic, scrappy adventurer set in a paradoxically lush wasteland of junk. You need to be the first to build one of the many super cool things you can make with the scrap you collect."'
   main_url: "https://web.archive.org/web/20150706213801/http://www.playconfidencegames.com/"
 connections:
   - has_connection_to_entry: "Confidence Games"

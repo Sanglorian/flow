@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "An unbounded Science Fiction Universe available under Creative Commons 4.0 BY-SA for development by authors, artists, game designers, and other creatives."
+  short_description: '"An unbounded Science Fiction Universe available under Creative Commons 4.0 BY-SA for development by authors, artists, game designers, and other creatives."'
   main_url: "https://drydenexperiment.wordpress.com/"
 genres:
   - "Science Fiction"

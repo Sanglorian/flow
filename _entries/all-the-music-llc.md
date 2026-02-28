@@ -10,7 +10,7 @@ entry:
   category:
     - Collection
     - Organisation
-  short_description: "We’ve created an application to generate by brute force all mathematically possible melodies and write them to MIDI files."
+  short_description: '"We’ve created an application to generate by brute force all mathematically possible melodies and write them to MIDI files."'
   year_of_publication: 2020
   main_url: "http://allthemusic.info/"
   main_description: "We’ve created an application to generate by brute force all mathematically possible melodies and write them to MIDI files. We provided the application with various parameters to mathematically exhaust every popular melody that has ever been — and are mathematically possible."

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "a minimalist text adventure game for your browser"
+  short_description: '"a minimalist text adventure game for your browser"'
   main_url: "http://adarkroom.doublespeakgames.com/"
 genres:
   - "Horror"

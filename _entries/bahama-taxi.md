@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "The game is played by 2 to 4 players, who become taxi drivers in some city. They compete to gather the highest income by carrying passengers."
+  short_description: '"The game is played by 2 to 4 players, who become taxi drivers in some city. They compete to gather the highest income by carrying passengers."'
   main_url: "http://bsulkowski.pl/bahama-taxi/?lang=en&PHPSESSID=s0tf5pcgtk6dpipicemvmk2761"
 languages:
   - language: "Polish"

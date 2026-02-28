@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Free high resolution photos from professional photographers. Two new images every day."
+  short_description: '"Free high resolution photos from professional photographers. Two new images every day."'
   main_url: "https://web.archive.org/web/20160103120712/http://fancycrave.com/TermsandServices"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"

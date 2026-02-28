@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "War Galley is a game of naval warfare, which can be built and played using only matches."
+  short_description: '"War Galley is a game of naval warfare, which can be built and played using only matches."'
   year_of_publication: 2011
   main_url: "https://boardgamegeek.com/boardgame/107003/war-galley"
   main_description: |-

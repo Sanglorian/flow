@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Bad Habit is a cooperative game for 2-5 players where you must work together to learn the patience and empathy necessary to help those who suffer from Non-Suicidal Self Injury."
+  short_description: '"Bad Habit is a cooperative game for 2-5 players where you must work together to learn the patience and empathy necessary to help those who suffer from Non-Suicidal Self Injury."'
   main_url: "https://web.archive.org/web/20160326121755/http://www.gamesbyplaydate.com/badhabit/"
 connections:
   - has_connection_to_entry: "Play Date"

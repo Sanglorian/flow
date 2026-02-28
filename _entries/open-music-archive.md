@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   category: Collection
-  short_description: "Open Music Archive is a collaborative project, initiated by artists Eileen Simpson and Ben White, to source, digitise and distribute out-of-copyright sound recordings. The archive distributes these recordings freely, forms a site of exchange, and is a vehicle for future collaborations and distributed projects."
+  short_description: '"Open Music Archive is a collaborative project, initiated by artists Eileen Simpson and Ben White, to source, digitise and distribute out-of-copyright sound recordings. The archive distributes these recordings freely, forms a site of exchange, and is a vehicle for future collaborations and distributed projects."'
   main_url: "http://www.openmusicarchive.org/"
 languages:
   - language: "English"

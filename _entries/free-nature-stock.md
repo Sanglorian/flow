@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Royalty-free Nature Stock Photos. Use them however you want."
+  short_description: '"Royalty-free Nature Stock Photos. Use them however you want."'
   main_url: "http://freenaturestock.com/about"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"

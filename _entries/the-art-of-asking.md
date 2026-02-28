@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Part manifesto, part revelation, this is the story of an artist struggling with the new rules of exchange in the twenty-first century, both on and off the Internet."
+  short_description: '"Part manifesto, part revelation, this is the story of an artist struggling with the new rules of exchange in the twenty-first century, both on and off the Internet."'
   main_description: |-
     From the inside cover of The Art of Asking:
     

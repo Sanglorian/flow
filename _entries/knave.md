@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "KNAVE is a rules toolkit by the creator of Maze Rats and The Alchemist's Repose for running old school fantasy RPGs without classes."
+  short_description: '"KNAVE is a rules toolkit by the creator of Maze Rats and The Alchemist''s Repose for running old school fantasy RPGs without classes."'
   main_url: "https://questingblog.com/knave/"
   main_description: "First edition. The second edition uses an [ad hoc license.](https://questingblog.com/knave-2e/)"
 connections:

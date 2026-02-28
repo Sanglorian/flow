@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Free (do what ever you want) photos."
+  short_description: '"Free (do what ever you want) photos."'
   main_url: "http://cupcake.nilssonlee.se/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"

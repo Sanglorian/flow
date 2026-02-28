@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "A new free recording of Bach's final masterpiece, played by pianist Kimiko Ishizaka. Concerts in the Elbphilharmonie and Carnegie Hall."
+  short_description: '"A new free recording of Bach's final masterpiece, played by pianist Kimiko Ishizaka. Concerts in the Elbphilharmonie and Carnegie Hall."'
   main_url: "https://kimikoishizaka.bandcamp.com/album/j-s-bach-the-art-of-the-fugue-kunst-der-fuge-bwv-1080"
 connections:
   - has_connection_to_entry: "Kimiko Ishizaka"

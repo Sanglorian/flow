@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Glider Ink is a project aiming to create the first graphic novel about hackerspaces, introducing communities and their values to the wider audience. "
+  short_description: '"Glider Ink is a project aiming to create the first graphic novel about hackerspaces, introducing communities and their values to the wider audience. "'
   main_url: "https://glider.ink/"
 groupings:
   - grouping: "Comics"

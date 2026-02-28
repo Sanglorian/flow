@@ -8,7 +8,7 @@ contributors:
 - Sanglorian
 entry:
   category: Work
-  short_description: "'Diesel Sweeties is a pixelated webcomic by Richard Stevens 3 that has been continuously updated since April 2000. Sometimes the people kiss the robots. Be warned.'"
+  short_description: '"''Diesel Sweeties is a pixelated webcomic by Richard Stevens 3 that has been continuously updated since April 2000. Sometimes the people kiss the robots. Be warned.''"'
   main_url: "http://www.dieselsweeties.com/"
 languages:
   - language: "English"

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "College Physics meets standard scope and sequence requirements for a two-semester introductory algebra-based physics course."
+  short_description: '"College Physics meets standard scope and sequence requirements for a two-semester introductory algebra-based physics course."'
   main_url: "https://openstax.org/details/books/college-physics"
 connections:
   - has_connection_to_entry: "OpenStax"

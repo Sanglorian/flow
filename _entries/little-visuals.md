@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Free, high resolution images."
+  short_description: '"Free, high resolution images."'
   main_url: "http://littlevisuals.co/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"

@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "public domain photos."
+  short_description: '"public domain photos."'
   main_url: "https://web.archive.org/web/20240602073952/https://cc0.photo/"
 connections:
   - has_connection_to_entry: "43+ Unique Places to Find Remarkable Free Photos"

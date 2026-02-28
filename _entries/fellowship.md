@@ -9,7 +9,7 @@ contributors:
 entry:
   featured_entry: true
   category: Work
-  short_description: "Fellowship is a game for 3-6 players about going on an adventure, in the same vein as Lord of the Rings or Wakfu or Jojo's Bizarre Adventure: Stardust Crusaders. The system is loosely based on the Apocalypse Engine."
+  short_description: '"Fellowship is a game for 3-6 players about going on an adventure, in the same vein as Lord of the Rings or Wakfu or Jojo''s Bizarre Adventure: Stardust Crusaders. The system is loosely based on the Apocalypse Engine."'
   main_url: "https://www.drivethrurpg.com/en/product/177662/fellowship-2nd-edition-a-tabletop-adventure-game"
   thumbnail: "/thumbnails/fellowship.webp"
 connections:

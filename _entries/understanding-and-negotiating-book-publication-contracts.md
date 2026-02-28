@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Authors are sometimes so grateful to receive a publication offer that they may be tempted to sign the first version of a publication contract that they receive, especially if negotiating seems complicated, intimidating, or risky. But there is a lot at stake for authors in a book deal, and it is well worth the effort to read the contract, understand its contents, and negotiate for favorable terms."
+  short_description: '"Authors are sometimes so grateful to receive a publication offer that they may be tempted to sign the first version of a publication contract that they receive, especially if negotiating seems complicated, intimidating, or risky. But there is a lot at stake for authors in a book deal, and it is well worth the effort to read the contract, understand its contents, and negotiate for favorable terms."'
   year_of_publication: 2018
   main_url: "https://www.authorsalliance.org/resources/publication-contracts/"
 connections:

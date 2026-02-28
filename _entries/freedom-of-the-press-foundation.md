@@ -10,7 +10,7 @@ entry:
   category:
     - Collection
     - Organisation
-  short_description: "Freedom of the Press Foundation is a 501(c)3 non-profit organization dedicated to helping support and defend public-interest journalism focused on exposing mismanagement, corruption, and law-breaking in government."
+  short_description: '"Freedom of the Press Foundation is a 501(c)3 non-profit organization dedicated to helping support and defend public-interest journalism focused on exposing mismanagement, corruption, and law-breaking in government."'
   main_url: "https://freedom.press/"
 groupings:
   - grouping: "News"

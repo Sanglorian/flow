@@ -10,7 +10,7 @@ entry:
   category:
     - Collection
     - Organisation
-  short_description: "The African Storybook initiative aims to address the shortage of contextually appropriate books for early reading in the languages of Africa. Our vision is for all young African children to have enough enjoyable books to read in a familiar language to practise their reading skills and learn to love reading."
+  short_description: '"The African Storybook initiative aims to address the shortage of contextually appropriate books for early reading in the languages of Africa. Our vision is for all young African children to have enough enjoyable books to read in a familiar language to practise their reading skills and learn to love reading."'
   main_url: "http://www.africanstorybook.org/"
 genres:
   - "For Children"

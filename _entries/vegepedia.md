@@ -8,7 +8,7 @@ contributors:
 - "202.55.151.86"
 entry:
   category: Collection
-  short_description: "‘vegepedia’ is the sixth and newest installment in the vegebook series of adult coloring books by nick dolan. it is one of the world’s only “open source” coloring books, and is packed with over 45 cc-licensed images."
+  short_description: '"‘vegepedia’ is the sixth and newest installment in the vegebook series of adult coloring books by nick dolan. it is one of the world’s only “open source” coloring books, and is packed with over 45 cc-licensed images."'
   main_url: "https://web.archive.org/web/20160611082120/http://www.thevegebooks.com/vegepedia/"
 languages:
   - language: "English"

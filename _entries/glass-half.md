@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Two amateur art critics meet in a gallery and argue passionately about the pieces they see, until finally they find a piece on which they can agree..."
+  short_description: '"Two amateur art critics meet in a gallery and argue passionately about the pieces they see, until finally they find a piece on which they can agree..."'
   year_of_publication: 2015
   main_url: "https://www.youtube.com/watch?v=lqiN98z6Dak"
   main_description: |-

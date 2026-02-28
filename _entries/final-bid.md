@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Final Bid is an auction-based tabletop roleplaying game for 3-6 players. Each 2-4 hour session is a standalone story, perfect for one shots. There are six different film settings for you to play in, each with 8 of their own unique Roles to play."
+  short_description: '"Final Bid is an auction-based tabletop roleplaying game for 3-6 players. Each 2-4 hour session is a standalone story, perfect for one shots. There are six different film settings for you to play in, each with 8 of their own unique Roles to play."'
   year_of_publication: 2019
   main_url: "https://www.drivethrurpg.com/product/264853/Final-Bid"
 connections:

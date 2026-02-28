@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Trophy is a collaborative storytelling game about a group of treasure-hunters on a doomed expedition into a forest that doesn’t want them there."
+  short_description: '"Trophy is a collaborative storytelling game about a group of treasure-hunters on a doomed expedition into a forest that doesn’t want them there."'
   main_url: "https://trophyrpg.com/system/"
 connections:
   - has_connection_to_entry: "Cthulhu Dark"

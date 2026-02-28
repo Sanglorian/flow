@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "A multiplayer turn-based strategy game. The download includes the server, web server and Android client."
+  short_description: '"A multiplayer turn-based strategy game. The download includes the server, web server and Android client."'
   year_of_publication: 2016
   main_url: "https://stephensmith.itch.io/stellar-forces"
 genres:

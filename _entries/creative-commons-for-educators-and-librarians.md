@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Whether you’re a volunteer, professor, instructional designer, researcher, administrator or technologist—or simply looking for a great holiday gift—this book offers a background on copyright law, as well as a clear guide to open licensing and open advocacy. You can read this book on its own or while taking the CC Certificate course."
+  short_description: '"Whether you’re a volunteer, professor, instructional designer, researcher, administrator or technologist—or simply looking for a great holiday gift—this book offers a background on copyright law, as well as a clear guide to open licensing and open advocacy. You can read this book on its own or while taking the CC Certificate course."'
   main_url: "https://creativecommons.org/2019/12/06/cc-for-educators-and-librarians-is-available/"
 connections:
   - has_connection_to_entry: "Creative Commons"

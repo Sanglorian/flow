@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Hand-picked free photos for your inspiration"
+  short_description: '"Hand-picked free photos for your inspiration"'
   main_url: "http://magdeleine.co/"
   main_description: |-
     [CC BY and CC BY-SA](http://magdeleine.co/license/attribution-required/)

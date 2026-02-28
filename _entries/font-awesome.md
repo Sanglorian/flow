@@ -10,7 +10,7 @@ entry:
   category:
     - Work
     - Collection
-  short_description: "Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS."
+  short_description: '"Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS."'
   main_url: "https://web.archive.org/web/20180111012319/http://fontawesome.io/"
 licensing:
   - license: "SIL Open Font License"

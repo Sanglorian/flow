@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Looking for FREE high quality stock photo sites like Unsplash? Here’s a list of the best ones. You can use all of these photos for commercial purposes too. And no attribution is required. Enjoy!"
+  short_description: '"Looking for FREE high quality stock photo sites like Unsplash? Here’s a list of the best ones. You can use all of these photos for commercial purposes too. And no attribution is required. Enjoy!"'
   main_url: "http://blog.sellfy.com/free-stock-images/"
 languages:
   - language: "English"

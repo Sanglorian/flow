@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Card Armies: Battle For Wesnoth is a strategy game designed by David Bradshaw."
+  short_description: '"Card Armies: Battle For Wesnoth is a strategy game designed by David Bradshaw."'
   main_url: "https://www.thegamecrafter.com/games/card-armies-bfw-set-a"
   main_description: "Elvish archers are advancing through the forest, but you already have a line of loyal pikemen in place to hold them off while your mages drive the rebels out of the town. Suddenly word comes that your bowmen are falling back in disarray before the shadows rising out of the graveyard. With your reserves already stretched thin, you have only one chance to turn this around -- it's time to bring in the paladin."
 connections:

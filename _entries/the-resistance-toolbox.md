@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Make your own games of desperate struggle using the Resistance System, the core rules that power the Spire RPG."
+  short_description: '"Make your own games of desperate struggle using the Resistance System, the core rules that power the Spire RPG."'
   main_url: "https://rowanrookanddecard.com/product/the-resistance-toolbox/"
 languages:
   - language: "English"

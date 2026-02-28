@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Letters for Black Lives is a set of crowdsourced, multilingual, and culturally-aware resources aimed at creating a space for open and honest conversations about racial justice, police violence, and anti-Blackness in our families and communities."
+  short_description: '"Letters for Black Lives is a set of crowdsourced, multilingual, and culturally-aware resources aimed at creating a space for open and honest conversations about racial justice, police violence, and anti-Blackness in our families and communities."'
   main_url: "https://web.archive.org/web/20240501150242/https://lettersforblacklives.com/"
 genres:
   - "Politics"

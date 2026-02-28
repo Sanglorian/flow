@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Work
-  short_description: "Spring is the latest short film produced by Blender Animation Studio."
+  short_description: '"Spring is the latest short film produced by Blender Animation Studio."'
   year_of_publication: 2019
   main_url: "https://studio.blender.org/projects/spring/"
 connections:

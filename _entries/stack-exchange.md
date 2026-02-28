@@ -8,7 +8,7 @@ contributors:
 - "Sanglorian"
 entry:
   category: Collection
-  short_description: "Stack Exchange is a network of 150+ Q&A communities"
+  short_description: '"Stack Exchange is a network of 150+ Q&A communities"'
   main_url: "https://stackexchange.com/"
 languages:
   - language: "English"

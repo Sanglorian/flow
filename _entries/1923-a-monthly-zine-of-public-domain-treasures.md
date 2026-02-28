@@ -10,7 +10,7 @@ entry:
   category:
     - Work
     - Collection
-  short_description: "1923 is a year-long zine publication by Parker Higgins distributed on paper to 100 subscribers and online to the world. It was funded through a Kickstarter campaign in January 2019."
+  short_description: '"1923 is a year-long zine publication by Parker Higgins distributed on paper to 100 subscribers and online to the world. It was funded through a Kickstarter campaign in January 2019."'
   year_of_publication: 2019
   main_url: "https://1923.press/"
 connections:
