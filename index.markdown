@@ -5,7 +5,7 @@ title: Home
 
 Welcome to the Free, Libre and Open Works collection. Browse the catalog, or head over to the blog for updates.
 
-{%- assign free_license_certifications = "Open Source Definition compliant license|Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|GPL-compatible free software license|GPL-incompatible free software license" | split: "|" -%}
+{% assign free_license_certifications = "Open Source Definition compliant license|Open Definition recommended conformant license|Open Definition other conformant license|Definition of Free Cultural Works conformant license|FSF free documentation license|GPL-compatible free software license|GPL-incompatible free software license" | split: "|" %}
 
 <h3>Search the catalog</h3>
   <p>Search across all entries, categories, and pages in the Free, Libre and Open Works catalog.</p>
