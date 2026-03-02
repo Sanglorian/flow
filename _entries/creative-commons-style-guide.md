@@ -13,4 +13,7 @@ entry:
 connections:
   - has_connection_to_entry: "Creative Commons"
     details_of_connection: "a contributor to"
+licensing:
+  - license: "Creative Commons Attribution 4.0"
+    license_coverage: "entirety"
 ---

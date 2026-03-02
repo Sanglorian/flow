@@ -16,4 +16,7 @@ groupings:
   - grouping: "Tabletop Roleplaying"
 licensing:
   - license: "Creative Commons Attribution-NonCommercial-ShareAlike"
+connections:
+  - has_connection_to_entry: "Star Wreck"
+    details_of_connection: "inspiration"
 ---

@@ -12,6 +12,7 @@ entry:
   short_description: "'Play magi and their loyal companions and grogs in the fantastical world of medieval Mythic Europe.'"
   main_url: "https://atlas-games.com/arsmagica/openars"
   main_description: |-
+    - [GitHub site with all 53 books in Markdown format](https://github.com/OriginalMadman/Ars-Magica-Open-License)
     - Fans are assembling an SRD [on the Ars Magica fan wiki](https://www.redcap.org/page/Ars_Magica_Open_Content_Conversion_Tracker).
     - 'The text of Ars Magica 5th Edition and its sourcebooks (53 books total) has been released under an open license: the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0). 
     - The Licensed Material is the TEXT of the game books. It does not include the the trade dress, graphic design, artwork, cartography, or logos unless specified.

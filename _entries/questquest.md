@@ -11,7 +11,7 @@ entry:
   main_url: "https://github.com/JustinNichol/questquest"
   thumbnail: "/thumbnails/questquest.png"
 connections:
-  - has_connection_to_entry: "Justin Nichols"
+  - has_connection_to_entry: "Justin Nichol"
     details_of_connection: "a contributor to"
 genres:
   - "Fantasy"
